@@ -1,0 +1,116 @@
+NLS feature importance diagnosis
+============================================================
+Model: xgboost
+Data: 14413 examples (2447 positive / 11966 negative)
+Held-out test set: 2883 examples (a fresh model was trained on the other 11530 just for this diagnosis)
+
+Dominant feature by impurity/coefficient: frac_basic
+Dominant feature by permutation importance: pssm_score
+
+Features correlated with 'frac_basic' (|r| >= 0.5):
+  pssm_score: r = +0.769
+  longest_basic_run_norm: r = +0.731
+  mean_kd_hydropathy: r = -0.721
+  nls_disorder_mean: r = +0.636
+  is_monopartite_pattern: r = +0.602
+  net_charge: r = +0.519
+
+All features by permutation importance:
+  pssm_score: +0.1915 (+/- 0.0117)
+  frac_basic: +0.1568 (+/- 0.0125)
+  longest_basic_run_norm: +0.0334 (+/- 0.0058)
+  n_basic_runs_norm: +0.0309 (+/- 0.0064)
+  length_capped25: +0.0290 (+/- 0.0050)
+  bipartite_spacer_norm: +0.0276 (+/- 0.0036)
+  c_flank_net_charge: +0.0207 (+/- 0.0047)
+  whole_protein_length_norm: +0.0176 (+/- 0.0052)
+  nls_disorder_mean: +0.0151 (+/- 0.0058)
+  c_flank_disorder: +0.0114 (+/- 0.0044)
+  frac_acidic: +0.0067 (+/- 0.0049)
+  is_monopartite_pattern: +0.0060 (+/- 0.0022)
+  n_flank_disorder: +0.0052 (+/- 0.0043)
+  net_charge: +0.0046 (+/- 0.0024)
+  frac_hydrophobic: +0.0026 (+/- 0.0027)
+  cider_complexity_mean: +0.0024 (+/- 0.0042)
+  is_bipartite_pattern: +0.0010 (+/- 0.0010)
+  anchor2_mean: +0.0008 (+/- 0.0004)
+  mean_kd_hydropathy: +0.0006 (+/- 0.0037)
+  cider_ncpr_range: +0.0004 (+/- 0.0020)
+  sasa_norm: +0.0002 (+/- 0.0007)
+  plddt_norm: -0.0001 (+/- 0.0004)
+  cider_hydropathy_range: -0.0004 (+/- 0.0042)
+  iupred_mean: -0.0009 (+/- 0.0007)
+  n_flank_anchor2: -0.0011 (+/- 0.0012)
+  n_flank_iupred: -0.0012 (+/- 0.0005)
+  c_flank_anchor2: -0.0017 (+/- 0.0011)
+  c_flank_iupred: -0.0023 (+/- 0.0008)
+  n_flank_net_charge: -0.0071 (+/- 0.0025)
+
+------------------------------------------------------------
+Model-free check: does this hold up without fitting any model?
+------------------------------------------------------------
+All features by univariate ROC-AUC:
+  frac_basic: AUC = 0.930
+  pssm_score: AUC = 0.893
+  mean_kd_hydropathy: AUC = 0.861
+  nls_disorder_mean: AUC = 0.860
+  longest_basic_run_norm: AUC = 0.837
+  is_monopartite_pattern: AUC = 0.764
+  frac_hydrophobic: AUC = 0.750
+  net_charge: AUC = 0.741
+  cider_complexity_mean: AUC = 0.664
+  frac_acidic: AUC = 0.657
+  cider_hydropathy_range: AUC = 0.653
+  length_capped25: AUC = 0.595
+  is_bipartite_pattern: AUC = 0.585
+  bipartite_spacer_norm: AUC = 0.583
+  n_basic_runs_norm: AUC = 0.560
+  whole_protein_length_norm: AUC = 0.554
+  c_flank_disorder: AUC = 0.541
+  cider_ncpr_range: AUC = 0.539
+  sasa_norm: AUC = 0.530
+  anchor2_mean: AUC = 0.528
+  c_flank_anchor2: AUC = 0.527
+  n_flank_anchor2: AUC = 0.526
+  plddt_norm: AUC = 0.525
+  iupred_mean: AUC = 0.525
+  c_flank_net_charge: AUC = 0.519
+  n_flank_net_charge: AUC = 0.515
+  c_flank_iupred: AUC = 0.514
+  n_flank_iupred: AUC = 0.511
+  n_flank_disorder: AUC = 0.501
+
+------------------------------------------------------------
+Cross-check: point-biserial correlation (linear, not just monotonic)
+------------------------------------------------------------
+All features by point-biserial correlation (with significance):
+  frac_basic: r = +0.666* (p = 0.00e+00)
+  pssm_score: r = +0.542* (p = 0.00e+00)
+  mean_kd_hydropathy: r = -0.505* (p = 0.00e+00)
+  nls_disorder_mean: r = +0.496* (p = 0.00e+00)
+  longest_basic_run_norm: r = +0.473* (p = 0.00e+00)
+  is_monopartite_pattern: r = +0.421* (p = 0.00e+00)
+  frac_hydrophobic: r = -0.317* (p = 0.00e+00)
+  net_charge: r = +0.247* (p = 1.30e-198)
+  cider_complexity_mean: r = -0.233* (p = 1.79e-176)
+  is_bipartite_pattern: r = +0.214* (p = 5.19e-149)
+  cider_hydropathy_range: r = -0.190* (p = 3.95e-117)
+  frac_acidic: r = -0.176* (p = 1.45e-100)
+  bipartite_spacer_norm: r = +0.164* (p = 7.37e-88)
+  length_capped25: r = -0.145* (p = 7.29e-69)
+  plddt_norm: r = -0.112* (p = 9.50e-42)
+  sasa_norm: r = +0.112* (p = 1.45e-41)
+  c_flank_anchor2: r = +0.098* (p = 2.80e-32)
+  anchor2_mean: r = +0.097* (p = 3.48e-31)
+  n_flank_anchor2: r = +0.094* (p = 1.09e-29)
+  n_basic_runs_norm: r = -0.082* (p = 9.76e-23)
+  iupred_mean: r = +0.076* (p = 3.99e-20)
+  whole_protein_length_norm: r = +0.068* (p = 1.85e-16)
+  c_flank_disorder: r = +0.055* (p = 4.92e-11)
+  c_flank_iupred: r = +0.048* (p = 9.42e-09)
+  cider_ncpr_range: r = -0.037* (p = 6.98e-06)
+  n_flank_iupred: r = +0.034* (p = 3.79e-05)
+  n_flank_net_charge: r = -0.029* (p = 5.36e-04)
+  c_flank_net_charge: r = +0.023* (p = 4.88e-03)
+  n_flank_disorder: r = +0.003  (p = 7.54e-01)
+  (* p < 0.05)

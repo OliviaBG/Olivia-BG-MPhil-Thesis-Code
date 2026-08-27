@@ -1,0 +1,66 @@
+# Python dependencies for the NES / NLS / ACK1 pipelines.
+# Tested on Python 3.10.
+#
+#   pip install -r requirements.txt
+#
+# Two dependency groups are NOT installable from PyPI on every platform and
+# are documented at the bottom of this file: fpocket (a C++ binary) and the
+# OpenMM/PDBFixer molecular dynamics stack (conda-forge).
+
+# Core numerics and machine learning
+numpy>=1.24.0
+scipy>=1.11.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+joblib>=1.3.2
+
+# Sequence and structure handling
+biopython>=1.81
+freesasa>=2.2.1          # Shrake-Rupley solvent accessible surface area
+localcider>=0.1.19       # linear hydropathy / NCPR / FCR profiles (CIDER)
+
+# Data retrieval (UniProt, AlphaFold DB, NESdb)
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Web service layer (app.py; also imported by the holdout and ACK1 runners,
+# which drive it through Flask's test_client rather than over HTTP)
+Flask>=2.3.0
+flask-cors>=4.0.0
+
+# Figures
+matplotlib>=3.7.0
+scienceplots>=2.1.0      # optional plot theme; a manual fallback style is used if absent
+
+# Protein language model comparison (esm_*.py, nls_esm_finetune.py)
+torch>=2.0.0
+transformers>=4.35.0
+umap-learn>=0.5.4
+
+# ---------------------------------------------------------------------------
+# Molecular dynamics (md_refinement.py, ack1_importin_gpu/, the crystal checks)
+#
+#   conda install -c conda-forge openmm pdbfixer mdtraj
+#
+# openmm    required for all MD and MM-GBSA scoring
+# pdbfixer  required for structure preparation and side-chain rebuilding
+# mdtraj    optional; enables the DSSP and buried-SASA trajectory metrics
+#
+# For GPU runs, install a CUDA-enabled OpenMM build and verify with:
+#   python -m openmm.testInstallation
+#
+# ---------------------------------------------------------------------------
+# fpocket (cavity detection used by pocket_detector.py)
+#
+#   any platform:  conda install -c conda-forge fpocket
+#   Linux/WSL:     sudo apt-get install fpocket
+#   macOS:         brew install fpocket
+#
+# There is no Windows build of fpocket -- run the structural pipeline under
+# WSL. OpenMM does ship a Windows build, so a native-Windows environment can
+# look complete while fpocket is missing.
+#
+# pocket_detector.py falls back to geometry-based pocket scoring if the
+# fpocket binary is not on PATH, but the published CRM1 pocket-compatibility
+# numbers were produced with fpocket installed. Verify with `fpocket -h`.

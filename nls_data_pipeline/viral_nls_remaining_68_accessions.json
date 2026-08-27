@@ -1,0 +1,15 @@
+{
+  "_note": "The remaining 68 of the 88 genuinely-new (not in training pool, not in the held-out eval set) viral NLS motif accessions from the same live UniProt pull documented in viral_nls_candidates_2026-08-05.json. Sequences NOT yet fetched for these -- accession/organism/motif position/evidence only, for later use if the curated 20 aren't enough. Heavily weighted toward large flavivirus polyprotein strain duplicates (Yellow Fever virus x9, Zika x3, JEV x2, plus Banzi/Edge Hill/Wesselsbron/Dengue), which mostly share one ~19-25aa bipartite motif near residue 83-101 of a 3000+ residue polyprotein -- not the short/atypical motif class this round of candidate-gathering was targeting, but real and usable if more raw volume/diversity is wanted later. Also includes redundant HCV isolate duplicates (all sharing the same 4 motifs at 5-13/38-43/58-64/66-71) and additional polyomavirus paralogs (BK/JC/Murine/Bovine/Simian-12/Budgerigar strains, ~7-10aa T-antigen-type motifs).",
+  "accessions": [
+    "P16046", "Q6SW62", "P03304", "P03431", "P12296", "Q01404", "Q1HVC7",
+    "P13892", "P68951", "Q01403", "Q01681", "Q66765", "P03096", "P03240",
+    "P03427", "P04008", "P24596", "P27959", "P27960", "P27961", "P03097",
+    "P03562", "P12908", "P14997", "P17593", "P17594", "P24849", "Q3L6L8",
+    "Q68985", "Q9DXE6", "P03093", "P03094", "P03234", "P03430", "P04499",
+    "P0C6L3", "P68950", "Q03556", "Q5EG65", "Q6J8F7", "Q9YLQ9", "P03495",
+    "Q98803", "C8XPA8", "C8XPB2", "Q074N0", "Q9YRV3", "Q89277", "C5H431",
+    "Q6DV88", "P03314", "Q1X880", "Q1X881", "Q6J3P1", "P03433",
+    "A0A024B7W1", "A0A142I5B9", "P21935", "Q32ZE1", "Q5EP34", "C3W5S0",
+    "P15659", "P27502", "P03146", "P0DOH7", "Q76R61", "P0DOK8", "P27912"
+  ]
+}

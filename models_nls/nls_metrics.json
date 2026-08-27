@@ -1,0 +1,186 @@
+{
+  "n_positives": 2447,
+  "n_positives_experimental": 218,
+  "n_positives_bipartite": 673,
+  "n_negatives": 11966,
+  "negatives_by_type": {
+    "protein_matched_random": 8175,
+    "dna_binding_hard": 3691,
+    "synthetic_polybasic_decoy": 80,
+    "extreme_arg_condensin": 2,
+    "calmodulin_pip2_effector": 2,
+    "linker_histone_paralog": 4,
+    "heparin_binding_chemokine": 5,
+    "membrane_anchor_caax": 7
+  },
+  "feature_dim": 29,
+  "chosen_model": "xgboost",
+  "cv_f1_by_model": {
+    "svm_linear": {
+      "mean_f1": 0.673682364774725,
+      "std_f1": 0.12959556606637224
+    },
+    "svm_rbf": {
+      "mean_f1": 0.673606835695083,
+      "std_f1": 0.19718797985989242
+    },
+    "random_forest": {
+      "mean_f1": 0.7281168131886082,
+      "std_f1": 0.18931674827937264
+    },
+    "extra_trees": {
+      "mean_f1": 0.7375243636572187,
+      "std_f1": 0.17973928446642232
+    },
+    "gradient_boosting": {
+      "mean_f1": 0.7262974560836943,
+      "std_f1": 0.18922894705561222
+    },
+    "hist_gradient_boosting": {
+      "mean_f1": 0.7726764957596147,
+      "std_f1": 0.14295832999588973
+    },
+    "mlp": {
+      "mean_f1": 0.6852097324674729,
+      "std_f1": 0.1802539042306941
+    },
+    "xgboost": {
+      "mean_f1": 0.769891814408467,
+      "std_f1": 0.13687884707844283
+    }
+  },
+  "n_train": 14413,
+  "training_protocol": "nested_cv",
+  "nested_cv": {
+    "outer_folds": 5,
+    "per_fold": [
+      {
+        "fold": 0,
+        "chosen_classifier": "xgboost",
+        "inner_selection_f1": 0.7619171235629854,
+        "n_test": 2883,
+        "accuracy": 0.9639264654873396,
+        "precision": 0.9071729957805907,
+        "recall": 0.8775510204081632,
+        "f1": 0.8921161825726142,
+        "roc_auc": 0.9799210281688938
+      },
+      {
+        "fold": 1,
+        "chosen_classifier": "xgboost",
+        "inner_selection_f1": 0.7722340413343752,
+        "n_test": 2883,
+        "accuracy": 0.9646201873048907,
+        "precision": 0.9058577405857741,
+        "recall": 0.8836734693877552,
+        "f1": 0.8946280991735537,
+        "roc_auc": 0.9839813401332117
+      },
+      {
+        "fold": 2,
+        "chosen_classifier": "xgboost",
+        "inner_selection_f1": 0.7828733861795678,
+        "n_test": 2883,
+        "accuracy": 0.9608047173083594,
+        "precision": 0.9017094017094017,
+        "recall": 0.8629856850715747,
+        "f1": 0.8819226750261233,
+        "roc_auc": 0.9820341583338031
+      },
+      {
+        "fold": 3,
+        "chosen_classifier": "xgboost",
+        "inner_selection_f1": 0.7801305047020247,
+        "n_test": 2882,
+        "accuracy": 0.9597501734906315,
+        "precision": 0.8845360824742268,
+        "recall": 0.8773006134969326,
+        "f1": 0.8809034907597536,
+        "roc_auc": 0.9864234214140255
+      },
+      {
+        "fold": 4,
+        "chosen_classifier": "xgboost",
+        "inner_selection_f1": 0.7766447054195462,
+        "n_test": 2882,
+        "accuracy": 0.9614850798056905,
+        "precision": 0.895397489539749,
+        "recall": 0.8752556237218814,
+        "f1": 0.8852119958634953,
+        "roc_auc": 0.9834204569052374
+      }
+    ],
+    "test_f1_mean": 0.886956488679108,
+    "test_f1_std": 0.005486298707536472,
+    "test_roc_auc_mean": 0.9831560809910342,
+    "test_roc_auc_std": 0.002151777773206061,
+    "classifier_selection_counts": {
+      "xgboost": 5
+    },
+    "classifier_selection_mode": "xgboost",
+    "classifier_selection_mode_frequency": 1.0
+  },
+  "held_out_test": null,
+  "impurity_importance": {
+    "pssm_score": 0.029726672917604446,
+    "length_capped25": 0.034569352865219116,
+    "net_charge": 0.025161392986774445,
+    "frac_basic": 0.31400009989738464,
+    "frac_acidic": 0.012051716446876526,
+    "mean_kd_hydropathy": 0.009383714757859707,
+    "frac_hydrophobic": 0.009292546659708023,
+    "nls_disorder_mean": 0.014787639491260052,
+    "n_flank_disorder": 0.010873519815504551,
+    "c_flank_disorder": 0.011260380037128925,
+    "n_flank_net_charge": 0.011952959932386875,
+    "c_flank_net_charge": 0.018473608419299126,
+    "is_bipartite_pattern": 0.11072191596031189,
+    "bipartite_spacer_norm": 0.05318407714366913,
+    "is_monopartite_pattern": 0.10123898088932037,
+    "cider_ncpr_range": 0.018045851960778236,
+    "cider_hydropathy_range": 0.010678502731025219,
+    "cider_complexity_mean": 0.011098189279437065,
+    "plddt_norm": 0.008136795833706856,
+    "sasa_norm": 0.005989606957882643,
+    "iupred_mean": 0.012641788460314274,
+    "n_flank_iupred": 0.010280151851475239,
+    "c_flank_iupred": 0.006306715775281191,
+    "anchor2_mean": 0.014496630057692528,
+    "n_flank_anchor2": 0.01125466637313366,
+    "c_flank_anchor2": 0.013146134093403816,
+    "longest_basic_run_norm": 0.055078260600566864,
+    "whole_protein_length_norm": 0.016990801319479942,
+    "n_basic_runs_norm": 0.039177265018224716
+  },
+  "permutation_importance": {
+    "pssm_score": 0.18440539709495557,
+    "length_capped25": 0.03278181713869831,
+    "net_charge": 0.009027513869988256,
+    "frac_basic": 0.23259235609070297,
+    "frac_acidic": 0.011309941357121243,
+    "mean_kd_hydropathy": 0.01190635403968,
+    "frac_hydrophobic": 0.005027309273674831,
+    "nls_disorder_mean": 0.020249943171973848,
+    "n_flank_disorder": 0.010232535061401253,
+    "c_flank_disorder": 0.016425920534175943,
+    "n_flank_net_charge": 0.004368324364469002,
+    "c_flank_net_charge": 0.02654563262434779,
+    "is_bipartite_pattern": 0.0005209202459855042,
+    "bipartite_spacer_norm": 0.0193635922288727,
+    "is_monopartite_pattern": 0.004180812054922273,
+    "cider_ncpr_range": 0.0026725983991732647,
+    "cider_hydropathy_range": 0.006165883588784121,
+    "cider_complexity_mean": 0.00530795350960465,
+    "plddt_norm": 8.7308872752508e-06,
+    "sasa_norm": -0.00038824687028171434,
+    "iupred_mean": -0.000612957091124878,
+    "n_flank_iupred": 0.00014569830260304192,
+    "c_flank_iupred": 0.00020046894701545602,
+    "anchor2_mean": -0.00031056863013977293,
+    "n_flank_anchor2": -0.00023131026820720173,
+    "c_flank_anchor2": -0.0005545527691526341,
+    "longest_basic_run_norm": 0.03327408233748323,
+    "whole_protein_length_norm": 0.030325580463601252,
+    "n_basic_runs_norm": 0.03929967190410967
+  }
+}

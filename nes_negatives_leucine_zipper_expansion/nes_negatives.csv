@@ -1,0 +1,403 @@
+accession,protein_name,organism,feature_kind,feature_start,feature_end,match_start,match_end,match_seq,context,score
+P52593,Nucleoporin NUP188,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,249,271,257,267,LISRISSLFTI,SYLSETLISRISSLFTITTILIL,0.969
+P52593,Nucleoporin NUP188,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,249,271,258,267,ISRISSLFTI,YLSETLISRISSLFTITTILIL,0.844
+P52593,Nucleoporin NUP188,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,249,271,264,273,LFTITTILIL,ISRISSLFTITTILILGLNTSI,0.972
+P52593,Nucleoporin NUP188,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,249,271,267,275,ITTILILGL,ISSLFTITTILILGLNTSIAQ,0.847
+P25158,Maternal effect protein oskar,Drosophila melanogaster,leucine_zipper,424,439,423,432,FPLMGDDFML,DAYLLDFPLMGDDFMLYLARME,0.914
+P25158,Maternal effect protein oskar,Drosophila melanogaster,leucine_zipper,424,439,430,439,FMLYLARMEL,PLMGDDFMLYLARMELKCRFRR,0.942
+P25158,Maternal effect protein oskar,Drosophila melanogaster,leucine_zipper,424,439,431,439,MLYLARMEL,LMGDDFMLYLARMELKCRFRR,0.969
+Q39214,Disease resistance protein RPM1,Arabidopsis thaliana,leucine_zipper,9,45,6,16,VDFGIGRILSV,MASATVDFGIGRILSVLENETL,0.681
+Q39214,Disease resistance protein RPM1,Arabidopsis thaliana,leucine_zipper,9,45,31,40,IDKMKKELLI,SGVHGEIDKMKKELLIMKSFLE,0.858
+O70337,Bcl-2-interacting killer,Mus musculus,leucine_zipper,126,148,130,140,LFPMVLLVFLL,DQDPGQLFPMVLLVFLLLGGAWY,0.944
+O70337,Bcl-2-interacting killer,Mus musculus,leucine_zipper,126,148,131,141,FPMVLLVFLLL,QDPGQLFPMVLLVFLLLGGAWYL,0.819
+O70337,Bcl-2-interacting killer,Mus musculus,leucine_zipper,126,148,133,141,MVLLVFLLL,PGQLFPMVLLVFLLLGGAWYL,0.847
+Q24522,"Protein bunched, class 1/class 3/D/E isoforms",Drosophila melanogaster,leucine_zipper,81,103,89,98,LMDKINKLEL,KERISELMDKINKLELENSILK,1.0
+Q24522,"Protein bunched, class 1/class 3/D/E isoforms",Drosophila melanogaster,leucine_zipper,81,103,90,98,MDKINKLEL,ERISELMDKINKLELENSILK,1.0
+P35729,Nucleoporin NUP120,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,130,152,128,137,FLTLQLPLSF,ILKDGSFLTLQLPLSFLFSSAN,0.817
+P35729,Nucleoporin NUP120,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,130,152,129,139,LTLQLPLSFLF,LKDGSFLTLQLPLSFLFSSANTL,0.764
+P35729,Nucleoporin NUP120,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,289,311,297,305,LFQMGTLLV,LPLENGLFQMGTLLVDSSGIL,0.956
+Q3U1V8,Mitogen-activated protein kinase kinase kinase 9,Mus musculus,leucine_zipper,457,479,470,479,IDILERELNI,ELAEREIDILERELNIIIHQLC,0.872
+Q63796,Mitogen-activated protein kinase kinase kinase 12,Rattus norvegicus,leucine_zipper,422,444,437,446,LHRLEEELVM,KSEGTCLHRLEEELVMRRREEL,0.833
+Q63796,Mitogen-activated protein kinase kinase kinase 12,Rattus norvegicus,leucine_zipper,475,497,472,481,LYMELNALML,LERANNLYMELNALMLQLELKE,0.958
+Q63796,Mitogen-activated protein kinase kinase kinase 12,Rattus norvegicus,leucine_zipper,475,497,476,485,LNALMLQLEL,NNLYMELNALMLQLELKERELL,1.0
+Q66HA1,Mitogen-activated protein kinase kinase kinase 11,Rattus norvegicus,leucine_zipper,438,460,451,460,LEVFERELTL,LLAQWELEVFERELTLLLQQVD,1.0
+Q60700,Mitogen-activated protein kinase kinase kinase 12,Mus musculus,leucine_zipper,422,444,437,446,LHRLEEELVM,KSEGTCLHRLEEELVMRRREEL,0.833
+Q60700,Mitogen-activated protein kinase kinase kinase 12,Mus musculus,leucine_zipper,475,497,472,481,LYMELNALML,LERANNLYMELNALMLQLELKE,0.958
+Q60700,Mitogen-activated protein kinase kinase kinase 12,Mus musculus,leucine_zipper,475,497,476,485,LNALMLQLEL,NNLYMELNALMLQLELKERELL,1.0
+Q66L42,Mitogen-activated protein kinase kinase kinase 10,Mus musculus,leucine_zipper,418,440,431,440,MDIVERELHL,ELAEREMDIVERELHLLMSQLS,1.0
+Q1HKZ5,Mitogen-activated protein kinase kinase kinase 13,Mus musculus,leucine_zipper,484,506,481,490,LYMELSAIML,LERANNLYMELSAIMLQLEMRE,0.972
+Q1HKZ5,Mitogen-activated protein kinase kinase kinase 13,Mus musculus,leucine_zipper,484,506,485,494,LSAIMLQLEM,NNLYMELSAIMLQLEMREKELL,0.969
+Q80XI6,Mitogen-activated protein kinase kinase kinase 11,Mus musculus,leucine_zipper,438,460,451,460,LEVFERELTL,LLAQWELEVFERELTLLLQQVD,1.0
+D3ZG83,Mitogen-activated protein kinase kinase kinase 10,Rattus norvegicus,leucine_zipper,418,440,431,440,MDIVERELHL,ELAEREMDIVERELHLLMSQLS,1.0
+O88368,Microphthalmia-associated transcription factor,Rattus norvegicus,leucine_zipper,373,395,388,397,LLLRVQELEM,EHANRHLLLRVQELEMQARAHG,0.861
+O88368,Microphthalmia-associated transcription factor,Rattus norvegicus,leucine_zipper,373,395,389,397,LLRVQELEM,HANRHLLLRVQELEMQARAHG,0.861
+O88368,Microphthalmia-associated transcription factor,Rattus norvegicus,coiled_coil,354,401,388,397,LLLRVQELEM,EHANRHLLLRVQELEMQARAHG,0.861
+O88368,Microphthalmia-associated transcription factor,Rattus norvegicus,coiled_coil,354,401,389,397,LLRVQELEM,HANRHLLLRVQELEMQARAHG,0.861
+P21677,Transcription factor E2-alpha,Rattus norvegicus,leucine_zipper,384,420,388,398,MEDRLDEAIHV,LHGLSKMEDRLDEAIHVLRSHAV,0.722
+Q01722,Glycolytic genes transcriptional activator GCR2,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,496,534,497,506,IVQLERELEL,SEKGQRIVQLERELELQRQETQ,0.833
+P15806,Transcription factor E2-alpha,Mus musculus,leucine_zipper,386,422,390,400,MEDRLDEAIHV,LHGLSKMEDRLDEAIHVLRSHAV,0.722
+P27641,DNA repair protein Ku80,Mus musculus,leucine_zipper,137,165,159,169,ISLQFFLPFPI,NLKKSGISLQFFLPFPIDKNGEP,0.639
+P27641,DNA repair protein Ku80,Mus musculus,leucine_zipper,137,165,161,169,LQFFLPFPI,KKSGISLQFFLPFPIDKNGEP,0.764
+Q24523,"Protein bunched, class 2/F/G isoform",Drosophila melanogaster,leucine_zipper,1193,1215,1201,1210,LMDKINKLEL,KERISELMDKINKLELENSILK,1.0
+Q24523,"Protein bunched, class 2/F/G isoform",Drosophila melanogaster,leucine_zipper,1193,1215,1202,1210,MDKINKLEL,ERISELMDKINKLELENSILK,1.0
+O08609,Max-like protein X,Mus musculus,leucine_zipper,193,214,201,210,LRKDVTALKI,EEEVSTLRKDVTALKIMKVNYE,0.875
+O08609,Max-like protein X,Mus musculus,leucine_zipper,193,214,205,213,VTALKIMKV,STLRKDVTALKIMKVNYEQIV,0.789
+P32591,SWI/SNF complex subunit SWI3,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,693,722,701,710,LKKLEKFMEL,DAKLNHLKKLEKFMELERKTLE,0.931
+P12954,ATP-dependent DNA helicase SRS2,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,221,243,219,229,FDDLLMYTFRL,KKNTLDFDDLLMYTFRLLTRVRV,0.928
+P12954,ATP-dependent DNA helicase SRS2,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,221,243,227,235,FRLLTRVRV,DLLMYTFRLLTRVRVLSNIKH,0.667
+P12954,ATP-dependent DNA helicase SRS2,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,221,243,235,244,VLSNIKHVLV,LLTRVRVLSNIKHVLVDEFQDT,0.667
+P12954,ATP-dependent DNA helicase SRS2,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,221,243,236,244,LSNIKHVLV,LTRVRVLSNIKHVLVDEFQDT,0.819
+P32349,DNA-directed RNA polymerase III subunit RPC3,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,580,602,581,590,LEWNMANLLF,NFMRQNLEWNMANLLFKKEKLK,0.792
+P38181,Nucleoporin NUP170,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,232,261,231,240,LLLISTTMEL,VPAVKHLLLISTTMELFMFAIS,0.944
+P38181,Nucleoporin NUP170,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,232,261,234,243,ISTTMELFMF,VKHLLLISTTMELFMFAISLDK,0.625
+P38181,Nucleoporin NUP170,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,232,261,238,247,MELFMFAISL,LLISTTMELFMFAISLDKATNE,0.847
+P38181,Nucleoporin NUP170,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,232,261,254,263,LSVFNTHLSV,DKATNELSVFNTHLSVPVQGID,0.928
+Q9GYV5,NF-kappa-B essential modulator,Drosophila melanogaster,coiled_coil,59,331,114,124,LQNMMTEYLAL,AEEVVKLQNMMTEYLALKSTLDK,0.944
+Q9GYV5,NF-kappa-B essential modulator,Drosophila melanogaster,coiled_coil,59,331,188,196,IEGVHTIRL,ETKIEQIEGVHTIRLKEQDEL,1.0
+Q9GYV5,NF-kappa-B essential modulator,Drosophila melanogaster,coiled_coil,59,331,223,232,LKQLNHSFEF,RVEIDKLKQLNHSFEFVPEYAT,0.914
+Q03061,cAMP-responsive element modulator,Rattus norvegicus,leucine_zipper,326,348,324,333,VKCLESRVAV,RRKKEYVKCLESRVAVLEVQNK,0.803
+Q03061,cAMP-responsive element modulator,Rattus norvegicus,leucine_zipper,326,348,327,336,LESRVAVLEV,KEYVKCLESRVAVLEVQNKKLI,0.847
+Q0JHF1,bZIP transcription factor 12,Oryza sativa subsp. japonica,coiled_coil,201,244,238,246,LKELKEMVV,EQHQKRLKELKEMVVPVIIRK,0.792
+Q38895,Transcriptional regulator SUPERMAN,Arabidopsis thaliana,leucine_zipper,152,204,178,187,IISLELEIGL,ILRNDEIISLELEIGLINESEQ,0.997
+Q48311,Transcriptional activator GvpE2,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),leucine_zipper,152,184,156,164,IEHVDSVVL,ADAQAAIEHVDSVVLQLLTFA,0.847
+Q48311,Transcriptional activator GvpE2,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),leucine_zipper,152,184,159,169,VDSVVLQLLTF,QAAIEHVDSVVLQLLTFAVGLQT,0.831
+Q48311,Transcriptional activator GvpE2,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),leucine_zipper,152,184,162,171,VVLQLLTFAV,IEHVDSVVLQLLTFAVGLQTIM,0.775
+Q48311,Transcriptional activator GvpE2,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),leucine_zipper,152,184,163,173,VLQLLTFAVGL,EHVDSVVLQLLTFAVGLQTIMAD,0.942
+Q48311,Transcriptional activator GvpE2,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),leucine_zipper,152,184,164,173,LQLLTFAVGL,HVDSVVLQLLTFAVGLQTIMAD,0.944
+Q9LI74,"Protein CHUP1, chloroplastic",Arabidopsis thaliana,leucine_zipper,801,823,805,815,FVSWLDEELSF,IEDLLAFVSWLDEELSFLVDERA,0.667
+Q9LI74,"Protein CHUP1, chloroplastic",Arabidopsis thaliana,leucine_zipper,801,823,806,815,VSWLDEELSF,EDLLAFVSWLDEELSFLVDERA,0.653
+Q9LI74,"Protein CHUP1, chloroplastic",Arabidopsis thaliana,coiled_coil,122,341,165,174,IVELQRQLKI,KEQESDIVELQRQLKIKTVEID,0.872
+Q9LI74,"Protein CHUP1, chloroplastic",Arabidopsis thaliana,coiled_coil,122,341,177,186,VEIDMLNITI,QLKIKTVEIDMLNITINSLQAE,0.694
+Q9LI74,"Protein CHUP1, chloroplastic",Arabidopsis thaliana,coiled_coil,122,341,217,226,IKELQRQIQL,EVARNKIKELQRQIQLDANQTK,0.847
+Q9LI74,"Protein CHUP1, chloroplastic",Arabidopsis thaliana,coiled_coil,122,341,238,247,LKQHVSSLQM,KGQLLLLKQHVSSLQMKEEEAM,0.861
+Q9LI74,"Protein CHUP1, chloroplastic",Arabidopsis thaliana,coiled_coil,122,341,263,271,LKAVQDLEV,TEVERKLKAVQDLEVQVMELK,0.997
+Q9LI74,"Protein CHUP1, chloroplastic",Arabidopsis thaliana,coiled_coil,122,341,330,339,LLKQVEGLQM,KHNNEDLLKQVEGLQMNRFSEV,1.0
+Q9LI74,"Protein CHUP1, chloroplastic",Arabidopsis thaliana,coiled_coil,122,341,331,339,LKQVEGLQM,HNNEDLLKQVEGLQMNRFSEV,1.0
+F4IN23,Basic leucine zipper 34,Arabidopsis thaliana,leucine_zipper,213,235,218,227,VTSLQAEVSV,SELERSVTSLQAEVSVLSPRVA,0.803
+F4IN23,Basic leucine zipper 34,Arabidopsis thaliana,leucine_zipper,213,235,225,234,VSVLSPRVAF,TSLQAEVSVLSPRVAFLDHQRL,0.789
+P21957,Transcriptional repressor OPI1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,138,160,139,148,LVTCLHLLKL,IESKKRLVTCLHLLKLANKQLS,0.958
+P21957,Transcriptional repressor OPI1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,138,160,140,148,VTCLHLLKL,ESKKRLVTCLHLLKLANKQLS,0.806
+P53568,CCAAT/enhancer-binding protein gamma,Mus musculus,leucine_zipper,96,118,108,117,IKLLTKELSV,ERLEAKIKLLTKELSVLKDLFL,0.844
+P57776,Elongation factor 1-delta,Mus musculus,leucine_zipper,79,115,80,89,LIVRITSLEV,GGDHSELIVRITSLEVENQNLR,0.983
+P57776,Elongation factor 1-delta,Mus musculus,leucine_zipper,79,115,81,89,IVRITSLEV,GDHSELIVRITSLEVENQNLR,0.858
+P97875,Jun dimerization protein 2,Mus musculus,leucine_zipper,99,128,114,123,LKTQIEELKL,ELMNAELKTQIEELKLERQQLI,1.0
+Q02100,CRE-binding bZIP protein SKO1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,453,461,454,463,IKKIENDLQF,KRKKEYIKKIENDLQFYESEYD,0.844
+Q78E65,Jun dimerization protein 2,Rattus norvegicus,leucine_zipper,99,128,114,123,LKTQIEELKL,ELMNAELKTQIEELKLERQQLI,1.0
+Q8IG69,CCAAT/enhancer-binding protein homolog 2,Caenorhabditis elegans,leucine_zipper,51,73,63,72,VEQLQKELSF,ETLERKVEQLQKELSFLKEMFM,0.803
+Q8IG69,CCAAT/enhancer-binding protein homolog 2,Caenorhabditis elegans,coiled_coil,23,83,63,72,VEQLQKELSF,ETLERKVEQLQKELSFLKEMFM,0.803
+Q8IG69,CCAAT/enhancer-binding protein homolog 2,Caenorhabditis elegans,coiled_coil,23,83,70,78,LSFLKEMFM,EQLQKELSFLKEMFMAYAKND,0.956
+P07261,Glycolytic genes transcriptional activator GCR1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,266,299,288,297,VGNVCNQILL,KADMNSVGNVCNQILLLQRQLL,0.847
+P81269,Cyclic AMP-dependent transcription factor ATF-1,Mus musculus,leucine_zipper,238,260,236,245,VKCLENRVAV,RKKKEYVKCLENRVAVLENQNK,0.803
+Q62348,Translin,Mus musculus,leucine_zipper,176,198,173,183,FINELDSGFRL,PLHISTFINELDSGFRLLNLKND,0.778
+Q62348,Translin,Mus musculus,leucine_zipper,176,198,174,183,INELDSGFRL,LHISTFINELDSGFRLLNLKND,0.792
+Q62348,Translin,Mus musculus,leucine_zipper,176,198,177,186,LDSGFRLLNL,STFINELDSGFRLLNLKNDSLR,1.0
+Q93ZE2,Transcription factor TGA7,Arabidopsis thaliana,coiled_coil,251,285,279,289,LQQSLAESIVI,SQGIDKLQQSLAESIVIDAVIES,1.0
+B9DGI8,Basic leucine zipper 63,Arabidopsis thaliana,leucine_zipper,178,193,179,188,LETQVSQLRV,QAHLSELETQVSQLRVENSKLM,0.997
+P15337,Cyclic AMP-responsive element-binding protein 1,Rattus norvegicus,leucine_zipper,296,318,294,303,VKCLENRVAV,RKKKEYVKCLENRVAVLENQNK,0.803
+P26801,CCAAT/enhancer-binding protein gamma,Rattus norvegicus,leucine_zipper,96,118,108,117,IKLLTKELSV,ERLEAKIKLLTKELSVLKDLFL,0.844
+Q54XG7,Basic-leucine zipper transcription factor A,Dictyostelium discoideum,coiled_coil,727,753,741,750,LDREIKELFL,RTERDQLDREIKELFLKKIVSH,1.0
+Q9U2I0,CREB homolog crh-1,Caenorhabditis elegans,leucine_zipper,293,315,291,300,VKCLENRVSV,RKKKEYVKCLENRVSVLENQNK,0.803
+Q9U2I0,CREB homolog crh-1,Caenorhabditis elegans,coiled_coil,283,318,291,300,VKCLENRVSV,RKKKEYVKCLENRVSVLENQNK,0.803
+O22873,bZIP transcription factor 18,Arabidopsis thaliana,coiled_coil,165,245,232,241,LKKEVERLKF,DALNEQLKKEVERLKFATGEVS,0.983
+P29747,Cyclic AMP response element-binding protein A,Drosophila melanogaster,leucine_zipper,468,476,466,475,MDQLERRVEI,RKKKEYMDQLERRVEILVTENH,0.872
+Q01147,Cyclic AMP-responsive element-binding protein 1,Mus musculus,leucine_zipper,296,318,294,303,VKCLENRVAV,RKKKEYVKCLENRVAVLENQNK,0.803
+Q32M00,cAMP-responsive element-binding protein-like 2,Mus musculus,leucine_zipper,61,69,62,71,ICALREELEM,SSRERAICALREELEMYKQWCM,0.858
+Q9LZP8,bZIP transcription factor 53,Arabidopsis thaliana,leucine_zipper,50,65,48,57,LGDLINEVTL,MRKQKQLGDLINEVTLLKNDNA,0.958
+Q9SIG8,bZIP transcription factor 30,Arabidopsis thaliana,coiled_coil,385,460,454,463,LNEEVQRLKL,DALSEKLNEEVQRLKLVIGEPN,1.0
+P18289,Transcription factor Jra,Drosophila melanogaster,leucine_zipper,239,268,237,246,ISKLEDRVKV,KRKLERISKLEDRVKVLKGENV,0.831
+P27699,cAMP-responsive element modulator,Mus musculus,leucine_zipper,326,348,324,333,VKCLESRVAV,RRKKEYVKCLESRVAVLEVQNK,0.803
+P27699,cAMP-responsive element modulator,Mus musculus,leucine_zipper,326,348,327,336,LESRVAVLEV,KEYVKCLESRVAVLEVQNKKLI,0.847
+P27925,Cyclic AMP-responsive element-binding protein 1,Bos taurus,leucine_zipper,294,316,292,301,VKCLENRVAV,RKKKEYVKCLENRVAVLENQNK,0.803
+P42775,G-box-binding factor 2,Arabidopsis thaliana,leucine_zipper,276,312,281,291,VDALVAENMSL,EQLSVKVDALVAENMSLRSKLGQ,0.806
+Q54ER9,Basic-leucine zipper transcription factor B,Dictyostelium discoideum,leucine_zipper,137,145,138,147,IKEIEEKLAV,QRKKEYIKEIEEKLAVLALEND,0.858
+Q8CF90,Transcription factor MafA,Mus musculus,leucine_zipper,287,309,295,304,LQSQVEQLKL,ESEKCQLQSQVEQLKLEVGRLA,0.986
+Q9M7Q5,ABSCISIC ACID-INSENSITIVE 5-like protein 4,Arabidopsis thaliana,leucine_zipper,338,360,339,348,LEAEIESLKL,QAYTLELEAEIESLKLVNQDLQ,1.0
+Q9VWW0,Cyclic AMP response element-binding protein B,Drosophila melanogaster,leucine_zipper,299,321,297,306,IKCLENRVAV,RKKKEYIKCLENRVAVLENQNK,0.831
+Q7T2V3,Mitogen-activated protein kinase kinase kinase 10,Xenopus laevis,leucine_zipper,438,460,451,460,IDIVERELNI,ELAEREIDIVERELNIIMYQMY,0.9
+Q9FNY0,Transcription factor E2FA,Arabidopsis thaliana,leucine_zipper,248,277,249,258,LQAEIENLAL,DVSVLQLQAEIENLALEEQALD,0.972
+Q9FNY0,Transcription factor E2FA,Arabidopsis thaliana,coiled_coil,244,286,249,258,LQAEIENLAL,DVSVLQLQAEIENLALEEQALD,0.972
+Q63918,Caveolae-associated protein 2,Mus musculus,leucine_zipper,61,100,58,68,VHTLLDKLVNM,QVNAVTVHTLLDKLVNMLDAVRE,0.667
+Q63918,Caveolae-associated protein 2,Mus musculus,coiled_coil,60,87,58,68,VHTLLDKLVNM,QVNAVTVHTLLDKLVNMLDAVRE,0.667
+Q63918,Caveolae-associated protein 2,Mus musculus,coiled_coil,125,268,193,202,LEETLHNVDL,ADENKSLEETLHNVDLSSDDEL,0.944
+Q6DDS9,DNA repair protein Ku80,Xenopus laevis,leucine_zipper,136,164,133,143,VFSDLSSPFSV,TRLHIAVFSDLSSPFSVDQLEVI,0.625
+Q6DDS9,DNA repair protein Ku80,Xenopus laevis,leucine_zipper,136,164,134,143,FSDLSSPFSV,RLHIAVFSDLSSPFSVDQLEVI,0.639
+Q6DDS9,DNA repair protein Ku80,Xenopus laevis,leucine_zipper,136,164,158,168,ITLQFFLPFSV,NLKKAEITLQFFLPFSVDEEEFG,0.761
+Q6DDS9,DNA repair protein Ku80,Xenopus laevis,leucine_zipper,136,164,160,168,LQFFLPFSV,KKAEITLQFFLPFSVDEEEFG,0.886
+Q66H98,Caveolae-associated protein 2,Rattus norvegicus,leucine_zipper,61,100,58,68,VHTLLDKLVNM,QVNAVTVHTLLDKLVNMLDAVRE,0.667
+Q66H98,Caveolae-associated protein 2,Rattus norvegicus,coiled_coil,60,87,58,68,VHTLLDKLVNM,QVNAVTVHTLLDKLVNMLDAVRE,0.667
+Q66H98,Caveolae-associated protein 2,Rattus norvegicus,coiled_coil,125,267,192,201,LEETLHNVDL,ADENKSLEETLHNVDLSSDDEL,0.944
+P98180,Transcription factor E2-alpha,Mesocricetus auratus,leucine_zipper,384,420,388,398,MEDRLDEAIHV,LHGLSKMEDRLDEAIHVLRSHAV,0.722
+O54784,Death-associated protein kinase 3,Mus musculus,leucine_zipper,421,436,418,428,LAAQVAAEVQF,ENRYDALAAQVAAEVQFVRDLVR,0.969
+Q64092,Transcription factor E3,Mus musculus,leucine_zipper,407,429,422,431,LQLRIQELEL,EQANRSLQLRIQELELQAQIHG,0.972
+P24813,AP-1-like transcription factor YAP2,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,70,99,68,77,MKSLQERVEL,DRKEAKMKSLQERVELLEQKDA,0.983
+Q05B92,Transcription factor E3,Bos taurus,leucine_zipper,406,428,421,430,LQLRIQELEL,EQANRSLQLRIQELELQAQIHG,0.972
+Q08874,Microphthalmia-associated transcription factor,Mus musculus,leucine_zipper,373,395,388,397,LLLRVQELEM,EHANRHLLLRVQELEMQARAHG,0.861
+Q08874,Microphthalmia-associated transcription factor,Mus musculus,leucine_zipper,373,395,389,397,LLRVQELEM,HANRHLLLRVQELEMQARAHG,0.861
+Q08874,Microphthalmia-associated transcription factor,Mus musculus,coiled_coil,354,401,388,397,LLLRVQELEM,EHANRHLLLRVQELEMQARAHG,0.861
+Q08874,Microphthalmia-associated transcription factor,Mus musculus,coiled_coil,354,401,389,397,LLRVQELEM,HANRHLLLRVQELEMQARAHG,0.861
+O54724,Caveolae-associated protein 1,Mus musculus,leucine_zipper,54,77,51,59,VNGVLVLSL,LIKSDQVNGVLVLSLLDKIIG,0.983
+O54724,Caveolae-associated protein 1,Mus musculus,leucine_zipper,54,77,63,72,IIGAVDQIQL,LSLLDKIIGAVDQIQLTQAQLE,1.0
+O54724,Caveolae-associated protein 1,Mus musculus,leucine_zipper,54,77,64,72,IGAVDQIQL,SLLDKIIGAVDQIQLTQAQLE,1.0
+P85125,Caveolae-associated protein 1,Rattus norvegicus,leucine_zipper,54,77,51,59,VNGVLVLSL,LIKSDQVNGVLVLSLLDKIIG,0.983
+P85125,Caveolae-associated protein 1,Rattus norvegicus,leucine_zipper,54,77,63,72,IIGAVDQIQL,LSLLDKIIGAVDQIQLTQAQLE,1.0
+P85125,Caveolae-associated protein 1,Rattus norvegicus,leucine_zipper,54,77,64,72,IGAVDQIQL,SLLDKIIGAVDQIQLTQAQLE,1.0
+P20945,Conidiophore development regulator abaA,Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139),leucine_zipper,340,362,344,354,VNDPLNCEIIL,SSSLSDVNDPLNCEIILLETNLE,0.969
+P20945,Conidiophore development regulator abaA,Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139),leucine_zipper,340,362,352,361,IILLETNLEL,DPLNCEIILLETNLELMDDFPP,0.983
+P04855,Fusion glycoprotein F0,Sendai virus (strain Z),leucine_zipper,277,306,278,287,LERYMVTLSV,TVIDVDLERYMVTLSVKIPILS,0.956
+P04855,Fusion glycoprotein F0,Sendai virus (strain Z),leucine_zipper,277,306,282,291,MVTLSVKIPI,VDLERYMVTLSVKIPILSEVPG,0.9
+P04855,Fusion glycoprotein F0,Sendai virus (strain Z),leucine_zipper,277,306,291,300,ILSEVPGVLI,LSVKIPILSEVPGVLIHKASSI,0.736
+P04855,Fusion glycoprotein F0,Sendai virus (strain Z),leucine_zipper,277,306,292,300,LSEVPGVLI,SVKIPILSEVPGVLIHKASSI,0.861
+Q6ZLB0,bZIP transcription factor RISBZ1,Oryza sativa subsp. japonica,leucine_zipper,263,278,261,270,LKDLEEQVSL,SRKAARLKDLEEQVSLLRVENS,0.944
+Q6ZLB0,bZIP transcription factor RISBZ1,Oryza sativa subsp. japonica,leucine_zipper,263,278,264,273,LEEQVSLLRV,AARLKDLEEQVSLLRVENSSLL,0.997
+Q91VJ2,Caveolae-associated protein 3,Mus musculus,leucine_zipper,19,78,20,28,VHAVTVVTL,TPAGGPVHAVTVVTLLEKLAT,0.819
+Q9Z1H9,Caveolae-associated protein 3,Rattus norvegicus,leucine_zipper,19,78,20,28,VHAVTVVTL,APAGGPVHAVTVVTLLEKLAT,0.819
+Q9R210,Transcription factor EB,Mus musculus,leucine_zipper,296,318,311,320,LWLRIQELEM,EMTNKQLWLRIQELEMQARVHG,0.847
+Q9ESL4,Mitogen-activated protein kinase kinase kinase 20,Mus musculus,leucine_zipper,286,308,294,303,LKKLERDLSF,EATLERLKKLERDLSFKEQELK,0.956
+Q59VR1,Transcriptional regulator SKO1,Candida albicans (strain SC5314 / ATCC MYA-2876),leucine_zipper,507,515,507,517,LIQKMEEELEF,RQRKKLLIQKMEEELEFYSNGYR,0.792
+Q59VR1,Transcriptional regulator SKO1,Candida albicans (strain SC5314 / ATCC MYA-2876),leucine_zipper,507,515,508,517,IQKMEEELEF,QRKKLLIQKMEEELEFYSNGYR,0.667
+Q925B0,PRKC apoptosis WT1 regulator protein,Mus musculus,leucine_zipper,292,333,292,302,MIGKLKEEIDL,MQDKEEMIGKLKEEIDLLNRDLD,1.0
+Q925B0,PRKC apoptosis WT1 regulator protein,Mus musculus,leucine_zipper,292,333,293,302,IGKLKEEIDL,QDKEEMIGKLKEEIDLLNRDLD,0.997
+Q925B0,PRKC apoptosis WT1 regulator protein,Mus musculus,coiled_coil,254,333,292,302,MIGKLKEEIDL,MQDKEEMIGKLKEEIDLLNRDLD,1.0
+Q925B0,PRKC apoptosis WT1 regulator protein,Mus musculus,coiled_coil,254,333,293,302,IGKLKEEIDL,QDKEEMIGKLKEEIDLLNRDLD,0.997
+Q00969,Cyclic AMP-dependent transcription factor ATF-2,Rattus norvegicus,leucine_zipper,361,390,372,382,LNGQLQSEVTL,AEDLSSLNGQLQSEVTLLRNEVA,0.944
+Q62627,PRKC apoptosis WT1 regulator protein,Rattus norvegicus,leucine_zipper,291,332,291,301,MIGKLKEEIDL,MQDKEEMIGKLKEEIDLLNRDLD,1.0
+Q62627,PRKC apoptosis WT1 regulator protein,Rattus norvegicus,leucine_zipper,291,332,292,301,IGKLKEEIDL,QDKEEMIGKLKEEIDLLNRDLD,0.997
+P16951,Cyclic AMP-dependent transcription factor ATF-2,Mus musculus,leucine_zipper,361,390,372,382,LNGQLQSEVTL,AEDLSSLNGQLQSEVTLLRNEVA,0.944
+Q60722,Transcription factor 4,Mus musculus,leucine_zipper,377,399,389,398,LERLDDAIHV,SRIEDRLERLDDAIHVLRNHAV,0.983
+O01700,Mitogen-activated protein kinase kinase kinase dlk-1,Caenorhabditis elegans,leucine_zipper,458,480,459,468,LQGCFTELKL,NKMYDKLQGCFTELKLKESELA,1.0
+Q8K4I6,Protein chibby homolog 1,Rattus norvegicus,leucine_zipper,76,98,90,99,LLRLKVDILL,LEEENNLLRLKVDILLDMLSET,1.0
+Q8K4I6,Protein chibby homolog 1,Rattus norvegicus,leucine_zipper,76,98,91,101,LRLKVDILLDM,EEENNLLRLKVDILLDMLSETTA,0.861
+Q8K4I6,Protein chibby homolog 1,Rattus norvegicus,coiled_coil,67,110,90,99,LLRLKVDILL,LEEENNLLRLKVDILLDMLSET,1.0
+Q8K4I6,Protein chibby homolog 1,Rattus norvegicus,coiled_coil,67,110,91,101,LRLKVDILLDM,EEENNLLRLKVDILLDMLSETTA,0.861
+Q9D1C2,Protein chibby homolog 1,Mus musculus,leucine_zipper,76,98,90,99,LLRLKVDILL,LEEENNLLRLKVDILLDMLSET,1.0
+Q9D1C2,Protein chibby homolog 1,Mus musculus,leucine_zipper,76,98,91,101,LRLKVDILLDM,EEENNLLRLKVDILLDMLSETTA,0.861
+Q9D1C2,Protein chibby homolog 1,Mus musculus,coiled_coil,67,110,90,99,LLRLKVDILL,LEEENNLLRLKVDILLDMLSET,1.0
+Q9D1C2,Protein chibby homolog 1,Mus musculus,coiled_coil,67,110,91,101,LRLKVDILLDM,EEENNLLRLKVDILLDMLSETTA,0.861
+P06876,Transcriptional activator Myb,Mus musculus,leucine_zipper,374,396,382,392,ILDNVKNLLEF,IVHQGTILDNVKNLLEFAETLQF,0.708
+P06876,Transcriptional activator Myb,Mus musculus,leucine_zipper,374,396,383,392,LDNVKNLLEF,VHQGTILDNVKNLLEFAETLQF,0.833
+P06876,Transcriptional activator Myb,Mus musculus,leucine_zipper,374,396,389,398,LLEFAETLQF,LDNVKNLLEFAETLQFIDSFLN,0.764
+O88764,Death-associated protein kinase 3,Rattus norvegicus,leucine_zipper,421,436,418,428,LAAQVAAEVQF,ENRYDALAAQVAAEVQFVRDLVR,0.969
+P0C605,cGMP-dependent protein kinase 1,Mus musculus,coiled_coil,1,59,4,14,LEEDFAKILML,MSELEEDFAKILMLKEERIK,1.0
+P00516,cGMP-dependent protein kinase 1,Bos taurus,coiled_coil,1,59,4,14,LEEDFAKILML,MSELEEDFAKILMLKEERIK,1.0
+O08629,Transcription intermediary factor 1-beta,Rattus norvegicus,leucine_zipper,247,378,286,295,VSDVQKRVQV,RSSIRQVSDVQKRVQVDVKMAI,0.681
+O08629,Transcription intermediary factor 1-beta,Rattus norvegicus,leucine_zipper,247,378,289,299,VQKRVQVDVKM,IRQVSDVQKRVQVDVKMAILQIM,0.844
+O08629,Transcription intermediary factor 1-beta,Rattus norvegicus,leucine_zipper,247,378,295,304,VDVKMAILQI,VQKRVQVDVKMAILQIMKELNK,0.681
+O08629,Transcription intermediary factor 1-beta,Rattus norvegicus,leucine_zipper,247,378,365,374,LSKKLIYFQL,NNTALLLSKKLIYFQLHRALKM,0.917
+O08629,Transcription intermediary factor 1-beta,Rattus norvegicus,leucine_zipper,247,378,370,380,IYFQLHRALKM,LLSKKLIYFQLHRALKMIVDPVE,0.708
+Q62318,Transcription intermediary factor 1-beta,Mus musculus,leucine_zipper,246,377,285,294,VSDVQKRVQV,RSSIRQVSDVQKRVQVDVKMAI,0.681
+Q62318,Transcription intermediary factor 1-beta,Mus musculus,leucine_zipper,246,377,288,298,VQKRVQVDVKM,IRQVSDVQKRVQVDVKMAILQIM,0.844
+Q62318,Transcription intermediary factor 1-beta,Mus musculus,leucine_zipper,246,377,294,303,VDVKMAILQI,VQKRVQVDVKMAILQIMKELNK,0.681
+Q62318,Transcription intermediary factor 1-beta,Mus musculus,leucine_zipper,246,377,364,373,LSKKLIYFQL,NNTALLLSKKLIYFQLHRALKM,0.917
+Q62318,Transcription intermediary factor 1-beta,Mus musculus,leucine_zipper,246,377,369,379,IYFQLHRALKM,LLSKKLIYFQLHRALKMIVDPVE,0.708
+Q80U93,Nuclear pore complex protein Nup214,Mus musculus,coiled_coil,673,1217,808,817,IRRLHQYVKF,EAQLQEIRRLHQYVKFAVQDVN,0.817
+Q80U93,Nuclear pore complex protein Nup214,Mus musculus,coiled_coil,673,1217,819,828,VQDVNDVLDL,QYVKFAVQDVNDVLDLEWDRHL,0.833
+Q80U93,Nuclear pore complex protein Nup214,Mus musculus,coiled_coil,673,1217,872,881,LVDSLQQLRL,RKRLNQLVDSLQQLRLYNHTAP,0.958
+Q80U93,Nuclear pore complex protein Nup214,Mus musculus,coiled_coil,673,1217,873,881,VDSLQQLRL,KRLNQLVDSLQQLRLYNHTAP,0.806
+Q80U93,Nuclear pore complex protein Nup214,Mus musculus,coiled_coil,673,1217,1122,1131,LKTVPQVVNV,TLTESTLKTVPQVVNVQELRSN,0.983
+P03206,Lytic switch protein BZLF1,Epstein-Barr virus (strain B95-8),leucine_zipper,195,228,217,227,LLKQMCPSLDV,NDRLRLLLKQMCPSLDVDSIIPR,0.806
+P03206,Lytic switch protein BZLF1,Epstein-Barr virus (strain B95-8),leucine_zipper,195,228,218,227,LKQMCPSLDV,DRLRLLLKQMCPSLDVDSIIPR,0.806
+Q8VDG6,Mitogen-activated protein kinase kinase kinase 21,Mus musculus,leucine_zipper,443,466,456,465,IDVLERELNV,QLAEREIDVLERELNVLIFQLS,0.844
+Q8VDG6,Mitogen-activated protein kinase kinase kinase 21,Mus musculus,leucine_zipper,443,466,459,468,LERELNVLIF,EREIDVLERELNVLIFQLSQEA,0.956
+Q5AJU7,AP-1-like transcription factor CAP1,Candida albicans (strain SC5314 / ATCC MYA-2876),leucine_zipper,67,75,65,74,MKELEDKVRL,ERKERKMKELEDKVRLLEDANV,0.983
+Q5AJU7,AP-1-like transcription factor CAP1,Candida albicans (strain SC5314 / ATCC MYA-2876),coiled_coil,48,105,65,74,MKELEDKVRL,ERKERKMKELEDKVRLLEDANV,0.983
+Q6JPI3,Mediator of RNA polymerase II transcription subunit 13-like,Mus musculus,leucine_zipper,1378,1400,1392,1400,FLTISPFSL,VGYDKEFLTISPFSLPFWERL,0.942
+Q7XC54,Homeobox-leucine zipper protein HOX1,Oryza sativa subsp. japonica,leucine_zipper,211,256,239,247,LQELRALKL,RRLHRELQELRALKLATAAAA,1.0
+Q0JKX1,Homeobox-leucine zipper protein HOX3,Oryza sativa subsp. japonica,leucine_zipper,132,177,160,168,VEELRAMRV,RRLQREVEELRAMRVAPPTVL,0.789
+P97313,DNA-dependent protein kinase catalytic subunit,Mus musculus,leucine_zipper,1500,1536,1508,1517,LANGLLELAF,DPSCKSLANGLLELAFGFGGLC,0.806
+P97313,DNA-dependent protein kinase catalytic subunit,Mus musculus,leucine_zipper,1500,1536,1522,1531,LCDHLVSLLL,AFGFGGLCDHLVSLLLNSAMLS,0.958
+Q6TMG5,NF-kappa-B essential modulator,Rattus norvegicus,leucine_zipper,314,336,329,338,LQREFNKLKV,QEQLEQLQREFNKLKVGCHESA,0.928
+Q6TMG5,NF-kappa-B essential modulator,Rattus norvegicus,coiled_coil,48,343,329,338,LQREFNKLKV,QEQLEQLQREFNKLKVGCHESA,0.928
+A7MBB4,Mitogen-activated protein kinase kinase kinase 13,Bos taurus,leucine_zipper,485,507,482,491,LYMELSAIML,LERANNLYMELSAIMLQLEMRE,0.972
+A7MBB4,Mitogen-activated protein kinase kinase kinase 13,Bos taurus,leucine_zipper,485,507,486,495,LSAIMLQLEM,NNLYMELSAIMLQLEMREKELI,0.969
+A7MBB4,Mitogen-activated protein kinase kinase kinase 13,Bos taurus,coiled_coil,456,496,482,491,LYMELSAIML,LERANNLYMELSAIMLQLEMRE,0.972
+A7MBB4,Mitogen-activated protein kinase kinase kinase 13,Bos taurus,coiled_coil,456,496,486,495,LSAIMLQLEM,NNLYMELSAIMLQLEMREKELI,0.969
+Q9ESN9,C-Jun-amino-terminal kinase-interacting protein 3,Mus musculus,coiled_coil,436,555,509,518,LCTELDKIPM,EDVSSYLCTELDKIPMAQRRRF,0.847
+O88522,NF-kappa-B essential modulator,Mus musculus,leucine_zipper,314,336,329,338,LQREFNKLKV,QEQLEQLQREFNKLKVGCHESA,0.928
+O88522,NF-kappa-B essential modulator,Mus musculus,coiled_coil,48,345,329,338,LQREFNKLKV,QEQLEQLQREFNKLKVGCHESA,0.928
+P03708,"Terminase, large subunit",Escherichia phage lambda,leucine_zipper,587,616,591,600,FVYALAALRI,NEALDCFVYALAALRISISRWQ,0.858
+P03708,"Terminase, large subunit",Escherichia phage lambda,leucine_zipper,587,616,592,600,VYALAALRI,EALDCFVYALAALRISISRWQ,0.844
+O77676,cGMP-dependent protein kinase 1,Oryctolagus cuniculus,coiled_coil,1,59,4,14,LEEDFAKILML,MSELEEDFAKILMLKEERIK,1.0
+Q0VD32,cAMP-responsive element-binding protein-like 2,Bos taurus,leucine_zipper,61,69,62,71,ICALREELEM,SSRERAICALREELEMYKQWCM,0.858
+Q7X9A8,bZIP transcription factor RISBZ2,Oryza sativa subsp. japonica,leucine_zipper,259,274,260,269,LEAQVSQLRV,AAHLNELEAQVSQLRVENSSLL,0.997
+D3ZNT6,Transcription factor MafA,Rattus norvegicus,leucine_zipper,289,311,297,306,LQSQVEQLKL,ESEKCQLQSQVEQLKLEVGRLA,0.986
+Q3T0B9,CCAAT/enhancer-binding protein gamma,Bos taurus,leucine_zipper,96,118,108,117,IKLLTKELSV,ERLEAKIKLLTKELSVLKDLFL,0.844
+Q68FR9,Elongation factor 1-delta,Rattus norvegicus,leucine_zipper,79,115,80,89,LIVRIASLEV,GGDHSDLIVRIASLEVENQNLR,0.983
+Q68FR9,Elongation factor 1-delta,Rattus norvegicus,leucine_zipper,79,115,81,89,IVRIASLEV,GDHSDLIVRIASLEVENQNLR,0.858
+Q68FR9,Elongation factor 1-delta,Rattus norvegicus,leucine_zipper,79,115,101,110,LQQAISKLEV,RGVVQDLQQAISKLEVRLSTLE,0.983
+Q6AU90,bZIP transcription factor 39,Oryza sativa subsp. japonica,leucine_zipper,210,218,210,220,VINDLNSRISF,VKSMHSVINDLNSRISFVVAENA,0.667
+Q6AU90,bZIP transcription factor 39,Oryza sativa subsp. japonica,leucine_zipper,210,218,211,220,INDLNSRISF,KSMHSVINDLNSRISFVVAENA,0.694
+Q9M2K4,Basic leucine zipper 61,Arabidopsis thaliana,leucine_zipper,229,251,234,243,VTSLQTEVSV,SELERSVTSLQTEVSVLSPRVA,0.803
+Q9M2K4,Basic leucine zipper 61,Arabidopsis thaliana,leucine_zipper,229,251,241,250,VSVLSPRVAF,TSLQTEVSVLSPRVAFLDHQRL,0.789
+Q40691,Homeobox-leucine zipper protein HOX1,Oryza sativa subsp. indica,leucine_zipper,211,256,239,247,LQELRALKL,RRLHRELQELRALKLATAAAA,1.0
+P13044,Transcriptional activator GvpE1,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),leucine_zipper,149,181,156,166,IDHMVDQLLLF,EGAFTRIDHMVDQLLLFSLVLKA,0.708
+P13044,Transcriptional activator GvpE1,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),leucine_zipper,149,181,159,168,MVDQLLLFSL,FTRIDHMVDQLLLFSLVLKAVM,0.956
+P13044,Transcriptional activator GvpE1,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),leucine_zipper,149,181,160,170,VDQLLLFSLVL,TRIDHMVDQLLLFSLVLKAVMTD,0.956
+Q9XH38,Homeobox-leucine zipper protein HOX3,Oryza sativa subsp. indica,leucine_zipper,132,177,160,168,VEELRAMRV,RRLQREVEELRAMRVAPPTVL,0.789
+A7J1T0,Mitogen-activated protein kinase kinase kinase 13-B,Xenopus laevis,leucine_zipper,488,510,485,494,LYMELSSIML,LERANNLYMELSSIMLQLEVRE,0.972
+A7J1T0,Mitogen-activated protein kinase kinase kinase 13-B,Xenopus laevis,leucine_zipper,488,510,489,498,LSSIMLQLEV,NNLYMELSSIMLQLEVREKELT,0.956
+A7J1T0,Mitogen-activated protein kinase kinase kinase 13-B,Xenopus laevis,coiled_coil,459,497,485,494,LYMELSSIML,LERANNLYMELSSIMLQLEVRE,0.972
+A7J1T0,Mitogen-activated protein kinase kinase kinase 13-B,Xenopus laevis,coiled_coil,459,497,489,498,LSSIMLQLEV,NNLYMELSSIMLQLEVREKELT,0.956
+Q5R8X7,Mitogen-activated protein kinase kinase kinase 13,Pongo abelii,leucine_zipper,485,507,482,491,LYMELSAIML,LERANNLYMELSAIMLQLEMRE,0.972
+Q5R8X7,Mitogen-activated protein kinase kinase kinase 13,Pongo abelii,leucine_zipper,485,507,486,495,LSAIMLQLEM,NNLYMELSAIMLQLEMREKELV,0.969
+A7J1T2,Mitogen-activated protein kinase kinase kinase 13-A,Xenopus laevis,leucine_zipper,486,508,483,492,LYMELSAIML,LERANNLYMELSAIMLQLEVRE,0.972
+A7J1T2,Mitogen-activated protein kinase kinase kinase 13-A,Xenopus laevis,leucine_zipper,486,508,487,496,LSAIMLQLEV,NNLYMELSAIMLQLEVREKELI,0.956
+A7J1T2,Mitogen-activated protein kinase kinase kinase 13-A,Xenopus laevis,coiled_coil,457,497,483,492,LYMELSAIML,LERANNLYMELSAIMLQLEVRE,0.972
+A7J1T2,Mitogen-activated protein kinase kinase kinase 13-A,Xenopus laevis,coiled_coil,457,497,487,496,LSAIMLQLEV,NNLYMELSAIMLQLEVREKELI,0.956
+Q8WN22,DNA-dependent protein kinase catalytic subunit,Canis lupus familiaris,leucine_zipper,1515,1551,1523,1532,LASGLLELAF,DPSCKRLASGLLELAFAFGGLC,0.806
+Q8WN22,DNA-dependent protein kinase catalytic subunit,Canis lupus familiaris,leucine_zipper,1515,1551,1537,1546,LCEHLVDLLL,AFAFGGLCEHLVDLLLDTAVLS,0.958
+P12575,Fusion glycoprotein F0,Sendai virus (strain Fushimi),leucine_zipper,268,307,269,278,IKGTVIDVDL,VIYTEQIKGTVIDVDLERYMVT,0.997
+P12575,Fusion glycoprotein F0,Sendai virus (strain Fushimi),leucine_zipper,268,307,278,287,LERYMVTLSV,TVIDVDLERYMVTLSVKIPILS,0.956
+P12575,Fusion glycoprotein F0,Sendai virus (strain Fushimi),leucine_zipper,268,307,282,291,MVTLSVKIPI,VDLERYMVTLSVKIPILSEVPG,0.9
+P12575,Fusion glycoprotein F0,Sendai virus (strain Fushimi),leucine_zipper,268,307,291,300,ILSEVPGVLI,LSVKIPILSEVPGVLIHKASSI,0.736
+P12575,Fusion glycoprotein F0,Sendai virus (strain Fushimi),leucine_zipper,268,307,292,300,LSEVPGVLI,SVKIPILSEVPGVLIHKASSI,0.861
+P04856,Fusion glycoprotein F0,Sendai virus (strain Harris),leucine_zipper,277,306,278,287,LERYMVTLSV,TVIDVDLERYMVTLSVKIPILS,0.956
+P04856,Fusion glycoprotein F0,Sendai virus (strain Harris),leucine_zipper,277,306,282,291,MVTLSVKIPI,VDLERYMVTLSVKIPILSEVPG,0.9
+P04856,Fusion glycoprotein F0,Sendai virus (strain Harris),leucine_zipper,277,306,291,300,ILSEVPGVLI,LSVKIPILSEVPGVLIHKASSI,0.736
+P04856,Fusion glycoprotein F0,Sendai virus (strain Harris),leucine_zipper,277,306,292,300,LSEVPGVLI,SVKIPILSEVPGVLIHKASSI,0.861
+Q9DUD9,Fusion glycoprotein F0,Sendai virus (strain Hamamatsu),leucine_zipper,268,307,269,278,IKGTVIDVDL,VIYTEQIKGTVIDVDLERYMVT,0.997
+Q9DUD9,Fusion glycoprotein F0,Sendai virus (strain Hamamatsu),leucine_zipper,268,307,278,287,LERYMVTLSV,TVIDVDLERYMVTLSVKIPILS,0.956
+Q9DUD9,Fusion glycoprotein F0,Sendai virus (strain Hamamatsu),leucine_zipper,268,307,282,291,MVTLSVKIPI,VDLERYMVTLSVKIPILSEVPG,0.9
+Q9DUD9,Fusion glycoprotein F0,Sendai virus (strain Hamamatsu),leucine_zipper,268,307,291,300,ILSEVPGVLI,LSVKIPILSEVPGVLIHKASSI,0.736
+Q9DUD9,Fusion glycoprotein F0,Sendai virus (strain Hamamatsu),leucine_zipper,268,307,292,300,LSEVPGVLI,SVKIPILSEVPGVLIHKASSI,0.861
+O57295,Fusion glycoprotein F0,Sendai virus (strain Ohita),leucine_zipper,268,307,269,278,IKGTVIDVDL,VIYTEQIKGTVIDVDLERYMVT,0.997
+O57295,Fusion glycoprotein F0,Sendai virus (strain Ohita),leucine_zipper,268,307,278,287,LERYMVTLSV,TVIDVDLERYMVTLSVKIPILS,0.956
+O57295,Fusion glycoprotein F0,Sendai virus (strain Ohita),leucine_zipper,268,307,282,291,MVTLSVKIPI,VDLERYMVTLSVKIPILSEVPG,0.9
+O57295,Fusion glycoprotein F0,Sendai virus (strain Ohita),leucine_zipper,268,307,291,300,ILSEVPGVLI,LSVKIPILSEVPGVLIHKASSI,0.736
+O57295,Fusion glycoprotein F0,Sendai virus (strain Ohita),leucine_zipper,268,307,292,300,LSEVPGVLI,SVKIPILSEVPGVLIHKASSI,0.861
+O54826,Protein AF-10,Mus musculus,leucine_zipper,751,780,773,782,LQLLNAQLSV,TAKKERLQLLNAQLSVPFPAIT,0.969
+O35841,Apoptosis inhibitor 5,Mus musculus,leucine_zipper,369,391,377,386,LQYFARGLQV,KDFKIRLQYFARGLQVYIRQLR,0.778
+O35841,Apoptosis inhibitor 5,Mus musculus,leucine_zipper,369,391,384,393,LQVYIRQLRL,QYFARGLQVYIRQLRLALQGKT,0.972
+P79145,cAMP-responsive element modulator,Canis lupus familiaris,leucine_zipper,329,351,327,336,VKCLENRVAV,RKKKEYVKCLENRVAVLENQNK,0.803
+Q10424,Transcription factor zip1,Schizosaccharomyces pombe (strain 972 / ATCC 24843),leucine_zipper,291,320,306,315,LETRVRELEM,TEKVAILETRVRELEMENNWLK,0.861
+Q8MJK1,Protein chibby homolog 1,Bos taurus,leucine_zipper,76,98,90,99,LLRLKVDILL,LEEENNLLRLKVDILLDMLSET,1.0
+Q8MJK1,Protein chibby homolog 1,Bos taurus,leucine_zipper,76,98,91,101,LRLKVDILLDM,EEENNLLRLKVDILLDMLSETTA,0.861
+Q8MJK1,Protein chibby homolog 1,Bos taurus,coiled_coil,67,125,90,99,LLRLKVDILL,LEEENNLLRLKVDILLDMLSET,1.0
+Q8MJK1,Protein chibby homolog 1,Bos taurus,coiled_coil,67,125,91,101,LRLKVDILLDM,EEENNLLRLKVDILLDMLSETTA,0.861
+P46200,Transcriptional activator Myb,Bos taurus,leucine_zipper,374,396,382,392,ILDNVKNLLEF,IFHQSTILDNVKNLLEFAETLQF,0.708
+P46200,Transcriptional activator Myb,Bos taurus,leucine_zipper,374,396,383,392,LDNVKNLLEF,FHQSTILDNVKNLLEFAETLQF,0.833
+P46200,Transcriptional activator Myb,Bos taurus,leucine_zipper,374,396,389,398,LLEFAETLQF,LDNVKNLLEFAETLQFIDSFLN,0.764
+P9WI47,PPE family protein PPE2,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),leucine_zipper,318,340,315,325,VKTLLEQTLAL,TDTIALVKTLLEQTLALLPAALP,0.806
+P9WI47,PPE family protein PPE2,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),leucine_zipper,318,340,323,332,LALLPAALPL,TLLEQTLALLPAALPLLAAPLA,1.0
+P9WI47,PPE family protein PPE2,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),leucine_zipper,318,340,333,342,LAAPLAPLTL,PAALPLLAAPLAPLTLAPASAA,0.958
+Q86TE4,Leucine zipper protein 2,Homo sapiens,leucine_zipper,163,192,178,187,LTDLEQKLAV,LFKAQQLTDLEQKLAVAKNELE,0.819
+Q86TE4,Leucine zipper protein 2,Homo sapiens,coiled_coil,15,211,178,187,LTDLEQKLAV,LFKAQQLTDLEQKLAVAKNELE,0.819
+Q86TE4,Leucine zipper protein 2,Homo sapiens,coiled_coil,15,211,203,212,MKAMKETVQL,LDRESQMKAMKETVQLCLTSVF,0.969
+P01103,Transcriptional activator Myb,Gallus gallus,leucine_zipper,375,397,383,393,ILDNVKNLLEF,IVHQSNILDNVKNLLEFAETLQL,0.708
+P01103,Transcriptional activator Myb,Gallus gallus,leucine_zipper,375,397,384,393,LDNVKNLLEF,VHQSNILDNVKNLLEFAETLQL,0.833
+P01103,Transcriptional activator Myb,Gallus gallus,leucine_zipper,375,397,390,399,LLEFAETLQL,LDNVKNLLEFAETLQLIDSFLN,0.917
+Q3KSS8,Lytic switch protein BZLF1,Human herpesvirus 4 (strain GD1),leucine_zipper,195,228,217,227,LLKQMCPSLDV,NDRLRLLLKQMCPSLDVDSIIPR,0.806
+Q3KSS8,Lytic switch protein BZLF1,Human herpesvirus 4 (strain GD1),leucine_zipper,195,228,218,227,LKQMCPSLDV,DRLRLLLKQMCPSLDVDSIIPR,0.806
+P15881,Transcription factor 4,Canis lupus familiaris,leucine_zipper,353,375,365,374,LERLDDAIHV,SRIEDRLERLDDAIHVLRNHAV,0.983
+Q4PSR7,Homeobox-leucine zipper protein ATHB-22,Arabidopsis thaliana,leucine_zipper,135,164,139,149,LYESLRQEFDI,NKQLEHLYESLRQEFDIVSREKE,0.956
+Q9LRR4,Putative disease resistance RPP13-like protein 1,Arabidopsis thaliana,leucine_zipper,38,53,46,54,LLTITAVLI,ERLSTALLTITAVLIDAEEKQ,0.847
+Q9LRR4,Putative disease resistance RPP13-like protein 1,Arabidopsis thaliana,coiled_coil,116,147,126,135,LETRLEKVTI,DGNSEHLETRLEKVTIRLERLA,0.983
+Q338Z7,Homeobox-leucine zipper protein HOX8,Oryza sativa subsp. japonica,leucine_zipper,119,164,157,167,LRDRVDGQMSV,AAEIADLRDRVDGQMSVKLEAVA,0.969
+Q8GRL4,Homeobox-leucine zipper protein HOX19,Oryza sativa subsp. japonica,leucine_zipper,181,226,209,217,LQELRALKF,RRLQRELQELRALKFAPPPPS,0.956
+Q0JB92,Homeobox-leucine zipper protein HOX17,Oryza sativa subsp. japonica,leucine_zipper,136,182,164,172,VQELRALKL,RRLQKEVQELRALKLVSPHLY,0.956
+Q0JB92,Homeobox-leucine zipper protein HOX17,Oryza sativa subsp. japonica,leucine_zipper,136,182,170,179,LKLVSPHLYM,VQELRALKLVSPHLYMNMSPPT,0.861
+Q67UE2,Homeobox-leucine zipper protein HOX11,Oryza sativa subsp. japonica,leucine_zipper,231,276,265,273,LKTVHPFYM,LAELRALKTVHPFYMHLPATT,0.819
+Q02230,Transcriptional activator GvpE,Haloferax mediterranei (strain ATCC 33500 / DSM 1411 / JCM 8866 / NBRC 14739 / NCIMB 2177 / R-4),leucine_zipper,149,181,156,166,VEPAVNRLVTF,EATFDTVEPAVNRLVTFSLVLKA,0.817
+Q02230,Transcriptional activator GvpE,Haloferax mediterranei (strain ATCC 33500 / DSM 1411 / JCM 8866 / NBRC 14739 / NCIMB 2177 / R-4),leucine_zipper,149,181,160,170,VNRLVTFSLVL,DTVEPAVNRLVTFSLVLKALMID,0.983
+Q02230,Transcriptional activator GvpE,Haloferax mediterranei (strain ATCC 33500 / DSM 1411 / JCM 8866 / NBRC 14739 / NCIMB 2177 / R-4),leucine_zipper,149,181,166,175,FSLVLKALMI,VNRLVTFSLVLKALMIDCNARY,0.708
+Q5A246,DNA-directed RNA polymerase III subunit RPC3,Candida albicans (strain SC5314 / ATCC MYA-2876),leucine_zipper,522,544,530,539,ILNRIQDFKL,IYDMAEILNRIQDFKLEHKILL,0.956
+Q5A246,DNA-directed RNA polymerase III subunit RPC3,Candida albicans (strain SC5314 / ATCC MYA-2876),leucine_zipper,522,544,531,539,LNRIQDFKL,YDMAEILNRIQDFKLEHKILL,1.0
+Q08DA8,Cyclic AMP-dependent transcription factor ATF-1,Bos taurus,leucine_zipper,239,261,237,246,VKCLENRVAV,RKKKEYVKCLENRVAVLENQNK,0.803
+Q9CA46,Basic leucine zipper 8,Arabidopsis thaliana,leucine_zipper,72,87,70,78,MEELWSMLV,MRKQRHMEELWSMLVQLINKN,0.681
+Q1LZH5,cAMP-responsive element modulator,Bos taurus,leucine_zipper,329,351,327,336,VKCLESRVAV,RRKKEYVKCLESRVAVLEVQNK,0.803
+Q1LZH5,cAMP-responsive element modulator,Bos taurus,leucine_zipper,329,351,330,339,LESRVAVLEV,KEYVKCLESRVAVLEVQNKKLI,0.847
+Q08182,AP-1-like transcription factor YAP7,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),leucine_zipper,152,181,150,159,IQVLEEKVEM,ERRTTRIQVLEEKVEMLHNLVD,0.694
+Q08DM8,Translin,Bos taurus,leucine_zipper,176,198,173,183,FINELDSGFRL,PLHISTFINELDSGFRLLNLKND,0.778
+Q08DM8,Translin,Bos taurus,leucine_zipper,176,198,174,183,INELDSGFRL,LHISTFINELDSGFRLLNLKND,0.792
+Q08DM8,Translin,Bos taurus,leucine_zipper,176,198,177,186,LDSGFRLLNL,STFINELDSGFRLLNLKNDSLR,1.0
+Q54GH2,Probable basic-leucine zipper transcription factor R,Dictyostelium discoideum,coiled_coil,329,407,338,346,LIQLQQLQL,LQPYQQLIQLQQLQLQQLEEE,0.958
+Q642H2,cAMP-responsive element-binding protein-like 2,Danio rerio,leucine_zipper,61,69,62,71,ICALREELDM,SSKERAICALREELDMYKQWCL,0.858
+Q68EL6,Nuclear factor interleukin-3-regulated protein,Danio rerio,leucine_zipper,90,112,105,114,LKAELLSLKL,GEENASLKAELLSLKLRFGLVS,0.958
+P0DKL0,GLABROUS1 enhancer-binding protein-like 2,Arabidopsis thaliana,leucine_zipper,267,289,280,289,LKLNINKLRF,ALCVEELKLNINKLRFSAKLAE,0.969
+Q5BJU6,cAMP-responsive element-binding protein-like 2,Rattus norvegicus,leucine_zipper,61,69,62,71,ICALREELEM,SSRERAICALREELEMYKQWCM,0.858
+Q69T21,Transcription factor TGAL8,Oryza sativa subsp. japonica,leucine_zipper,174,189,182,191,LAHLEQEIQF,ETGRIRLAHLEQEIQFTRAQGA,0.819
+Q6H434,Transcription factor TGAL7,Oryza sativa subsp. japonica,leucine_zipper,206,221,214,223,LSQLEQQVHV,ESSRIRLSQLEQQVHVARVQGA,0.806
+Q9LQ65,Basic leucine zipper 4,Arabidopsis thaliana,leucine_zipper,75,90,76,85,LTEEVNRLNI,KKRFEELTEEVNRLNIRNQELK,1.0
+A2XE76,Homeobox-leucine zipper protein HOX19,Oryza sativa subsp. indica,leucine_zipper,181,226,209,217,LQELRALKF,RRLQRELQELRALKFAPPPPS,0.956
+A6ZX64,DNA-directed RNA polymerase III subunit RPC3,Saccharomyces cerevisiae (strain YJM789),leucine_zipper,580,602,581,590,LEWNMANLLF,NFMRQNLEWNMANLLFKKEKLK,0.792
+Q6V9S9,Homeobox-leucine zipper protein HOX8,Oryza sativa subsp. indica,leucine_zipper,95,140,133,143,LRDRVDGQMSV,AAEIADLRDRVDGQMSVKLEAVA,0.969
+Q9C106,DNA-directed RNA polymerase III subunit rpc3,Schizosaccharomyces pombe (strain 972 / ATCC 24843),leucine_zipper,516,538,517,526,LYHVIARLYM,SLLLDELYHVIARLYMRLRDAR,0.997
+A2Z1U1,Homeobox-leucine zipper protein HOX11,Oryza sativa subsp. indica,leucine_zipper,144,189,178,186,LKTVHPFYM,LAELRALKTVHPFYMHLPATT,0.819
+Q01I23,Homeobox-leucine zipper protein HOX17,Oryza sativa subsp. indica,leucine_zipper,136,182,164,172,VQELRALKL,RRLQKEVQELRALKLVSPHLY,0.956
+Q01I23,Homeobox-leucine zipper protein HOX17,Oryza sativa subsp. indica,leucine_zipper,136,182,170,179,LKLVSPHLYM,VQELRALKLVSPHLYMNMSPPT,0.861
+P79703,Transcription factor JunB,Cyprinus carpio,leucine_zipper,256,285,254,263,ISRLEEKVKV,KRKLERISRLEEKVKVLKNDNA,0.831
+A4FV37,Caveolae-associated protein 3,Bos taurus,leucine_zipper,19,78,20,28,VHAVTVVTL,APAGGPVHAVTVVTLLEKLAT,0.819
+Q32L17,Spermatogenic leucine zipper protein 1,Bos taurus,coiled_coil,95,148,114,124,LVKKLLASLDL,DEINKELVKKLLASLDLGKKENA,1.0
+Q32L17,Spermatogenic leucine zipper protein 1,Bos taurus,coiled_coil,95,148,115,124,VKKLLASLDL,EINKELVKKLLASLDLGKKENA,0.956
+Q6AXY9,Spermatogenic leucine zipper protein 1,Rattus norvegicus,coiled_coil,267,293,284,292,VDILRELHL,QILQQRVDILRELHLHEAGPG,0.806
+B3MTI9,Transcription factor kayak,Drosophila ananassae,leucine_zipper,246,275,268,277,LTDVKNQLEF,KKEMETLTDVKNQLEFFLRAHH,0.983
+O93602,Cyclic AMP-dependent transcription factor ATF-2,Gallus gallus,leucine_zipper,361,390,372,382,LNGQLQNEVTL,AEDLSSLNGQLQNEVTLLRNEVA,0.944
+P97891,Translin,Cricetulus griseus,leucine_zipper,176,198,173,183,FINELDSGFRL,PLHISTFINELDSGFRLLNLKND,0.778
+P97891,Translin,Cricetulus griseus,leucine_zipper,176,198,174,183,INELDSGFRL,LHISTFINELDSGFRLLNLKND,0.792
+P97891,Translin,Cricetulus griseus,leucine_zipper,176,198,177,186,LDSGFRLLNL,STFINELDSGFRLLNLKNDSLR,1.0
+Q99089,Common plant regulatory factor 1,Petroselinum crispum,leucine_zipper,296,332,311,320,LKAEINRLTL,TAENMALKAEINRLTLTAEKLT,0.972
+A4IGK3,cAMP-responsive element-binding protein-like 2,Xenopus tropicalis,leucine_zipper,61,69,62,71,ICALREELEM,SSRERAICALREELEMYKQWCA,0.858
+J9VQ26,BZIP domain-containing transcription factor BZP4,Cryptococcus neoformans (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487),leucine_zipper,278,307,300,309,INELRLQLKL,ESQRNEINELRLQLKLPLLPRG,0.983
+P79769,Translin,Gallus gallus,leucine_zipper,176,198,173,183,FINELDSGFRL,PLRISTFINELDSGFRLLNLKND,0.778
+P79769,Translin,Gallus gallus,leucine_zipper,176,198,174,183,INELDSGFRL,LRISTFINELDSGFRLLNLKND,0.792
+P79769,Translin,Gallus gallus,leucine_zipper,176,198,177,186,LDSGFRLLNL,STFINELDSGFRLLNLKNDSLR,1.0
+Q0URD7,Basic leucine zipper transcription factor atfA,Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173),coiled_coil,450,485,451,460,LANLQAKVEL,QRKKQWLANLQAKVELFSTEND,0.944
+Q0URD7,Basic leucine zipper transcription factor atfA,Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173),coiled_coil,450,485,479,487,IVNLKTLLL,TQLREEIVNLKTLLLAHKDCP,0.983
+Q4R3D4,Elongation factor 1-delta,Macaca fascicularis,leucine_zipper,79,115,80,89,LVVRIASLEV,SGDHSELVVRIASLEVENQSLR,0.983
+Q4R3D4,Elongation factor 1-delta,Macaca fascicularis,leucine_zipper,79,115,81,89,VVRIASLEV,GDHSELVVRIASLEVENQSLR,0.831
+Q4R3D4,Elongation factor 1-delta,Macaca fascicularis,leucine_zipper,79,115,105,114,ISKLEARLNV,QELQQAISKLEARLNVLEKSSP,0.694
+Q504L8,Transcription factor MafB,Xenopus tropicalis,leucine_zipper,258,280,266,275,LIQQVEQLKL,ENEKTQLIQQVEQLKLEVSRLA,0.986
+Q504L8,Transcription factor MafB,Xenopus tropicalis,leucine_zipper,258,280,267,275,IQQVEQLKL,NEKTQLIQQVEQLKLEVSRLA,0.861
+Q5R7P2,Translin,Pongo abelii,leucine_zipper,176,198,173,183,FINELDSGFRL,PLHISTFINELDSGFRLLNLKND,0.778
+Q5R7P2,Translin,Pongo abelii,leucine_zipper,176,198,174,183,INELDSGFRL,LHISTFINELDSGFRLLNLKND,0.792
+Q5R7P2,Translin,Pongo abelii,leucine_zipper,176,198,177,186,LDSGFRLLNL,STFINELDSGFRLLNLKNDSLR,1.0
+Q66J36,Nuclear factor interleukin-3-regulated protein,Xenopus laevis,leucine_zipper,93,115,108,117,LKTELLSLKL,GEENASLKTELLSLKLKFGLIS,0.958
+Q99090,Light-inducible protein CPRF2,Petroselinum crispum,leucine_zipper,225,247,226,235,LETQVSQLRV,QAHMTELETQVSQLRVENSSLL,0.997
+Q5FW38,Nuclear factor interleukin-3-regulated protein,Xenopus tropicalis,leucine_zipper,100,122,115,124,LKTELLSLKL,GEENASLKTELLSLKLKFGLIS,0.958
+P51984,Cyclic AMP-responsive element-binding protein,Hydra viridissima,leucine_zipper,218,240,216,225,VKCLENRVAV,RKKKEYVKCLENRVAVLENQNK,0.803
+Q1HVG1,Lytic switch protein BZLF1,Epstein-Barr virus (strain AG876),leucine_zipper,195,228,217,227,LLKQMCPSLDV,NDRLRLLLKQMCPSLDVDSIIPR,0.806
+Q1HVG1,Lytic switch protein BZLF1,Epstein-Barr virus (strain AG876),leucine_zipper,195,228,218,227,LKQMCPSLDV,DRLRLLLKQMCPSLDVDSIIPR,0.806
+Q5R644,Apoptosis inhibitor 5,Pongo abelii,leucine_zipper,369,391,377,386,LQYFARGLQV,KDFKIRLQYFARGLQVYIRQLR,0.778
+Q5R644,Apoptosis inhibitor 5,Pongo abelii,leucine_zipper,369,391,384,393,LQVYIRQLRL,QYFARGLQVYIRQLRLALQGKT,0.972
+P01104,Transforming protein Myb,Avian myeloblastosis virus,leucine_zipper,304,326,312,322,ILDNVKNLLEF,IVHQSNILDNVKNLLEFAETLQL,0.708
+P01104,Transforming protein Myb,Avian myeloblastosis virus,leucine_zipper,304,326,313,322,LDNVKNLLEF,VHQSNILDNVKNLLEFAETLQL,0.833
+P01104,Transforming protein Myb,Avian myeloblastosis virus,leucine_zipper,304,326,319,328,LLEFAETLQL,LDNVKNLLEFAETLQLIDSFLN,0.917
+A0A5F9ZHS7,NFIL3 like protein,Homo sapiens,leucine_zipper,69,91,84,93,LKGELKALKL,MEENALLKGELKALKLRFGLLP,0.958
+A5D8S1,Leucine zipper protein 2,Danio rerio,leucine_zipper,161,190,176,185,LMDLENKLKV,IFKGQQLMDLENKLKVAKDELE,0.819
+A5D8S1,Leucine zipper protein 2,Danio rerio,coiled_coil,40,209,176,185,LMDLENKLKV,IFKGQQLMDLENKLKVAKDELE,0.819
+A5D8S1,Leucine zipper protein 2,Danio rerio,coiled_coil,40,209,201,210,LKALKDTVHI,LDKESQLKALKDTVHICFSSVL,0.983
+Q8BGY3,Leucine zipper protein 2,Mus musculus,leucine_zipper,163,192,178,187,LTELEQKLAV,LFKAQQLTELEQKLAVAKNELE,0.819
+Q8BGY3,Leucine zipper protein 2,Mus musculus,coiled_coil,15,211,178,187,LTELEQKLAV,LFKAQQLTELEQKLAVAKNELE,0.819
+Q8BGY3,Leucine zipper protein 2,Mus musculus,coiled_coil,15,211,203,212,MKAMKETVQL,LDRESQMKAMKETVQLCLSSVF,0.969
+Q6K3R9,Basic leucine zipper 19,Oryza sativa subsp. japonica,leucine_zipper,167,196,168,177,LERSVTTLQM,LQYISELERSVTTLQMEVSALS,1.0
+Q6K3R9,Basic leucine zipper 19,Oryza sativa subsp. japonica,leucine_zipper,167,196,179,188,VSALSPRVAF,TTLQMEVSALSPRVAFLDHQRS,0.789
+A5DQA6,DNA-directed RNA polymerase III subunit RPC3,Meyerozyma guilliermondii (strain ATCC 6260 / CBS 566 / DSM 6381 / JCM 1539 / NBRC 10279 / NRRL Y-324),leucine_zipper,515,537,520,530,MAELLQGIVDF,NSLTFGMAELLQGIVDFKDEHRI,0.681
+A5DRM4,DNA-directed RNA polymerase III subunit RPC3,Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239),leucine_zipper,537,559,545,554,IVRNIQNFKM,VYNMAEIVRNIQNFKMENKILL,0.831
+A5DRM4,DNA-directed RNA polymerase III subunit RPC3,Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239),leucine_zipper,537,559,546,554,VRNIQNFKM,YNMAEIVRNIQNFKMENKILL,0.803
+Q54GH0,Probable basic-leucine zipper transcription factor O,Dictyostelium discoideum,leucine_zipper,405,413,406,415,IKEIEDKLSL,QKKKDYIKEIEDKLSLLEMENS,0.997
+Q54T16,Probable basic-leucine zipper transcription factor K,Dictyostelium discoideum,coiled_coil,36,180,92,100,IEPIFEIVV,QYQQPYIEPIFEIVVTQQDQQ,0.722
+Q5QNI5,Basic leucine zipper 2,Oryza sativa subsp. japonica,leucine_zipper,215,244,227,236,VSALSPRVAF,TSLQTEVSALSPRVAFLDHQRS,0.789
+Q54Y73,Probable basic-leucine zipper transcription factor D,Dictyostelium discoideum,leucine_zipper,406,414,407,416,LSRMRKKIYI,NRESAQLSRMRKKIYIEDLEKT,0.847
+Q55E93,Probable basic-leucine zipper transcription factor E,Dictyostelium discoideum,coiled_coil,7,47,8,16,IQQIQQLHM,DDQQLTIQQIQQLHMLLQQQQ,0.722
+Q54T17,Probable basic-leucine zipper transcription factor M,Dictyostelium discoideum,leucine_zipper,290,312,291,300,IESKILALTL,KEYVKEIESKILALTLENDKLK,0.997
+Q54T17,Probable basic-leucine zipper transcription factor M,Dictyostelium discoideum,coiled_coil,126,157,150,160,IEKQIQEIIKI,QQQQQYIEKQIQEIIKIPEKRQT,0.75
+Q5JMK6,Basic leucine zipper 6,Oryza sativa subsp. japonica,leucine_zipper,164,186,169,178,VTTLQNEVSV,SELERSVTTLQNEVSVLSPRVA,0.803
+Q5JMK6,Basic leucine zipper 6,Oryza sativa subsp. japonica,leucine_zipper,164,186,176,185,VSVLSPRVAF,TTLQNEVSVLSPRVAFLDQQRT,0.789
+Q54RZ9,Probable basic-leucine zipper transcription factor G,Dictyostelium discoideum,leucine_zipper,304,340,333,343,LKAEVGQLFEV,ENENLILKAEVGQLFEVINDSPV,0.806
+A1CZP6,DNA-directed RNA polymerase III subunit rpc3,Aspergillus fischeri (strain ATCC 1020 / DSM 3700 / CBS 544.65 / FGSC A1164 / JCM 1740 / NRRL 181 / WB 181),leucine_zipper,581,603,586,595,MSRCLQRLRF,QDTYKAMSRCLQRLRFERSRIK,0.694
+Q4WEU2,DNA-directed RNA polymerase III subunit rpc3,Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293),leucine_zipper,555,577,560,569,MSRCLQRLRF,QDTYKAMSRCLQRLRFERSRIK,0.694
+Q2GUW6,DNA-directed RNA polymerase III subunit RPC3,Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970),leucine_zipper,554,576,557,565,VTMVHCLQV,LLDTGYVTMVHCLQVLEALRR,0.694
+Q5ATV8,DNA-directed RNA polymerase III subunit rpc3,Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139),leucine_zipper,549,571,554,563,MSRCLQRLKF,QDTYKAMSRCLQRLKFERGRLK,0.694
+A6RPU8,DNA-directed RNA polymerase III subunit rpc3,Botrytis cinerea (strain B05.10),leucine_zipper,592,614,597,606,MSRCLQRLDV,DRTYKAMSRCLQRLDVEKRRKA,0.708
+Q8WZW7,DNA-directed RNA polymerase III subunit rpc-3,Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987),leucine_zipper,550,572,555,564,MVHCLQVLEV,AKCYATMVHCLQVLEVRRQKDK,0.708
+Q8WZW7,DNA-directed RNA polymerase III subunit rpc-3,Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987),leucine_zipper,550,572,556,564,VHCLQVLEV,KCYATMVHCLQVLEVRRQKDK,0.667
+A1C4R7,DNA-directed RNA polymerase III subunit rpc3,Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107),leucine_zipper,561,583,566,575,MSRCFQRLRF,QDTYKAMSRCFQRLRFERNRLK,0.653
+A2QUS7,DNA-directed RNA polymerase III subunit rpc3,Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513),leucine_zipper,553,575,558,567,MSRCMQRLRF,EDTYKAMSRCMQRLRFERNRLK,0.681
+Q1DTR6,DNA-directed RNA polymerase III subunit RPC-3,Coccidioides immitis (strain RS),leucine_zipper,579,601,584,593,MSRCLQRIRV,EDTYKSMSRCLQRIRVEREKLK,0.722
+Q68US1,T-complex protein 10A homolog 1,Pan troglodytes,leucine_zipper,74,96,89,98,LREKLRALQL,REQNMELREKLRALQLQRWKAR,1.0
+Q68US1,T-complex protein 10A homolog 1,Pan troglodytes,coiled_coil,68,110,89,98,LREKLRALQL,REQNMELREKLRALQLQRWKAR,1.0
+A6R9K6,DNA-directed RNA polymerase III subunit rpc3,Histoplasma mississippiense,leucine_zipper,575,597,580,589,MSRCLQRIGV,EDTYKCMSRCLQRIGVERNKLK,0.722
+Q0CE91,DNA-directed RNA polymerase III subunit rpc3,Aspergillus terreus (strain NIH 2624 / FGSC A1156),leucine_zipper,576,598,581,590,MSRCLQRLRF,EDTYKSMSRCLQRLRFERNRLK,0.694
+Q2U9X7,DNA-directed RNA polymerase III subunit rpc3,Aspergillus oryzae (strain ATCC 42149 / RIB 40),leucine_zipper,579,601,584,593,MSRCLQRLRF,EDTYKAMSRCLQRLRFERSRLK,0.694
+Q5R8Y4,Leucine zipper protein 2,Pongo abelii,leucine_zipper,163,192,178,187,LTDLEQKLAV,LFKAQQLTDLEQKLAVAKNELE,0.819
+Q5R8Y4,Leucine zipper protein 2,Pongo abelii,coiled_coil,15,211,178,187,LTDLEQKLAV,LFKAQQLTDLEQKLAVAKNELE,0.819
+Q5R8Y4,Leucine zipper protein 2,Pongo abelii,coiled_coil,15,211,203,212,MKAMKETVQL,LDRESQMKAMKETVQLCLTSVF,0.969

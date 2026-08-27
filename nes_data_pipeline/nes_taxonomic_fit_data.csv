@@ -1,0 +1,1195 @@
+seq,organism,taxonomic_group,provenance_source,true_label,oof_predicted_proba
+LALKLAGLDI,Homo sapiens (Human) / Oryctolagus cuniculus (Rabbit).,Human,nes_dataset.csv (real positive),1,0.86
+EMFRELNEALELKD,Homo sapiens (Human).,Human,nes_dataset.csv (real positive),1,0.83
+SISLSFDESLALCVI,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9
+GIDLSGLTLQ,Xenopus laevis (African clawed frog).,Other vertebrate,nes_dataset.csv (real positive),1,0.6933333333333334
+ESLEEELDVLVLDDEGG,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.7
+DKERWEDVKEEMTSALATMRVDYE,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.8333333333333334
+EAINKLESNLRELQICPAT,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.8766666666666667
+DLCQAFSDVILAV,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.94
+SLPHAILRIDLA,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,nes_dataset.csv (real positive),1,0.8833333333333333
+DIKEKLCYVALD,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,nes_dataset.csv (real positive),1,0.88
+LPPLERLTL,Human immunodeficiency virus type 1 (CDC-451 isolate) (HIV-1),Viral,nes_dataset.csv (real positive),1,0.7466666666666667
+DALSAQLYSSLSLDS,Human T-lymphotropic virus 1,Viral,nes_dataset.csv (real positive),1,0.8266666666666667
+LQKKLEELELDEQ,Xenopus laevis (African clawed frog),Other vertebrate,nes_dataset.csv (real positive),1,0.9033333333333333
+DEPPALPPKIGTPTRPCPLPPGKRSINKLDSPDPF,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8166666666666667
+QLVEELLKIICAFQLDTGL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.94
+LSEALLQLQF,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9566666666666667
+EDLVVKTPEWGEELQDLVDQLGFL,Lycopersicon peruvianum (Peruvian tomato),Plant,nes_dataset.csv (real positive),1,0.71
+ESFDIDDLCSKLKNKAKCS,Schizosaccharomyces pombe (Fission yeast),Yeast/Fungi,nes_dataset.csv (real positive),1,0.6633333333333333
+LLLKKMYLM,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.72
+LCLSDLSLL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9
+EAALSDALAALQIE,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,nes_dataset.csv (real positive),1,0.9466666666666667
+ALPLGKLTL,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,nes_dataset.csv (real positive),1,0.85
+LKVIEENVCPKPAQVEPSSPSPMETSGCLPDELCQAFSDVLIHVKDVDAD,Xenopus laevis (African clawed frog),Other vertebrate,nes_dataset.csv (real positive),1,0.91
+DIQELSEQIHRLLL,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.9833333333333333
+ELKDFLKELNIQVD,Rattus norvegicus (Rat),Rodent,nes_dataset.csv (real positive),1,0.8833333333333333
+LYPELRRILTI,Human adenovirus type 5,Viral,nes_dataset.csv (real positive),1,0.47333333333333333
+LDRKLLELLW,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.6133333333333333
+MDLSAIYESLMSMSHDLSPDH,Rattus norvegicus (Rat),Rodent,nes_dataset.csv (real positive),1,0.6866666666666666
+KERLLDDRHDSGLDSMKDEEYEQMVKELQEIRLEPQEVPRGSEPWKQQLTE,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8033333333333333
+EKVAEKLEALSVKEETKE,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9
+QEDILDELLGNMVLA,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8833333333333333
+NFEILMKLKESLELMELVP,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9133333333333333
+LTKMCTIRM,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.5233333333333333
+DDIVFEDFARLRLKGMKDDDCDDQFC,Rattus norvegicus (Rat),Rodent,nes_dataset.csv (real positive),1,0.6533333333333333
+LIAGIIAMIC,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.5633333333333334
+MTLGMIWTIIL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.63
+LAQQFEQLSV,Arabidopsis thaliana,Plant,nes_dataset.csv (real positive),1,0.9666666666666667
+PFPQDVINKLDKLSVLRLSVS,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8733333333333333
+DLRDAFRTLGL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.7333333333333333
+RLGSHTMDFFEMCASLITALAR,Rattus norvegicus (Rat),Rodent,nes_dataset.csv (real positive),1,0.08
+VIQQTLAAIVDAIKLDAI,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.5533333333333333
+VGGELLDLLGDLNLS,Xenopus laevis (African clawed frog),Other vertebrate,nes_dataset.csv (real positive),1,0.8066666666666666
+VLSAVKVLMKFLELLPKDS,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.7966666666666666
+LLERLKELNL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8666666666666667
+LTKRIDSLPL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.7533333333333333
+ESTPDGFSCSSSLSALSLDEP,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.21666666666666667
+EGTPINFSTATSLSDLTIESP,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.2633333333333333
+EDTPVCFSRNSSLSSLSIDSE,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.20333333333333334
+LWVRLYVLELYCIIL,Rattus norvegicus (Rat),Rodent,nes_dataset.csv (real positive),1,0.8966666666666666
+DVKSLESALKDLKIK,Xenopus laevis (African clawed frog),Other vertebrate,nes_dataset.csv (real positive),1,0.8266666666666667
+LLRNEVAQLKQLLLAH,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8133333333333334
+LRLTLLELVRRL,Borna disease virus (BDV),Viral,nes_dataset.csv (real positive),1,0.47
+LEELCAARRLSL,Bovine herpesvirus 1,Viral,nes_dataset.csv (real positive),1,0.33
+ELITFINALKL,Bovine papillomavirus type 1,Viral,nes_dataset.csv (real positive),1,0.6166666666666667
+DLSDLTFLEVA,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.67
+RDLERAMTTLKLWES,Measles virus (strain Edmonston-AIK-C vaccine) (MeV) (Subacute sclerose panencephalitis virus),Viral,nes_dataset.csv (real positive),1,0.5033333333333333
+AGDILALVFGLLFAVTSV,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8766666666666667
+LDSSLANLVGNLGIGNGT,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.94
+SSTSGLEQDVAQLNIAEQN,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9766666666666667
+LEMFGPEGAL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.69
+LRKLCERLRG,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.6633333333333333
+LLDKLLDLNP,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.82
+VLRMMVGVNI,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.83
+FVKVLEKVDV,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8033333333333333
+PNCPFLENSLETLRFSISNLSMQ,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9266666666666666
+LGALWLAL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.5266666666666666
+IHTPVAIIELELGK,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9033333333333333
+EVKVNQILKTLSEVEES,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8033333333333333
+DLLGTDQDNLDLANVNLMLELLVQKKKQLEAESHAAQLQILMEFL,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.8333333333333334
+LAALNHISAL,Schizosaccharomyces pombe (Fission yeast),Yeast/Fungi,nes_dataset.csv (real positive),1,0.7666666666666667
+DLCQAFSDVILA,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9566666666666667
+MSHVAVENALGLDQQFAGLDLN,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.6033333333333334
+PFGQALRPLLDSIQI,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9033333333333333
+LSTLDQLRL,Rattus norvegicus (Rat),Rodent,nes_dataset.csv (real positive),1,0.7366666666666667
+SLEGAVSEISLRD,Schizosaccharomyces pombe (Fission yeast),Yeast/Fungi,nes_dataset.csv (real positive),1,0.9466666666666667
+MVLTREELVI,Human Adenovirus C,Viral,nes_dataset.csv (real positive),1,0.17333333333333334
+VSQIFPDSVMLAVQEGIDLL,Human adenovirus C serotype 5 (HAdV-5) (Human adenovirus 5),Viral,nes_dataset.csv (real positive),1,0.36666666666666664
+FDIDEAEEGVKDLKIESDV,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.81
+RIDRDVQILNHILDDIEFFITKLQ,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9
+LCNCALEELRL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8533333333333334
+LWEFIRDILI,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8533333333333334
+IHKKFSSIQM,Drosophila melanogaster (Fruit fly),Invertebrate/Other,nes_dataset.csv (real positive),1,0.79
+RLSHLRSEEVHWLHVDMGV,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.7233333333333334
+FLQVRKYSLDLASLILYAYQL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.78
+DLNALLLEVEGPLCKKLSLSKVIDCDS,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.88
+PQVTVDVLQRMLIFALDALAAG,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8266666666666667
+LADLKVSIENMGLYEDL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.86
+LSPGLIKKFQFLMFRLFSEAR,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8333333333333334
+GNEDIISRLQEMVADLELQQDLIVPLGHTPS,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9066666666666666
+LVVLPLELKL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.48
+EVDQLRLERLQIDEQLR,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.5733333333333334
+QILPKVLHKRTLGLSAM,Hepatitis B virus genotype D subtype ayw (isolate France/Tiollais/1979) (HBV-D),Viral,nes_dataset.csv (real positive),1,0.23
+MVNFVSVGLFRCLPVPCPEDLLVEELVDGLLSL,Human T-cell leukemia virus type 1 (HTLV-1),Viral,nes_dataset.csv (real positive),1,0.6066666666666667
+EAQTCENEEAETVTAMASLSVGVKPA,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8366666666666667
+EEAETVSAMALLSVGAEQAQAAAAREHSPRPAEEPMEQEPAL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.7466666666666667
+LSFDESLALCVIREI,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.94
+LQLPPLERLTLD,Human immunodeficiency virus type 1 (isolate HXB3 group M subtype B) (HIV-1),Viral,nes_dataset.csv (real positive),1,0.79
+LVDKFMKLDL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.83
+DTDIQELSEQIHRLLLQPV,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9866666666666667
+ISPRLDAIKL,Human papillomavirus type 11,Viral,nes_dataset.csv (real positive),1,0.8233333333333334
+ARSFEMTEFNQALEEIKGQVVEN,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.88
+DIELTLRLN,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.7166666666666667
+EELQDLVDQLGFL,Solanum peruvianum (Peruvian tomato),Plant,nes_dataset.csv (real positive),1,0.53
+IEAALSDALAALQI,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,nes_dataset.csv (real positive),1,0.9566666666666667
+MATLEKLMKAFESLKSF,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.30333333333333334
+MVAEMVESLQSVLALGHKRNSGVPAFLTPLLRNIIISLARLPLVNSYTRVP,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.62
+MFQAAERPQEWAMEGPRDGLKKERLLDDRHDSGLDSMKDEEYEQMVKELQEIRLE,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.6133333333333333
+VIDYIRDLQLELNS,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.89
+LTTLNTDISILSLQASE,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.93
+VSKYPLMEEIGFLVLGMRVYHVHSDS,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.93
+LQRMLPSLSLT,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8566666666666667
+RCHSLTPNFLQMQLQKCEILQSDSRCKDYLVKIFEELTLHKPTQ,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.7566666666666667
+IPYSINMNVFLPDITHLRTGLYKSQRPCVTQ,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.66
+MDVLPMCSIFQELQIV,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.5733333333333334
+MVPLVIKLRL,Kaposi''s sarcoma-associated herpesvirus 8 (KSHV),Viral,nes_dataset.csv (real positive),1,0.7966666666666666
+FKPDMNPALREVLEALEDEAYVVNDD,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,nes_dataset.csv (real positive),1,0.7466666666666667
+ALREVLEALEDE,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,nes_dataset.csv (real positive),1,0.7133333333333334
+LEKVTNTLSSLKF,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,nes_dataset.csv (real positive),1,0.8566666666666667
+LEQELQQLSLEL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8833333333333333
+LFGDTIAYLLSL,Influenza B virus (strain B/Lee/1940),Viral,nes_dataset.csv (real positive),1,0.5766666666666667
+LLYCLMVMYL,Influenza B virus (strain B/Lee/1940),Viral,nes_dataset.csv (real positive),1,0.5166666666666667
+QLLQEKLEKLTKLK,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,nes_dataset.csv (real positive),1,0.83
+ALQKKLEELELDE,Xenopus laevis (African clawed frog),Other vertebrate,nes_dataset.csv (real positive),1,0.8466666666666667
+VPEVEALLARLRAL,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.8633333333333333
+DLVLLSLVL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8433333333333334
+QLQQKLLWLL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.48
+LRERLAALGLDD,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9433333333333334
+LVIAMDQLNL,Schizosaccharomyces pombe (Fission yeast),Yeast/Fungi,nes_dataset.csv (real positive),1,0.6833333333333333
+PLPVLGLGGLRISSDS,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.87
+LFDLAMLALD,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.6966666666666667
+LHLVGVNV,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.79
+ASLTKLFECMTLAYSGKLVS,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8933333333333333
+LEIALRNLNL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9166666666666666
+DEMDSGTMVRAVGDEMGTVRVASTMTDGANTMIEHDDTLPSQLGTMVINAEDEEEEGTM,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.93
+DGDYEFLKSWTVEDLQKRLLALDPMMEQEIE,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.92
+PVSKITFVTL,Epstein-Barr virus (strain B95-8) (HHV-4) (Human herpesvirus 4),Viral,nes_dataset.csv (real positive),1,0.7466666666666667
+LPSPLASLTL,Epstein-Barr virus (strain B95-8) (HHV-4) (Human herpesvirus 4),Viral,nes_dataset.csv (real positive),1,0.8166666666666667
+IQDGLLKMLSLVL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.7733333333333333
+ITFIFKSLGL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.5566666666666666
+LEWLRRLSL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9033333333333333
+VQVVADVLSKLLVVGITDPD,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8466666666666667
+LAPNVAALLFGGNVAVRELADSYEITYNYKMTVPKSDPNV,Porcine epidemic diarrhea virus,Viral,nes_dataset.csv (real positive),1,0.7266666666666667
+CTLSDSGRISYTVEFSLPTHHTVRLIRVTASPSA,Porcine reproductive and respiratory syndrome virus (PRRSV),Viral,nes_dataset.csv (real positive),1,0.09
+KKTISPEHVIQALESLGFGSYISEVK,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.5533333333333333
+ILMRMSKMQL,Influenza A virus (strain swl A/California/04/2009 H1N1),Viral,nes_dataset.csv (real positive),1,0.5433333333333333
+MVTRFESLKI,Influenza A virus (strain swl A/California/04/2009 H1N1),Viral,nes_dataset.csv (real positive),1,0.63
+YIWALTQTLRIA,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.6533333333333333
+SAIVAAINALTT,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.7566666666666667
+DQFESELAGKMSNLVLDG,Aspergillus nidulans,Yeast/Fungi,nes_dataset.csv (real positive),1,0.8133333333333334
+INIDELLDEL,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,nes_dataset.csv (real positive),1,0.8166666666666667
+LDLPDALLPDLPKL,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.7066666666666667
+LLPLAEADKVRLSYLHIMSLACIYT,Rattus norvegicus (Rat),Rodent,nes_dataset.csv (real positive),1,0.88
+DLCLAVEEVSL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.38333333333333336
+LKRRLSTLYL,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.8033333333333333
+LRNQLTALRI,Influenza D virus (D/bovine/Shandong/Y217/2014),Viral,nes_dataset.csv (real positive),1,0.82
+LLLPLMRNLEM,Influenza D virus (D/bovine/Shandong/Y217/2014),Viral,nes_dataset.csv (real positive),1,0.76
+LVSLIRLKSKL,Influenza D virus (D/bovine/Shandong/Y217/2014),Viral,nes_dataset.csv (real positive),1,0.2866666666666667
+DEMTKKFGTLTIHDTEKYASQPELCNN,Murine minute virus (Murine parvovirus),Viral,nes_dataset.csv (real positive),1,0.4066666666666667
+LCPDLPELDL,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.7866666666666666
+LVDSLQQLRL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9066666666666666
+LELFVLRLA,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.8733333333333333
+LQRIFYLKL,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.77
+LKSLGELGL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8266666666666667
+LSKIATLLL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.7
+LLLAGLPLL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8033333333333333
+VLSQRIGLMDV,Kaposi''s sarcoma-associated herpesvirus 8 (KSHV),Viral,nes_dataset.csv (real positive),1,0.9133333333333333
+LRHELVEDAVYENPL,Varicella-zoster virus,Viral,nes_dataset.csv (real positive),1,0.10666666666666667
+SLEEELDVLVLDDEGG,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.93
+AALTVEELGLSKAARSQVDLNQAINTFMYYYYVAQIYSNLTHNKQE,African swine fever virus,Viral,nes_dataset.csv (real positive),1,0.23333333333333334
+LTELEISSIFSHCCSLLI,Borna disease virus (BDV),Viral,nes_dataset.csv (real positive),1,0.8633333333333333
+LTLLLDEFENMSV,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9466666666666667
+VVMEFLEGGALTDIV,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.44333333333333336
+LKGFLDRLLV,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.94
+VYNLVCVALGNLEIREIR,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.6933333333333334
+MKPALFNVLCEIKEKTVL,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.85
+ILKKVLEALKDLI,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.7566666666666667
+LLKDLPELALD,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9366666666666666
+VAEMLRDLNLG,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.7666666666666667
+LELEALRLSL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.7566666666666667
+LQDALRRLLGL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.6933333333333334
+FGETLRAAVTL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.2866666666666667
+LDEFNELAI,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.45666666666666667
+VIEKLQHELSL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.58
+RVREKQYQDTIGKLQKENNELLEQLEMLQAQLKNSTLDSPKEVEVNSEVV,Schizosaccharomyces pombe (Fission yeast),Yeast/Fungi,nes_dataset.csv (real positive),1,0.8333333333333334
+SLWGEHILALKNLKLDKM,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.6733333333333333
+NELALKLAGLDINKT,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.78
+REELWKKLEELKLKKALEK,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.63
+YEEQLVALFGSSMDLR,Xenopus laevis (African clawed frog),Other vertebrate,nes_dataset.csv (real positive),1,0.32666666666666666
+IIELLKGLDL,Human parainfluenza 2 virus (HPIV-2),Viral,nes_dataset.csv (real positive),1,0.8933333333333333
+LSLNLFALRI,Human cytomegalovirus,Viral,nes_dataset.csv (real positive),1,0.5833333333333334
+LTLSSLTL,Human cytomegalovirus,Viral,nes_dataset.csv (real positive),1,0.7066666666666667
+VEVLREIQL,Human herpesvirus 1 (strain F) (HHV-1) (Human herpes simplex virus 1),Viral,nes_dataset.csv (real positive),1,0.5066666666666667
+IMSQFRKLLM,Human herpesvirus 1 (strain 17) (HHV-1) (Human herpes simplex virus 1),Viral,nes_dataset.csv (real positive),1,0.6733333333333333
+EVDNLPEDMKRLHLDD,Rabies virus (strain CVS-11) (RABV),Viral,nes_dataset.csv (real positive),1,0.7633333333333333
+KVAEKLEALSVKEETKED,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9866666666666667
+EEILKLLMELVFRLVC,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.83
+LEDLVRHMSL,Bovine immunodeficiency virus (strain R29) (BIV) (Bovine immunodeficiency-like virus),Viral,nes_dataset.csv (real positive),1,0.8566666666666667
+ALSAQLYSSLSLDS,Human T-cell leukemia virus type 1 (HTLV-1),Viral,nes_dataset.csv (real positive),1,0.8366666666666667
+TIENQHSRNDVMVSEWLNKLNLEEPP,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.91
+EKGNLPELEKLEINGNRLDEDSDALDLLQSKFDDLEVDDFEE,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,nes_dataset.csv (real positive),1,0.8366666666666667
+GDVFGPELDTLLDSLSLVQGGLSGSGVPSELPQLIPV,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.6066666666666667
+DGFNELIPEDLVTVFDERELELLIGGIAEIDIEDWKKHTDYR,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,nes_dataset.csv (real positive),1,0.92
+QMLSKEVDACVTDLLKELVRFQD,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9
+QDQFHKMVELTVAAR,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.52
+QYESNENVVLVCSTIVCSFGKQVVEKVE,Drosophila melanogaster (Fruit fly),Invertebrate/Other,nes_dataset.csv (real positive),1,0.7533333333333333
+LEPDLSEEVSARLRLG,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8666666666666667
+RRMQEMITRMQAQMQI,Xenopus laevis (African clawed frog),Other vertebrate,nes_dataset.csv (real positive),1,0.6066666666666667
+TGEQELESLVLKLSVLKDF,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9533333333333334
+LESLVLKLSVLKDFLSGIQ,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.97
+SRDAARCRRSKETEIFMELSAALPLKTDDVNQLDKASVMRITIAFLKIREMLQF,Drosophila melanogaster (Fruit fly),Invertebrate/Other,nes_dataset.csv (real positive),1,0.8933333333333333
+DMDFLRNLFSQTLSLGSQK,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.77
+ELIIGGLDKIDL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.6366666666666667
+MEELSQALASSFSVS,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.59
+ESNGPVKVWGSIKGLTEGLHGFHVHEFGDNTA,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.48
+LSKTLGKLWRLL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8066666666666666
+EISKQLGKRWKNLTE,Eriocheir sinensis (Chinese mitten crab),Invertebrate/Other,nes_dataset.csv (real positive),1,0.6166666666666667
+EISKQLGRRWKMLTE,Eriocheir sinensis (Chinese mitten crab),Invertebrate/Other,nes_dataset.csv (real positive),1,0.5933333333333334
+ELSKTLGKLWRLLN,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8
+LEKQINDLQIDK,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,nes_dataset.csv (real positive),1,0.5666666666666667
+SASDDLEALGTLSLGTTEE,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9133333333333333
+IYPWMKRVHL,Drosophila melanogaster (Fruit fly),Invertebrate/Other,nes_dataset.csv (real positive),1,0.5333333333333333
+WDRTFSLFQQLIQ,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8766666666666667
+MEESTNGSLAAEFRHLQLKEQK,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.7866666666666666
+EERIVELFRNLMK,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.8833333333333333
+LSAEFKHLTLR,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.9133333333333333
+QLTTLAEKLLGPGV,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.8866666666666667
+INQMFSVQLSL,Rattus norvegicus (Rat),Rodent,nes_dataset.csv (real positive),1,0.4066666666666667
+EATEAQLNNSMAALNVN,Xenopus laevis (African clawed frog),Other vertebrate,nes_dataset.csv (real positive),1,0.85
+VKKQFEELTLGEFLKL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9266666666666666
+YKRIEELLYKISLTT,Human T-cell leukemia virus type 1 (HTLV-1),Viral,nes_dataset.csv (real positive),1,0.37
+NPASAPPPLPPPGQQVIHVTQDLDTDLEALFNSVMNPKP,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.6033333333333334
+HVLSSSAGNSAPNSPMAMLHIGSN,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8033333333333333
+MANSANTNTVPKLYRSVIEDVINDVRDIFLDDGVDEQVLM,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.6733333333333333
+QPDASKADPLPVLENLTLK,Bufo americanus (American toad),Invertebrate/Other,nes_dataset.csv (real positive),1,0.8666666666666667
+ILRDFFELRLK,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.7033333333333334
+FILEKIDGKIIIE,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.7233333333333334
+ETVQDILKEFF,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.65
+RISYQPENIQPNRHVANIVEKLREVKLSPEEGQK,Macaca mulatta (Rhesus macaque),Invertebrate/Other,nes_dataset.csv (real positive),1,0.7966666666666666
+QRLQGLPPDRGIIRPGSLDAEIDSLTSMLADLDGGRSHAP,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.94
+WMAIAGKIRSDL,Drosophila melanogaster (Fruit fly),Invertebrate/Other,nes_dataset.csv (real positive),1,0.06666666666666667
+CILCQLLLLY,Human cytomegalovirus,Viral,nes_dataset.csv (real positive),1,0.49666666666666665
+TTEELELELETLDIN,Xenopus laevis (African clawed frog),Other vertebrate,nes_dataset.csv (real positive),1,0.93
+TDPFLAMQVQELTRSMANLTFKQRRDAPPEGPSAKKPKK,Venezuelan equine encephalitis virus (strain P676) (VEEV),Viral,nes_dataset.csv (real positive),1,0.6133333333333333
+ELDTNFFTLYVAQG,Chicken anemia virus,Viral,nes_dataset.csv (real positive),1,0.5
+LERLFGRLRI,Human herpesvirus 1 (strain F) (HHV-1) (Human herpes simplex virus 1),Viral,nes_dataset.csv (real positive),1,0.76
+MDGAIASGVSKFATLSLHD,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8466666666666667
+IEVEASDLSLSL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9733333333333334
+SSLQELVQQFEALPGDLVG,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9366666666666666
+EQLERLRKDMGSVAL,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9266666666666666
+LRLGSQIFI,Canis familiaris (Dog),Other vertebrate,nes_dataset.csv (real positive),1,0.7033333333333334
+LQLVVLRDSK,Canis familiaris (Dog),Other vertebrate,nes_dataset.csv (real positive),1,0.8266666666666667
+LFGPIADIAL,Canis familiaris (Dog),Other vertebrate,nes_dataset.csv (real positive),1,0.7733333333333333
+LEKLANELPDL,Canis familiaris (Dog),Other vertebrate,nes_dataset.csv (real positive),1,0.81
+LTMKEVEELELLTQKLM,Gallus gallus (Chicken),Other vertebrate,nes_dataset.csv (real positive),1,0.89
+AAMQIVSGHATVEVSSGDQDTPHKTATFTIKVALN,Bovine torovirus,Viral,nes_dataset.csv (real positive),1,0.07333333333333333
+HLQKDVALSVLSKDLTDMD,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8933333333333333
+RLHDVLHSDKKLTLVFEF,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.18
+KPQNLLINRNGELKLADFG,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.1
+LSPLSPITQAVAMDALSLE,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8166666666666667
+EFVCLKSIILLNS,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.8066666666666666
+THYGQKAILFLPLPVSSD,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.7433333333333333
+NLREISQLGISGDITL,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.32666666666666666
+TGLLLARRLLN,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.73
+GLPKNVKEKLLSLKTLQSELFEVEKEFQ,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,nes_dataset.csv (real positive),1,0.37666666666666665
+TLWQFLLQLLLD,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.52
+ITGLADSLQL,Mus musculus (Mouse),Rodent,nes_dataset.csv (real positive),1,0.77
+MVTIPPLVSRWFPVCGFRVCKISSPFAFTTPRWPH,Porcine circovirus 2,Viral,nes_dataset.csv (real positive),1,0.2633333333333333
+IAPTGHSLKSLDLVTMKKLD,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.85
+QANRSLQLRIQELELQAQI,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.9
+LKLKLRPIFL,Anatid alphaherpesvirus 1,Viral,nes_dataset.csv (real positive),1,0.7633333333333333
+ANEKYKSALQELEELKQIV,Homo sapiens (Human),Human,nes_dataset.csv (real positive),1,0.51
+LQLPPLERLTL,Human immunodeficiency virus type 1,Viral,"curated seed (manually verified, see module docstring)",1,0.7433333333333333
+MKLNVTEQEQIQL,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.63
+LSNRELVVL,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.7833333333333333
+LGLGGLGLGL,,Synthetic (fabricated),"curated seed -- 'Synthetic optimal' designed peptide, not a natural sequence",1,0.7133333333333334
+LQHLRLISL,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.9366666666666666
+LEVFEALIG,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.71
+LQEILEGL,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.85
+LEQLIESIL,Foot-and-mouth disease virus,Viral,"curated seed (manually verified, see module docstring)",1,0.9733333333333334
+LQLKVWGL,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.8766666666666667
+FTELRLLAL,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.8033333333333333
+LLDLLQAEL,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.67
+MEELASLTSSFSV,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.5733333333333334
+MTKKFGTLTV,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.5233333333333333
+LQKKLEELEL,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.44666666666666666
+LRTLHSIFLV,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.5666666666666667
+LSQALFLFL,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.8733333333333333
+LELLKVWSL,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.9166666666666666
+IQKTLEEVL,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.8266666666666667
+LETVEELRKR,Human T-lymphotropic virus 1,Viral,"curated seed (manually verified, see module docstring)",1,0.06666666666666667
+LQKKIEQLL,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.86
+LCELFTTQL,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.8433333333333334
+LERLRISQL,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.92
+LEKLLEEIKQL,Influenza A virus,Viral,"curated seed (manually verified, see module docstring)",1,0.6333333333333333
+LQRLVSLSQL,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.7866666666666666
+LRLCIISQL,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.8966666666666666
+VEALLARLA,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.8033333333333333
+IQLLQEKLE,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.93
+IDSLTSMLA,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.78
+LQELVQQFE,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.6566666666666666
+MTEFNQALE,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.03333333333333333
+LRKLCERLR,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.05
+MHSLESSLI,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.8
+LPFLALFL,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.5933333333333334
+LFTHLFLEL,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.8
+RTGRRNAIHD,Homo sapiens (Human) / Oryctolagus cuniculus (Rabbit).,Human,"inherited from parent protein 'cAMP-dependent Protein Kinase Inhibitor, alpha form (PKI-alpha).' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.006666666666666667
+ETTYADFIAS,Homo sapiens (Human) / Oryctolagus cuniculus (Rabbit).,Human,"inherited from parent protein 'cAMP-dependent Protein Kinase Inhibitor, alpha form (PKI-alpha).' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.016666666666666666
+HKKLMFKTEGPDSD,Homo sapiens (Human).,Human,"inherited from parent protein 'Cellular tumor antigen p53 (Tumor suppressor p53) (Phosphoprotein p53) (Antigen NY-CO-13)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+CPVQLWVDSTPPPG,Homo sapiens (Human).,Human,"inherited from parent protein 'Cellular tumor antigen p53 (Tumor suppressor p53) (Phosphoprotein p53) (Antigen NY-CO-13)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+RCHLEGGSDQKDLVQ,Homo sapiens (Human),Human,"inherited from parent protein 'Ubiquitin-protein ligase E3 Mdm2 (p53-binding protein Mdm2) (Oncoprotein Mdm2) (Double minute 2 protein) (Hdm2)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+SSDSGTSVSENRCHL,Homo sapiens (Human),Human,"inherited from parent protein 'Ubiquitin-protein ligase E3 Mdm2 (p53-binding protein Mdm2) (Oncoprotein Mdm2) (Double minute 2 protein) (Hdm2)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+ELKHVKYCQY,Xenopus laevis (African clawed frog).,Other vertebrate,"inherited from parent protein 'Xsmad4a' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+VIYARLWRWP,Xenopus laevis (African clawed frog).,Other vertebrate,"inherited from parent protein 'Xsmad4a' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+LSAIADLLTNEHERVVK,Homo sapiens (Human),Human,"inherited from parent protein 'p120 catenin isoform 3AB' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.17333333333333334
+LRNVSSERSEARRKLRE,Homo sapiens (Human),Human,"inherited from parent protein 'p120 catenin isoform 3AB' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.016666666666666666
+PPPAPAQPPPPFPQFHVKSGLQIR,Mus musculus (Mouse),Rodent,"inherited from parent protein 'MAP KINASE-ACTIVATED PROTEIN KINASE 2 (MAPK-ACTIVATED PROTEIN KINASE 2) (MAPKAP KINASE 2) (MAPKAPK-2)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.04
+PPPPAPAQPPPPFPQFHVKSGLQI,Mus musculus (Mouse),Rodent,"inherited from parent protein 'MAP KINASE-ACTIVATED PROTEIN KINASE 2 (MAPK-ACTIVATED PROTEIN KINASE 2) (MAPKAP KINASE 2) (MAPKAPK-2)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03
+FNTLAELVHHHSTVADGLI,Mus musculus (Mouse),Rodent,"inherited from parent protein 'PROTO-ONCOGENE TYROSINE-PROTEIN KINASE ABL1 (P150) (C-ABL)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.04666666666666667
+VYELLEKDYRMERPEGCPE,Mus musculus (Mouse),Rodent,"inherited from parent protein 'PROTO-ONCOGENE TYROSINE-PROTEIN KINASE ABL1 (P150) (C-ABL)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.07333333333333333
+ILVDTASPSPMET,Homo sapiens (Human),Human,"inherited from parent protein 'G2/MITOTIC-SPECIFIC CYCLIN B1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.06333333333333334
+EEMYPPEIGDFAF,Homo sapiens (Human),Human,"inherited from parent protein 'G2/MITOTIC-SPECIFIC CYCLIN B1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.08333333333333333
+IAERMQKEITAL,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Actin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.12666666666666668
+SGMCKAGFAGDD,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Actin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+DVRKELYGNIVM,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Actin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.15
+PVLLTEAPMNPK,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Actin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05333333333333334
+SGTQGVGSP,Human immunodeficiency virus type 1 (CDC-451 isolate) (HIV-1),Viral,"inherited from parent protein 'HIV-1 Rev protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+DCSEDCGTS,Human immunodeficiency virus type 1 (CDC-451 isolate) (HIV-1),Viral,"inherited from parent protein 'HIV-1 Rev protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+NPPLGSTSQPCLFQT,Human T-lymphotropic virus 1,Viral,"inherited from parent protein 'Rex protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+SLPRQSLIQPPTFHP,Human T-lymphotropic virus 1,Viral,"inherited from parent protein 'Rex protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05333333333333334
+ELQVLHECNSPYI,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'Dual specificity mitogen-activated protein kinase kinase 1 (MAP kinase kinase 1) (MAPKK 1) (ERK activator kinase 1) (MAPK/ERK kinase 1) (MEK1)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.08666666666666667
+SPERLQGTHYSVQ,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'Dual specificity mitogen-activated protein kinase kinase 1 (MAP kinase kinase 1) (MAPKK 1) (ERK activator kinase 1) (MAPK/ERK kinase 1) (MEK1)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+DSSSLTGPVADTNLDFFQSDPFVGSDPFKDDPFGK,Homo sapiens (Human),Human,"inherited from parent protein 'EPIDERMAL GROWTH FACTOR RECEPTOR SUBSTRATE 15 (PROTEIN EPS15) (AF-1P PROTEIN)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.06666666666666667
+AFHLISQKLIKGIDPPHVLTPEMIPPSDRASLQKN,Homo sapiens (Human),Human,"inherited from parent protein 'EPIDERMAL GROWTH FACTOR RECEPTOR SUBSTRATE 15 (PROTEIN EPS15) (AF-1P PROTEIN)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.06333333333333334
+TPEEFMLVYKFARKHHITL,Homo sapiens (Human),Human,"inherited from parent protein 'Breast cancer type 1 susceptibility protein (BRCA1)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.08666666666666667
+EWMVQLCGASVVKELSSFT,Homo sapiens (Human),Human,"inherited from parent protein 'Breast cancer type 1 susceptibility protein (BRCA1)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.12
+LIFPAEPAQA,Homo sapiens (Human),Human,"inherited from parent protein 'Transcription factor p65 (Nuclear factor NF-kappa-B p65 subunit) (RelA)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+TVRDPSGRPL,Homo sapiens (Human),Human,"inherited from parent protein 'Transcription factor p65 (Nuclear factor NF-kappa-B p65 subunit) (RelA)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+RKDKQRIEVGQKRRLTMTPSVTGS,Lycopersicon peruvianum (Peruvian tomato),Plant,"inherited from parent protein 'Heat shock factor protein HSF30 (Heat shock transcription factor 30) (HSTF 30) (Heat stress transcription factor) (HsfA2)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05333333333333334
+QIIAMGEKIETQERKQVQMMSFLA,Lycopersicon peruvianum (Peruvian tomato),Plant,"inherited from parent protein 'Heat shock factor protein HSF30 (Heat shock transcription factor 30) (HSTF 30) (Heat stress transcription factor) (HsfA2)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03333333333333333
+CGSIACSMLTKTTPHRASV,Schizosaccharomyces pombe (Fission yeast),Yeast/Fungi,"inherited from parent protein 'AP-1-like transcription factor (Pap1)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.09333333333333334
+LPTTGFSSNFAHMKDGISP,Schizosaccharomyces pombe (Fission yeast),Yeast/Fungi,"inherited from parent protein 'AP-1-like transcription factor (Pap1)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.08666666666666667
+LNVTELTQN,Homo sapiens (Human),Human,"inherited from parent protein 'Signal transducer and activator of transcription 1-alpha/beta (Transcription factor ISGF-3 components p91/p84)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.02666666666666667
+LRLLVKLQE,Homo sapiens (Human),Human,"inherited from parent protein 'Signal transducer and activator of transcription 1-alpha/beta (Transcription factor ISGF-3 components p91/p84)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.6166666666666667
+LTINPGSTP,Homo sapiens (Human),Human,"inherited from parent protein 'Metal-regulatory transcription factor (MTF1)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.006666666666666667
+QHIISPDQI,Homo sapiens (Human),Human,"inherited from parent protein 'Metal-regulatory transcription factor (MTF1)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.006666666666666667
+ETKDLLLLDVAPLS,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Heat shock protein SSB1 (Cold-inducible protein YG101) (Ssb1)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.41333333333333333
+GNPVIEVQYLEETK,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Heat shock protein SSB1 (Cold-inducible protein YG101) (Ssb1)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05333333333333334
+QELFMARLV,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'RNA export factor GLE1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.13666666666666666
+IKKADVNVR,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'RNA export factor GLE1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05
+GKRVVATKPGLRPRTALGDIGNKAEVKVPTKKELKPAVKAAKKAKPVDKL,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'G2/mitotic-specific cyclin B1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.08
+TFVTDHTYTKAQIRDMEMKILRVLKFAIGRPLPLHFLRRASKIGEVTAEQ,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'G2/mitotic-specific cyclin B1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.37333333333333335
+SIDSSEAEAGAARA,Mus musculus (Mouse),Rodent,"inherited from parent protein 'Period circadian protein 1 (Circadian pacemaker protein Rigui) (mPER) (M-Rigui)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+ELLAPQDVGVFYGS,Mus musculus (Mouse),Rodent,"inherited from parent protein 'Period circadian protein 1 (Circadian pacemaker protein Rigui) (mPER) (M-Rigui)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.08666666666666667
+SLENHCSLEQQRVM,Rattus norvegicus (Rat),Rodent,"inherited from parent protein '1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase delta 1 (PLC-delta-1) (Phospholipase C-delta-1) (PLC-III)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.04666666666666667
+TEGLEKFARDIPED,Rattus norvegicus (Rat),Rodent,"inherited from parent protein '1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase delta 1 (PLC-delta-1) (Phospholipase C-delta-1) (PLC-III)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.01
+CAFYCCWKGVV,Human adenovirus type 5,Viral,"inherited from parent protein 'E1B protein, large T-antigen (E1B-55K)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+KYSIEQLTTYW,Human adenovirus type 5,Viral,"inherited from parent protein 'E1B protein, large T-antigen (E1B-55K)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+VIKDKLFNQI,Mus musculus (Mouse),Rodent,"inherited from parent protein '38 kDa MOV34 ISOLOGUE (Kip1 C-terminus interacting protein-2) (Jab1/CSN5)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.19666666666666666
+GLMSQVIKDK,Mus musculus (Mouse),Rodent,"inherited from parent protein '38 kDa MOV34 ISOLOGUE (Kip1 C-terminus interacting protein-2) (Jab1/CSN5)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.08333333333333333
+GRRTSPPPPGFSGPSLSSCSF,Rattus norvegicus (Rat),Rodent,"inherited from parent protein 'Tristetraproline (TTP) (TIS11A protein) (TIS11) (ZFP-36)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+GVFGPPQPPAPPRRLPIFNRI,Rattus norvegicus (Rat),Rodent,"inherited from parent protein 'Tristetraproline (TTP) (TIS11A protein) (TIS11) (ZFP-36)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.056666666666666664
+GDLAFLNFQNNLQQTPLHLAVITNQPEIAEALLGAGCDPELRDFRGNTPLH,Homo sapiens (Human),Human,"inherited from parent protein 'NF-kappaB inhibitor alpha (Major histocompatibility complex enhancer- binding protein MAD3) (I-kappa-B-alpha) (IkappaBalpha) (IKB-alpha)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03666666666666667
+LAVITNQPEIAEALLGAGCDPELRDFRGNTPLHLACEQGCLASVGVLTQSC,Homo sapiens (Human),Human,"inherited from parent protein 'NF-kappaB inhibitor alpha (Major histocompatibility complex enhancer- binding protein MAD3) (I-kappa-B-alpha) (IkappaBalpha) (IKB-alpha)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.06
+VKLLKHKEKGAIRLLMRR,Homo sapiens (Human),Human,"inherited from parent protein 'Ran-specific GTPase-activating protein (Ran binding protein 1) (RanBP1)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.15
+SNHDPQFEPIVSLPEQEI,Homo sapiens (Human),Human,"inherited from parent protein 'Ran-specific GTPase-activating protein (Ran binding protein 1) (RanBP1)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.11333333333333333
+PDTSPDTNGGGSTSD,Homo sapiens (Human),Human,"inherited from parent protein 'Interferon regulatory factor 3 (IRF-3)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+GIFQAWAEATGAYVP,Homo sapiens (Human),Human,"inherited from parent protein 'Interferon regulatory factor 3 (IRF-3)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+RQQQQLLQRPSHLQPPSYG,Homo sapiens (Human),Human,"inherited from parent protein 'Tumor protein p73 (p53-like transcription factor) (p53-related protein)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+LGRRSFEGRICACPGRDRK,Homo sapiens (Human),Human,"inherited from parent protein 'Tumor protein p73 (p53-like transcription factor) (p53-related protein)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+PMTQDGSQP,Homo sapiens (Human),Human,"inherited from parent protein 'MOTHERS AGAINST DECAPENTAPLEGIC HOMOLOG 1 (SMAD 1) (MOTHERS AGAINST DPP HOMOLOG 1) (MAD-RELATED PROTEIN 1) (TRANSFORMING GROWTH FACTOR- BETA SIGNALING PROTEIN-1) (BSP-1) (HSMAD1) (JV4-1)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+TRRHIGKGV,Homo sapiens (Human),Human,"inherited from parent protein 'MOTHERS AGAINST DECAPENTAPLEGIC HOMOLOG 1 (SMAD 1) (MOTHERS AGAINST DPP HOMOLOG 1) (MAD-RELATED PROTEIN 1) (TRANSFORMING GROWTH FACTOR- BETA SIGNALING PROTEIN-1) (BSP-1) (HSMAD1) (JV4-1)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+TTRHFLMSDRRSLHLEASLDKELYYH,Rattus norvegicus (Rat),Rodent,"inherited from parent protein 'β-Arrestin-2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.09
+TYQAFPPMPNPPRPPTRLQDRLLKKL,Rattus norvegicus (Rat),Rodent,"inherited from parent protein 'β-Arrestin-2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.12333333333333334
+LGPIQPTRVS,Mus musculus (Mouse),Rodent,"inherited from parent protein 'β-DG' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+PTVTIRTRGA,Mus musculus (Mouse),Rodent,"inherited from parent protein 'β-DG' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+LRKDDPVTNLN,Homo sapiens (Human),Human,"inherited from parent protein 'Actinin-4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.02666666666666667
+LSHLKQYERSI,Homo sapiens (Human),Human,"inherited from parent protein 'Actinin-4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+AQEFGIKIST,Arabidopsis thaliana,Plant,"inherited from parent protein 'AGO1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.01
+LGDGLESWRG,Arabidopsis thaliana,Plant,"inherited from parent protein 'AGO1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+GIDFEDIRHMQNEKFFRNDFS,Homo sapiens (Human),Human,"inherited from parent protein 'AhR' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.056666666666666664
+NQKHGLNPQSAIITPQTCYAG,Homo sapiens (Human),Human,"inherited from parent protein 'AhR' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+RYISDWDLDPG,Homo sapiens (Human),Human,"inherited from parent protein 'AID' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.01
+FSLDFGYLRNK,Homo sapiens (Human),Human,"inherited from parent protein 'AID' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.12333333333333334
+DEVVEQRSGSSTPQRSCSAAGL,Rattus norvegicus (Rat),Rodent,"inherited from parent protein 'AMPKα2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.006666666666666667
+TTKPKSLAVKKAKWHLGIRSQS,Rattus norvegicus (Rat),Rodent,"inherited from parent protein 'AMPKα2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.06
+KKGKEKSWYIADIFTDES,Homo sapiens (Human),Human,"inherited from parent protein 'ANCO-1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+MEWQLKVQELDPAGHKSL,Homo sapiens (Human),Human,"inherited from parent protein 'ANCO-1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.13666666666666666
+KNGLKIDFSFERSST,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'AP1-gamma' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.04
+KKYDHMRPALLERMP,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'AP1-gamma' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.12
+CLSNYNPKDDREAQSICER,Homo sapiens (Human),Human,"inherited from parent protein 'AP2B1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+MAPGGYVAPKAVWLPAVKA,Homo sapiens (Human),Human,"inherited from parent protein 'AP2B1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.07
+HPRTKSSRLQ,Homo sapiens (Human),Human,"inherited from parent protein 'APC Protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+RIRQLLQSQA,Homo sapiens (Human),Human,"inherited from parent protein 'APC Protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.006666666666666667
+KSENSNRTCS,Homo sapiens (Human),Human,"inherited from parent protein 'APC Protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+GYLEELEKER,Homo sapiens (Human),Human,"inherited from parent protein 'APC Protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+TQEADSANTLQIAEIKEKIGT,Homo sapiens (Human),Human,"inherited from parent protein 'APC Protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.06333333333333334
+VEGTPINFSTATSLSDLTIES,Homo sapiens (Human),Human,"inherited from parent protein 'APC Protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.5033333333333333
+ECVSPYRSRGANGSETNRVGS,Homo sapiens (Human),Human,"inherited from parent protein 'APC Protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+ATSGNGQGSTTRMDHETASVL,Homo sapiens (Human),Human,"inherited from parent protein 'APC Protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+PATENPGTSSKRGLQISTTAA,Homo sapiens (Human),Human,"inherited from parent protein 'APC Protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+PGRNSISPGRNGISPPNKLSQ,Homo sapiens (Human),Human,"inherited from parent protein 'APC Protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+RCSITWFLSWSPCGE,Rattus norvegicus (Rat),Rodent,"inherited from parent protein 'APOBEC1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+SQNTNKHVEVNFIEK,Rattus norvegicus (Rat),Rodent,"inherited from parent protein 'APOBEC1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+KAKCSKFCTTGLDGG,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'Arp2/3-1b' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+NSLVAAGHDCYPVLY,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'Arp2/3-1b' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.08
+SSNRPIVPVPGPFPLL,Homo sapiens (Human),Human,"inherited from parent protein 'ATF-2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.2733333333333333
+QHSSVSTSNGVSSTSK,Homo sapiens (Human),Human,"inherited from parent protein 'ATF-2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+SRPAPEGPQEEP,Borna disease virus (BDV),Viral,"inherited from parent protein 'BDV X' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+NATIESGRLPGG,Borna disease virus (BDV),Viral,"inherited from parent protein 'BDV X' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+RLARSLAEAAQR,Bovine herpesvirus 1,Viral,"inherited from parent protein 'BICP27' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.01
+GGPAEAPPARRA,Bovine herpesvirus 1,Viral,"inherited from parent protein 'BICP27' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+TLNVREECLML,Bovine papillomavirus type 1,Viral,"inherited from parent protein 'BPV-E1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.24666666666666667
+LDLIDEEEDSE,Bovine papillomavirus type 1,Viral,"inherited from parent protein 'BPV-E1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03
+NIEVCSTYSKD,Homo sapiens (Human),Human,"inherited from parent protein 'BRCA2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+VVSDCKNSHIT,Homo sapiens (Human),Human,"inherited from parent protein 'BRCA2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+NLIPRDMLSLTGDLL,Measles virus (strain Edmonston-AIK-C vaccine) (MeV) (Subacute sclerose panencephalitis virus),Viral,"inherited from parent protein 'C' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.17
+VKRLRESKMLTLSWF,Measles virus (strain Edmonston-AIK-C vaccine) (MeV) (Subacute sclerose panencephalitis virus),Viral,"inherited from parent protein 'C' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.07333333333333333
+IAEEGSETQVPGLDISAL,Homo sapiens (Human),Human,"inherited from parent protein 'CA IX' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.18666666666666668
+TLPPGLEMALGPGREYRA,Homo sapiens (Human),Human,"inherited from parent protein 'CA IX' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.1
+APAIDIFSTPSSSNSTSK,Homo sapiens (Human),Human,"inherited from parent protein 'CALM' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+MKKNQCKEGLDIYKKFLT,Homo sapiens (Human),Human,"inherited from parent protein 'CALM' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.13
+VTGERQSGDGQESTEPVEN,Homo sapiens (Human),Human,"inherited from parent protein 'CASC3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+YSSQRQRPVPEPPAPPVHI,Homo sapiens (Human),Human,"inherited from parent protein 'CASC3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+VKDVEEKSKE,Homo sapiens (Human),Human,"inherited from parent protein 'CCTα' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.006666666666666667
+FSDEIEVDFS,Homo sapiens (Human),Human,"inherited from parent protein 'CCTα' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.04666666666666667
+EAVPQLSNVF,Homo sapiens (Human),Human,"inherited from parent protein 'Cdc7' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.013333333333333334
+GQDNVMGVKY,Homo sapiens (Human),Human,"inherited from parent protein 'Cdc7' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+YMLNLFKALK,Homo sapiens (Human),Human,"inherited from parent protein 'Cdc7' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.27
+ALKRIHQFGI,Homo sapiens (Human),Human,"inherited from parent protein 'Cdc7' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.24333333333333335
+EFVKVLEKVD,Homo sapiens (Human),Human,"inherited from parent protein 'CHP1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.17666666666666667
+NSRSNKLHFA,Homo sapiens (Human),Human,"inherited from parent protein 'CHP1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+GSIADRTIQE,Homo sapiens (Human),Human,"inherited from parent protein 'CHP1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+IKKETGFSHS,Homo sapiens (Human),Human,"inherited from parent protein 'CHP1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+VVKSALEMGFNRDLVKQTVQSKI,Homo sapiens (Human),Human,"inherited from parent protein 'cIAP1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.09
+MNTPVVKSALEMGFNRDLVKQTV,Homo sapiens (Human),Human,"inherited from parent protein 'cIAP1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.09333333333333334
+KLEFALGP,Homo sapiens (Human),Human,"inherited from parent protein 'CIITA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.04
+FTAAGAQQ,Homo sapiens (Human),Human,"inherited from parent protein 'CIITA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+ADMDFNQLEAFLTA,Homo sapiens (Human),Human,"inherited from parent protein 'COMMD1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.13
+AGELEGGKPLSGLL,Homo sapiens (Human),Human,"inherited from parent protein 'COMMD1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.32
+ITEELLRSQLYPEVPPE,Homo sapiens (Human),Human,"inherited from parent protein 'COMMD1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.11666666666666667
+IHTPVAIIELELGKYGQ,Homo sapiens (Human),Human,"inherited from parent protein 'COMMD1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.5233333333333333
+RRNKREQLEQIQKELSVLEEDIKRVEEMSGLYSPVSEDSTVPQFE,Mus musculus (Mouse),Rodent,"inherited from parent protein 'COP1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.33666666666666667
+IACGSENNSLYLYYKGLSKTLLTFKFDTVKSVLDKDRKEDDTNEF,Mus musculus (Mouse),Rodent,"inherited from parent protein 'COP1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.3933333333333333
+LTSNVAYPPN,Schizosaccharomyces pombe (Fission yeast),Yeast/Fungi,"inherited from parent protein 'Cuf1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+KCTCNSRKKG,Schizosaccharomyces pombe (Fission yeast),Yeast/Fungi,"inherited from parent protein 'Cuf1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+MYMTVSIIDRFM,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'Cyclin B1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.13333333333333333
+KPLEKVPMLVPV,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'Cyclin B1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.24333333333333335
+GYACTSIHGDRSQRDREEALHQ,Homo sapiens (Human),Human,"inherited from parent protein 'DDX3X' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+LVLAPTRELAVQIYEEARKFSY,Homo sapiens (Human),Human,"inherited from parent protein 'DDX3X' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.04666666666666667
+DEFFFGSGGISSCPP,Homo sapiens (Human),Human,"inherited from parent protein 'DeSI1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.11333333333333333
+MLGKQLEGIWHTSIV,Homo sapiens (Human),Human,"inherited from parent protein 'DeSI1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.15
+GDTPRQRAE,Rattus norvegicus (Rat),Rodent,"inherited from parent protein 'DGKζ' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+VPEQLRIQV,Rattus norvegicus (Rat),Rodent,"inherited from parent protein 'DGKζ' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.07666666666666666
+ADPTFKIETTGAT,Schizosaccharomyces pombe (Fission yeast),Yeast/Fungi,"inherited from parent protein 'Dsk1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+LHRECGIIHTDLK,Schizosaccharomyces pombe (Fission yeast),Yeast/Fungi,"inherited from parent protein 'Dsk1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.09333333333333334
+WYDGHVGSVV,Human Adenovirus C,Viral,"inherited from parent protein 'E4-34kD' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03333333333333333
+LLQHHRPILM,Human Adenovirus C,Viral,"inherited from parent protein 'E4-34kD' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.31666666666666665
+LLNEPGQPLDLSCKRPRPSH,Human adenovirus C serotype 5 (HAdV-5) (Human adenovirus 5),Viral,"inherited from parent protein 'Early E1A 32 kDa protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.10333333333333333
+MRHIICHGGVITEEMAASLL,Human adenovirus C serotype 5 (HAdV-5) (Human adenovirus 5),Viral,"inherited from parent protein 'Early E1A 32 kDa protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.35333333333333333
+SRCSVASIKTGFQAVTGKR,Homo sapiens (Human),Human,"inherited from parent protein 'eIF2S2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.15
+AWAGSERDYTYEELLNRVF,Homo sapiens (Human),Human,"inherited from parent protein 'eIF2S2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05333333333333334
+GSHLDQGEAAVAFKPTSNRHIDRN,Homo sapiens (Human),Human,"inherited from parent protein 'EPS8' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.016666666666666666
+NGYGSSPTFSQTDREHGSKTSAKA,Homo sapiens (Human),Human,"inherited from parent protein 'EPS8' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+SWLGEQPQFWS,Homo sapiens (Human),Human,"inherited from parent protein 'ESE-1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+AGAPSPGSSDV,Homo sapiens (Human),Human,"inherited from parent protein 'ESE-1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+PFDQGSPFAQ,Homo sapiens (Human),Human,"inherited from parent protein 'ESE-1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+AQLRDLTSSS,Homo sapiens (Human),Human,"inherited from parent protein 'ESE-1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+NAGSENEVRK,Drosophila melanogaster (Fruit fly),Invertebrate/Other,"inherited from parent protein 'Exd' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+GGGAAAASAA,Drosophila melanogaster (Fruit fly),Invertebrate/Other,"inherited from parent protein 'Exd' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+QVDQEIALKLGCLEIRRSY,Homo sapiens (Human),Human,"inherited from parent protein 'FAK' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.49666666666666665
+IRRSYWEMRGNALEKKSNY,Homo sapiens (Human),Human,"inherited from parent protein 'FAK' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+ELINKMKLAQQYVMTSLQQEY,Homo sapiens (Human),Human,"inherited from parent protein 'FAK' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.04
+PTLNFFYQQVKSDYMLEIADQ,Homo sapiens (Human),Human,"inherited from parent protein 'FAK' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05
+CGSSFQAEQPITARCEQFFHLVNSEMR,Homo sapiens (Human),Human,"inherited from parent protein 'FANCA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.10333333333333333
+EPEKMPQVTVDVLQRMLIFALDALAAG,Homo sapiens (Human),Human,"inherited from parent protein 'FANCA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.5
+AFLHVAVDMYLKLVQLFVAGDT,Homo sapiens (Human),Human,"inherited from parent protein 'FANCA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.49333333333333335
+DGDLQAACTILVNALMDFHQSS,Homo sapiens (Human),Human,"inherited from parent protein 'FANCA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.09333333333333334
+LTQDITAHFFRGLLNAC,Homo sapiens (Human),Human,"inherited from parent protein 'FANCA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.10666666666666667
+AVQMQREWSFARTHPLL,Homo sapiens (Human),Human,"inherited from parent protein 'FANCA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.06333333333333334
+PHSQALQDVEKAIMVFEHTGN,Homo sapiens (Human),Human,"inherited from parent protein 'FANCA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.24
+ILLRLPSSVLCGSSFQAEQPI,Homo sapiens (Human),Human,"inherited from parent protein 'FANCA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.09666666666666666
+RKQLKKLDCEREELLVFLFFFSLMGLLSSHL,Homo sapiens (Human),Human,"inherited from parent protein 'FANCA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.7
+KFQFLMFRLFSEARQPLSEEDVASLSWRPLH,Homo sapiens (Human),Human,"inherited from parent protein 'FANCA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.15333333333333332
+TEAKALSMPE,Homo sapiens (Human),Human,"inherited from parent protein 'Fbxo7' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+LMLESGYIPQ,Homo sapiens (Human),Human,"inherited from parent protein 'Fbxo7' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.16
+AENEKNVPQEEEIMPPN,Homo sapiens (Human),Human,"inherited from parent protein 'FMRP' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+SIANATVLLDYHLNYLK,Homo sapiens (Human),Human,"inherited from parent protein 'FMRP' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.17
+KDCLFKDWEELGEEIRL,Hepatitis B virus genotype D subtype ayw (isolate France/Tiollais/1979) (HBV-D),Viral,"inherited from parent protein 'HBx' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.27
+VLGGCRHKLVCAPAPCN,Hepatitis B virus genotype D subtype ayw (isolate France/Tiollais/1979) (HBV-D),Viral,"inherited from parent protein 'HBx' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03333333333333333
+RRKRAEEKAADFARRKQEEQERRERKWRQGAEK,Human T-cell leukemia virus type 1 (HTLV-1),Viral,"inherited from parent protein 'HBZ' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+GPPGGKAPPRGETHRDRQRRAEEKRKRKKEREK,Human T-cell leukemia virus type 1 (HTLV-1),Viral,"inherited from parent protein 'HBZ' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+PLGRTQSAPLPQNAQALQHLVIQQQH,Homo sapiens (Human),Human,"inherited from parent protein 'HDAC4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05
+RKLERHRQEQELEKQHREQKLQQLKN,Homo sapiens (Human),Human,"inherited from parent protein 'HDAC4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.07666666666666666
+KHQCMCGNTHVHPEHAGRIQSIWSRLQETGLLSKCERIRGRK,Homo sapiens (Human),Human,"inherited from parent protein 'HDAC5' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.13666666666666666
+SSMGGGGGGSPSPVELRGALVGSVDPTLREQQLQQELLALKQ,Homo sapiens (Human),Human,"inherited from parent protein 'HDAC5' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.16666666666666666
+YWKCTSCNEMNPPLP,Homo sapiens (Human),Human,"inherited from parent protein 'HDM2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+GESDTDSFEEDPEIS,Homo sapiens (Human),Human,"inherited from parent protein 'HDM2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+NPEGTRQARRNR,Human immunodeficiency virus type 1 (isolate HXB3 group M subtype B) (HIV-1),Viral,"inherited from parent protein 'HIV-REV' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+PNPEGTRQARRN,Human immunodeficiency virus type 1 (isolate HXB3 group M subtype B) (HIV-1),Viral,"inherited from parent protein 'HIV-REV' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+PRRTPQGPRP,Homo sapiens (Human),Human,"inherited from parent protein 'hMSH5' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+IHFMPDAPDH,Homo sapiens (Human),Human,"inherited from parent protein 'hMSH5' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+TSGCSSEQSARARTQKELM,Homo sapiens (Human),Human,"inherited from parent protein 'hPER1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+MTALRELKLRLPPERRGKG,Homo sapiens (Human),Human,"inherited from parent protein 'hPER1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.4066666666666667
+SEDEEEEVED,Human papillomavirus type 11,Viral,"inherited from parent protein 'HPV11 E1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.01
+EWITRQTVIE,Human papillomavirus type 11,Viral,"inherited from parent protein 'HPV11 E1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+YRLTNAGYDYLALKTLSSRQVVE,Homo sapiens (Human),Human,"inherited from parent protein 'hRio2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.12333333333333334
+NIFTKQRRENMQNIKSSLEAASF,Homo sapiens (Human),Human,"inherited from parent protein 'hRio2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.043333333333333335
+AGRLAAAHF,Homo sapiens (Human),Human,"inherited from parent protein 'HSCARG' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.006666666666666667
+IGVPMTSVR,Homo sapiens (Human),Human,"inherited from parent protein 'HSCARG' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.06
+SLQESEAELASIE,Solanum peruvianum (Peruvian tomato),Plant,"inherited from parent protein 'HsfA2/HSF30' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.013333333333333334
+GQKHLLKTIKRRR,Solanum peruvianum (Peruvian tomato),Plant,"inherited from parent protein 'HsfA2/HSF30' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+IEQTVTDPVLSSKL,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Hsp70-Ssb1p' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.11666666666666667
+KIGKKVEKAVITVP,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Hsp70-Ssb1p' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.06333333333333334
+LFDRIRKGFPCEARVVA,Homo sapiens (Human),Human,"inherited from parent protein 'Huntingtin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03666666666666667
+KAISEEEEEVDPNTQNP,Homo sapiens (Human),Human,"inherited from parent protein 'Huntingtin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+PVQDFISAVHRNSAASGLFIQAIQSRCENLSTPTMLKKTLQCLEGIHLSQS,Homo sapiens (Human),Human,"inherited from parent protein 'Huntingtin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.17
+TDVTMENNLSRVIAAVSHELITSTTRALTFGCCEALCLLSTAFPVCIWSLG,Homo sapiens (Human),Human,"inherited from parent protein 'Huntingtin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.15
+VNRVTYQGYSPYQLTWGRPSTRIQQQLGQLTLENLQMLPESEDEESYDTESEFTE,Homo sapiens (Human),Human,"inherited from parent protein 'IκBα' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.3466666666666667
+VNAQEPCNGRTALHLAVDLQNPDLVSLLLKCGADVNRVTYQGYSPYQLTWGRPST,Homo sapiens (Human),Human,"inherited from parent protein 'IκBα' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.12
+LLDEQQVNVLLYDM,Mus musculus (Mouse),Rodent,"inherited from parent protein 'Id1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.20666666666666667
+GEVVLGLSEQSVAI,Mus musculus (Mouse),Rodent,"inherited from parent protein 'Id1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.22666666666666666
+NSLSDHSLGISRSKTPV,Mus musculus (Mouse),Rodent,"inherited from parent protein 'Id2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03666666666666667
+IVSLHHQRPGQNQASRT,Mus musculus (Mouse),Rodent,"inherited from parent protein 'Id2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+LRKDAVAASIQKIEKILQWFENQKQL,Homo sapiens (Human),Human,"inherited from parent protein 'IPMK' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.12666666666666668
+NGYCLRKDAVAASIQKIEKILQWFEN,Homo sapiens (Human),Human,"inherited from parent protein 'IPMK' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.08333333333333333
+RELLSEVLEPG,Homo sapiens (Human),Human,"inherited from parent protein 'IRF-5' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.23333333333333334
+ISPHMLPLTDL,Homo sapiens (Human),Human,"inherited from parent protein 'IRF-5' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.19
+LEDHTKQAFGIMNELRLSQQLCDVTLQVKYQDAPAAQFMAHKVV,Homo sapiens (Human),Human,"inherited from parent protein 'Keap1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.5966666666666667
+ASSSPVFKAMFTNGLREQGMEVVSIEGIHPKVMERLIEFAYTAS,Homo sapiens (Human),Human,"inherited from parent protein 'Keap1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.11333333333333333
+PVLGAANPARDAALFSGDDLKHAHHHPPAPP,Mus musculus (Mouse),Rodent,"inherited from parent protein 'KLF5' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.07
+IPDLHLSVPSQQGHLYQLLNTPDLDMPSSTN,Mus musculus (Mouse),Rodent,"inherited from parent protein 'KLF5' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.09666666666666666
+KVRSGTSGKPGDKGNG,Homo sapiens (Human),Human,"inherited from parent protein 'KLF6' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+KFDSQEDLWTKIILAR,Homo sapiens (Human),Human,"inherited from parent protein 'KLF6' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.10333333333333333
+MYHVGQEMDM,Kaposi''s sarcoma-associated herpesvirus 8 (KSHV),Viral,"inherited from parent protein 'LANA2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.1
+SGVQPVDDAN,Kaposi''s sarcoma-associated herpesvirus 8 (KSHV),Viral,"inherited from parent protein 'LANA2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+SIFIASKGNEQKVEKKNIEDLFIEPK,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Ltv1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.04666666666666667
+RFQKDNSILEKHNSDDEFSNAGLDSV,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Ltv1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05
+DEFDEWDIDNVE,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Ltv1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+LYGINFDDSEYD,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Ltv1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+LGSGEAKDEDEFE,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Ltv1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+DPENSIFIASKGN,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Ltv1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+GGRVAGGLLGSG,Homo sapiens (Human),Human,"inherited from parent protein 'LZTS2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+LRVALREARATL,Homo sapiens (Human),Human,"inherited from parent protein 'LZTS2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.2833333333333333
+ICFLKPKDQERK,Influenza B virus (strain B/Lee/1940),Viral,"inherited from parent protein 'M1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.01
+GIAKDVMEVLKQ,Influenza B virus (strain B/Lee/1940),Viral,"inherited from parent protein 'M1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03333333333333333
+SMGNSALVRK,Influenza B virus (strain B/Lee/1940),Viral,"inherited from parent protein 'M1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+GKAELAEKLH,Influenza B virus (strain B/Lee/1940),Viral,"inherited from parent protein 'M1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05333333333333334
+REQLDGLYSAQNNA,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Mad1p' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+DELEKALNDTKYLY,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Mad1p' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.006666666666666667
+AEFQDFVNKCLVK,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'MAPKK1/MEK1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.10333333333333333
+CSVERDPASSELA,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'MAPKK1/MEK1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+EPGEKRPKLHLNIR,Mus musculus (Mouse),Rodent,"inherited from parent protein 'mDia2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+SFGHEGLGLLLDIL,Mus musculus (Mouse),Rodent,"inherited from parent protein 'mDia2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.3566666666666667
+INPSIDLHT,Homo sapiens (Human),Human,"inherited from parent protein 'Menin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.08
+RDVHLALSE,Homo sapiens (Human),Human,"inherited from parent protein 'Menin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.016666666666666666
+YDGICKWEEG,Homo sapiens (Human),Human,"inherited from parent protein 'Menin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+PALDKGLGTG,Homo sapiens (Human),Human,"inherited from parent protein 'Menin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+AVDSPAFDSLPT,Homo sapiens (Human),Human,"inherited from parent protein 'MEX3C' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.013333333333333334
+GEQAALLRRKSV,Homo sapiens (Human),Human,"inherited from parent protein 'MEX3C' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.10333333333333333
+ELRVEREERQ,Schizosaccharomyces pombe (Fission yeast),Yeast/Fungi,"inherited from parent protein 'Mia1p/Alp7p' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.006666666666666667
+PSTSQADIPT,Schizosaccharomyces pombe (Fission yeast),Yeast/Fungi,"inherited from parent protein 'Mia1p/Alp7p' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+NERLLLMDCRPQELYE,Homo sapiens (Human),Human,"inherited from parent protein 'MKP-3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.19333333333333333
+RFTRRCGTDTVVLYDE,Homo sapiens (Human),Human,"inherited from parent protein 'MKP-3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.04
+REQKLDAFLQ,Homo sapiens (Human),Human,"inherited from parent protein 'MLH1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.023333333333333334
+FVAGVIRRLD,Homo sapiens (Human),Human,"inherited from parent protein 'MLH1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.16666666666666666
+EERPSTSR,Mus musculus (Mouse),Rodent,"inherited from parent protein 'MoKA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+EMEDMVQE,Mus musculus (Mouse),Rodent,"inherited from parent protein 'MoKA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+ATGVPVTRRQFDHMKDMFDE,Homo sapiens (Human),Human,"inherited from parent protein 'MondoA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.006666666666666667
+TGVPVTRRQFDHMKDMFDEY,Homo sapiens (Human),Human,"inherited from parent protein 'MondoA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.01
+FRTPVVKNDF,Homo sapiens (Human),Human,"inherited from parent protein 'Mps1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.02666666666666667
+VPCFMKRQTS,Homo sapiens (Human),Human,"inherited from parent protein 'Mps1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+MAEGKPPYADIHPMRAIFMIPTNPPPTFRKPELWSDNFTDFVKQCLVKSPEQRATATQL,Homo sapiens (Human),Human,"inherited from parent protein 'Mst1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.2
+KEKENQINSFGKSVPGPLKNSSDWKIPQDGDYEFLKSWTVEDLQKRLLALDPMMEQEIE,Homo sapiens (Human),Human,"inherited from parent protein 'Mst1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.45
+KGVSILRDLINEAMDVKLKRQESQQREVDQD,Homo sapiens (Human),Human,"inherited from parent protein 'Mst1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.26666666666666666
+GTVRVASTMTDGANTMIEHDDTLPSQLGTMV,Homo sapiens (Human),Human,"inherited from parent protein 'Mst1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.1
+LFYITCATAR,Epstein-Barr virus (strain B95-8) (HHV-4) (Human herpesvirus 4),Viral,"inherited from parent protein 'Mta' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.02
+VAAHPEIGAW,Epstein-Barr virus (strain B95-8) (HHV-4) (Human herpesvirus 4),Viral,"inherited from parent protein 'Mta' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+TPTSASFVIP,Epstein-Barr virus (strain B95-8) (HHV-4) (Human herpesvirus 4),Viral,"inherited from parent protein 'Mta' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+KTVTLHRSPL,Epstein-Barr virus (strain B95-8) (HHV-4) (Human herpesvirus 4),Viral,"inherited from parent protein 'Mta' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.016666666666666666
+IVKGYTLADEEED,Homo sapiens (Human),Human,"inherited from parent protein 'mTOR' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.023333333333333334
+GALDPYKHKVNIG,Homo sapiens (Human),Human,"inherited from parent protein 'mTOR' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+EAEKGFDETL,Homo sapiens (Human),Human,"inherited from parent protein 'mTOR' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+EKIPFRLTRM,Homo sapiens (Human),Human,"inherited from parent protein 'mTOR' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.07666666666666666
+SIQRYAVIP,Homo sapiens (Human),Human,"inherited from parent protein 'mTOR' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.016666666666666666
+AKEKGMNRD,Homo sapiens (Human),Human,"inherited from parent protein 'mTOR' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+RRLSLELLKDSSSPSLRSCW,Homo sapiens (Human),Human,"inherited from parent protein 'mTOR' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.32666666666666666
+RHTFEEAEKGFDETLAKEKG,Homo sapiens (Human),Human,"inherited from parent protein 'mTOR' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.013333333333333334
+NDKPLSKVLANNAVPTNKGNKDQQIGYWNEQIRWRMRRGE,Porcine epidemic diarrhea virus,Viral,"inherited from parent protein 'N' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03333333333333333
+QQKPKQEKSDNSGKNTPKKNKSRATSKERDLKDIPEWRRI,Porcine epidemic diarrhea virus,Viral,"inherited from parent protein 'N' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+QLCQMLGKIIAQQNQSRGKGPGKKNKKKNPEKPH,Porcine reproductive and respiratory syndrome virus (PRRSV),Viral,"inherited from parent protein 'N protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.08333333333333333
+QQKRKKGDGQPVNQLCQMLGKIIAQQNQSRGKGP,Porcine reproductive and respiratory syndrome virus (PRRSV),Viral,"inherited from parent protein 'N protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.16666666666666666
+QQQAELAQQEWLQMQQAAQQAQLAAA,Homo sapiens (Human),Human,"inherited from parent protein 'NC2β' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.11
+MIKETLPNVRVANDARELVVNCCTEF,Homo sapiens (Human),Human,"inherited from parent protein 'NC2β' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.36333333333333334
+VEQEIRAFSF,Influenza A virus (strain swl A/California/04/2009 H1N1),Viral,"inherited from parent protein 'NEP' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.3466666666666667
+SSEDLNGMVT,Influenza A virus (strain swl A/California/04/2009 H1N1),Viral,"inherited from parent protein 'NEP' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+FQDILMRMSK,Influenza A virus (strain swl A/California/04/2009 H1N1),Viral,"inherited from parent protein 'NEP' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.16
+RWLIEEMRHR,Influenza A virus (strain swl A/California/04/2009 H1N1),Viral,"inherited from parent protein 'NEP' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.006666666666666667
+QQPFPGASDHEV,Mus musculus (Mouse),Rodent,"inherited from parent protein 'Neurogenin 3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+YSPVSQAGNLSP,Mus musculus (Mouse),Rodent,"inherited from parent protein 'Neurogenin 3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+RRDESPTAGPRL,Homo sapiens (Human),Human,"inherited from parent protein 'NF-ATc1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+SPRASVTEESWL,Homo sapiens (Human),Human,"inherited from parent protein 'NF-ATc1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+STLWSPYSDMGPSREYAQ,Aspergillus nidulans,Yeast/Fungi,"inherited from parent protein 'NirA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+CDNLEDVAQSLVNQEKKS,Aspergillus nidulans,Yeast/Fungi,"inherited from parent protein 'NirA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.11
+KDDLVVLPKK,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Nmd3p' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.12333333333333334
+LTVDITQGIP,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Nmd3p' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05333333333333334
+PYSEGTLHLRGHTP,Mus musculus (Mouse),Rodent,"inherited from parent protein 'NOA1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+EQVRELQELRELQQ,Mus musculus (Mouse),Rodent,"inherited from parent protein 'NOA1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.13
+QPGGCAFLFSLHEPFQTHLPPPSSS,Rattus norvegicus (Rat),Rodent,"inherited from parent protein 'NPAS4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.11
+LSGAGPPVLSLDLKPWKCQELDFLV,Rattus norvegicus (Rat),Rodent,"inherited from parent protein 'NPAS4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.14333333333333334
+FINYVKNCFRM,Homo sapiens (Human),Human,"inherited from parent protein 'NPM mutants' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.25666666666666665
+EDDDDDDEEDD,Homo sapiens (Human),Human,"inherited from parent protein 'NPM mutants' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+LNTDFGDEFY,Mus musculus (Mouse),Rodent,"inherited from parent protein 'Nrf2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+ATLTEMDSNY,Mus musculus (Mouse),Rodent,"inherited from parent protein 'Nrf2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+TISMLKECIR,Influenza D virus (D/bovine/Shandong/Y217/2014),Viral,"inherited from parent protein 'NS2 (IDV)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.1
+TQRSQYERYS,Influenza D virus (D/bovine/Shandong/Y217/2014),Viral,"inherited from parent protein 'NS2 (IDV)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+AEETLRNQLTA,Influenza D virus (D/bovine/Shandong/Y217/2014),Viral,"inherited from parent protein 'NS2 (IDV)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+NQLTALRISVE,Influenza D virus (D/bovine/Shandong/Y217/2014),Viral,"inherited from parent protein 'NS2 (IDV)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.11333333333333333
+MRNLEMRSDDT,Influenza D virus (D/bovine/Shandong/Y217/2014),Viral,"inherited from parent protein 'NS2 (IDV)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.013333333333333334
+AFEKMRKSAEN,Influenza D virus (D/bovine/Shandong/Y217/2014),Viral,"inherited from parent protein 'NS2 (IDV)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+CGTVEERLQRAAELGLRPEITWFSHOW,Murine minute virus (Murine parvovirus),Viral,"inherited from parent protein 'NS2-P (MVM)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03333333333333333
+RALEHTKYSCCGHCRNPEHWGSWFQSL,Murine minute virus (Murine parvovirus),Viral,"inherited from parent protein 'NS2-P (MVM)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+PPPTKRARYS,Mus musculus (Mouse),Rodent,"inherited from parent protein 'NT-PGC-1α' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+FDPASTKSKY,Mus musculus (Mouse),Rodent,"inherited from parent protein 'NT-PGC-1α' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+CTERQHHYYL,Homo sapiens (Human),Human,"inherited from parent protein 'Nup214' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+SSLLAVSNKY,Homo sapiens (Human),Human,"inherited from parent protein 'Nup214' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+LHRLQCVRG,Mus musculus (Mouse),Rodent,"inherited from parent protein 'NURR1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.06
+KLEDLVPPP,Mus musculus (Mouse),Rodent,"inherited from parent protein 'NURR1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03666666666666667
+HSHLPPQSE,Mus musculus (Mouse),Rodent,"inherited from parent protein 'NURR1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+PCLYQMPLS,Mus musculus (Mouse),Rodent,"inherited from parent protein 'NURR1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03666666666666667
+GDEPAESPS,Homo sapiens (Human),Human,"inherited from parent protein 'OGFr' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+SETPGPSPA,Homo sapiens (Human),Human,"inherited from parent protein 'OGFr' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+SAAHCQGAP,Homo sapiens (Human),Human,"inherited from parent protein 'Olig1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+AAREKPEAP,Homo sapiens (Human),Human,"inherited from parent protein 'Olig1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+VGYRQPPSS,Homo sapiens (Human),Human,"inherited from parent protein 'Olig1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+DALREVILP,Homo sapiens (Human),Human,"inherited from parent protein 'Olig1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.2866666666666667
+PMAAYTGTGAY,Kaposi''s sarcoma-associated herpesvirus 8 (KSHV),Viral,"inherited from parent protein 'ORF45 of KSHV' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+VAGRVRSSTDT,Kaposi''s sarcoma-associated herpesvirus 8 (KSHV),Viral,"inherited from parent protein 'ORF45 of KSHV' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+SSGSEDDFEDIDEVV,Varicella-zoster virus,Viral,"inherited from parent protein 'ORF9' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.056666666666666664
+VHEGLNLIQAANEAD,Varicella-zoster virus,Viral,"inherited from parent protein 'ORF9' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05
+NNASRSQSSHSYDDST,Homo sapiens (Human),Human,"inherited from parent protein 'p120ctn' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+ALIFIVQAEIGQKDSD,Homo sapiens (Human),Human,"inherited from parent protein 'p120ctn' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.09333333333333334
+IIGRWFTEATGDTLAQVFESFPTSAGNDSNVFTDNAPAGHYYEKVA,African swine fever virus,Viral,"inherited from parent protein 'p37 protein of ASFV' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03666666666666667
+TVRVNDALSTRWETEDVFFTFMLKSMAAKIFIVLGIYDMFERPEPV,African swine fever virus,Viral,"inherited from parent protein 'p37 protein of ASFV' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.29333333333333333
+QLARYRRREISRGEDGAE,Borna disease virus (BDV),Viral,"inherited from parent protein 'p38 (p40)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+KLKEDHADLFPFLGAIRH,Borna disease virus (BDV),Viral,"inherited from parent protein 'p38 (p40)' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.08666666666666667
+VEISAPSNFEHRV,Homo sapiens (Human),Human,"inherited from parent protein 'PAK4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03333333333333333
+KHPFLAKAGPPAS,Homo sapiens (Human),Human,"inherited from parent protein 'PAK4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+ALQLVVDPGDPRSYL,Homo sapiens (Human),Human,"inherited from parent protein 'PAK4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.10333333333333333
+PPARARQENGMPEEP,Homo sapiens (Human),Human,"inherited from parent protein 'PAK4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+FAGHSEAGGG,Homo sapiens (Human),Human,"inherited from parent protein 'PAK4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+LAPPACTPAA,Homo sapiens (Human),Human,"inherited from parent protein 'PAK4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+LRRPNFTRATTVPLQTLS,Homo sapiens (Human),Human,"inherited from parent protein 'PALB2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.13
+SVLIPPTAQPEKGVDTFL,Homo sapiens (Human),Human,"inherited from parent protein 'PALB2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.06666666666666667
+TGGYSDGLAASQMYSPQG,Mus musculus (Mouse),Rodent,"inherited from parent protein 'PBX1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+FGNKRIRYKKNIGKFQEE,Mus musculus (Mouse),Rodent,"inherited from parent protein 'PBX1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03333333333333333
+MDSSHVSLVQLTL,Homo sapiens (Human),Human,"inherited from parent protein 'PCNA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.4766666666666667
+VNLTSMSKILKCA,Homo sapiens (Human),Human,"inherited from parent protein 'PCNA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.15666666666666668
+DDQENCVYETV,Homo sapiens (Human),Human,"inherited from parent protein 'Pdcd4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+RKDSVWGSGGG,Homo sapiens (Human),Human,"inherited from parent protein 'Pdcd4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+KGRGLPKKGGA,Homo sapiens (Human),Human,"inherited from parent protein 'Pdcd4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+IIMVLESTGES,Homo sapiens (Human),Human,"inherited from parent protein 'Pdcd4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.17
+AALRKEVEDL,Homo sapiens (Human),Human,"inherited from parent protein 'Pericentrin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.02666666666666667
+LHCSQCGREP,Homo sapiens (Human),Human,"inherited from parent protein 'Pericentrin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+LHSQQQLEAEA,Homo sapiens (Human),Human,"inherited from parent protein 'Pericentrin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+LLAAEQTVVRD,Homo sapiens (Human),Human,"inherited from parent protein 'Pericentrin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.13
+PFHQEEKESLS,Homo sapiens (Human),Human,"inherited from parent protein 'Pericentrin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+KQLQEKLNRLL,Homo sapiens (Human),Human,"inherited from parent protein 'Pericentrin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.29333333333333333
+QPVLVTLKD,Homo sapiens (Human),Human,"inherited from parent protein 'Pericentrin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.19333333333333333
+SVRDHLRTE,Homo sapiens (Human),Human,"inherited from parent protein 'Pericentrin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+GMFTKECEQEC,Homo sapiens (Human),Human,"inherited from parent protein 'Pericentrin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+QFQKELAEQRA,Homo sapiens (Human),Human,"inherited from parent protein 'Pericentrin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+HAFLGDSAKRIRVDSDSKDAKSVPSENGRIRVSMSPQNEINFTPENPAVM,Schizosaccharomyces pombe (Fission yeast),Yeast/Fungi,"inherited from parent protein 'Php4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.013333333333333334
+EKIRKRGVCNSVEGCLYSGSPKSVKRVRESEETKVYAQLLIDLHKSSKSA,Schizosaccharomyces pombe (Fission yeast),Yeast/Fungi,"inherited from parent protein 'Php4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05333333333333334
+SVPLLPGALVDYPDVLPS,Homo sapiens (Human),Human,"inherited from parent protein 'PINK1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.10333333333333333
+PGWAAGPGAEPRRVGLGL,Homo sapiens (Human),Human,"inherited from parent protein 'PINK1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+MTDVETTYADFIASG,Homo sapiens (Human),Human,"inherited from parent protein 'PKIα' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.13333333333333333
+TGRRNAIHDILVSSA,Homo sapiens (Human),Human,"inherited from parent protein 'PKIα' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.08333333333333333
+VMFLGEIEEILDVIEPTQF,Homo sapiens (Human),Human,"inherited from parent protein 'PP2A B56α' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.56
+LPPSDNPDFDPEEDEPTLE,Homo sapiens (Human),Human,"inherited from parent protein 'PP2A B56α' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+DDSDFEPPVINRYSRR,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'pRKAr2a' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+EGALWGLDRVTFRRII,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'pRKAr2a' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.27666666666666667
+STPTNVPVEE,Human parainfluenza 2 virus (HPIV-2),Viral,"inherited from parent protein 'Protein P' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+SRPDTKTEFV,Human parainfluenza 2 virus (HPIV-2),Viral,"inherited from parent protein 'Protein P' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+HTLRIYRRFY,Human cytomegalovirus,Viral,"inherited from parent protein 'Protein UL84' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+SPVTLAMVCG,Human cytomegalovirus,Viral,"inherited from parent protein 'Protein UL84' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.12
+NRARRPRA,Human cytomegalovirus,Viral,"inherited from parent protein 'Protein UL84' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+DLRPEELR,Human cytomegalovirus,Viral,"inherited from parent protein 'Protein UL84' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.02666666666666667
+TSALPDAAQ,Human herpesvirus 1 (strain F) (HHV-1) (Human herpes simplex virus 1),Viral,"inherited from parent protein 'pUL4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+AIMVRGRER,Human herpesvirus 1 (strain F) (HHV-1) (Human herpes simplex virus 1),Viral,"inherited from parent protein 'pUL4' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.01
+LAAFDGGFTA,Human herpesvirus 1 (strain 17) (HHV-1) (Human herpes simplex virus 1),Viral,"inherited from parent protein 'pUL47' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+LRAVFRGDDD,Human herpesvirus 1 (strain 17) (HHV-1) (Human herpes simplex virus 1),Viral,"inherited from parent protein 'pUL47' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.016666666666666666
+NEEDDLSVEAEIAHQI,Rabies virus (strain CVS-11) (RABV),Viral,"inherited from parent protein 'Rabies virus P protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.12666666666666668
+LSKIMQDDLNRYTSCS,Rabies virus (strain CVS-11) (RABV),Viral,"inherited from parent protein 'Rabies virus P protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.12333333333333334
+IKTLEEDEEELFKMRAKL,Homo sapiens (Human),Human,"inherited from parent protein 'RanBP1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.23333333333333334
+KPNAGSDRAWVWNTHADF,Homo sapiens (Human),Human,"inherited from parent protein 'RanBP1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+DEEVAPPKPPLPGIRV,Homo sapiens (Human),Human,"inherited from parent protein 'RapGEF1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.01
+RQKNLSWLEEKEKEVV,Homo sapiens (Human),Human,"inherited from parent protein 'RapGEF1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.07666666666666666
+RRPGFWKSLR,Bovine immunodeficiency virus (strain R29) (BIV) (Bovine immunodeficiency-like virus),Viral,"inherited from parent protein 'Rev' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+NRRKQERRLS,Bovine immunodeficiency virus (strain R29) (BIV) (Bovine immunodeficiency-like virus),Viral,"inherited from parent protein 'Rev' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+SQRKRPPTPWPTSQ,Human T-cell leukemia virus type 1 (HTLV-1),Viral,"inherited from parent protein 'Rex Protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.006666666666666667
+YVRPAYIVTPYWPP,Human T-cell leukemia virus type 1 (HTLV-1),Viral,"inherited from parent protein 'Rex Protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+MFYLHDQNPVLLHRDLKPSNVLLDPE,Homo sapiens (Human),Human,"inherited from parent protein 'RIP3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.23333333333333334
+NSKAISREVKAMASLDNEFVLRLEGV,Homo sapiens (Human),Human,"inherited from parent protein 'RIP3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.18666666666666668
+RNRLENGSAVYLALGLKSHSEGLKVVKLYQNGIRPKGVATLI,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Rna1p' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.13666666666666666
+LYQNGIRPKGVATLIHYGLQYLKNLEILDLQDNTFTKHASLI,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Rna1p' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.16666666666666666
+EVRYGCLREDSCHFAHSFIELKVWLLQQYSGMTHEDI,Homo sapiens (Human),Human,"inherited from parent protein 'RoXan' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.41
+NFPQQYDLCIHAQNGRKCQYVGNCSFAHSPEERDMWT,Homo sapiens (Human),Human,"inherited from parent protein 'RoXan' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.06666666666666667
+TSSTTRTNGHSTSSTRNHSTSHPSRGTAQAVESTLQSGTTAA,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Rsp5' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+GRTYYVDHNTRTTTWKRPTLDQTEAERGNQLNANTELERRQH,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Rsp5' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.043333333333333335
+TISSEIKSARGSHHLSIYAENSL,Homo sapiens (Human),Human,"inherited from parent protein 'SBP2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05333333333333334
+YIEIWKKHLEAYSGCTLELEESL,Homo sapiens (Human),Human,"inherited from parent protein 'SBP2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.13666666666666666
+YSGCTLELEESLEAS,Homo sapiens (Human),Human,"inherited from parent protein 'SBP2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.01
+SIYAENSLKSDGYHK,Homo sapiens (Human),Human,"inherited from parent protein 'SBP2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+GIPPSQLPWEGRAIATHKFRLLEFTAFM,Drosophila melanogaster (Fruit fly),Invertebrate/Other,"inherited from parent protein 'SD' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.25333333333333335
+GLLQLQNNLSCSELEVAEKTEQQAVGPG,Drosophila melanogaster (Fruit fly),Invertebrate/Other,"inherited from parent protein 'SD' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.12333333333333334
+AVTEMISEESGKGLRR,Homo sapiens (Human),Human,"inherited from parent protein 'SENP2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.07666666666666666
+RKVSIIETKEKNCSGK,Homo sapiens (Human),Human,"inherited from parent protein 'SENP2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+QLPDAESDEDEDFKEQ,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'Septin-2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+YLHDESGLNRRHIVDN,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'Septin-2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03
+SFMFNGTSFGFVNCHLTSG,Homo sapiens (Human),Human,"inherited from parent protein 'SHIP2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.1
+GKSQKFTLSVDVEGGRLVL,Homo sapiens (Human),Human,"inherited from parent protein 'SHIP2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.09666666666666666
+VDKVLSGLEILSKVFDQQS,Homo sapiens (Human),Human,"inherited from parent protein 'SHIP2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.74
+DAQSSDNINFLKVQWSSRQ,Homo sapiens (Human),Human,"inherited from parent protein 'SHIP2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.01
+CGSGNGTLSILAGSGVTVAEECNERLQQHQQQQQQTSGNEFRTFQQLQQELQLQ,Drosophila melanogaster (Fruit fly),Invertebrate/Other,"inherited from parent protein 'Sima' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.17666666666666667
+KAADPEIIAQETKETVNTPIHTSELQAKPLQLESEKAEKTIEETKTIATIPPVT,Drosophila melanogaster (Fruit fly),Invertebrate/Other,"inherited from parent protein 'Sima' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.02666666666666667
+LYDNLEKYHLPYPEAIFEI,Homo sapiens (Human),Human,"inherited from parent protein 'SIRT2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05
+GESLPARFFSCMQSDFLKV,Homo sapiens (Human),Human,"inherited from parent protein 'SIRT2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.31
+LRHELSLQQPQA,Homo sapiens (Human),Human,"inherited from parent protein 'Smurf1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.023333333333333334
+LHHIMNHQCQLK,Homo sapiens (Human),Human,"inherited from parent protein 'Smurf1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.13666666666666666
+QEWIVVVCPVGKRAL,Homo sapiens (Human),Human,"inherited from parent protein 'SNUPN' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05333333333333334
+LGQEWIVVVCPVGKR,Homo sapiens (Human),Human,"inherited from parent protein 'SNUPN' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.043333333333333335
+GNVTADKDGVADVSIEDSVISLSGDHCIIGRT,Homo sapiens (Human),Human,"inherited from parent protein 'SOD1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.24
+CIIGRTLVVHEKADDLGKGGNEESTKTGNAGS,Homo sapiens (Human),Human,"inherited from parent protein 'SOD1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.07333333333333333
+GGGGSGLRASPG,Homo sapiens (Human),Human,"inherited from parent protein 'Sox10' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+SRPQFDYSDHQP,Homo sapiens (Human),Human,"inherited from parent protein 'Sox10' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+TSTSINAIKGVKLTA,Eriocheir sinensis (Chinese mitten crab),Invertebrate/Other,"inherited from parent protein 'SOX14A' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.19
+LKIDKKFKDSIRNTN,Eriocheir sinensis (Chinese mitten crab),Invertebrate/Other,"inherited from parent protein 'SOX14A' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03
+EHATLDDLYNITDFI,Eriocheir sinensis (Chinese mitten crab),Invertebrate/Other,"inherited from parent protein 'SOX14B' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.16666666666666666
+SHTASGPVTVTSPSI,Eriocheir sinensis (Chinese mitten crab),Invertebrate/Other,"inherited from parent protein 'SOX14B' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+KALQADSPHSSSGM,Homo sapiens (Human),Human,"inherited from parent protein 'SOX9' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+QPPQAPPAPQAPPQ,Homo sapiens (Human),Human,"inherited from parent protein 'SOX9' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+METPEQPHQQGN,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Spc27' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.01
+DSLELEENSSSV,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Spc27' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.006666666666666667
+RSSAHWWLAARARSGETGY,Homo sapiens (Human),Human,"inherited from parent protein 'SPN90' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+SSTSDHHLDAAAARQPNGV,Homo sapiens (Human),Human,"inherited from parent protein 'SPN90' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+AHAAAAVAAQ,Drosophila melanogaster (Fruit fly),Invertebrate/Other,"inherited from parent protein 'Src' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+QAHYANQAAY,Drosophila melanogaster (Fruit fly),Invertebrate/Other,"inherited from parent protein 'Src' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+QPGTFLLRFSESS,Homo sapiens (Human),Human,"inherited from parent protein 'STAT1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.14666666666666667
+QVRQQLKKLEELE,Homo sapiens (Human),Human,"inherited from parent protein 'STAT1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.16333333333333333
+KQDWEHAANDVSFATIRFHDLL,Homo sapiens (Human),Human,"inherited from parent protein 'STAT1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.2733333333333333
+ERKILENAQRFNQAQSGNIQST,Homo sapiens (Human),Human,"inherited from parent protein 'STAT1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.023333333333333334
+SESSKEGGVTFTW,Mus musculus (Mouse),Rodent,"inherited from parent protein 'STAT3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+VYHQGLKIDLETH,Mus musculus (Mouse),Rodent,"inherited from parent protein 'STAT3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.07666666666666666
+KFPELNYQLKI,Mus musculus (Mouse),Rodent,"inherited from parent protein 'STAT3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.14
+VVERQPCMPMH,Mus musculus (Mouse),Rodent,"inherited from parent protein 'STAT3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.056666666666666664
+HQGLKIDLETHSLP,Mus musculus (Mouse),Rodent,"inherited from parent protein 'STAT3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.18666666666666668
+FTWVEKDISGKTQI,Mus musculus (Mouse),Rodent,"inherited from parent protein 'STAT3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03333333333333333
+NPGSITQDCKK,Rattus norvegicus (Rat),Rodent,"inherited from parent protein 'Stau2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+TVGNNEFFGEG,Rattus norvegicus (Rat),Rodent,"inherited from parent protein 'Stau2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+IGLAFISYLDSLPNFNR,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'Sup35' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.11
+RFTLRDEGKTIAIGKVL,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'Sup35' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.07333333333333333
+ENEPDLAQCFFCFKEL,Homo sapiens (Human),Human,"inherited from parent protein 'survivin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.14
+GWEPDDDPIEEHKKHS,Homo sapiens (Human),Human,"inherited from parent protein 'survivin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+CVQGDWCPISGGLCS,Human T-cell leukemia virus type 1 (HTLV-1),Viral,"inherited from parent protein 'Tax' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.013333333333333334
+PVTLTAWQNGLLPFH,Human T-cell leukemia virus type 1 (HTLV-1),Viral,"inherited from parent protein 'Tax' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.09333333333333334
+MEAETLAPVQAAVNPPTMTPDMRSITNNSSDPFLNGGPY,Homo sapiens (Human),Human,"inherited from parent protein 'TAZ' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.08
+QAAVNPPTMTPDMRSITNNSSDPFLNGGPYHSREQSTDS,Homo sapiens (Human),Human,"inherited from parent protein 'TAZ' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05333333333333334
+SEEGPGEALMLGAEVPDPEPLPAL,Homo sapiens (Human),Human,"inherited from parent protein 'TFEB' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.17
+PEPLPALPPQAPLPLPTQPPSPFH,Homo sapiens (Human),Human,"inherited from parent protein 'TFEB' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.06333333333333334
+QTQQVLIPASQQATAPQVIVPDSKLIQHMNASNMSAAATA,Homo sapiens (Human),Human,"inherited from parent protein 'TFIIA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.09
+QVIPQMQPGGVQAPVIQQVLAPLPGGISPQTGVIIQPQQI,Homo sapiens (Human),Human,"inherited from parent protein 'TFIIA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05333333333333334
+CPRENCDRTYTTKFNLKSH,Bufo americanus (American toad),Invertebrate/Other,"inherited from parent protein 'TFIIIA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+HTGERPFPCTYEGCEKGFV,Bufo americanus (American toad),Invertebrate/Other,"inherited from parent protein 'TFIIIA' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+SPKLSNKELKP,Homo sapiens (Human),Human,"inherited from parent protein 'Topoisomerase II-alpha' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+LLGLPEDYLYG,Homo sapiens (Human),Human,"inherited from parent protein 'Topoisomerase II-alpha' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.37666666666666665
+QTTLAFKPIKKGK,Homo sapiens (Human),Human,"inherited from parent protein 'Topoisomerase II-alpha' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+PEDDAAISLAFSK,Homo sapiens (Human),Human,"inherited from parent protein 'Topoisomerase II-alpha' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.006666666666666667
+LLRRAAAERPK,Homo sapiens (Human),Human,"inherited from parent protein 'Topoisomerase II-beta' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+IVALMTRRAYD,Homo sapiens (Human),Human,"inherited from parent protein 'Topoisomerase II-beta' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.13666666666666666
+VSKKSAWILGVCAGFQSDAMYNIEQNENYQPKYG,Macaca mulatta (Rhesus macaque),Invertebrate/Other,"inherited from parent protein 'TRIM5α' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.10333333333333333
+HGFLIYKFSQCSFSKPVFPYLNPRKCTVPMTLCS,Macaca mulatta (Rhesus macaque),Invertebrate/Other,"inherited from parent protein 'TRIM5α' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.17
+GGPTPASYATASTPAGPAFPVQVKVAQPVRGCGLPRRGAS,Mus musculus (Mouse),Rodent,"inherited from parent protein 'Trip6' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03
+LERLTKKLVHDMSHPPSGEYFGRCGGCGEDVVGDGAGVVA,Mus musculus (Mouse),Rodent,"inherited from parent protein 'Trip6' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.07
+TPDSRVGGYLDT,Drosophila melanogaster (Fruit fly),Invertebrate/Other,"inherited from parent protein 'Ubx' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+KKEIQAIKELNE,Drosophila melanogaster (Fruit fly),Invertebrate/Other,"inherited from parent protein 'Ubx' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+TRLMAAATAC,Human cytomegalovirus,Viral,"inherited from parent protein 'UL94' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+AVTLGGAGAW,Human cytomegalovirus,Viral,"inherited from parent protein 'UL94' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+GLVLYQEDVGIHVVD,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'UPF2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.10666666666666667
+QRLDLLPFYARLVAT,Xenopus laevis (African clawed frog),Other vertebrate,"inherited from parent protein 'UPF2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.20333333333333334
+VVGGKLFRPMHVEGKIDNDVLAALKTKKASKYDLEYADV,Venezuelan equine encephalitis virus (strain P676) (VEEV),Viral,"inherited from parent protein 'VEEV Capsid protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.11
+PNKKPGKRQRMVMKLESDKTFPIMLEGKINGYACVVGGK,Venezuelan equine encephalitis virus (strain P676) (VEEV),Viral,"inherited from parent protein 'VEEV Capsid protein' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.08333333333333333
+KARGAGDPKGQRWH,Chicken anemia virus,Viral,"inherited from parent protein 'VP1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+RMFGGWHLFRHIET,Chicken anemia virus,Viral,"inherited from parent protein 'VP1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.10666666666666667
+PRCSAGQVTN,Human herpesvirus 1 (strain F) (HHV-1) (Human herpes simplex virus 1),Viral,"inherited from parent protein 'VP19C' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+ILRGTMRGGA,Human herpesvirus 1 (strain F) (HHV-1) (Human herpes simplex virus 1),Viral,"inherited from parent protein 'VP19C' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+VVAFDPYTTSVEEGDPMEF,Homo sapiens (Human),Human,"inherited from parent protein 'WDR20' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05
+NSVTTPGNSVPPPLPRSNS,Homo sapiens (Human),Human,"inherited from parent protein 'WDR20' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+REPGVGATDADS,Homo sapiens (Human),Human,"inherited from parent protein 'WDR42A' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+MSSKGSSTDGRT,Homo sapiens (Human),Human,"inherited from parent protein 'WDR42A' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+LARRPAPQDHGRRLYKMLC,Homo sapiens (Human),Human,"inherited from parent protein 'X11L2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.04
+ISYTADIGCVLVLMARRRL,Homo sapiens (Human),Human,"inherited from parent protein 'X11L2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.07
+FIEKAQNMSKYVLID,Homo sapiens (Human),Human,"inherited from parent protein 'XAB1/Gpn1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03666666666666667
+SNLTRSMSLVLDEFY,Homo sapiens (Human),Human,"inherited from parent protein 'XAB1/Gpn1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.09
+RDNAGDRAD,Canis familiaris (Dog),Other vertebrate,"inherited from parent protein 'ZO-2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+PRAQMRRAA,Canis familiaris (Dog),Other vertebrate,"inherited from parent protein 'ZO-2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+DFEDTDGEGG,Canis familiaris (Dog),Other vertebrate,"inherited from parent protein 'ZO-2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+FEDTDGEGGA,Canis familiaris (Dog),Other vertebrate,"inherited from parent protein 'ZO-2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+ATPTPFKSMG,Canis familiaris (Dog),Other vertebrate,"inherited from parent protein 'ZO-2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+EVGEGSEEQE,Canis familiaris (Dog),Other vertebrate,"inherited from parent protein 'ZO-2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+SPPPAFKPEPP,Canis familiaris (Dog),Other vertebrate,"inherited from parent protein 'ZO-2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+TDARKLIEKSR,Canis familiaris (Dog),Other vertebrate,"inherited from parent protein 'ZO-2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0033333333333333335
+PPPPGEELSFSSNCAFP,Gallus gallus (Chicken),Other vertebrate,"inherited from parent protein 'Zyxin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+EKPVPTEKSAAVKDMRR,Gallus gallus (Chicken),Other vertebrate,"inherited from parent protein 'Zyxin' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.006666666666666667
+QQSLSLPFEQQLLMMANETALSATFPPELQSLAPT,Bovine torovirus,Viral,"inherited from parent protein 'BToN' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.2966666666666667
+QYPMGFQPRFLRRRNLGFRPMFQRRNNSNQNRSRQ,Bovine torovirus,Viral,"inherited from parent protein 'BToN' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.056666666666666664
+GANNQIKEAIDKRYLPDDE,Homo sapiens (Human),Human,"inherited from parent protein 'CDC27' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+SPDTVPLGTGTSILSKQVQ,Homo sapiens (Human),Human,"inherited from parent protein 'CDC27' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.056666666666666664
+SAEVVTLWYRPPDVLFGA,Homo sapiens (Human),Human,"inherited from parent protein 'Cdk5-p27' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.04
+FCHSRNVLHRDLKPQNLL,Homo sapiens (Human),Human,"inherited from parent protein 'Cdk5-p27' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.21333333333333335
+IVKSFLFQLLKGLGFCHSR,Homo sapiens (Human),Human,"inherited from parent protein 'Cdk5-p27' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.6833333333333333
+LTLVFEFCDQDLKKYFDSC,Homo sapiens (Human),Human,"inherited from parent protein 'Cdk5-p27' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.13
+AAFEEVMKDLSLTRAARLQ,Homo sapiens (Human),Human,"inherited from parent protein 'CRTC1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.57
+SQYLQLGPSRGQYYGGSLP,Homo sapiens (Human),Human,"inherited from parent protein 'CRTC1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.023333333333333334
+MKGGIRKDRRGGR,Homo sapiens (Human),Human,"inherited from parent protein 'ERα' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+IHLMAKAGLTLQQ,Homo sapiens (Human),Human,"inherited from parent protein 'ERα' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.18
+PPGNYKKPKLLYCSNGGH,Homo sapiens (Human),Human,"inherited from parent protein 'FGF-1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+HAEKNWFVGLKKNGSCKR,Homo sapiens (Human),Human,"inherited from parent protein 'FGF-1' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+AYPQCSGGYPAAGPYG,Mus musculus (Mouse),Rodent,"inherited from parent protein 'Gal3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+DFRRGNDVAFHFNPRF,Mus musculus (Mouse),Rodent,"inherited from parent protein 'Gal3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.02
+KHIMGQNVADY,Homo sapiens (Human),Human,"inherited from parent protein 'L5' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+EKKPKKEVKKK,Homo sapiens (Human),Human,"inherited from parent protein 'L5' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.006666666666666667
+DRDAEVLEYLQDIGLEYLTDGRPGFKLL,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Nap1p' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.49
+LQKYKPIWEQRSRIISGQEQPKPEQIAK,Saccharomyces cerevisiae (Baker's yeast),Yeast/Fungi,"inherited from parent protein 'Nap1p' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.05333333333333334
+IGQKFVYKFVSF,Homo sapiens (Human),Human,"inherited from parent protein 'Net' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.14
+PNGLLLTPSPLL,Homo sapiens (Human),Human,"inherited from parent protein 'Net' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.38
+ESHFLKCPKP,Mus musculus (Mouse),Rodent,"inherited from parent protein 'Oct-6' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+TTAQYLPRGP,Mus musculus (Mouse),Rodent,"inherited from parent protein 'Oct-6' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+KFSQPAEISDKRYRVLLCNGHQTPALQQGTHSSRQ,Porcine circovirus 2,Viral,"inherited from parent protein 'ORF3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.10333333333333333
+YRVLLCNGHQTPALQQGTHSSRQVTPLSLRSRSST,Porcine circovirus 2,Viral,"inherited from parent protein 'ORF3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.03666666666666667
+IGSTEELKIGNKMMRARQYP,Homo sapiens (Human),Human,"inherited from parent protein 'Septin-6' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.06
+DSLPDQLVNKSVSQGFCFNI,Homo sapiens (Human),Human,"inherited from parent protein 'Septin-6' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.18666666666666668
+SSEKEIDDVIDEIISLESS,Homo sapiens (Human),Human,"inherited from parent protein 'TFE3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.37333333333333335
+AQEQERRERREQAAAAPFP,Homo sapiens (Human),Human,"inherited from parent protein 'TFE3' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+RTTAEHPWAS,Anatid alphaherpesvirus 1,Viral,"inherited from parent protein 'UL54' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+AETQSNDWII,Anatid alphaherpesvirus 1,Viral,"inherited from parent protein 'UL54' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+SSEPVQHEESIRKPSPEPR,Canis familiaris (Dog),Other vertebrate,"inherited from parent protein 'ZO-2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.0
+MDHKARLQRMQELQEAQNA,Canis familiaris (Dog),Other vertebrate,"inherited from parent protein 'ZO-2' (matched_negative window, real sequence, generated at train time -- see generate_matched_negatives)",0,0.056666666666666664
+AAAAAAAAA,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.03
+KKKKKKKKK,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.006666666666666667
+DDDDDDDDDD,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.0
+EEEEEEEEEE,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.0
+SSSSSSSSSS,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.006666666666666667
+GGGGGGGGGG,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.006666666666666667
+PPPPPPPPPP,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.0
+LLLLLLLLLL,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.05333333333333334
+IIIIIIIII,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.03666666666666667
+VVVVVVVVV,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.006666666666666667
+MMMMMMMMMM,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.25666666666666665
+FFFFFFFFF,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.08
+ALALALALAL,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.8266666666666667
+KVKVKVKVKV,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.23666666666666666
+LELELELELE,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.5566666666666666
+LKLKLKLKLK,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.20666666666666667
+LVLVLVLVLV,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.03
+LLKKLLKKLL,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.17333333333333334
+LLLLEEEEEE,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.5333333333333333
+MMMMKKKKKK,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.18666666666666668
+LLLKKKLLL,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.3933333333333333
+FFFLLLFFF,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.15333333333333332
+QHVMKTPSR,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.05
+ETFNDAKMR,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.07333333333333333
+SAPLKQNHY,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.006666666666666667
+VKGDPTFNM,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.16333333333333333
+LPQYRTAQL,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.17
+LPPKPKPL,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.07333333333333333
+PPPPPLPPP,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.05333333333333334
+PPPPPPPPP,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.0033333333333333335
+RRRRRRRRR,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.006666666666666667
+TTTTTTTTT,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.023333333333333334
+NNNNNNNNNN,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.013333333333333334
+QQQQQQQQQQ,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.0
+LAKAKAKAL,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.34
+LEKEKELEL,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.04666666666666667
+LDKDKDLDL,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.056666666666666664
+LQKQKQLQL,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.19666666666666666
+LRKRKRLRL,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.5633333333333334
+MLLLLLLLL,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.15666666666666668
+MVVVVVVVV,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.02666666666666667
+MIIIIIII,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.16
+LLVVLLVVL,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.12
+IIILLLIII,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.17
+VVVIIIVVV,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.02
+FFFVVVFFF,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.013333333333333334
+LLLFFFLLLFFF,,Synthetic (fabricated),NEGATIVE_SEQUENCES (homopolymer/pattern decoy),0,0.38666666666666666
+LNELRKTIEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.0033333333333333335
+LEQEIKGEVKV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.023333333333333334
+MKGSIRHLRL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02
+IVQLERELEL,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.006666666666666667
+MEKELDELRI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.14333333333333334
+VKEKLLKAIQL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03666666666666667
+LARRLQKRVLL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03666666666666667
+LKAHLGHQLSM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.17
+LARLQDTLEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.3466666666666667
+VIEKVQHIQL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.04666666666666667
+VQDVNDVLDL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.07666666666666666
+FASMKSQMEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.023333333333333334
+LKAELERIKV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03333333333333333
+LVVRIASLEV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.09
+FAELTKINL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03
+VSQLTSELKF,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.006666666666666667
+VDKLRVMFL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.056666666666666664
+LASGLLELAF,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.5133333333333333
+LLELTQKMAM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.12333333333333334
+LVERLKSQLAL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03666666666666667
+MLRMERVIPL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.06333333333333334
+LRKIIKTLAV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.17666666666666667
+VDSLQQLRL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.15666666666666668
+LKIKIKKELEM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.05333333333333334
+LPTVEHLQL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.10333333333333333
+LHQLQAQVLV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.013333333333333334
+LNDLTYDMEI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03
+LRDLITEAMEI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.043333333333333335
+LKAEVGQLFEV,Dictyostelium discoideum,Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.05
+LDNVKNLLEF,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03
+IEHLSRLYI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.15666666666666668
+MKRLEVDIDI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.07333333333333333
+ILALAKRLAM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.05
+VHAVTVVTL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.07666666666666666
+LNENLKKVAF,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03
+LLRLKVDILL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.023333333333333334
+FEEMVTTTLEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.09666666666666666
+LLKDISQKVAV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.08333333333333333
+VQSVLQINL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.13333333333333333
+LVHKFKELQI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.023333333333333334
+LKKDIDDLEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.07
+LEYQLENIQV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.11666666666666667
+LDELASLQV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.17
+LVELNKALAL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.016666666666666666
+VEDLKLRLQM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.006666666666666667
+LVKQVQELEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.04
+VSVLSPRVAF,Oryza sativa subsp. japonica,Plant,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.01
+LEKIKDLHM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.023333333333333334
+IESEVRRDLHV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.09666666666666666
+VSEDLRSRIEV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03
+ICALREELDM,Danio rerio,Other vertebrate,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.016666666666666666
+MLYLARMEL,Drosophila melanogaster,Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.5166666666666667
+LSEELAIQLDI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.18
+LRKTLQKELKI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02
+IKDLETQLKM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.04
+MQTLQDMLTV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.023333333333333334
+LERYMVTLSV,Sendai virus (strain Ohita),Viral,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.4866666666666667
+LLEFAETLQF,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.13
+VNRVKELEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.01
+LKNVPQVVNV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.22333333333333333
+LQALEELAV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.04666666666666667
+LEDVVRAYLKM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.08333333333333333
+LLRELDRDLRL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.37333333333333335
+LKQVEGLQM,Arabidopsis thaliana,Plant,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02
+LAELERRLDV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.013333333333333334
+LEAEFQSLFSL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.09
+MAKLSSMKI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03333333333333333
+MRQMFVMRV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03333333333333333
+LANLQAKVEL,Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173),Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.013333333333333334
+LKAKLQEAMKL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.09333333333333334
+VQVSMKHEIEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02
+MRELTINIKM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.01
+VYAQLQKMLL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.06
+ISVLQTQVSL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.06333333333333334
+IKEIEEKLAV,Dictyostelium discoideum,Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.01
+ITKLRSRVDL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.0033333333333333335
+LLEVEKVSL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.06333333333333334
+IGELVSSKIQV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.09
+LSDVAMKVKL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.013333333333333334
+LRNQLLNVDL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.05
+FLALKERLRI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.13
+MSEVNEELNL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.0033333333333333335
+VEELRAMRV,Oryza sativa subsp. indica,Plant,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.05333333333333334
+IQLIREMLM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.06333333333333334
+LNVVQSVLQI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.056666666666666664
+IEYLTKQVEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.0
+MSRCLQRLDV,Botrytis cinerea (strain B05.10),Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.04666666666666667
+LKAELLSLKL,Danio rerio,Other vertebrate,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03666666666666667
+LRETFERILRL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.13
+IKEIEDKLSL,Dictyostelium discoideum,Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.0033333333333333335
+LAEIKRKLGI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.01
+LEHVNRDLSV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.05
+VLNNITNDLRL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.01
+MEQTVKDLQL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.20666666666666667
+IESLEKRLEI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.006666666666666667
+ISKLEARLNV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.01
+VDSVVLQLLTF,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.49666666666666665
+VIDAIEEIEI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.39
+VLESFQKLKI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02
+VKNWLGNEIEV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.04
+LSAIMLQLEV,Xenopus laevis,Other vertebrate,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.05333333333333334
+LQLQLYEVQF,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.3233333333333333
+LKKEVERLKF,Arabidopsis thaliana,Plant,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.023333333333333334
+VDAMQNELQM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03
+MQAKVRKLEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.11333333333333333
+LTDLEQKLAV,Pongo abelii,Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.0033333333333333335
+LKDVQDELRI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.013333333333333334
+MEYFQEAMLF,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.056666666666666664
+LQLLNAQLSV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02666666666666667
+IPELEKTIGL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.04
+IESLENKLKV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.01
+LEKQLAVLRV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.07666666666666666
+ISKLEDRVKV,Drosophila melanogaster,Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.0
+LKQLNHSFEF,Drosophila melanogaster,Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03
+VQKRVQVDVKM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03666666666666667
+ILDNVKNLLEF,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.06
+MAEISNLKL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03
+FLTLQLPLSF,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.36333333333333334
+LLARFPNLRF,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.12666666666666668
+VTSLQAEVSV,Arabidopsis thaliana,Plant,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.0033333333333333335
+IKEAFEKEVGI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.06
+VDVAVEMIAV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.07333333333333333
+LGIVSELQL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.04666666666666667
+LSEVPGVLI,Sendai virus (strain Ohita),Viral,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.4
+LEHIMEQLNV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.01
+VKCLESRVAV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.006666666666666667
+LKSDLNNLMEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.06
+LQKVKQLRL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.013333333333333334
+IIENLQSQLKL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.016666666666666666
+LQELMEQIDI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.016666666666666666
+IENRVASVSL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.10666666666666667
+LKCLRESLLL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.19666666666666666
+LTELEQKLAV,Mus musculus,Rodent,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.0033333333333333335
+IYEMQKTIQV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.006666666666666667
+MKELEDKVRL,Candida albicans (strain SC5314 / ATCC MYA-2876),Yeast/Fungi,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.023333333333333334
+MRDRVEDVMM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.17333333333333334
+LQTLVEDLQL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.04
+LKSQLEDVSI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.0033333333333333335
+MTILRAQMEV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.013333333333333334
+LQFFLPFSV,Xenopus laevis,Other vertebrate,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.23
+MEKVSGKMAV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.21
+VAALNRRIQL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.023333333333333334
+LQELRALKL,Oryza sativa subsp. indica,Plant,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.04666666666666667
+LERLTRLLDL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03
+VARLRELLM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.08666666666666667
+ISLVQDQLAV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.016666666666666666
+MREMEENFAV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.013333333333333334
+LDGLTKIQV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.04
+LTGILQEVKL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03666666666666667
+VEKHFNDLNM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.08
+VECQLKTTLEV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02
+IAAMTNSLFI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.09
+VAEVSRVRV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03333333333333333
+MVELRLRLEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.01
+MSRCLQRIRV,Coccidioides immitis (strain RS),Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.06666666666666667
+LNEELVQLLLI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03
+LIAMLENGLGL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.07
+LLLISTTMEL,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.48
+IRELAINIRM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02666666666666667
+LQELERNVQL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.0033333333333333335
+LERELNILIF,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.12333333333333334
+IKRIQQIRM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.05333333333333334
+VKDLSQQIRV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.0033333333333333335
+LKDQINQLEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.006666666666666667
+LIAHLNIQVDF,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02666666666666667
+VGEQLGKMRV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02666666666666667
+LLALLLLLAL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.3433333333333333
+MEGDLNEIEI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.016666666666666666
+LSQLEQQVHV,Oryza sativa subsp. japonica,Plant,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.013333333333333334
+MQETLVGLEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02666666666666667
+LQKIKEKLEI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.0
+VTMLQAQLSL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02666666666666667
+LKALKDTVHI,Danio rerio,Other vertebrate,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.0033333333333333335
+MIKQLKEELRL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.06333333333333334
+ISMRLHKELEV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.04666666666666667
+LKKVWTMLM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02666666666666667
+VLQALEELAV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03333333333333333
+LKKLERDLSF,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03333333333333333
+FSDLSSPFSV,Xenopus laevis,Other vertebrate,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.30333333333333334
+LESFQKLKI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.04666666666666667
+LLRLKQMNV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.32
+VEIDMLNITI,Arabidopsis thaliana,Plant,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.12
+LEDVSILQM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02
+ILALMEVKM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.10666666666666667
+VSVVMQVMEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.043333333333333335
+VESLREKLLV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.013333333333333334
+MLILQRKINV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.0
+LIQQVEQLKL,Xenopus tropicalis,Other vertebrate,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.01
+LNVQLQNSISL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.14
+LSKKLIYFQL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.27666666666666667
+IRCFKDFQL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.16333333333333333
+LKDQLKDLKV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.016666666666666666
+FRVMSGKLTV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.016666666666666666
+ILQEIQRLRL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.07333333333333333
+VNDPLNCEIIL,Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139),Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.09
+LDALLEALKL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.16333333333333333
+LQYFARGLQV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.23333333333333334
+VDKLSEDIDL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.023333333333333334
+LREKLRALQL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.04
+LDKDLEEVTM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.04
+FRLLTRVRV,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.32666666666666666
+LESRVLELEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.023333333333333334
+VDQLEGMLKM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.016666666666666666
+LEEVKAINI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02666666666666667
+LTLLDKLVNM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03333333333333333
+LCERLVSLLL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.5933333333333334
+LIRCFKDFQL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.14333333333333334
+INALKAKLQM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03333333333333333
+IKKQLNTRLTL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.023333333333333334
+LSALQSMMAV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.05
+LKTQIEELKL,Rattus norvegicus,Rodent,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02
+MRSVLQAINL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.19333333333333333
+LVTCLHLLKL,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.06333333333333334
+IKCLENRVAV,Drosophila melanogaster,Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.0
+LLPTVEHLQL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.07333333333333333
+LDAINKEIRL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.023333333333333334
+MEGDLNEMEI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.043333333333333335
+LELIMTEMEI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.16
+VHELEKLDV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.01
+VLRLQRQLML,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03333333333333333
+IQEINDLRL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03666666666666667
+VESINKELEI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03
+LAHLEQEIQF,Oryza sativa subsp. japonica,Plant,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.013333333333333334
+MNRHLHEYMEM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.08333333333333333
+LQGCFTELKL,Caenorhabditis elegans,Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03666666666666667
+LEETMAKLQL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03333333333333333
+VLQLEEELTL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.016666666666666666
+FQQLIQSSFVV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.2633333333333333
+IRQLSRELRL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.023333333333333334
+IKKIENDLQF,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.013333333333333334
+MKAMKETVQL,Pongo abelii,Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02666666666666667
+LKRLQEKVEV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.0
+MVDQLLLFSL,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.05
+LETRIRELEF,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.13666666666666666
+MRDLMASTVGV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.10333333333333333
+LLLRIQELEM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.05333333333333334
+IEKVQHIQL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02
+LSEELTKLNL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03
+VERLKSQLAL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03666666666666667
+FESLQSELQI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.11333333333333333
+LRSDLERLQL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.056666666666666664
+VLQELLSRIEM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.23666666666666666
+LAIQVGDLRL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.06333333333333334
+LLSEVEELNM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.05333333333333334
+LKGELKALKL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03666666666666667
+LDVVAGSVTV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.05
+LMNNVQQLRV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.23333333333333334
+IKKMEDKVNV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03
+LSERIMQLSL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.24333333333333335
+VNRLVTFSLVL,Haloferax mediterranei (strain ATCC 33500 / DSM 1411 / JCM 8866 / NBRC 14739 / NCIMB 2177 / R-4),Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.06333333333333334
+IVRLQKDLRM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.006666666666666667
+IEKLKDVISM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.0033333333333333335
+LKTELLSLKL,Xenopus tropicalis,Other vertebrate,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.043333333333333335
+VAKMKKMEM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.08
+MDRMKDMEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.06333333333333334
+VYALAALRI,Escherichia phage lambda,Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.43666666666666665
+FVKMKSALII,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.13
+VSKLNQEIRM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.023333333333333334
+ICALREELEM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.006666666666666667
+LLRIQELEM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.07333333333333333
+LNESFRDLQL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.2
+VISVYRMHL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.1
+LRQRLEESICI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.05333333333333334
+VKELQIQLEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.05
+IFQHFCEEIGV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.08666666666666667
+LQQLRKLQL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.04666666666666667
+VSILEQRLTL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.006666666666666667
+LVQLETDLKI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.023333333333333334
+FVSWLDEELSF,Arabidopsis thaliana,Plant,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.3333333333333333
+LDSELHDLRL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.0033333333333333335
+MLKLSEVRL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.11666666666666667
+LRAEMCQKLKF,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.07
+VLSVQKQMKL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.01
+LEKKLRDEINL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.10666666666666667
+LSSLEDLEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.10333333333333333
+LNSIMQASLPV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.07333333333333333
+LNELRVLLL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.07
+ISLQFFLPFSL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.18666666666666668
+FHNELNAHIKL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.17333333333333334
+VSALSPRVAF,Oryza sativa subsp. japonica,Plant,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03
+LTKEINKLEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.10666666666666667
+IKLIIQKMEI,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.19333333333333333
+VESMLSEIKM,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.05333333333333334
+VKQVQELEL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.013333333333333334
+IGELEQSLLL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02
+LRDLINEAMDV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.016666666666666666
+IEPIFEIVV,Dictyostelium discoideum,Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.18333333333333332
+LEVLEILKL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.11
+LSRMRKKIYI,Dictyostelium discoideum,Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.016666666666666666
+LKKNVEGLKL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.09333333333333334
+LREMENLRL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.05
+VVLQLLTFAV,Halobacterium salinarum (strain ATCC 700922 / JCM 11081 / NRC-1),Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.11666666666666667
+MSRCLQRLKF,Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139),Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.04
+VVHKIIELLNV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.10333333333333333
+IYTEVRELVSL,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.01
+VTEMMAQVEV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.05333333333333334
+LSGKLDRTFAV,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.043333333333333335
+LPHLKEEIPF,Homo sapiens,Human,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.02666666666666667
+LSSIMLQLEV,Xenopus laevis,Other vertebrate,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.03
+MDKINKLEL,Drosophila melanogaster,Invertebrate/Other,nes_negatives.csv or leucine_zipper_expansion (structural hard negative),0,0.04

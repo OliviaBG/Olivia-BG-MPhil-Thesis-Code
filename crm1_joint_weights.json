@@ -1,0 +1,21 @@
+{
+  "volume_A3": 0.5419,
+  "hydrophobicity": 0.0,
+  "shape_similarity": 0.5209,
+  "druggability": 0.0496,
+  "charge_score": 0.3376,
+  "composition_similarity": 0.0,
+  "residue_residue_score": 0.0,
+  "_coefficients": {
+    "volume_A3": 0.4119,
+    "hydrophobicity": -0.0192,
+    "shape_similarity": 0.3959,
+    "druggability": 0.0377,
+    "charge_score": 0.2566,
+    "composition_similarity": -0.2469,
+    "residue_residue_score": -0.3034
+  },
+  "_n": 445,
+  "_n_pos": 111,
+  "_n_neg": 334
+}

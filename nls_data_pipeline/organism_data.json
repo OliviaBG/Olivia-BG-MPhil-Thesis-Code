@@ -1,0 +1,954 @@
+{
+  "A6NCS4": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O14813": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O15119": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O15370": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O60315": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O60381": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O60548": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O94993": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O95343": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P09017": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P09086": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P12004": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P14652": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P17096": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P17509": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P17947": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O00192": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O00757": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O14776": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O15131": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O15151": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O15516": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O60684": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O75937": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O94842": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O94900": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P05230": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P12272": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P21291": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P10244": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O00409": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O00712": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O60393": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O75564": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P01011": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P11308": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P13378": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O60356": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O95239": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P10276": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "F4HZD1": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "F4I735": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "F4JP52": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "O08580": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "O35085": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "O35144": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "O35602": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "O35690": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "O54743": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "O70218": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "O70306": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "O88942": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P02830": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P07834": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P09021": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P09024": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P09025": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P0C1T1": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P10284": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P13297": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P15037": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P15565": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P15919": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P18888": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P19091": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P20615": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "A8MRD9": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "B9DGI8": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "D3YXK2": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "E9PYK3": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "F4HRT5": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "O35613": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "O35730": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "O35914": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P03069": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P15533": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "F4IDC2": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "F4K3G5": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "O23372": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "O80450": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "P02406": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P08153": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "A2RVJ8": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "F4HW04": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "O55070": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P06838": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P09119": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P10962": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "A0A5K7RLP0": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "O82312": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "P27694": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P28069": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P28347": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P28360": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P29084": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P31269": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P31271": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P31276": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P35712": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P40425": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P41225": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P43268": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P48742": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P49639": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P49715": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P52739": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P52926": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P52952": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P29373": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P34947": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P35226": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P35659": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P41218": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P42568": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P48595": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P51003": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P81133": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P28715": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P51858": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P35452": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P54821": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P40692": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P49321": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P60981": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P21675": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P23611": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P23615": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P23813": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P26323": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P27577": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P28700": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P28705": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P31245": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P32367": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P32494": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P32908": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P40630": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P41969": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P41971": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P42580": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P42586": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P43120": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P43267": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P43687": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P48381": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P51859": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P52927": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P53784": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P21827": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P22858": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P23798": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P25627": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P35601": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P36012": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P48412": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "Q00558": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P33308": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P33399": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P34160": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P36068": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P38630": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P22148": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P25441": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P32259": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P33307": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P35689": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P40018": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P40078": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P52488": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "Q00416": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P26370": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P28320": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P31539": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P32380": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P32805": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P38911": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P97440": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P25976": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P53566": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q00417": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q14493": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q01658": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q03188": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q04724": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q12972": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q14331": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8WXF8": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9BR39": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9H079": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q68DK7": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q13609": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9NUL3": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q6NYC1": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q49MI3": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q03957": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "Q8H0V5": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "Q9FG73": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "Q9SEE9": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "Q05816": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q11011": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q3UR85": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q56YN8": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "Q60591": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q61286": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q62296": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q62414": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q66JW3": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q6A068": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q700D2": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "Q78PY7": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q8BLY2": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q8C3P7": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q9S7L2": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "Q9S9P0": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "Q9STL9": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "Q00816": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "Q01722": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "Q08214": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "Q8K3J5": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q8VYJ2": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "Q9LYD9": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "Q9SSE9": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "Q0WVH0": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "Q9ET78": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q9FNE4": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "Q9M8Z5": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "Q02260": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "Q03465": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "Q08004": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "Q12749": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "Q8CJ67": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q8R3G1": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q9ERI5": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q6PDM1": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q07139": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q66JQ7": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q9FLH0": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "Q61183": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  }
+}

@@ -1,0 +1,661 @@
+accession,protein_name,organism,feature_kind,feature_start,feature_end,match_start,match_end,match_seq,context,score
+Q8TDR4,T-complex protein 10A homolog 1,Homo sapiens,leucine_zipper,74,96,89,98,LREKLRALQL,REQNMELREKLRALQLQRWKAR,1.0
+Q8TDR4,T-complex protein 10A homolog 1,Homo sapiens,coiled_coil,68,110,89,98,LREKLRALQL,REQNMELREKLRALQLQRWKAR,1.0
+P13010,DNA repair protein Ku80,Homo sapiens,leucine_zipper,137,165,159,169,ISLQFFLPFSL,SLKKCDISLQFFLPFSLGKEDGS,0.9
+P13010,DNA repair protein Ku80,Homo sapiens,leucine_zipper,137,165,161,169,LQFFLPFSL,KKCDISLQFFLPFSLGKEDGS,1.0
+Q13323,Bcl-2-interacting killer,Homo sapiens,leucine_zipper,136,158,136,146,VLLALLLLLAL,WVSCEQVLLALLLLLALLLPLLS,0.956
+Q13323,Bcl-2-interacting killer,Homo sapiens,leucine_zipper,136,158,137,146,LLALLLLLAL,VSCEQVLLALLLLLALLLPLLS,1.0
+Q13323,Bcl-2-interacting killer,Homo sapiens,leucine_zipper,136,158,138,148,LALLLLLALLL,SCEQVLLALLLLLALLLPLLSGG,0.958
+Q13323,Bcl-2-interacting killer,Homo sapiens,leucine_zipper,136,158,140,150,LLLLLALLLPL,EQVLLALLLLLALLLPLLSGGLH,0.958
+Q13323,Bcl-2-interacting killer,Homo sapiens,leucine_zipper,136,158,141,150,LLLLALLLPL,QVLLALLLLLALLLPLLSGGLH,0.958
+Q13323,Bcl-2-interacting killer,Homo sapiens,leucine_zipper,136,158,147,157,LLPLLSGGLHL,LLLLALLLPLLSGGLHLLLK,0.958
+Q13323,Bcl-2-interacting killer,Homo sapiens,leucine_zipper,136,158,148,157,LPLLSGGLHL,LLLALLLPLLSGGLHLLLK,0.958
+Q16584,Mitogen-activated protein kinase kinase kinase 11,Homo sapiens,leucine_zipper,437,459,450,459,LEVFERELTL,LLAQWELEVFERELTLLLQQVD,1.0
+Q5TCX8,Mitogen-activated protein kinase kinase kinase 21,Homo sapiens,leucine_zipper,459,481,472,481,IDVLERELNI,QLAEREIDVLERELNILIFQLN,0.872
+Q5TCX8,Mitogen-activated protein kinase kinase kinase 21,Homo sapiens,leucine_zipper,459,481,475,484,LERELNILIF,EREIDVLERELNILIFQLNQEK,0.956
+P80192,Mitogen-activated protein kinase kinase kinase 9,Homo sapiens,leucine_zipper,464,486,477,486,IDILERELNI,ELAEREIDILERELNIIIHQLC,0.872
+Q12852,Mitogen-activated protein kinase kinase kinase 12,Homo sapiens,leucine_zipper,389,411,404,413,LHRLEEELVM,KSEGTCLHRLEEELVMRRREEL,0.833
+Q12852,Mitogen-activated protein kinase kinase kinase 12,Homo sapiens,leucine_zipper,442,464,439,448,LYMELNALML,LERANNLYMELNALMLQLELKE,0.958
+Q12852,Mitogen-activated protein kinase kinase kinase 12,Homo sapiens,leucine_zipper,442,464,443,452,LNALMLQLEL,NNLYMELNALMLQLELKERELL,1.0
+Q02779,Mitogen-activated protein kinase kinase kinase 10,Homo sapiens,leucine_zipper,418,440,431,440,MDIVERELHL,ELAEREMDIVERELHLLMCQLS,1.0
+P15923,Transcription factor E2-alpha,Homo sapiens,leucine_zipper,388,425,393,403,IEDHLDEAIHV,HGLQSKIEDHLDEAIHVLRSHAV,0.708
+Q71F56,Mediator of RNA polymerase II transcription subunit 13-like,Homo sapiens,leucine_zipper,1379,1401,1393,1401,FLTISPFSL,VGYDKDFLTISPFSLPFWERL,0.942
+O43283,Mitogen-activated protein kinase kinase kinase 13,Homo sapiens,leucine_zipper,485,507,482,491,LYMELSAIML,LERANNLYMELSAIMLQLEMRE,0.972
+O43283,Mitogen-activated protein kinase kinase kinase 13,Homo sapiens,leucine_zipper,485,507,486,495,LSAIMLQLEM,NNLYMELSAIMLQLEMREKELI,0.969
+O43293,Death-associated protein kinase 3,Homo sapiens,leucine_zipper,426,441,423,433,LAKQVASEMRF,ENRYEALAKQVASEMRFVQDLVR,0.956
+Q03060,cAMP-responsive element modulator,Homo sapiens,leucine_zipper,313,335,311,320,VKCLESRVAV,RRKKEYVKCLESRVAVLEVQNK,0.803
+Q03060,cAMP-responsive element modulator,Homo sapiens,leucine_zipper,313,335,314,323,LESRVAVLEV,KEYVKCLESRVAVLEVQNKKLI,0.847
+O95810,Caveolae-associated protein 2,Homo sapiens,leucine_zipper,61,100,58,68,VLTLLDKLVNM,QVNAVTVLTLLDKLVNMLDAVQE,0.667
+O95810,Caveolae-associated protein 2,Homo sapiens,leucine_zipper,61,100,59,68,LTLLDKLVNM,VNAVTVLTLLDKLVNMLDAVQE,0.819
+O95810,Caveolae-associated protein 2,Homo sapiens,coiled_coil,60,82,58,68,VLTLLDKLVNM,QVNAVTVLTLLDKLVNMLDAVQE,0.667
+O95810,Caveolae-associated protein 2,Homo sapiens,coiled_coil,60,82,59,68,LTLLDKLVNM,VNAVTVLTLLDKLVNMLDAVQE,0.819
+O75030,Microphthalmia-associated transcription factor,Homo sapiens,leucine_zipper,373,395,388,397,LLLRIQELEM,EHANRHLLLRIQELEMQARAHG,0.847
+O75030,Microphthalmia-associated transcription factor,Homo sapiens,leucine_zipper,373,395,389,397,LLRIQELEM,HANRHLLLRIQELEMQARAHG,0.847
+O75030,Microphthalmia-associated transcription factor,Homo sapiens,coiled_coil,354,402,388,397,LLLRIQELEM,EHANRHLLLRIQELEMQARAHG,0.847
+O75030,Microphthalmia-associated transcription factor,Homo sapiens,coiled_coil,354,402,389,397,LLRIQELEM,HANRHLLLRIQELEMQARAHG,0.847
+O60519,cAMP-responsive element-binding protein-like 2,Homo sapiens,leucine_zipper,61,69,62,71,ICALREELEM,SSRERAICALREELEMYKQWCM,0.858
+P53567,CCAAT/enhancer-binding protein gamma,Homo sapiens,leucine_zipper,96,118,108,117,IKLLTKELSV,ERLEAKIKLLTKELSVLKDLFL,0.844
+Q15631,Translin,Homo sapiens,leucine_zipper,176,198,173,183,FINELDSGFRL,PLHISTFINELDSGFRLLNLKND,0.778
+Q15631,Translin,Homo sapiens,leucine_zipper,176,198,174,183,INELDSGFRL,LHISTFINELDSGFRLLNLKND,0.792
+Q15631,Translin,Homo sapiens,leucine_zipper,176,198,177,186,LDSGFRLLNL,STFINELDSGFRLLNLKNDSLR,1.0
+Q6NZI2,Caveolae-associated protein 1,Homo sapiens,leucine_zipper,52,75,49,57,VNGVLVLSL,LIKSDQVNGVLVLSLLDKIIG,0.983
+Q6NZI2,Caveolae-associated protein 1,Homo sapiens,leucine_zipper,52,75,61,70,IIGAVDQIQL,LSLLDKIIGAVDQIQLTQAQLE,1.0
+Q6NZI2,Caveolae-associated protein 1,Homo sapiens,leucine_zipper,52,75,62,70,IGAVDQIQL,SLLDKIIGAVDQIQLTQAQLE,1.0
+P18846,Cyclic AMP-dependent transcription factor ATF-1,Homo sapiens,leucine_zipper,240,262,238,247,VKCLENRVAV,RKKKEYVKCLENRVAVLENQNK,0.803
+P16220,Cyclic AMP-responsive element-binding protein 1,Homo sapiens,leucine_zipper,296,318,294,303,VKCLENRVAV,RKKKEYVKCLENRVAVLENQNK,0.803
+P29692,Elongation factor 1-delta,Homo sapiens,leucine_zipper,79,115,80,89,LVVRIASLEV,SGDHGELVVRIASLEVENQSLR,0.983
+P29692,Elongation factor 1-delta,Homo sapiens,leucine_zipper,79,115,81,89,VVRIASLEV,GDHGELVVRIASLEVENQSLR,0.831
+P29692,Elongation factor 1-delta,Homo sapiens,leucine_zipper,79,115,105,114,ISKLEARLNV,QELQQAISKLEARLNVLEKSSP,0.694
+Q8NHW3,Transcription factor MafA,Homo sapiens,leucine_zipper,281,303,289,298,LQSQVEQLKL,ESEKCQLQSQVEQLKLEVGRLA,0.986
+Q14164,Inhibitor of nuclear factor kappa-B kinase subunit epsilon,Homo sapiens,leucine_zipper,435,457,439,449,MFRGLHWVMEV,LDGQELMFRGLHWVMEVLQATCR,0.831
+Q14164,Inhibitor of nuclear factor kappa-B kinase subunit epsilon,Homo sapiens,leucine_zipper,435,457,440,449,FRGLHWVMEV,DGQELMFRGLHWVMEVLQATCR,0.803
+P19532,Transcription factor E3,Homo sapiens,leucine_zipper,408,430,423,432,LQLRIQELEL,EQANRSLQLRIQELELQAQIHG,0.972
+Q96IZ0,PRKC apoptosis WT1 regulator protein,Homo sapiens,leucine_zipper,299,340,299,309,MIGKLKEEIDL,MQDKEEMIGKLKEEIDLLNRDLD,1.0
+Q96IZ0,PRKC apoptosis WT1 regulator protein,Homo sapiens,leucine_zipper,299,340,300,309,IGKLKEEIDL,QDKEEMIGKLKEEIDLLNRDLD,0.997
+Q9Y3M2,Protein chibby homolog 1,Homo sapiens,leucine_zipper,76,98,90,99,LLRLKVDILL,LEEENNLLRLKVDILLDMLSES,1.0
+Q9Y3M2,Protein chibby homolog 1,Homo sapiens,leucine_zipper,76,98,91,101,LRLKVDILLDM,EEENNLLRLKVDILLDMLSESTA,0.861
+Q9Y3M2,Protein chibby homolog 1,Homo sapiens,coiled_coil,66,125,90,99,LLRLKVDILL,LEEENNLLRLKVDILLDMLSES,1.0
+Q9Y3M2,Protein chibby homolog 1,Homo sapiens,coiled_coil,66,125,91,101,LRLKVDILLDM,EEENNLLRLKVDILLDMLSESTA,0.861
+Q9Y3M2,Protein chibby homolog 1,Homo sapiens,coiled_coil,66,125,112,121,MEKELDELRI,TAESHLMEKELDELRISRKRK,0.736
+Q969G5,Caveolae-associated protein 3,Homo sapiens,leucine_zipper,19,78,20,28,VHAVTVVTL,APAGGPVHAVTVVTLLEKLAS,0.819
+Q13976,cGMP-dependent protein kinase 1,Homo sapiens,coiled_coil,1,59,4,14,LEEDFAKILML,MSELEEDFAKILMLKEERIK,1.0
+P19484,Transcription factor EB,Homo sapiens,leucine_zipper,297,319,312,321,LWLRIQELEM,EMTNKQLWLRIQELEMQARVHG,0.847
+Q9BZZ5,Apoptosis inhibitor 5,Homo sapiens,leucine_zipper,369,391,377,386,LQYFARGLQV,KDFKIRLQYFARGLQVYIRQLR,0.778
+Q9BZZ5,Apoptosis inhibitor 5,Homo sapiens,leucine_zipper,369,391,384,393,LQVYIRQLRL,QYFARGLQVYIRQLRLALQGKT,0.972
+Q9NYL2,Mitogen-activated protein kinase kinase kinase 20,Homo sapiens,leucine_zipper,286,308,294,303,LKKLERDLSF,EATLERLKKLERDLSFKEQELK,0.956
+P15884,Transcription factor 4,Homo sapiens,leucine_zipper,378,400,390,399,LERLDDAIHV,SRIEDRLERLDDAIHVLRNHAV,0.983
+P15336,Cyclic AMP-dependent transcription factor ATF-2,Homo sapiens,leucine_zipper,379,408,390,400,LNGQLQSEVTL,AEDLSSLNGQLQSEVTLLRNEVA,0.944
+P35658,Nuclear pore complex protein Nup214,Homo sapiens,coiled_coil,679,1209,814,823,IRRLHQYVKF,EAQLQEIRRLHQYVKFAVQDVN,0.817
+P35658,Nuclear pore complex protein Nup214,Homo sapiens,coiled_coil,679,1209,825,834,VQDVNDVLDL,QYVKFAVQDVNDVLDLEWDQHL,0.833
+P35658,Nuclear pore complex protein Nup214,Homo sapiens,coiled_coil,679,1209,878,887,LVDSLQQLRL,RKRLNHLVDSLQQLRLYKQTSL,0.958
+P35658,Nuclear pore complex protein Nup214,Homo sapiens,coiled_coil,679,1209,879,887,VDSLQQLRL,KRLNHLVDSLQQLRLYKQTSL,0.806
+P35658,Nuclear pore complex protein Nup214,Homo sapiens,coiled_coil,679,1209,1116,1125,LKNVPQVVNV,TLTESTLKNVPQVVNVQELKNN,0.983
+P10242,Transcriptional activator Myb,Homo sapiens,leucine_zipper,375,397,382,392,ILDNVKNLLEF,IVHQGTILDNVKNLLEFAETLQF,0.708
+P10242,Transcriptional activator Myb,Homo sapiens,leucine_zipper,375,397,383,392,LDNVKNLLEF,VHQGTILDNVKNLLEFAETLQF,0.833
+P10242,Transcriptional activator Myb,Homo sapiens,leucine_zipper,375,397,389,398,LLEFAETLQF,LDNVKNLLEFAETLQFIDSFLN,0.764
+Q13263,Transcription intermediary factor 1-beta,Homo sapiens,leucine_zipper,245,376,284,293,VSDVQKRVQV,RSSIRQVSDVQKRVQVDVKMAI,0.681
+Q13263,Transcription intermediary factor 1-beta,Homo sapiens,leucine_zipper,245,376,287,297,VQKRVQVDVKM,IRQVSDVQKRVQVDVKMAILQIM,0.844
+Q13263,Transcription intermediary factor 1-beta,Homo sapiens,leucine_zipper,245,376,293,302,VDVKMAILQI,VQKRVQVDVKMAILQIMKELNK,0.681
+Q13263,Transcription intermediary factor 1-beta,Homo sapiens,leucine_zipper,245,376,363,372,LSKKLIYFQL,NNTALLLSKKLIYFQLHRALKM,0.917
+Q13263,Transcription intermediary factor 1-beta,Homo sapiens,leucine_zipper,245,376,368,378,IYFQLHRALKM,LLSKKLIYFQLHRALKMIVDPVE,0.708
+P55197,Protein AF-10,Homo sapiens,leucine_zipper,749,778,771,780,LQLLNAQLSV,TAKKERLQLLNAQLSVPFPTIT,0.969
+P78527,DNA-dependent protein kinase catalytic subunit,Homo sapiens,leucine_zipper,1502,1538,1510,1519,LASGLLELAF,DLSCKQLASGLLELAFAFGGLC,0.806
+P78527,DNA-dependent protein kinase catalytic subunit,Homo sapiens,leucine_zipper,1502,1538,1524,1533,LCERLVSLLL,AFAFGGLCERLVSLLLNPAVLS,0.958
+A0JP26,POTE ankyrin domain family member B3,Homo sapiens,coiled_coil,488,577,529,538,LREEIAMLRL,LRENSMLREEIAMLRLELDETK,0.972
+A0JP26,POTE ankyrin domain family member B3,Homo sapiens,coiled_coil,488,577,561,571,VKEKLLKAIQL,LEEIESVKEKLLKAIQLNEEALT,0.969
+A1L190,Synaptonemal complex central element protein 3,Homo sapiens,coiled_coil,6,75,28,37,LLEEMEKISV,NKDLEKLLEEMEKISVQATWMA,0.969
+A1L190,Synaptonemal complex central element protein 3,Homo sapiens,coiled_coil,6,75,29,37,LEEMEKISV,KDLEKLLEEMEKISVQATWMA,0.969
+A5D8V7,Outer dynein arm-docking complex subunit 3,Homo sapiens,coiled_coil,93,327,183,192,LQHSLRLLEM,RLEELQLQHSLRLLEMAEAQNR,0.983
+A5D8V7,Outer dynein arm-docking complex subunit 3,Homo sapiens,coiled_coil,384,473,452,461,LERALRAMQV,AEAKDQLERALRAMQVAKDSLE,0.942
+A6H8Y1,Transcription factor TFIIIB component B'' homolog,Homo sapiens,coiled_coil,1077,1103,1080,1089,VIDAIEEIEI,RGKTPEVIDAIEEIEIDLEETE,0.872
+A6H8Y1,Transcription factor TFIIIB component B'' homolog,Homo sapiens,coiled_coil,1077,1103,1081,1089,IDAIEEIEI,GKTPEVIDAIEEIEIDLEETE,0.9
+A6H8Y1,Transcription factor TFIIIB component B'' homolog,Homo sapiens,coiled_coil,1222,1284,1264,1274,IMEKVSGKMAV,GKRDIPIMEKVSGKMAVVEEMEA,0.844
+A6H8Y1,Transcription factor TFIIIB component B'' homolog,Homo sapiens,coiled_coil,1222,1284,1265,1274,MEKVSGKMAV,KRDIPIMEKVSGKMAVVEEMEA,0.708
+A7MCY6,TANK-binding kinase 1-binding protein 1,Homo sapiens,coiled_coil,47,162,98,106,LLEVEKVSL,EIKDGSLLEVEKVSLQQRLNQ,1.0
+B3KU38,IQCJ-SCHIP1 readthrough transcript protein,Homo sapiens,coiled_coil,499,534,517,527,LNEELVQLLLI,HSQIESLNEELVQLLLIRDELHT,0.997
+O15078,Centrosomal protein of 290 kDa,Homo sapiens,coiled_coil,58,565,91,100,VMKLENELEM,NQLKTKVMKLENELEMAQQSAG,0.681
+O15078,Centrosomal protein of 290 kDa,Homo sapiens,coiled_coil,58,565,482,491,LTKEINKLEL,DREIEILTKEINKLELKISDFL,1.0
+O15078,Centrosomal protein of 290 kDa,Homo sapiens,coiled_coil,957,1027,1007,1016,VESINKELEI,ISLKEQVESINKELEITKEKLH,0.858
+O15078,Centrosomal protein of 290 kDa,Homo sapiens,coiled_coil,1070,1498,1101,1109,FAELTKINL,FELETKFAELTKINLDAQKVE,0.983
+O15078,Centrosomal protein of 290 kDa,Homo sapiens,coiled_coil,1070,1498,1270,1280,LRRQFSGALPL,RQTIQSLRRQFSGALPLAQQEKF,0.917
+O15078,Centrosomal protein of 290 kDa,Homo sapiens,coiled_coil,1070,1498,1457,1466,LRKIKENIRI,NQLEIALRKIKENIRIILETRA,1.0
+O15078,Centrosomal protein of 290 kDa,Homo sapiens,coiled_coil,1634,2452,1662,1670,VKEFENIKL,EITELKVKEFENIKLQLQENH,0.928
+O15078,Centrosomal protein of 290 kDa,Homo sapiens,coiled_coil,1634,2452,1726,1736,LVERLKSQLAL,TTTMRNLVERLKSQLALKEKQQK,0.958
+O15078,Centrosomal protein of 290 kDa,Homo sapiens,coiled_coil,1634,2452,1727,1736,VERLKSQLAL,TTMRNLVERLKSQLALKEKQQK,0.806
+O15078,Centrosomal protein of 290 kDa,Homo sapiens,coiled_coil,1634,2452,1888,1897,LEGKVEEVDL,KKLENQLEGKVEEVDLKPMKEK,1.0
+O15078,Centrosomal protein of 290 kDa,Homo sapiens,coiled_coil,1634,2452,2127,2136,IPELEKTIGL,GRSGKTIPELEKTIGLMKKVVE,0.847
+O15078,Centrosomal protein of 290 kDa,Homo sapiens,coiled_coil,1634,2452,2180,2190,LKAHLGHQLSM,KAELEKLKAHLGHQLSMHYESKT,0.983
+O15078,Centrosomal protein of 290 kDa,Homo sapiens,coiled_coil,1634,2452,2230,2239,LEILNEKMTV,RIAKNNLEILNEKMTVQLEETG,0.792
+O15078,Centrosomal protein of 290 kDa,Homo sapiens,coiled_coil,1634,2452,2337,2346,LKRELQVLRL,AETEQGLKRELQVLRLANHQLD,1.0
+O15078,Centrosomal protein of 290 kDa,Homo sapiens,coiled_coil,1634,2452,2385,2394,IKDLETQLKM,DQLKEKIKDLETQLKMSDLEKQ,0.858
+O15078,Centrosomal protein of 290 kDa,Homo sapiens,coiled_coil,1634,2452,2445,2454,VKKLSEQLGV,ILLEEKVKKLSEQLGVELTSPV,0.817
+O15232,Matrilin-3,Homo sapiens,coiled_coil,455,480,469,478,LDDILEKLKI,QRLNTKLDDILEKLKINEYGQI,0.847
+O15259,Nephrocystin-1,Homo sapiens,coiled_coil,2,105,92,101,LTQQLQGLAV,HTLLDKLTQQLQGLAVTISREN,0.969
+O43166,Signal-induced proliferation-associated 1-like protein 1,Homo sapiens,coiled_coil,1734,1795,1741,1750,VDQLEGMLKM,PTLASKVDQLEGMLKMLREDLK,0.681
+O43264,Centromere/kinetochore protein zw10 homolog,Homo sapiens,coiled_coil,13,130,63,72,VDKLSEDIDL,QGLITQVDKLSEDIDLLKSRIE,0.819
+O43264,Centromere/kinetochore protein zw10 homolog,Homo sapiens,coiled_coil,13,130,77,87,IESEVRRDLHV,DLLKSRIESEVRRDLHVSTGEFT,0.722
+O43827,Angiopoietin-related protein 7,Homo sapiens,coiled_coil,38,119,75,84,VSVVMQVMEL,KQERDWVSVVMQVMELESNSKR,0.914
+O43827,Angiopoietin-related protein 7,Homo sapiens,coiled_coil,38,119,105,114,MNNQIDIMQL,ESKYSEMNNQIDIMQLQAAQTV,0.983
+O60281,Zinc finger protein 292,Homo sapiens,coiled_coil,1826,1854,1840,1849,ILEGLQKLKL,EDQIQEILEGLQKLKLENDLST,0.983
+O60281,Zinc finger protein 292,Homo sapiens,coiled_coil,1826,1854,1841,1849,LEGLQKLKL,DQIQEILEGLQKLKLENDLST,1.0
+O60879,Protein diaphanous homolog 2,Homo sapiens,coiled_coil,902,1053,971,981,LYENLGEYFIF,HNNMMKLYENLGEYFIFDSKTVS,0.764
+O60879,Protein diaphanous homolog 2,Homo sapiens,coiled_coil,902,1053,995,1003,LNNFRTLFL,EEFFGDLNNFRTLFLEAVREN,1.0
+O60941,Dystrobrevin beta,Homo sapiens,coiled_coil,427,529,450,459,ILQEIQRLRL,ENKNREILQEIQRLRLEHEQAS,0.997
+O60941,Dystrobrevin beta,Homo sapiens,coiled_coil,427,529,451,459,LQEIQRLRL,NKNREILQEIQRLRLEHEQAS,1.0
+O60941,Dystrobrevin beta,Homo sapiens,coiled_coil,427,529,506,516,LMVQLEELMKL,QESRRELMVQLEELMKLLKEEEQ,1.0
+O60941,Dystrobrevin beta,Homo sapiens,coiled_coil,427,529,507,516,MVQLEELMKL,ESRRELMVQLEELMKLLKEEEQ,0.969
+O75334,Liprin-alpha-2,Homo sapiens,coiled_coil,184,541,187,197,LDEKVRERLRV,FEHHKALDEKVRERLRVSLERVS,0.847
+O75334,Liprin-alpha-2,Homo sapiens,coiled_coil,184,541,525,534,LRSELDQLKM,AEEIEKLRSELDQLKMRTGSLI,0.983
+O75334,Liprin-alpha-2,Homo sapiens,coiled_coil,642,695,657,666,LDAINKEIRL,MMLQEQLDAINKEIRLIQEEKE,1.0
+O75334,Liprin-alpha-2,Homo sapiens,coiled_coil,642,695,681,690,IENRVASVSL,ELRAEEIENRVASVSLEGLNLA,0.997
+O75475,PC4 and SFRS1-interacting protein,Homo sapiens,coiled_coil,370,395,377,385,LDELASLQV,NRCIEALDELASLQVTMQQAQ,0.969
+O75762,Transient receptor potential cation channel subfamily A member 1,Homo sapiens,coiled_coil,1041,1071,1064,1074,LIKLIIQKMEI,LEKQHELIKLIIQKMEIISETED,0.983
+O75762,Transient receptor potential cation channel subfamily A member 1,Homo sapiens,coiled_coil,1041,1071,1065,1074,IKLIIQKMEI,EKQHELIKLIIQKMEIISETED,0.858
+O75781,Paralemmin-1,Homo sapiens,coiled_coil,8,101,88,97,VSRLEKEIEV,RLLEDSVSRLEKEIEVLERGDS,0.831
+O94876,Transmembrane and coiled-coil domains protein 1,Homo sapiens,coiled_coil,227,313,241,250,ILKLTEQIKI,AHLQQKILKLTEQIKIAQTARD,0.736
+O94901,SUN domain-containing protein 1,Homo sapiens,coiled_coil,427,495,471,480,LLPTVEHLQL,SAVGEQLLPTVEHLQLELDQLK,1.0
+O94901,SUN domain-containing protein 1,Homo sapiens,coiled_coil,427,495,472,480,LPTVEHLQL,AVGEQLLPTVEHLQLELDQLK,1.0
+O94964,Microtubule cross-linking factor 2,Homo sapiens,coiled_coil,217,281,239,247,MLEMRDVYM,EELRAEMLEMRDVYMEEDVYQ,0.844
+O94964,Microtubule cross-linking factor 2,Homo sapiens,coiled_coil,309,351,309,319,ISMRLHKELEV,VKVSKDISMRLHKELEVVEKKRA,0.844
+O94964,Microtubule cross-linking factor 2,Homo sapiens,coiled_coil,449,484,460,469,LSRRIVELEV,EEEANLLSRRIVELEVENRGLR,0.833
+P07942,Laminin subunit beta-1,Homo sapiens,coiled_coil,1215,1315,1260,1269,VTEMMAQVEV,EKLIKDVTEMMAQVEVKLSDTT,0.789
+P07942,Laminin subunit beta-1,Homo sapiens,coiled_coil,1215,1315,1299,1308,VKELAEQLEF,ESLDNTVKELAEQLEFIKNSDI,0.803
+P07942,Laminin subunit beta-1,Homo sapiens,coiled_coil,1352,1388,1352,1361,MRDRVEDVMM,VEQSALMRDRVEDVMMERESQF,0.736
+P07942,Laminin subunit beta-1,Homo sapiens,coiled_coil,1352,1388,1381,1390,LAGKLQSLDL,ARLLDELAGKLQSLDLSAAAEM,1.0
+P07942,Laminin subunit beta-1,Homo sapiens,coiled_coil,1441,1781,1524,1533,VANEVLKMEM,LDSIEAVANEVLKMEMPSTPQQ,0.831
+P07942,Laminin subunit beta-1,Homo sapiens,coiled_coil,1441,1781,1551,1559,VESLSQVEV,EDIRERVESLSQVEVILQHSA,0.803
+P07942,Laminin subunit beta-1,Homo sapiens,coiled_coil,1441,1781,1771,1781,LLKDISQKVAV,EGEVRSLLKDISQKVAVYSTCL,0.819
+P07942,Laminin subunit beta-1,Homo sapiens,coiled_coil,1441,1781,1772,1781,LKDISQKVAV,GEVRSLLKDISQKVAVYSTCL,0.819
+P08670,Vimentin,Homo sapiens,coiled_coil,95,131,114,123,FANYIDKVRF,QELNDRFANYIDKVRFLEQQNK,0.817
+P08670,Vimentin,Homo sapiens,coiled_coil,153,245,224,233,VESLQEEIAF,LDLERKVESLQEEIAFLKKLHE,0.817
+P08670,Vimentin,Homo sapiens,coiled_coil,302,407,344,353,MREMEENFAV,ESLERQMREMEENFAVEAANYQ,0.803
+P08670,Vimentin,Homo sapiens,coiled_coil,302,407,386,395,LLNVKMALDI,LREYQDLLNVKMALDIEIATYR,1.0
+P08670,Vimentin,Homo sapiens,coiled_coil,302,407,387,397,LNVKMALDIEI,REYQDLLNVKMALDIEIATYRKL,0.997
+P09493,Tropomyosin alpha-1 chain,Homo sapiens,coiled_coil,0,284,1,10,MDAIKKKMQM,MDAIKKKMQMLKLDKE,0.708
+P09493,Tropomyosin alpha-1 chain,Homo sapiens,coiled_coil,0,284,4,13,IKKKMQMLKL,MDAIKKKMQMLKLDKENAL,0.969
+P09493,Tropomyosin alpha-1 chain,Homo sapiens,coiled_coil,0,284,85,94,VASLNRRIQL,TDAEADVASLNRRIQLVEEELD,0.969
+P0CAP2,DNA-directed RNA polymerase II subunit GRINL1A,Homo sapiens,coiled_coil,300,335,303,312,LLSIEESLAL,HHMPTQLLSIEESLALQKQQKQ,0.972
+P11055,Myosin-3,Homo sapiens,coiled_coil,839,1933,951,960,LKKDIDDLEL,EDECSELKKDIDDLELTLAKVE,1.0
+P11055,Myosin-3,Homo sapiens,coiled_coil,839,1933,1422,1431,LQGEVEDLMV,EKTKQRLQGEVEDLMVDVERAN,0.847
+P11055,Myosin-3,Homo sapiens,coiled_coil,839,1933,1619,1628,MEGDLNEIEI,IRLKKKMEGDLNEIEIQLSHAN,0.75
+P11055,Myosin-3,Homo sapiens,coiled_coil,839,1933,1816,1825,LETRIRELEF,KKQIQKLETRIRELEFELEGEQ,0.819
+P11055,Myosin-3,Homo sapiens,coiled_coil,839,1933,1865,1874,LQDLVDKLQV,RKNVLRLQDLVDKLQVKVKSYK,0.847
+P16383,Intron Large complex component GCFC2,Homo sapiens,coiled_coil,266,312,271,281,IKKQLNTRLTL,PVNLEIIKKQLNTRLTLLQETHR,0.983
+P21757,Macrophage scavenger receptor types I and II,Homo sapiens,coiled_coil,170,255,183,192,LNTTLLDLQL,SKSLISLNTTLLDLQLNIENLN,0.958
+P21757,Macrophage scavenger receptor types I and II,Homo sapiens,coiled_coil,170,255,236,246,LEQEIKGEVKV,KEEQVHLEQEIKGEVKVLNNITN,0.819
+P21757,Macrophage scavenger receptor types I and II,Homo sapiens,coiled_coil,170,255,246,256,VLNNITNDLRL,IKGEVKVLNNITNDLRLKDWEHS,0.969
+P21757,Macrophage scavenger receptor types I and II,Homo sapiens,coiled_coil,170,255,247,256,LNNITNDLRL,KGEVKVLNNITNDLRLKDWEHS,0.972
+P35712,Transcription factor SOX-6,Homo sapiens,coiled_coil,183,262,191,201,LSTMITQLISL,AEKERQLSTMITQLISLREQLLA,1.0
+P35712,Transcription factor SOX-6,Homo sapiens,coiled_coil,183,262,251,260,INLLQQQIQV,LQQQHKINLLQQQIQVQGHMPP,0.708
+P36406,E3 ubiquitin-protein ligase TRIM23,Homo sapiens,coiled_coil,351,379,374,383,FTEVADHIQL,QKQQQQFTEVADHIQLDASIPV,0.861
+P37198,Nuclear pore glycoprotein p62,Homo sapiens,coiled_coil,327,458,375,384,LHREVEKVKL,GEKITSLHREVEKVKLDQKRLD,0.972
+P40222,Alpha-taxilin,Homo sapiens,coiled_coil,185,491,277,286,FQVTLNDIQL,KEVTSHFQVTLNDIQLQMEQHN,0.833
+P42224,Signal transducer and activator of transcription 1-alpha/beta,Homo sapiens,coiled_coil,135,317,213,223,VVHKIIELLNV,DNKRKEVVHKIIELLNVTELTQN,0.831
+P42224,Signal transducer and activator of transcription 1-alpha/beta,Homo sapiens,coiled_coil,135,317,214,223,VHKIIELLNV,NKRKEVVHKIIELLNVTELTQN,0.831
+P42224,Signal transducer and activator of transcription 1-alpha/beta,Homo sapiens,coiled_coil,135,317,256,265,LDQLQNWFTI,GPPNACLDQLQNWFTIVAESLQ,0.806
+P42224,Signal transducer and activator of transcription 1-alpha/beta,Homo sapiens,coiled_coil,135,317,309,319,FQQLIQSSFVV,DRTFSLFQQLIQSSFVVERQPCM,0.653
+P52732,Kinesin-like protein KIF11,Homo sapiens,coiled_coil,363,480,405,414,FRVMSGKLTV,YISEENFRVMSGKLTVQEEQIV,0.817
+P52732,Kinesin-like protein KIF11,Homo sapiens,coiled_coil,363,480,433,441,LNRVTELFM,GAVEEELNRVTELFMDNKNEL,1.0
+P55327,Tumor protein D52,Homo sapiens,coiled_coil,61,114,104,113,LAEIKRKLGI,AAKEKHLAEIKRKLGINSLQEL,1.0
+P56962,Syntaxin-17,Homo sapiens,coiled_coil,52,123,69,77,IREIEKLCL,QQLRSNIREIEKLCLKVRKDD,0.847
+P67936,Tropomyosin alpha-4 chain,Homo sapiens,coiled_coil,1,248,49,58,VAALNRRIQL,EKAEGDVAALNRRIQLVEEELD,0.969
+P82094,TATA element modulatory factor,Homo sapiens,coiled_coil,438,922,714,723,LAIQVGDLRL,RQQQETLAIQVGDLRLALQRTE,1.0
+P82094,TATA element modulatory factor,Homo sapiens,coiled_coil,983,1092,985,995,IIENLQSQLKL,MGAGSSIIENLQSQLKLREGEIT,0.833
+P82094,TATA element modulatory factor,Homo sapiens,coiled_coil,983,1092,986,995,IENLQSQLKL,GAGSSIIENLQSQLKLREGEIT,0.833
+Q07065,Cytoskeleton-associated protein 4,Homo sapiens,coiled_coil,255,460,321,331,IYTEVRELVSL,QTMESDIYTEVRELVSLKQEQQA,0.997
+Q07065,Cytoskeleton-associated protein 4,Homo sapiens,coiled_coil,255,460,416,425,VEDGVLSMQV,DSRLQHVEDGVLSMQVASARQT,0.667
+Q07065,Cytoskeleton-associated protein 4,Homo sapiens,coiled_coil,532,602,543,552,VSQVEADLKM,DNLKASVSQVEADLKMLRTAVD,0.708
+Q07065,Cytoskeleton-associated protein 4,Homo sapiens,coiled_coil,532,602,557,567,VDSLVAYSVKI,KMLRTAVDSLVAYSVKIETNENN,0.708
+Q07065,Cytoskeleton-associated protein 4,Homo sapiens,coiled_coil,532,602,584,593,LRNDLDRLFV,KGLLDDLRNDLDRLFVKVEKIH,0.969
+Q0VAK6,Leiomodin-3,Homo sapiens,coiled_coil,15,42,32,41,LKELQSEMEV,NLSAEELKELQSEMEVMAPDPS,0.942
+Q0VAK6,Leiomodin-3,Homo sapiens,coiled_coil,385,425,416,426,LIAMLENGLGL,LKEQKKLIAMLENGLGLPPGMWE,0.958
+Q0VAK6,Leiomodin-3,Homo sapiens,coiled_coil,385,425,417,426,IAMLENGLGL,KEQKKLIAMLENGLGLPPGMWE,0.833
+Q13043,Serine/threonine-protein kinase 4,Homo sapiens,coiled_coil,289,310,290,300,LRDLINEAMDV,AKGVSILRDLINEAMDVKLKRQE,0.806
+Q13439,Golgin subfamily A member 4,Homo sapiens,coiled_coil,132,2185,189,198,IAELREELQM,DKSLRRIAELREELQMDQQAKK,0.708
+Q13439,Golgin subfamily A member 4,Homo sapiens,coiled_coil,132,2185,221,230,ISVLQTQVSL,EEKDQYISVLQTQVSLLKQRLR,0.969
+Q13439,Golgin subfamily A member 4,Homo sapiens,coiled_coil,132,2185,330,338,LEKIKDLHM,DERLQELEKIKDLHMAEKTKL,0.997
+Q13439,Golgin subfamily A member 4,Homo sapiens,coiled_coil,132,2185,754,763,LKDQINQLEL,QRTEKALKDQINQLELLLKERD,1.0
+Q13439,Golgin subfamily A member 4,Homo sapiens,coiled_coil,132,2185,1058,1066,LQEIHEIQL,NQQAEELQEIHEIQLQEKEQE,1.0
+Q13439,Golgin subfamily A member 4,Homo sapiens,coiled_coil,132,2185,1073,1082,VAELKQKILL,QEKEQEVAELKQKILLFGCEKE,0.969
+Q13439,Golgin subfamily A member 4,Homo sapiens,coiled_coil,132,2185,1132,1141,LKAHLEKLEV,AQDETKLKAHLEKLEVDLNKSL,0.969
+Q13439,Golgin subfamily A member 4,Homo sapiens,coiled_coil,132,2185,1153,1162,LQEQLVELKM,LKENTFLQEQLVELKMLAEEDK,0.833
+Q13439,Golgin subfamily A member 4,Homo sapiens,coiled_coil,132,2185,1206,1215,FKKLSEELAI,EDKSLEFKKLSEELAIQLDICC,0.858
+Q13439,Golgin subfamily A member 4,Homo sapiens,coiled_coil,132,2185,1209,1219,LSEELAIQLDI,SLEFKKLSEELAIQLDICCKKTE,0.847
+Q13439,Golgin subfamily A member 4,Homo sapiens,coiled_coil,132,2185,1348,1357,LSENINAVTL,TQLKKELSENINAVTLMKEELK,1.0
+Q13439,Golgin subfamily A member 4,Homo sapiens,coiled_coil,132,2185,1372,1381,LSKQLTDLNV,KVEISSLSKQLTDLNVQLQNSI,0.819
+Q13439,Golgin subfamily A member 4,Homo sapiens,coiled_coil,132,2185,1379,1389,LNVQLQNSISL,SKQLTDLNVQLQNSISLSEKEAA,1.0
+Q13439,Golgin subfamily A member 4,Homo sapiens,coiled_coil,132,2185,1410,1419,LLDQVQDLSF,DEEKCELLDQVQDLSFKVDTLS,0.983
+Q13439,Golgin subfamily A member 4,Homo sapiens,coiled_coil,132,2185,1411,1419,LDQVQDLSF,EEKCELLDQVQDLSFKVDTLS,0.983
+Q13439,Golgin subfamily A member 4,Homo sapiens,coiled_coil,132,2185,1460,1469,VKELQIQLEL,TQHQNTVKELQIQLELKSKEAY,0.806
+Q13439,Golgin subfamily A member 4,Homo sapiens,coiled_coil,132,2185,1946,1955,IVRLQKDLRM,QKLGKEIVRLQKDLRMLRKEHQ,0.858
+Q13439,Golgin subfamily A member 4,Homo sapiens,coiled_coil,132,2185,2175,2183,FEYLRKVLF,FGEPTEFEYLRKVLFEYMMGR,0.803
+Q13586,Stromal interaction molecule 1,Homo sapiens,coiled_coil,247,442,282,292,LEKKLRDEINL,EVEKVHLEKKLRDEINLAKQEAQ,0.972
+Q13586,Stromal interaction molecule 1,Homo sapiens,coiled_coil,247,442,433,441,IEILCGFQI,LHRWQQIEILCGFQIVNNPGI,0.681
+Q13751,Laminin subunit beta-3,Homo sapiens,coiled_coil,947,1133,1122,1131,MMDRMKDMEL,FGETMEMMDRMKDMELELLRGS,0.956
+Q13751,Laminin subunit beta-3,Homo sapiens,coiled_coil,947,1133,1123,1131,MDRMKDMEL,GETMEMMDRMKDMELELLRGS,0.956
+Q13769,THO complex subunit 5,Homo sapiens,coiled_coil,80,247,89,98,IQSCVHFMTL,EIEERRIQSCVHFMTLKKLNRL,0.983
+Q13769,THO complex subunit 5,Homo sapiens,coiled_coil,80,247,101,109,LNRLAHIRL,FMTLKKLNRLAHIRLKKGRDQ,0.972
+Q13769,THO complex subunit 5,Homo sapiens,coiled_coil,80,247,130,140,LQNLLYEVMHL,DAYHLQLQNLLYEVMHLQKEITK,0.931
+Q13769,THO complex subunit 5,Homo sapiens,coiled_coil,80,247,140,150,LQKEITKCLEF,LYEVMHLQKEITKCLEFKSKHEE,0.819
+Q13769,THO complex subunit 5,Homo sapiens,coiled_coil,80,247,233,243,LNSIMQASLPV,SSLQPRLNSIMQASLPVQEYLFM,0.806
+Q14152,Eukaryotic translation initiation factor 3 subunit A,Homo sapiens,coiled_coil,81,120,86,96,LEDVVRAYLKM,QVNIKSLEDVVRAYLKMAEEKTE,0.861
+Q14667,Bridge-like lipid transfer protein family member 2,Homo sapiens,coiled_coil,1812,1885,1851,1860,LLDLNQKLQL,DSKNENLLDLNQKLQLQLNQEK,1.0
+Q14667,Bridge-like lipid transfer protein family member 2,Homo sapiens,coiled_coil,1812,1885,1879,1888,LIRCFKDFQL,SEELNILIRCFKDFQLQRANKM,0.875
+Q14667,Bridge-like lipid transfer protein family member 2,Homo sapiens,coiled_coil,1812,1885,1880,1888,IRCFKDFQL,EELNILIRCFKDFQLQRANKM,0.75
+Q15020,"Spliceosome associated factor 3, U4/U6 recycling protein",Homo sapiens,coiled_coil,81,110,98,107,IERLEEQLSI,EKNQLEIERLEEQLSINVYDYN,0.872
+Q15276,Rab GTPase-binding effector protein 1,Homo sapiens,coiled_coil,10,345,294,303,LMRDMQRMEI,LESQRLLMRDMQRMEIVLTSEQ,0.806
+Q15276,Rab GTPase-binding effector protein 1,Homo sapiens,coiled_coil,10,345,295,303,MRDMQRMEI,ESQRLLMRDMQRMEIVLTSEQ,0.694
+Q15276,Rab GTPase-binding effector protein 1,Homo sapiens,coiled_coil,533,816,698,708,VEEKLKAEILF,RTAADHVEEKLKAEILFLKEQIQ,0.817
+Q15276,Rab GTPase-binding effector protein 1,Homo sapiens,coiled_coil,533,816,719,729,LKENLEETLQL,IQAEQCLKENLEETLQLEIENCK,1.0
+Q15276,Rab GTPase-binding effector protein 1,Homo sapiens,coiled_coil,533,816,744,753,LKAELERIKV,IASISSLKAELERIKVEKGQLE,0.833
+Q15276,Rab GTPase-binding effector protein 1,Homo sapiens,coiled_coil,533,816,769,777,LESLQEIKI,REKSQQLESLQEIKISLEEQL,0.861
+Q155Q3,Dixin,Homo sapiens,coiled_coil,278,452,301,310,MISGLQALLL,MEEAKKMISGLQALLLNGSLPE,0.847
+Q155Q3,Dixin,Homo sapiens,coiled_coil,278,452,302,310,ISGLQALLL,EEAKKMISGLQALLLNGSLPE,0.833
+Q15643,Thyroid receptor-interacting protein 11,Homo sapiens,coiled_coil,51,1773,287,296,IYEMQKTIQV,ETDLSKIYEMQKTIQVLQIEKV,0.694
+Q15643,Thyroid receptor-interacting protein 11,Homo sapiens,coiled_coil,51,1773,290,299,MQKTIQVLQI,LSKIYEMQKTIQVLQIEKVEST,0.9
+Q15643,Thyroid receptor-interacting protein 11,Homo sapiens,coiled_coil,51,1773,465,474,LDSELHDLRL,ATRDISLDSELHDLRLNLEAKE,1.0
+Q15643,Thyroid receptor-interacting protein 11,Homo sapiens,coiled_coil,51,1773,664,673,LNENLKKVAF,LSELEQLNENLKKVAFDVKMEN,0.942
+Q15643,Thyroid receptor-interacting protein 11,Homo sapiens,coiled_coil,51,1773,668,677,LKKVAFDVKM,EQLNENLKKVAFDVKMENEKLV,0.997
+Q15643,Thyroid receptor-interacting protein 11,Homo sapiens,coiled_coil,51,1773,1246,1255,LHQLQAQVLV,AQLQEELHQLQAQVLVDSDNNS,0.956
+Q15643,Thyroid receptor-interacting protein 11,Homo sapiens,coiled_coil,51,1773,1444,1453,VTNLKERILI,ELLRQAVTNLKERILILEMDIG,0.708
+Q15643,Thyroid receptor-interacting protein 11,Homo sapiens,coiled_coil,51,1773,1447,1456,LKERILILEM,RQAVTNLKERILILEMDIGKLK,0.847
+Q15643,Thyroid receptor-interacting protein 11,Homo sapiens,coiled_coil,51,1773,1638,1647,VESLQEQLNV,HQASVQVESLQEQLNVVSKQRD,0.667
+Q16181,Septin-7,Homo sapiens,coiled_coil,331,437,347,355,VAKMKKMEM,EERREHVAKMKKMEMEMEQVF,0.789
+Q16181,Septin-7,Homo sapiens,coiled_coil,331,437,353,363,MEMEMEQVFEM,VAKMKKMEMEMEQVFEMKVKEKV,0.667
+Q16181,Septin-7,Homo sapiens,coiled_coil,331,437,357,365,MEQVFEMKV,KKMEMEMEQVFEMKVKEKVQK,0.858
+Q16363,Laminin subunit alpha-4,Homo sapiens,coiled_coil,472,528,523,532,VREQMEVVNM,EKQQERVREQMEVVNMSLSTSA,0.803
+Q2M1P5,Kinesin-like protein KIF7,Homo sapiens,coiled_coil,479,542,531,540,MVELRLRLEL,REQQEEMVELRLRLELVRPGWG,0.997
+Q2M1P5,Kinesin-like protein KIF7,Homo sapiens,coiled_coil,697,1057,710,719,IRELAINIRM,AQAQQKIRELAINIRMKEELIG,0.722
+Q2M1P5,Kinesin-like protein KIF7,Homo sapiens,coiled_coil,697,1057,821,830,LQELERNVQL,AQSEKRLQELERNVQLMRQQQG,1.0
+Q2M1P5,Kinesin-like protein KIF7,Homo sapiens,coiled_coil,1108,1211,1193,1203,LEKELGRYMWI,EARIQALEKELGRYMWINQELKQ,0.819
+Q2TAC2,Coiled-coil domain-containing protein 57,Homo sapiens,coiled_coil,91,173,160,169,LEELDGELAL,WTLERKLEELDGELALQRQELL,1.0
+Q2TAC2,Coiled-coil domain-containing protein 57,Homo sapiens,coiled_coil,213,422,263,272,LEDKLHSVQL,RARVKDLEDKLHSVQLTRKKEE,1.0
+Q2TAC6,Kinesin-like protein KIF19,Homo sapiens,coiled_coil,423,452,426,436,LASAFQEQMDV,GQLREQLASAFQEQMDVRRRLLE,0.9
+Q49A88,Coiled-coil domain-containing protein 14,Homo sapiens,coiled_coil,482,618,518,527,VDCNLELFSL,QKPSGAVDCNLELFSLQSLNMS,0.764
+Q49A88,Coiled-coil domain-containing protein 14,Homo sapiens,coiled_coil,482,618,524,532,LFSLQSLNM,VDCNLELFSLQSLNMSLQNQL,0.983
+Q5JRA6,Transport and Golgi organization protein 1 homolog,Homo sapiens,coiled_coil,1213,1396,1311,1320,IEKLKDVISM,SENKKSIEKLKDVISMNASEFS,0.722
+Q5JRA6,Transport and Golgi organization protein 1 homolog,Homo sapiens,coiled_coil,1486,1639,1626,1635,LLELTQKMAM,ANLRHKLLELTQKMAMLQEEPV,0.806
+Q5M9N0,Coiled-coil domain-containing protein 158,Homo sapiens,coiled_coil,71,183,115,124,LQTKLQEMQM,RQSVIDLQTKLQEMQMERDAMA,0.956
+Q5M9N0,Coiled-coil domain-containing protein 158,Homo sapiens,coiled_coil,71,183,172,180,IEQLRKMML,KDSNTQIEQLRKMMLSHEGVL,0.806
+Q5M9N0,Coiled-coil domain-containing protein 158,Homo sapiens,coiled_coil,242,833,519,528,ITKLRSRVDL,EATNAEITKLRSRVDLKLQELQ,0.969
+Q5M9N0,Coiled-coil domain-containing protein 158,Homo sapiens,coiled_coil,242,833,623,632,LEARVSDLEL,DAKIRELEARVSDLELEKVKLV,1.0
+Q5M9N0,Coiled-coil domain-containing protein 158,Homo sapiens,coiled_coil,242,833,743,752,IDALQSKIQF,TAKRGQIDALQSKIQFLEEAMT,0.694
+Q5M9N0,Coiled-coil domain-containing protein 158,Homo sapiens,coiled_coil,242,833,802,811,LKEKVTNMEV,RSQERRLKEKVTNMEVALDKAS,0.969
+Q5M9N0,Coiled-coil domain-containing protein 158,Homo sapiens,coiled_coil,1060,1113,1076,1085,LQTLVEDLQL,QNRLESLQTLVEDLQLKNQAMS,1.0
+Q5T0F9,Coiled-coil and C2 domain-containing protein 1B,Homo sapiens,coiled_coil,610,635,619,628,VYAQLQKMLL,SQKAEEVYAQLQKMLLEQQEKC,0.928
+Q5T5P2,Sickle tail protein homolog,Homo sapiens,coiled_coil,643,685,649,658,MRRSVAELRL,HMSLLEMRRSVAELRLQLQQMR,1.0
+Q5T5P2,Sickle tail protein homolog,Homo sapiens,coiled_coil,643,685,660,668,LQQMRQLQL,AELRLQLQQMRQLQLQNQELL,0.944
+Q5VU43,Myomegalin,Homo sapiens,coiled_coil,40,132,101,111,VYELLENKIQL,QQETEHVYELLENKIQLLQEESR,0.969
+Q5VU43,Myomegalin,Homo sapiens,coiled_coil,742,936,776,785,LSALQSMMAV,RESQMELSALQSMMAVQEEELQ,0.942
+Q5VU43,Myomegalin,Homo sapiens,coiled_coil,742,936,797,806,MESLTRNIQI,QVQAADMESLTRNIQIKEDLIK,0.9
+Q5VU43,Myomegalin,Homo sapiens,coiled_coil,742,936,806,816,IKEDLIKDLQM,LTRNIQIKEDLIKDLQMQLVDPE,0.708
+Q5VU43,Myomegalin,Homo sapiens,coiled_coil,742,936,827,836,MERLTQEVLL,PEDIPAMERLTQEVLLLREKVA,0.833
+Q5VU43,Myomegalin,Homo sapiens,coiled_coil,1095,1124,1115,1125,IINLLKEQLVL,LKNAHNIINLLKEQLVLSSKEGN,0.833
+Q5VU43,Myomegalin,Homo sapiens,coiled_coil,1095,1124,1116,1125,INLLKEQLVL,KNAHNIINLLKEQLVLSSKEGN,0.833
+Q5VU43,Myomegalin,Homo sapiens,coiled_coil,1345,1385,1375,1384,LKSRVRSLSV,NKVIQNLKSRVRSLSVTSDYSS,0.847
+Q5VU43,Myomegalin,Homo sapiens,coiled_coil,1839,2077,1854,1864,LRQRLEESICI,LGEIRNLRQRLEESICINDRLRE,0.861
+Q5VU43,Myomegalin,Homo sapiens,coiled_coil,1839,2077,2005,2015,LFESLQSELQI,CEEKQQLFESLQSELQIYEALYG,0.847
+Q5VU43,Myomegalin,Homo sapiens,coiled_coil,1839,2077,2006,2015,FESLQSELQI,EEKQQLFESLQSELQIYEALYG,0.708
+Q66GS9,Centrosomal protein of 135 kDa,Homo sapiens,coiled_coil,198,416,213,222,VHQLQEKLAM,QELQQEVHQLQEKLAMMESGVR,0.831
+Q66GS9,Centrosomal protein of 135 kDa,Homo sapiens,coiled_coil,198,416,269,279,LIAHLNIQVDF,NKTNEKLIAHLNIQVDFLQQANK,0.942
+Q66GS9,Centrosomal protein of 135 kDa,Homo sapiens,coiled_coil,198,416,270,279,IAHLNIQVDF,KTNEKLIAHLNIQVDFLQQANK,0.817
+Q66GS9,Centrosomal protein of 135 kDa,Homo sapiens,coiled_coil,198,416,361,370,LEETMAKLQL,LSEMQDLEETMAKLQLELNLCQ,1.0
+Q66GS9,Centrosomal protein of 135 kDa,Homo sapiens,coiled_coil,198,416,365,374,MAKLQLELNL,QDLEETMAKLQLELNLCQKEKE,0.997
+Q66GS9,Centrosomal protein of 135 kDa,Homo sapiens,coiled_coil,198,416,406,415,LSKKVESFAV,EQEKQRLSKKVESFAVTERQLT,0.806
+Q66GS9,Centrosomal protein of 135 kDa,Homo sapiens,coiled_coil,446,644,519,528,MEDIQSNVKL,ERFEKYMEDIQSNVKLLTAERD,0.997
+Q66GS9,Centrosomal protein of 135 kDa,Homo sapiens,coiled_coil,446,644,592,600,LEHIEEVSL,EALREKLEHIEEVSLFGKSEL,1.0
+Q66GS9,Centrosomal protein of 135 kDa,Homo sapiens,coiled_coil,446,644,638,647,IESLENKLKV,LIMKETIESLENKLKVQAQKFS,0.844
+Q66GS9,Centrosomal protein of 135 kDa,Homo sapiens,coiled_coil,667,1036,704,713,LEEKIDELNL,QAQIKILEEKIDELNLKMTSQD,0.972
+Q66GS9,Centrosomal protein of 135 kDa,Homo sapiens,coiled_coil,667,1036,974,982,LSSLRELCI,ATVLNDLSSLRELCIKLDSGK,0.997
+Q68CZ6,HAUS augmin-like complex subunit 3,Homo sapiens,coiled_coil,92,177,102,112,LEDEVQTLLKL,DKELEKLEDEVQTLLKLKNLKIQ,1.0
+Q68CZ6,HAUS augmin-like complex subunit 3,Homo sapiens,coiled_coil,92,177,109,117,LLKLKNLKI,EDEVQTLLKLKNLKIQRRNKC,0.847
+Q68CZ6,HAUS augmin-like complex subunit 3,Homo sapiens,coiled_coil,92,177,169,179,LTDEVTQLMMF,SNELQALTDEVTQLMMFFRHSNL,0.806
+Q68CZ6,HAUS augmin-like complex subunit 3,Homo sapiens,coiled_coil,388,426,386,395,LLQLSYEIEL,QKASFELLQLSYEIELRKHRDI,1.0
+Q68CZ6,HAUS augmin-like complex subunit 3,Homo sapiens,coiled_coil,457,495,474,484,VAEKLKQNISL,HGNLEEVAEKLKQNISLVQDQLA,0.969
+Q68CZ6,HAUS augmin-like complex subunit 3,Homo sapiens,coiled_coil,457,495,482,491,ISLVQDQLAV,EKLKQNISLVQDQLAVSAQEHS,0.722
+Q6GYQ0,Ral GTPase-activating protein subunit alpha-1,Homo sapiens,coiled_coil,1715,1744,1736,1745,VEKHFNDLNM,TEEKEFVEKHFNDLNMKAVEQD,0.789
+Q6ZMJ2,Scavenger receptor class A member 5,Homo sapiens,coiled_coil,90,111,101,110,LNESFRDLQL,TRNVNRLNESFRDLQLRLLQAP,0.917
+Q6ZMS7,Zinc finger protein 783,Homo sapiens,coiled_coil,47,124,57,67,VDSCLTRLLTL,QALEKKVDSCLTRLLTLEGRTGT,0.956
+Q6ZMU5,Tripartite motif-containing protein 72,Homo sapiens,coiled_coil,134,232,172,181,VGEQLGKMRV,RQFRGAVGEQLGKMRVFLAALE,0.639
+Q6ZNE9,RUN and FYVE domain-containing protein 4,Homo sapiens,coiled_coil,407,481,411,420,LQDEIKSLRL,EQAEVSLQDEIKSLRLGLRKAE,1.0
+Q70YC5,Protein ZNF365,Homo sapiens,coiled_coil,168,297,218,228,LNRQVDVAVEM,QRRERALNRQVDVAVEMIAVLRQ,0.997
+Q70YC5,Protein ZNF365,Homo sapiens,coiled_coil,168,297,222,231,VDVAVEMIAV,RALNRQVDVAVEMIAVLRQRLT,0.708
+Q70YC5,Protein ZNF365,Homo sapiens,coiled_coil,168,297,274,284,FIENLLQRVEL,KARLQDFIENLLQRVELAEKQLE,0.956
+Q70YC5,Protein ZNF365,Homo sapiens,coiled_coil,168,297,275,284,IENLLQRVEL,ARLQDFIENLLQRVELAEKQLE,0.969
+Q76FK4,Nucleolar protein 8,Homo sapiens,coiled_coil,885,924,916,925,LNVVQSVLQI,EEKKKALNVVQSVLQINLSNST,0.875
+Q76FK4,Nucleolar protein 8,Homo sapiens,coiled_coil,885,924,918,927,VVQSVLQINL,KKKALNVVQSVLQINLSNSTNR,0.847
+Q76FK4,Nucleolar protein 8,Homo sapiens,coiled_coil,885,924,919,927,VQSVLQINL,KKALNVVQSVLQINLSNSTNR,0.847
+Q86UP2,Kinectin,Homo sapiens,coiled_coil,329,1356,637,645,LKDIQNMNF,TSKEEELKDIQNMNFLLKAEV,0.942
+Q86UP2,Kinectin,Homo sapiens,coiled_coil,329,1356,668,677,LEKMQQSVYV,AAAAHELEKMQQSVYVKDDKIR,0.942
+Q86UP2,Kinectin,Homo sapiens,coiled_coil,329,1356,693,702,ISNKMEEFKI,EQLQHEISNKMEEFKILNDQNK,0.817
+Q86UP2,Kinectin,Homo sapiens,coiled_coil,329,1356,841,850,LKEEIGNVQL,KQEIKALKEEIGNVQLEKAQQL,0.958
+Q86UP2,Kinectin,Homo sapiens,coiled_coil,329,1356,1075,1085,VLKKLFPKVSV,ELEAKEVLKKLFPKVSVPSNLSY,0.803
+Q86UP2,Kinectin,Homo sapiens,coiled_coil,329,1356,1076,1085,LKKLFPKVSV,LEAKEVLKKLFPKVSVPSNLSY,0.914
+Q86VH2,Kinesin-like protein KIF27,Homo sapiens,coiled_coil,351,413,356,365,IDEMEFEIKL,SPESDRIDEMEFEIKLLREALQ,0.983
+Q86VH2,Kinesin-like protein KIF27,Homo sapiens,coiled_coil,488,557,503,512,VKELKNQVQM,NQKELEVKELKNQVQMMVQENK,0.817
+Q86VH2,Kinesin-like protein KIF27,Homo sapiens,coiled_coil,488,557,548,557,LSEELTKLNL,QLLVDQLSEELTKLNLSVTSSA,1.0
+Q86VH2,Kinesin-like protein KIF27,Homo sapiens,coiled_coil,704,886,726,735,MRELTINIKM,TEAKQKMRELTINIKMKEDLIK,0.736
+Q86VH2,Kinesin-like protein KIF27,Homo sapiens,coiled_coil,704,886,790,799,LSDVAMKVKL,ELENKDLSDVAMKVKLQKEFRK,1.0
+Q86VH2,Kinesin-like protein KIF27,Homo sapiens,coiled_coil,1117,1154,1114,1123,FRYFNKVVNL,EIRTILFRYFNKVVNLREAERK,0.764
+Q86VH2,Kinesin-like protein KIF27,Homo sapiens,coiled_coil,1189,1219,1203,1212,IQQLEKDLYF,KTYEDKIQQLEKDLYFYKKTSR,0.831
+Q86VP1,Tax1-binding protein 1,Homo sapiens,coiled_coil,143,599,206,215,LTEVTQSLKM,QAEQKGLTEVTQSLKMENEEFK,0.861
+Q86VP1,Tax1-binding protein 1,Homo sapiens,coiled_coil,143,599,318,327,FKEEIGRLQL,ESVITHFKEEIGRLQLCLAEKE,0.833
+Q86VP1,Tax1-binding protein 1,Homo sapiens,coiled_coil,143,599,373,383,LAKELSDAVNV,RQEVVFLAKELSDAVNVRDRTMA,0.806
+Q86VP1,Tax1-binding protein 1,Homo sapiens,coiled_coil,143,599,405,414,LADAVAELKL,EKVKKQLADAVAELKLNAMKKD,0.986
+Q86VP1,Tax1-binding protein 1,Homo sapiens,coiled_coil,143,599,431,440,LRREVEDLKL,DTLEHELRREVEDLKLRLQMAA,1.0
+Q86VP1,Tax1-binding protein 1,Homo sapiens,coiled_coil,143,599,435,444,VEDLKLRLQM,HELRREVEDLKLRLQMAADHYK,0.831
+Q86W92,Liprin-beta-1,Homo sapiens,coiled_coil,155,405,172,181,LMAEISNLKL,ETQKLDLMAEISNLKLKLTAVE,1.0
+Q86W92,Liprin-beta-1,Homo sapiens,coiled_coil,155,405,173,181,MAEISNLKL,TQKLDLMAEISNLKLKLTAVE,1.0
+Q86W92,Liprin-beta-1,Homo sapiens,coiled_coil,155,405,203,212,LIQEINDLRL,FRDTEGLIQEINDLRLKVSEMD,1.0
+Q86W92,Liprin-beta-1,Homo sapiens,coiled_coil,155,405,204,212,IQEINDLRL,RDTEGLIQEINDLRLKVSEMD,0.997
+Q86W92,Liprin-beta-1,Homo sapiens,coiled_coil,155,405,234,243,LMAKLSSMKI,LKSTKSLMAKLSSMKIKVGQMQ,0.819
+Q86W92,Liprin-beta-1,Homo sapiens,coiled_coil,155,405,235,243,MAKLSSMKI,KSTKSLMAKLSSMKIKVGQMQ,0.708
+Q86W92,Liprin-beta-1,Homo sapiens,coiled_coil,155,405,296,305,VEIVDRDIEV,KMKGEGVEIVDRDIEVQKMKKA,0.858
+Q86W92,Liprin-beta-1,Homo sapiens,coiled_coil,155,405,400,409,FHTTILQVSI,TSVPEEFHTTILQVSIPSLLPA,0.858
+Q86Y82,Syntaxin-12,Homo sapiens,coiled_coil,32,131,80,89,LLKELGSLPL,AKETNELLKELGSLPLPLSTSE,1.0
+Q86Y82,Syntaxin-12,Homo sapiens,coiled_coil,32,131,81,89,LKELGSLPL,KETNELLKELGSLPLPLSTSE,1.0
+Q86YP4,Transcriptional repressor p66-alpha,Homo sapiens,coiled_coil,138,174,144,154,MIKQLKEELRL,PEERERMIKQLKEELRLEEAKLV,0.997
+Q86YP4,Transcriptional repressor p66-alpha,Homo sapiens,coiled_coil,138,174,145,154,IKQLKEELRL,EERERMIKQLKEELRLEEAKLV,0.983
+Q8IUM7,Neuronal PAS domain-containing protein 4,Homo sapiens,coiled_coil,4,38,20,29,IRNLKELLPL,DQINAEIRNLKELLPLAEADKV,0.983
+Q8IVL1,Neuron navigator 2,Homo sapiens,coiled_coil,1685,1769,1724,1733,FEQSLGNMTI,AHLVAAFEQSLGNMTIRLQSLT,0.681
+Q8IVL1,Neuron navigator 2,Homo sapiens,coiled_coil,1685,1769,1731,1740,MTIRLQSLTM,EQSLGNMTIRLQSLTMTAEQKD,0.722
+Q8IVL1,Neuron navigator 2,Homo sapiens,coiled_coil,1685,1769,1749,1758,LNELRKTIEL,EQKDSELNELRKTIELLKKQNA,1.0
+Q8IWA4,Mitofusin-1,Homo sapiens,coiled_coil,370,408,380,389,LDFIRNQMNL,EDQIDRLDFIRNQMNLLTLDVK,1.0
+Q8IWA4,Mitofusin-1,Homo sapiens,coiled_coil,370,408,383,392,IRNQMNLLTL,IDRLDFIRNQMNLLTLDVKKKI,0.969
+Q8IWA4,Mitofusin-1,Homo sapiens,coiled_coil,678,734,677,686,FARLCQQVDI,QQIATTFARLCQQVDITQKQLE,0.694
+Q8IWI9,MAX gene-associated protein,Homo sapiens,coiled_coil,2816,2841,2823,2832,LTSLLNEIAF,DDTDETLTSLLNEIAFLNQQLN,0.969
+Q8IWZ3,Ankyrin repeat and KH domain-containing protein 1,Homo sapiens,coiled_coil,774,852,838,847,LQKVERQLQM,KKILKELQKVERQLQMKTQQQF,1.0
+Q8IY63,Angiomotin-like protein 1,Homo sapiens,coiled_coil,258,279,261,270,LSERIMQLSL,QGHVRSLSERIMQLSLERNGAK,0.972
+Q8IY82,Dynein regulatory complex subunit 7,Homo sapiens,coiled_coil,0,67,28,37,MEKMMRPVEV,WAEWARMEKMMRPVEVRKEEIT,0.681
+Q8IY82,Dynein regulatory complex subunit 7,Homo sapiens,coiled_coil,0,67,52,61,LEKKLSEIQI,QETLRDLEKKLSEIQITVSAEL,1.0
+Q8IY82,Dynein regulatory complex subunit 7,Homo sapiens,coiled_coil,687,711,694,702,LEVLEILKL,QVWESELEVLEILKLREEEEA,1.0
+Q8IYJ2,"Uncharacterized protein C10orf67, mitochondrial",Homo sapiens,coiled_coil,202,315,266,276,IISELEEEIQI,NERLLQIISELEEEIQINLKENS,0.736
+Q8IYJ2,"Uncharacterized protein C10orf67, mitochondrial",Homo sapiens,coiled_coil,202,315,267,276,ISELEEEIQI,ERLLQIISELEEEIQINLKENS,0.736
+Q8IZC4,Rhotekin-2,Homo sapiens,coiled_coil,55,91,52,60,LHAVKNLMV,TQKDQVLHAVKNLMVCNARLM,0.997
+Q8N6L0,Protein KASH5,Homo sapiens,coiled_coil,163,349,162,171,LLSSLEDLEL,LQATADLLSSLEDLELSNRRLV,1.0
+Q8N6L0,Protein KASH5,Homo sapiens,coiled_coil,163,349,163,171,LSSLEDLEL,QATADLLSSLEDLELSNRRLV,1.0
+Q8N6Y0,Harmonin-binding protein USHBP1,Homo sapiens,coiled_coil,475,513,493,502,LADLMLRLQL,VAAREALADLMLRLQLVRREKR,1.0
+Q8N6Y0,Harmonin-binding protein USHBP1,Homo sapiens,coiled_coil,595,681,594,604,LAASLTRTLDL,EKLAQELAASLTRTLDLQEQLQS,1.0
+Q8N9B5,Junction-mediating and -regulatory protein,Homo sapiens,coiled_coil,488,541,533,542,LQLQLYEVQF,EADYYDLQLQLYEVQFEILKCE,0.942
+Q8NB16,Mixed lineage kinase domain-like protein,Homo sapiens,coiled_coil,138,180,158,167,IEASLRRLEI,RRDNEKIEASLRRLEINMKEIK,0.872
+Q8NDV3,Structural maintenance of chromosomes protein 1B,Homo sapiens,coiled_coil,155,490,242,251,LEHVNRDLSV,HLLNTKLEHVNRDLSVKRESLS,0.847
+Q8NDV3,Structural maintenance of chromosomes protein 1B,Homo sapiens,coiled_coil,155,490,470,479,MSEVNEELNL,EKTKSRMSEVNEELNLIRSELQ,0.875
+Q8NDV3,Structural maintenance of chromosomes protein 1B,Homo sapiens,coiled_coil,665,934,776,786,IFQHFCEEIGV,DKVEDDIFQHFCEEIGVENIREF,0.817
+Q8NDV3,Structural maintenance of chromosomes protein 1B,Homo sapiens,coiled_coil,665,934,777,786,FQHFCEEIGV,KVEDDIFQHFCEEIGVENIREF,0.803
+Q8NEZ4,Histone-lysine N-methyltransferase 2C,Homo sapiens,coiled_coil,643,672,653,662,IEVVTHQITV,MEVTENIEVVTHQITVQQEQLQ,0.886
+Q8TC44,POC1 centriolar protein homolog B,Homo sapiens,coiled_coil,430,470,432,441,LEHIMEQLNV,LAVTDALEHIMEQLNVLTQTVS,0.956
+Q8TC44,POC1 centriolar protein homolog B,Homo sapiens,coiled_coil,430,470,439,448,LNVLTQTVSI,EHIMEQLNVLTQTVSILEQRLT,0.983
+Q8TC44,POC1 centriolar protein homolog B,Homo sapiens,coiled_coil,430,470,446,455,VSILEQRLTL,NVLTQTVSILEQRLTLTEDKLK,0.806
+Q8TDR0,TRAF3-interacting protein 1,Homo sapiens,coiled_coil,570,666,611,620,VDAMQNELQM,DYIQEDVDAMQNELQMWHSENR,0.817
+Q8TF30,"WASP homolog-associated protein with actin, membranes and microtubules",Homo sapiens,coiled_coil,270,298,292,300,VVSIQDITV,RRAEEAVVSIQDITVNYFKET,0.844
+Q8TF30,"WASP homolog-associated protein with actin, membranes and microtubules",Homo sapiens,coiled_coil,383,479,385,394,LEIQFYEIQL,TNVVDELEIQFYEIQLELYEVK,1.0
+Q8TF30,"WASP homolog-associated protein with actin, membranes and microtubules",Homo sapiens,coiled_coil,383,479,392,401,IQLELYEVKF,EIQFYEIQLELYEVKFEILKNE,0.817
+Q8TF30,"WASP homolog-associated protein with actin, membranes and microtubules",Homo sapiens,coiled_coil,383,479,441,450,LKVIDCVVGL,CENPEELKVIDCVVGLQDDKNL,1.0
+Q8WUQ7,Splicing factor Cactin,Homo sapiens,coiled_coil,224,277,244,252,LQKVKQLRL,EDNRLELQKVKQLRLEREREK,1.0
+Q8WW24,Tektin-4,Homo sapiens,coiled_coil,362,411,365,374,LLSEVEELNM,DAAQFRLLSEVEELNMSLTALR,0.861
+Q8WW24,Tektin-4,Homo sapiens,coiled_coil,362,411,366,374,LSEVEELNM,AAQFRLLSEVEELNMSLTALR,0.861
+Q8WW24,Tektin-4,Homo sapiens,coiled_coil,362,411,390,398,LRNLEDIHM,LEAEQSLRNLEDIHMSLEKDI,0.997
+Q8WW24,Tektin-4,Homo sapiens,coiled_coil,362,411,404,413,IAAMTNSLFI,MSLEKDIAAMTNSLFIDRQKCM,0.858
+Q8WXA3,RUN and FYVE domain-containing protein 2,Homo sapiens,coiled_coil,209,534,311,321,LRQDVENELAV,LRDESQLRQDVENELAVQVSMKH,0.997
+Q8WXA3,RUN and FYVE domain-containing protein 2,Homo sapiens,coiled_coil,209,534,315,325,VENELAVQVSM,SQLRQDVENELAVQVSMKHEIEL,0.817
+Q8WXA3,RUN and FYVE domain-containing protein 2,Homo sapiens,coiled_coil,209,534,321,331,VQVSMKHEIEL,VENELAVQVSMKHEIELAMKLLE,0.956
+Q8WXA3,RUN and FYVE domain-containing protein 2,Homo sapiens,coiled_coil,209,534,325,335,MKHEIELAMKL,LAVQVSMKHEIELAMKLLEKDIH,0.833
+Q8WXA3,RUN and FYVE domain-containing protein 2,Homo sapiens,coiled_coil,209,534,354,362,LEEVKAINI,IGLRQQLEEVKAINIEMYQKL,0.889
+Q8WXA3,RUN and FYVE domain-containing protein 2,Homo sapiens,coiled_coil,209,534,442,451,LVQLETDLKI,SQKEKQLVQLETDLKIEKEWRQ,0.997
+Q8WXX0,Dynein axonemal heavy chain 7,Homo sapiens,coiled_coil,2826,2883,2845,2854,LARLQDTLEL,KEVQDKLARLQDTLELNKQKKA,1.0
+Q92752,Tenascin-R,Homo sapiens,coiled_coil,126,157,133,143,VLQELLSRIEM,CASSAQVLQELLSRIEMLEREVS,0.694
+Q92752,Tenascin-R,Homo sapiens,coiled_coil,126,157,134,143,LQELLSRIEM,ASSAQVLQELLSRIEMLEREVS,0.847
+Q92752,Tenascin-R,Homo sapiens,coiled_coil,126,157,141,150,IEMLEREVSV,QELLSRIEMLEREVSVLRDQCN,0.681
+Q92805,Golgin subfamily A member 1,Homo sapiens,coiled_coil,49,657,84,93,LQKIKEKLEI,AEQVRNLQKIKEKLEIALEKHQ,0.861
+Q92805,Golgin subfamily A member 1,Homo sapiens,coiled_coil,49,657,181,189,LSKIKHMLL,GFQQQELSKIKHMLLKKEESL,1.0
+Q92805,Golgin subfamily A member 1,Homo sapiens,coiled_coil,49,657,268,277,LQALIQQLSI,EQKEQELQALIQQLSIDLQKVT,1.0
+Q92805,Golgin subfamily A member 1,Homo sapiens,coiled_coil,49,657,647,657,LRKTLQKELKI,QQRMLELRKTLQKELKIRPDNEL,0.997
+Q96BD8,SKA complex subunit 1,Homo sapiens,coiled_coil,48,91,48,58,VINELLNKLEL,IGDEIIVINELLNKLELEIQYQE,0.956
+Q96BD8,SKA complex subunit 1,Homo sapiens,coiled_coil,48,91,49,58,INELLNKLEL,GDEIIVINELLNKLELEIQYQE,0.833
+Q96CN5,Leucine-rich repeat-containing protein 45,Homo sapiens,coiled_coil,251,645,297,307,IINALKAKLQM,LNERHSIINALKAKLQMTEAALA,0.708
+Q96CN5,Leucine-rich repeat-containing protein 45,Homo sapiens,coiled_coil,251,645,298,307,INALKAKLQM,NERHSIINALKAKLQMTEAALA,0.708
+Q96CN5,Leucine-rich repeat-containing protein 45,Homo sapiens,coiled_coil,251,645,397,406,MTSMSAELKM,FQTRQEMTSMSAELKMRAIQAE,0.858
+Q96CN5,Leucine-rich repeat-containing protein 45,Homo sapiens,coiled_coil,251,645,502,511,LAHLEDKLRL,LEEQQRLAHLEDKLRLLAQARD,0.958
+Q96CN5,Leucine-rich repeat-containing protein 45,Homo sapiens,coiled_coil,251,645,551,560,LEELQQELSL,EGLRRRLEELQQELSLKDQERV,0.958
+Q96CN5,Leucine-rich repeat-containing protein 45,Homo sapiens,coiled_coil,251,645,566,574,VAEVSRVRV,LKDQERVAEVSRVRVELQEQN,0.831
+Q96CS2,HAUS augmin-like complex subunit 1,Homo sapiens,coiled_coil,48,79,72,82,LQDLLMESVNF,ESEAKYLQDLLMESVNFSPANLS,0.792
+Q96CS2,HAUS augmin-like complex subunit 1,Homo sapiens,coiled_coil,123,177,143,153,LEKNLTATLVL,KIELEKLEKNLTATLVLEKCLQE,1.0
+Q96CS2,HAUS augmin-like complex subunit 1,Homo sapiens,coiled_coil,248,277,265,275,IEAELTRRVDM,KRELDSIEAELTRRVDMMEL,0.844
+Q96CS2,HAUS augmin-like complex subunit 1,Homo sapiens,coiled_coil,248,277,269,278,LTRRVDMMEL,DSIEAELTRRVDMMEL,1.0
+Q96CV9,Optineurin,Homo sapiens,coiled_coil,37,170,157,166,LLGIVSELQL,QAEKADLLGIVSELQLKLNSSG,1.0
+Q96CV9,Optineurin,Homo sapiens,coiled_coil,37,170,158,166,LGIVSELQL,AEKADLLGIVSELQLKLNSSG,1.0
+Q96CV9,Optineurin,Homo sapiens,coiled_coil,238,508,295,304,VGSEVEALNL,EKGPETVGSEVEALNLQVTSLF,0.983
+Q96CV9,Optineurin,Homo sapiens,coiled_coil,238,508,365,374,VESMLSEIKM,KKLELQVESMLSEIKMEQAKTE,0.844
+Q96CV9,Optineurin,Homo sapiens,coiled_coil,238,508,422,432,VLKELSEKLEL,EKVDRAVLKELSEKLELAEKALA,0.956
+Q96CV9,Optineurin,Homo sapiens,coiled_coil,238,508,423,432,LKELSEKLEL,KVDRAVLKELSEKLELAEKALA,0.958
+Q96CV9,Optineurin,Homo sapiens,coiled_coil,238,508,461,470,MTILRAQMEV,EEDLETMTILRAQMEVYCSDFH,0.831
+Q96D96,Voltage-gated hydrogen channel 1,Homo sapiens,coiled_coil,222,266,228,236,LLRLKQMNV,TRSERQLLRLKQMNVQLAAKI,0.942
+Q96D96,Voltage-gated hydrogen channel 1,Homo sapiens,coiled_coil,222,266,238,247,LAAKIQHLEF,KQMNVQLAAKIQHLEFSCSEKE,0.819
+Q96EK4,THAP domain-containing protein 11,Homo sapiens,coiled_coil,254,305,267,275,ILALMEVKM,LNEQRDILALMEVKMKEMKGS,0.844
+Q96EK4,THAP domain-containing protein 11,Homo sapiens,coiled_coil,254,305,278,287,MKGSIRHLRL,EVKMKEMKGSIRHLRLTEAKLR,1.0
+Q96GA3,Protein LTV1 homolog,Homo sapiens,coiled_coil,417,475,466,475,LKKNVEGLKL,EKELLNLKKNVEGLKL,0.986
+Q96K21,Abscission/NoCut checkpoint regulator,Homo sapiens,coiled_coil,310,375,326,335,ILALAKRLAM,NTRQERILALAKRLAMLRGQDP,0.858
+Q96KN7,X-linked retinitis pigmentosa GTPase regulator-interacting protein 1,Homo sapiens,coiled_coil,293,584,343,352,LKSQLEDVSI,SKKAVSLKSQLEDVSILQMTLK,0.833
+Q96KN7,X-linked retinitis pigmentosa GTPase regulator-interacting protein 1,Homo sapiens,coiled_coil,293,584,347,355,LEDVSILQM,VSLKSQLEDVSILQMTLKEFQ,0.861
+Q96KN7,X-linked retinitis pigmentosa GTPase regulator-interacting protein 1,Homo sapiens,coiled_coil,293,584,501,510,LSQVLNELQV,NQEEKKLSQVLNELQVSHAETT,0.969
+Q96KN7,X-linked retinitis pigmentosa GTPase regulator-interacting protein 1,Homo sapiens,coiled_coil,293,584,525,534,MLILQRKINV,LEKTRDMLILQRKINVCYQEEL,0.872
+Q96KN7,X-linked retinitis pigmentosa GTPase regulator-interacting protein 1,Homo sapiens,coiled_coil,293,584,558,567,LERLTRLLDL,RDHKEKLERLTRLLDLKNNRIK,1.0
+Q96L93,Kinesin-like protein KIF16B,Homo sapiens,coiled_coil,935,1087,966,975,LQKLQATFEF,QANANQLQKLQATFEFTANIAR,0.764
+Q96LX7,Coiled-coil domain-containing protein 17,Homo sapiens,coiled_coil,80,102,87,96,LTEEVQWLRL,RSALKRLTEEVQWLRLSLQEMR,0.986
+Q96LX7,Coiled-coil domain-containing protein 17,Homo sapiens,coiled_coil,293,320,306,315,LEAEILALQM,EAENRRLEAEILALQMQRGRAP,0.847
+Q96NL6,Sodium channel and clathrin linker 1,Homo sapiens,coiled_coil,68,673,106,115,VEKKLEAFPL,SELKDAVEKKLEAFPLGTEVGT,0.914
+Q96NL6,Sodium channel and clathrin linker 1,Homo sapiens,coiled_coil,68,673,130,139,VRNLQEQLQL,YADDETVRNLQEQLQLANQEKT,0.956
+Q96NL6,Sodium channel and clathrin linker 1,Homo sapiens,coiled_coil,68,673,189,198,FQQLTKQLHV,KDQLFDFQQLTKQLHVTNENME,0.831
+Q96NL6,Sodium channel and clathrin linker 1,Homo sapiens,coiled_coil,68,673,280,289,LQSSIKQLEI,DRRLQQLQSSIKQLEIRLCVTI,0.861
+Q96NL6,Sodium channel and clathrin linker 1,Homo sapiens,coiled_coil,68,673,284,293,IKQLEIRLCV,QQLQSSIKQLEIRLCVTIQEAN,0.694
+Q96NL6,Sodium channel and clathrin linker 1,Homo sapiens,coiled_coil,68,673,397,406,LTEELSALQM,NIQISRLTEELSALQMECAEKQ,0.833
+Q96NL6,Sodium channel and clathrin linker 1,Homo sapiens,coiled_coil,68,673,446,455,LEEMHQRFLV,ESDYRKLEEMHQRFLVSERSKD,0.764
+Q96NL6,Sodium channel and clathrin linker 1,Homo sapiens,coiled_coil,68,673,545,554,ISTMEHEFSI,KKAKVKISTMEHEFSIKERGFE,0.667
+Q96QF0,Rab-3A-interacting protein,Homo sapiens,coiled_coil,164,260,252,260,VAALKTLVL,DVLQAEVAALKTLVLSSSPTS,0.956
+Q96R06,Sperm-associated antigen 5,Homo sapiens,coiled_coil,758,868,796,805,VRDLKETLEF,AVLAKEVRDLKETLEFADQENQ,0.803
+Q96R06,Sperm-associated antigen 5,Homo sapiens,coiled_coil,758,868,820,830,VECQLKTTLEV,HLELGQVECQLKTTLEVLRERSL,0.667
+Q96R06,Sperm-associated antigen 5,Homo sapiens,coiled_coil,978,1174,1027,1036,IEKLNQALCL,KAKEADIEKLNQALCLRYKNEK,0.983
+Q96R06,Sperm-associated antigen 5,Homo sapiens,coiled_coil,978,1174,1115,1124,LSQEVDKLRV,IQEKVWLSQEVDKLRVMFLEMK,0.847
+Q96R06,Sperm-associated antigen 5,Homo sapiens,coiled_coil,978,1174,1119,1127,VDKLRVMFL,VWLSQEVDKLRVMFLEMKNEK,0.928
+Q96SB3,Neurabin-2,Homo sapiens,coiled_coil,670,788,667,676,LVHKFKELQI,DMEPEKLVHKFKELQIKHAVTE,0.956
+Q96SB3,Neurabin-2,Homo sapiens,coiled_coil,670,788,668,676,VHKFKELQI,MEPEKLVHKFKELQIKHAVTE,0.803
+Q99459,Cell division cycle 5-like protein,Homo sapiens,coiled_coil,675,701,689,698,IESLEKRLEI,ASKKDRIESLEKRLEINRGHMT,0.872
+Q99689,Fasciculation and elongation protein zeta-1,Homo sapiens,coiled_coil,229,298,266,275,VKNSFITVLI,LEFEKEVKNSFITVLIEVQNKQ,0.789
+Q9BTA0,Protein FAM167B,Homo sapiens,coiled_coil,72,132,104,113,LRAQLHRLKM,AGQLLRLRAQLHRLKMDQACHL,0.833
+Q9BTV5,Fibronectin type III and SPRY domain-containing protein 1,Homo sapiens,coiled_coil,3,99,8,17,LRKIIKTLAV,EEQREALRKIIKTLAVKNEEIQ,0.983
+Q9BTV5,Fibronectin type III and SPRY domain-containing protein 1,Homo sapiens,coiled_coil,3,99,25,34,FIYSLKQMLL,NEEIQSFIYSLKQMLLNVEANS,0.792
+Q9BTV5,Fibronectin type III and SPRY domain-containing protein 1,Homo sapiens,coiled_coil,3,99,26,34,IYSLKQMLL,EEIQSFIYSLKQMLLNVEANS,0.806
+Q9BTV5,Fibronectin type III and SPRY domain-containing protein 1,Homo sapiens,coiled_coil,3,99,47,57,LEAEFQSLFSL,AKVQEDLEAEFQSLFSLLEELKE,1.0
+Q9BTV5,Fibronectin type III and SPRY domain-containing protein 1,Homo sapiens,coiled_coil,3,99,57,67,LLEELKEGMLM,FQSLFSLLEELKEGMLMKIKQDR,0.806
+Q9BTV5,Fibronectin type III and SPRY domain-containing protein 1,Homo sapiens,coiled_coil,3,99,58,67,LEELKEGMLM,QSLFSLLEELKEGMLMKIKQDR,0.806
+Q9BW66,Cyclin-dependent kinase 2-interacting protein,Homo sapiens,coiled_coil,72,107,99,107,LDGLTKIQV,EELQATLDGLTKIQVKMEKLS,0.833
+Q9BWF2,E3 ubiquitin-protein ligase TRAIP,Homo sapiens,coiled_coil,69,177,163,171,MKTMEQIEL,RRLRSKMKTMEQIELLLQSQR,0.847
+Q9BWF2,E3 ubiquitin-protein ligase TRAIP,Homo sapiens,coiled_coil,200,280,264,273,IMSLKKKLTM,QSADKEIMSLKKKLTMLQETLN,0.858
+Q9BWF2,E3 ubiquitin-protein ligase TRAIP,Homo sapiens,coiled_coil,200,280,271,280,LTMLQETLNL,MSLKKKLTMLQETLNLPPVASE,0.958
+Q9BWP8,Collectin-11,Homo sapiens,coiled_coil,113,148,129,138,VSQLTSELKF,GEMDNQVSQLTSELKFIKNAVA,0.803
+Q9BXL6,Caspase recruitment domain-containing protein 14,Homo sapiens,coiled_coil,127,409,184,194,VSAHFHEVLRL,SRMKREVSAHFHEVLRLKDEMLS,0.914
+Q9BXL6,Caspase recruitment domain-containing protein 14,Homo sapiens,coiled_coil,127,409,194,203,LKDEMLSLSL,FHEVLRLKDEMLSLSLHYSNAL,0.944
+Q9BXX0,EMILIN-2,Homo sapiens,coiled_coil,577,634,601,610,IQKLQQDFSF,QETEQTIQKLQQDFSFLYSQLN,0.789
+Q9BZF9,Uveal autoantigen with coiled-coil domains and ankyrin repeats,Homo sapiens,coiled_coil,285,374,320,329,LLDKVNGLQL,QQEQRILLDKVNGLQLQLNEEV,0.986
+Q9BZF9,Uveal autoantigen with coiled-coil domains and ankyrin repeats,Homo sapiens,coiled_coil,285,374,321,329,LDKVNGLQL,QEQRILLDKVNGLQLQLNEEV,0.986
+Q9BZF9,Uveal autoantigen with coiled-coil domains and ankyrin repeats,Homo sapiens,coiled_coil,285,374,327,337,LQLQLNEEVMV,LDKVNGLQLQLNEEVMVADDLES,0.806
+Q9BZF9,Uveal autoantigen with coiled-coil domains and ankyrin repeats,Homo sapiens,coiled_coil,437,1386,542,551,LKDQLKDLKV,HRLTEELKDQLKDLKVKYEGAS,0.969
+Q9BZF9,Uveal autoantigen with coiled-coil domains and ankyrin repeats,Homo sapiens,coiled_coil,437,1386,701,710,LGKKITELTL,EQKSGELGKKITELTLKNQTLQ,1.0
+Q9BZF9,Uveal autoantigen with coiled-coil domains and ankyrin repeats,Homo sapiens,coiled_coil,437,1386,715,724,LQKEIEKVYL,TLKNQTLQKEIEKVYLDNKLLK,0.958
+Q9BZF9,Uveal autoantigen with coiled-coil domains and ankyrin repeats,Homo sapiens,coiled_coil,437,1386,796,804,VSRLETVFV,DSLSKDVSRLETVFVPPEKHE,0.803
+Q9BZF9,Uveal autoantigen with coiled-coil domains and ankyrin repeats,Homo sapiens,coiled_coil,437,1386,974,983,LDTIQECIKV,KAQKKELDTIQECIKVKYAPIV,0.997
+Q9BZF9,Uveal autoantigen with coiled-coil domains and ankyrin repeats,Homo sapiens,coiled_coil,437,1386,1172,1182,IKEAFEKEVGI,LAEHLQIKEAFEKEVGIIKASLR,0.667
+Q9C0H9,SRC kinase signaling inhibitor 1,Homo sapiens,coiled_coil,653,674,668,676,LQQLRKLQL,SDLRGQLQQLRKLQLQNQESV,0.958
+Q9GZY8,Mitochondrial fission factor,Homo sapiens,coiled_coil,290,322,300,309,IIKLNRRLQL,ASLRRQIIKLNRRLQLLEEENK,0.833
+Q9H0H5,Rac GTPase-activating protein 1,Homo sapiens,coiled_coil,52,110,100,108,IQLIREMLM,EKLERQIQLIREMLMCDTSGS,0.844
+Q9H2K8,Serine/threonine-protein kinase TAO3,Homo sapiens,coiled_coil,753,879,798,808,LRLQLQQEMEL,EAECQALRLQLQQEMELLNAYQS,0.931
+Q9H2K8,Serine/threonine-protein kinase TAO3,Homo sapiens,coiled_coil,753,879,828,837,LQKLEQRVSL,AQHERELQKLEQRVSLRRAHLE,1.0
+Q9H6R4,Nucleolar protein 6,Homo sapiens,coiled_coil,82,114,79,88,FHSSLLRLQV,RETEILFHSSLLRLQVEELLKE,0.831
+Q9H6R4,Nucleolar protein 6,Homo sapiens,coiled_coil,82,114,88,97,VEELLKEVRL,SLLRLQVEELLKEVRLSEKKKD,0.792
+Q9HAW4,Claspin,Homo sapiens,coiled_coil,591,681,597,607,LKAKLQEAMKL,GEKLQVLKAKLQEAMKLRRFEER,0.931
+Q9HC35,Echinoderm microtubule-associated protein-like 4,Homo sapiens,coiled_coil,13,63,45,54,LADVLRRLAI,TVLKAALADVLRRLAISEDHVA,0.847
+Q9NQY0,Bridging integrator 3,Homo sapiens,coiled_coil,230,247,241,249,LSELRALSI,RENEAKLSELRALSIVADD,0.997
+Q9NS87,Kinesin-like protein KIF15,Homo sapiens,coiled_coil,367,1388,415,424,MEYFQEAMLF,KKKTNYMEYFQEAMLFFKKSEQ,0.625
+Q9NS87,Kinesin-like protein KIF15,Homo sapiens,coiled_coil,367,1388,439,447,VTQLEDLTL,KSLIEKVTQLEDLTLKKEKFI,0.956
+Q9NS87,Kinesin-like protein KIF15,Homo sapiens,coiled_coil,367,1388,796,805,LKSEVHDLRV,QTKNDFLKSEVHDLRVVLHSAD,0.997
+Q9NS87,Kinesin-like protein KIF15,Homo sapiens,coiled_coil,367,1388,842,851,VQLQLDNLRL,SERHMHVQLQLDNLRLENEKLL,0.806
+Q9NS87,Kinesin-like protein KIF15,Homo sapiens,coiled_coil,367,1388,870,878,LQEIMKFEI,QDSYDNLQEIMKFEIDQLSRN,0.969
+Q9NS87,Kinesin-like protein KIF15,Homo sapiens,coiled_coil,367,1388,895,905,LKSDLNNLMEL,KKENETLKSDLNNLMELLEAEKE,1.0
+Q9NS87,Kinesin-like protein KIF15,Homo sapiens,coiled_coil,367,1388,1040,1049,ILDLKETLRL,KKQEVDILDLKETLRLRILSED,0.983
+Q9NS87,Kinesin-like protein KIF15,Homo sapiens,coiled_coil,367,1388,1198,1206,LREMENLRL,LRMKEQLREMENLRLESQQLI,1.0
+Q9NS87,Kinesin-like protein KIF15,Homo sapiens,coiled_coil,367,1388,1349,1359,LHQKIQYVVRL,LVGHQNLHQKIQYVVRLKKENVR,0.958
+Q9NVA2,Septin-11,Homo sapiens,coiled_coil,319,415,341,349,MRQMFVMRV,QKKEEEMRQMFVMRVKEKEAE,0.817
+Q9NX55,Huntingtin-interacting protein K,Homo sapiens,coiled_coil,61,107,87,96,LELIMTEMEI,TIKKEDLELIMTEMEISRAAAE,0.956
+Q9NZ56,Formin-2,Homo sapiens,coiled_coil,192,231,195,205,LLSDIQQAIRL,ATEQEDLLSDIQQAIRLQQQQQQ,1.0
+Q9NZ56,Formin-2,Homo sapiens,coiled_coil,192,231,196,205,LSDIQQAIRL,TEQEDLLSDIQQAIRLQQQQQQ,1.0
+Q9P0K7,Ankycorbin,Homo sapiens,coiled_coil,348,374,352,361,LQAKVASLTL,QDLLSLLQAKVASLTLHNKELQ,0.986
+Q9P0K7,Ankycorbin,Homo sapiens,coiled_coil,424,947,499,508,VLSVQKQMKL,EEAMKEVLSVQKQMKLGLVSPE,0.956
+Q9P0K7,Ankycorbin,Homo sapiens,coiled_coil,424,947,792,802,LQSSLESEVSV,RSSYEKLQSSLESEVSVLASKLK,0.956
+Q9P0K7,Ankycorbin,Homo sapiens,coiled_coil,424,947,942,950,VISVYRMHL,KKQHQEVISVYRMHLLYAVQG,0.956
+Q9P2M7,Cingulin,Homo sapiens,coiled_coil,357,1160,599,609,MEEELGEKIEV,RMEKEEMEEELGEKIEVLQRELE,0.872
+Q9P2M7,Cingulin,Homo sapiens,coiled_coil,357,1160,662,671,LEKQLAVLRV,RHRDRELEKQLAVLRVEADRGR,0.969
+Q9P2M7,Cingulin,Homo sapiens,coiled_coil,357,1160,1078,1087,LERKVKELSI,QSTNRKLERKVKELSIQIEDER,0.875
+Q9UBW8,COP9 signalosome complex subunit 7a,Homo sapiens,coiled_coil,184,233,213,222,VANLKKTIKV,QQIESEVANLKKTIKVTTAAAA,0.831
+Q9UDT6,CAP-Gly domain-containing linker protein 2,Homo sapiens,coiled_coil,353,524,389,398,ICEVEKEIAL,AKATSHICEVEKEIALLKAQHE,0.875
+Q9UDT6,CAP-Gly domain-containing linker protein 2,Homo sapiens,coiled_coil,353,524,470,479,IGELEQSLLL,QLEHARIGELEQSLLLEKAQAE,0.833
+Q9UDT6,CAP-Gly domain-containing linker protein 2,Homo sapiens,coiled_coil,353,524,505,514,VLQLEEELTL,VAEKSRVLQLEEELTLRRGEIE,0.806
+Q9UDT6,CAP-Gly domain-containing linker protein 2,Homo sapiens,coiled_coil,672,1016,732,740,VHELEKLDV,RDAELRVHELEKLDVEYRGQA,0.817
+Q9UDT6,CAP-Gly domain-containing linker protein 2,Homo sapiens,coiled_coil,672,1016,749,758,IEFLKEQISL,RGQAQAIEFLKEQISLAEKKML,0.847
+Q9UDT6,CAP-Gly domain-containing linker protein 2,Homo sapiens,coiled_coil,672,1016,780,789,VESLREKLLV,AQGKQEVESLREKLLVAENRLQ,0.817
+Q9UDT6,CAP-Gly domain-containing linker protein 2,Homo sapiens,coiled_coil,672,1016,909,917,LNELRVLLL,LRKERSLNELRVLLLEANRHS,1.0
+Q9UFD9,RIMS-binding protein 3A,Homo sapiens,coiled_coil,479,619,536,545,VLRLQRQLML,RESQREVLRLQRQLMLQQGNGG,0.956
+Q9UIF8,Bromodomain adjacent to zinc finger domain protein 2B,Homo sapiens,coiled_coil,882,1061,947,955,IKRIQQIRM,MKQQEKIKRIQQIRMEKELRA,0.886
+Q9UKU9,Angiopoietin-related protein 2,Homo sapiens,coiled_coil,75,115,103,112,IETLQQLVEV,LKQKRQIETLQQLVEVDGGIVS,0.681
+Q9UKX2,Myosin-2,Homo sapiens,coiled_coil,844,1941,956,965,LKKDIDDLEL,EDECSELKKDIDDLELTLAKVE,1.0
+Q9UKX2,Myosin-2,Homo sapiens,coiled_coil,844,1941,1427,1436,LQNEVEDLML,EKTKQRLQNEVEDLMLDVERTN,0.986
+Q9UKX2,Myosin-2,Homo sapiens,coiled_coil,844,1941,1624,1633,MEGDLNEMEI,IRLKKKMEGDLNEMEIQLNHAN,0.708
+Q9UKX2,Myosin-2,Homo sapiens,coiled_coil,844,1941,1792,1801,MEQTVKDLQL,ERMKKNMEQTVKDLQLRLDEAE,0.875
+Q9ULJ8,Neurabin-1,Homo sapiens,coiled_coil,669,824,676,685,LSHKFKELQI,ELDTSKLSHKFKELQIKHAVTE,0.806
+Q9ULJ8,Neurabin-1,Homo sapiens,coiled_coil,669,824,800,808,LVEVQGLQV,DLEKAHLVEVQGLQVRIRDLE,0.847
+Q9ULJ8,Neurabin-1,Homo sapiens,coiled_coil,1032,1090,1041,1050,VKKKLKEMKM,SQDRAVVKKKLKEMKMSLEKAR,0.653
+Q9ULL8,Protein Shroom4,Homo sapiens,coiled_coil,1381,1488,1454,1463,FVKMKSALII,LQDYQHFVKMKSALIIEQRELE,0.694
+Q9ULL8,Protein Shroom4,Homo sapiens,coiled_coil,1381,1488,1479,1488,LKCLRESLLL,KLGEEQLKCLRESLLLGPSNF,1.0
+Q9UM21,"Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A",Homo sapiens,coiled_coil,27,63,41,50,FLALKERLRI,IAYQREFLALKERLRIAEHRIS,0.858
+Q9UPA5,Protein bassoon,Homo sapiens,coiled_coil,2350,2476,2382,2390,LEKLRQLRL,ERERVELEKLRQLRLQEELER,1.0
+Q9UPA5,Protein bassoon,Homo sapiens,coiled_coil,2938,2981,2940,2950,LLRELDRDLRL,PATKASLLRELDRDLRLVEHEST,0.958
+Q9UPA5,Protein bassoon,Homo sapiens,coiled_coil,2938,2981,2941,2950,LRELDRDLRL,ATKASLLRELDRDLRLVEHEST,0.958
+Q9UPA5,Protein bassoon,Homo sapiens,coiled_coil,2938,2981,2972,2981,IDAKLKYLEL,DEEEKEIDAKLKYLELGITQRK,0.983
+Q9UPR3,Nonsense-mediated mRNA decay factor SMG5,Homo sapiens,coiled_coil,797,841,824,833,LMRDMAQLRL,EARRNRLMRDMAQLRLQLEVSQ,0.944
+Q9UPR3,Nonsense-mediated mRNA decay factor SMG5,Homo sapiens,coiled_coil,797,841,825,833,MRDMAQLRL,ARRNRLMRDMAQLRLQLEVSQ,0.833
+Q9UPR3,Nonsense-mediated mRNA decay factor SMG5,Homo sapiens,coiled_coil,797,841,828,837,MAQLRLQLEV,NRLMRDMAQLRLQLEVSQLEGS,0.858
+Q9UPS8,Ankyrin repeat domain-containing protein 26,Homo sapiens,coiled_coil,742,873,753,762,IKKMEDKVNV,ELLTVKIKKMEDKVNVLQRELS,0.667
+Q9UPS8,Ankyrin repeat domain-containing protein 26,Homo sapiens,coiled_coil,742,873,833,842,LELSLQTLEM,VEVKQQLELSLQTLEMELRTVK,0.833
+Q9UPS8,Ankyrin repeat domain-containing protein 26,Homo sapiens,coiled_coil,904,1472,917,926,LQEEIAMLRL,SHKNSMLQEEIAMLRLEIDTIK,0.972
+Q9UPS8,Ankyrin repeat domain-containing protein 26,Homo sapiens,coiled_coil,904,1472,1346,1356,LDQEMKKNVEL,QSLECNLDQEMKKNVELEREITG,1.0
+Q9UPS8,Ankyrin repeat domain-containing protein 26,Homo sapiens,coiled_coil,904,1472,1360,1369,ITGFKNLLKM,VELEREITGFKNLLKMTRKKLN,0.817
+Q9UPS8,Ankyrin repeat domain-containing protein 26,Homo sapiens,coiled_coil,1516,1587,1519,1528,FASMKSQMEL,QFRENNFASMKSQMELRIKDLE,0.928
+Q9UPS8,Ankyrin repeat domain-containing protein 26,Homo sapiens,coiled_coil,1516,1587,1580,1589,LAEVNTKLLV,TKTNERLAEVNTKLLVEKQQSR,0.997
+Q9Y216,Phosphatidylinositol-3-phosphate phosphatase MTMR7,Homo sapiens,coiled_coil,520,551,542,550,LEKIQKVQL,EALEERLEKIQKVQLNCTKVK,1.0
+Q9Y2M0,Fanconi-associated nuclease 1,Homo sapiens,coiled_coil,670,696,673,682,FVEILQRLHM,TRILSRFVEILQRLHMYEEAVR,0.694
+Q9Y2M0,Fanconi-associated nuclease 1,Homo sapiens,coiled_coil,670,696,674,682,VEILQRLHM,RILSRFVEILQRLHMYEEAVR,0.681
+Q9Y2W2,WW domain-binding protein 11,Homo sapiens,coiled_coil,74,133,85,95,LRETFERILRL,KDKRKKLRETFERILRLYEKENP,0.917
+Q9Y2W2,WW domain-binding protein 11,Homo sapiens,coiled_coil,74,133,103,112,IYKELRKLEV,EKENPDIYKELRKLEVEYEQKR,0.844
+Q9Y496,Kinesin-like protein KIF3A,Homo sapiens,coiled_coil,354,590,472,481,LSALEKKVIV,QSLLEKLSALEKKVIVGGVDLL,0.956
+Q9Y496,Kinesin-like protein KIF3A,Homo sapiens,coiled_coil,354,590,546,554,LKKVWTMLM,QGKTKKLKKVWTMLMAAKSEM,0.833
+Q9Y496,Kinesin-like protein KIF3A,Homo sapiens,coiled_coil,354,590,578,587,IRQLSRELRL,EGLLENIRQLSRELRLQMLIID,0.983
+Q9Y496,Kinesin-like protein KIF3A,Homo sapiens,coiled_coil,354,590,581,591,LSRELRLQMLI,LENIRQLSRELRLQMLIIDNFIP,0.819
+Q9Y4I1,Unconventional myosin-Va,Homo sapiens,coiled_coil,913,1237,964,973,LRSDLERLQL,NSETEKLRSDLERLQLSEEEAK,1.0
+Q9Y4I1,Unconventional myosin-Va,Homo sapiens,coiled_coil,913,1237,1095,1105,LKEEMTLMVHV,EERYDDLKEEMTLMVHVPKPGHK,0.942
+Q9Y4I1,Unconventional myosin-Va,Homo sapiens,coiled_coil,913,1237,1148,1158,VPLDMSLFLKL,EPSEKKVPLDMSLFLKLQKRVTE,0.942
+Q9Y4I1,Unconventional myosin-Va,Homo sapiens,coiled_coil,1337,1445,1426,1435,VRKLKKQLKV,EKQDKTVRKLKKQLKVFAKKIG,0.817
+Q9Y4I1,Unconventional myosin-Va,Homo sapiens,coiled_coil,1337,1445,1436,1445,FAKKIGELEV,KKQLKVFAKKIGELEVGQMENI,0.694
+Q9Y4J8,Dystrobrevin alpha,Homo sapiens,coiled_coil,460,556,486,495,ILQEIQRLRL,ENKNREILQEIQRLRLEHEQAS,0.997
+Q9Y4J8,Dystrobrevin alpha,Homo sapiens,coiled_coil,460,556,487,495,LQEIQRLRL,NKNREILQEIQRLRLEHEQAS,1.0
+Q9Y4J8,Dystrobrevin alpha,Homo sapiens,coiled_coil,460,556,542,552,LMVQLEGLMKL,QESRRELMVQLEGLMKLLKTQGA,1.0
+Q9Y4J8,Dystrobrevin alpha,Homo sapiens,coiled_coil,460,556,543,552,MVQLEGLMKL,ESRRELMVQLEGLMKLLKTQGA,0.969
+Q9Y592,Centrosomal protein of 83 kDa,Homo sapiens,coiled_coil,39,634,194,203,LRNQLLNVDL,EEDKEELRNQLLNVDLTKDSKR,1.0
+Q9Y592,Centrosomal protein of 83 kDa,Homo sapiens,coiled_coil,39,634,405,413,LADLEKMKV,LELENRLADLEKMKVEHDVWR,0.942
+Q9Y592,Centrosomal protein of 83 kDa,Homo sapiens,coiled_coil,39,634,471,480,LKQQISSLQI,KNENSDLKQQISSLQIQVTSLA,1.0
+Q9Y592,Centrosomal protein of 83 kDa,Homo sapiens,coiled_coil,39,634,578,587,LKRLQEKVEV,SLHENKLKRLQEKVEVLEAKKE,0.956
+Q9Y5C1,Angiopoietin-related protein 3,Homo sapiens,coiled_coil,84,210,124,134,LESLLEEKILL,LELNSKLESLLEEKILLQQKVKY,0.972
+Q9Y692,Glucocorticoid modulatory element-binding protein 1,Homo sapiens,coiled_coil,320,367,363,371,VQNVVLMPV,RLKSQTVQNVVLMPVSTPKPP,0.667
+Q9Y6C2,EMILIN-1,Homo sapiens,coiled_coil,215,256,237,246,LNEIQHQLQL,PGVHETLNEIQHQLQLLDTRVS,1.0
+Q9Y6C2,EMILIN-1,Homo sapiens,coiled_coil,355,420,362,371,LAELERRLDV,PELGRRLAELERRLDVVAGSVT,0.819
+Q9Y6C2,EMILIN-1,Homo sapiens,coiled_coil,355,420,369,378,LDVVAGSVTV,AELERRLDVVAGSVTVLSGRRG,0.983
+Q9Y6D9,Mitotic spindle assembly checkpoint protein MAD1,Homo sapiens,coiled_coil,45,632,225,234,IKDLEQKLSL,ADHEQQIKDLEQKLSLQEQDAA,0.983
+Q9Y6D9,Mitotic spindle assembly checkpoint protein MAD1,Homo sapiens,coiled_coil,45,632,296,305,MQETLVGLEL,LGRQEKMQETLVGLELENERLL,0.997
+Q9Y6D9,Mitotic spindle assembly checkpoint protein MAD1,Homo sapiens,coiled_coil,45,632,393,403,LARRLQKRVLL,RETHEALARRLQKRVLLLTKERD,1.0
+A2IDD5,Coiled-coil domain-containing protein 78,Homo sapiens,coiled_coil,73,105,93,102,LESRVLELEL,KSEILRLESRVLELELRGDGTS,0.986
+O00258,Guided entry of tail-anchored proteins factor 1,Homo sapiens,coiled_coil,38,94,56,65,MKQELSTVNM,RAEIQDMKQELSTVNMMDEFAR,0.858
+O14578,Citron Rho-interacting kinase,Homo sapiens,coiled_coil,452,1297,854,863,LETRLREVSL,KNRLLELETRLREVSLEHEEQK,1.0
+O14578,Citron Rho-interacting kinase,Homo sapiens,coiled_coil,452,1297,872,881,LKRQLTELQL,EEQKLELKRQLTELQLSLQERE,1.0
+O14578,Citron Rho-interacting kinase,Homo sapiens,coiled_coil,452,1297,1194,1203,LEYQLENIQV,KTERSDLEYQLENIQVLYSHEK,0.983
+O14795,Protein unc-13 homolog B,Homo sapiens,coiled_coil,1171,1202,1173,1182,LMNNVQQLRV,EKLPCILMNNVQQLRVQLEKMF,0.847
+O14795,Protein unc-13 homolog B,Homo sapiens,coiled_coil,1171,1202,1174,1182,MNNVQQLRV,KLPCILMNNVQQLRVQLEKMF,0.736
+O15013,Rho guanine nucleotide exchange factor 10,Homo sapiens,coiled_coil,303,355,322,332,MRDLMASTVGV,EHYEKKMRDLMASTVGVVEIQQL,0.831
+O15013,Rho guanine nucleotide exchange factor 10,Homo sapiens,coiled_coil,303,355,326,335,MASTVGVVEI,KKMRDLMASTVGVVEIQQLRQK,0.9
+O15066,Kinesin-like protein KIF3B,Homo sapiens,coiled_coil,345,579,467,476,IKAMESKLLV,EMLGAKIKAMESKLLVGGKNIV,0.681
+O43295,SLIT-ROBO Rho GTPase-activating protein 3,Homo sapiens,coiled_coil,351,392,362,371,LQSRLATLKI,LMRYHQLQSRLATLKIENEEVR,0.847
+O43295,SLIT-ROBO Rho GTPase-activating protein 3,Homo sapiens,coiled_coil,351,392,384,393,MQTLQDMLTV,KTLDATMQTLQDMLTVEDFDVS,0.858
+O43815,Striatin,Homo sapiens,coiled_coil,52,120,94,104,LKKDLVRRIKM,RKGQENLKKDLVRRIKMLEYALK,0.997
+O43896,Kinesin-like protein KIF1C,Homo sapiens,coiled_coil,358,388,370,378,VARLRELLM,RELQEEVARLRELLMAQGLSA,0.831
+O43896,Kinesin-like protein KIF1C,Homo sapiens,coiled_coil,827,872,840,849,LTGILQEVKL,RAHIDKLTGILQEVKLQNSSKD,1.0
+O43896,Kinesin-like protein KIF1C,Homo sapiens,coiled_coil,827,872,865,874,MLRMERVIPL,QALRDRMLRMERVIPLAQDHED,0.997
+O60239,SH3 domain-binding protein 5,Homo sapiens,coiled_coil,210,255,229,238,VDDLQAKLTL,EQLKKTVDDLQAKLTLAKGEYK,0.806
+O60271,C-Jun-amino-terminal kinase-interacting protein 4,Homo sapiens,coiled_coil,407,534,406,415,MGREVENLIL,GADLLGMGREVENLILENTQLL,0.875
+O60499,Syntaxin-10,Homo sapiens,coiled_coil,40,69,61,70,LEDLEETIGI,RSIEWDLEDLEETIGIVEANPG,1.0
+O60826,Coiled-coil domain-containing protein 22,Homo sapiens,coiled_coil,319,627,351,360,VEADMKTLGV,NRSIEEVEADMKTLGVSFVQAE,0.803
+O60826,Coiled-coil domain-containing protein 22,Homo sapiens,coiled_coil,319,627,528,538,LSGKLDRTFAV,QKEINSLSGKLDRTFAVTDELVF,0.778
+O60861,Growth arrest-specific protein 7,Homo sapiens,coiled_coil,308,419,398,408,FEEMVTTTLEL,QAQSKWFEEMVTTTLELERLEVE,0.847
+O75031,Heat shock factor 2-binding protein,Homo sapiens,coiled_coil,48,122,50,59,VLESFQKLKI,RILNGEVLESFQKLKIVEKNLE,0.803
+O75031,Heat shock factor 2-binding protein,Homo sapiens,coiled_coil,48,122,51,59,LESFQKLKI,ILNGEVLESFQKLKIVEKNLE,0.956
+O75052,Carboxyl-terminal PDZ ligand of neuronal nitric oxide synthase protein,Homo sapiens,coiled_coil,321,363,352,361,LVKQVQELEL,LQHISLLVKQVQELELKLSGQN,0.986
+O75052,Carboxyl-terminal PDZ ligand of neuronal nitric oxide synthase protein,Homo sapiens,coiled_coil,321,363,353,361,VKQVQELEL,QHISLLVKQVQELELKLSGQN,0.833
+O75665,Centriole and centriolar satellite protein OFD1,Homo sapiens,coiled_coil,188,557,211,221,LRAEMCQKLKF,REIEEQLRAEMCQKLKFFKDTEI,0.942
+O75665,Centriole and centriolar satellite protein OFD1,Homo sapiens,coiled_coil,188,557,303,312,LKQRVEAFEL,RGREAELKQRVEAFELNQKLQE,1.0
+O75665,Centriole and centriolar satellite protein OFD1,Homo sapiens,coiled_coil,188,557,400,408,VNRVKELEL,EELNQSVNRVKELELELESVK,0.833
+O75665,Centriole and centriolar satellite protein OFD1,Homo sapiens,coiled_coil,188,557,535,544,LTTQVADLKL,KASVKSLTTQVADLKLQLKQTQ,0.986
+O75665,Centriole and centriolar satellite protein OFD1,Homo sapiens,coiled_coil,866,956,926,936,LKIKIKKELEM,KMIEESLKIKIKKELEMENELEM,0.997
+O75899,Gamma-aminobutyric acid type B receptor subunit 2,Homo sapiens,coiled_coil,780,819,805,814,LDKDLEEVTM,RMKITELDKDLEEVTMQLQDTP,0.969
+O95202,Mitochondrial proton/calcium exchanger protein,Homo sapiens,coiled_coil,536,627,619,628,IDGLISQLEM,QQMIGQIDGLISQLEMDQQAGK,0.722
+O95239,Chromosome-associated kinesin KIF4A,Homo sapiens,coiled_coil,349,999,354,363,LKQQVQQLQV,TAELNHLKQQVQQLQVLLLQAH,0.847
+O95239,Chromosome-associated kinesin KIF4A,Homo sapiens,coiled_coil,349,999,358,366,VQQLQVLLL,NHLKQQVQQLQVLLLQAHGGT,0.806
+O95239,Chromosome-associated kinesin KIF4A,Homo sapiens,coiled_coil,349,999,526,535,LVELNKALAL,AQMSKELVELNKALALKEALAR,1.0
+O95239,Chromosome-associated kinesin KIF4A,Homo sapiens,coiled_coil,349,999,633,642,VSKLNQEIRM,ESTERTVSKLNQEIRMMKNQRV,0.844
+O95239,Chromosome-associated kinesin KIF4A,Homo sapiens,coiled_coil,349,999,743,753,VKNWLGNEIEV,EGTAARVKNWLGNEIEVMVSTEE,0.681
+O95239,Chromosome-associated kinesin KIF4A,Homo sapiens,coiled_coil,349,999,820,829,IESLETEMEF,DSITKQIESLETEMEFRSAQIA,0.653
+O95239,Chromosome-associated kinesin KIF4A,Homo sapiens,coiled_coil,349,999,871,881,IGELVSSKIQV,CALKYLIGELVSSKIQVSKLESS,0.736
+O95239,Chromosome-associated kinesin KIF4A,Homo sapiens,coiled_coil,349,999,990,999,IKQKLTLLQV,LRENEIIKQKLTLLQVASRQKH,0.844
+O95347,Structural maintenance of chromosomes protein 2,Homo sapiens,coiled_coil,172,507,227,235,IEHLSRLYI,QKVMREIEHLSRLYIAYQFLL,0.872
+O95347,Structural maintenance of chromosomes protein 2,Homo sapiens,coiled_coil,172,507,499,508,LLARFPNLRF,KETYEALLARFPNLRFAYKDPE,0.914
+O95347,Structural maintenance of chromosomes protein 2,Homo sapiens,coiled_coil,172,507,500,508,LARFPNLRF,ETYEALLARFPNLRFAYKDPE,0.914
+O95347,Structural maintenance of chromosomes protein 2,Homo sapiens,coiled_coil,671,926,681,690,LKDVQDELRI,LTKFQELKDVQDELRIKENELR,1.0
+O95347,Structural maintenance of chromosomes protein 2,Homo sapiens,coiled_coil,962,1031,975,985,MKEKLGRNVNM,LQKLQEMKEKLGRNVNMRAMNVL,0.858
+P02671,Fibrinogen alpha chain,Homo sapiens,coiled_coil,67,631,130,140,VSEDLRSRIEV,DNTYNRVSEDLRSRIEVLKRKVI,0.681
+P02671,Fibrinogen alpha chain,Homo sapiens,coiled_coil,67,631,145,154,VIEKVQHIQL,EVLKRKVIEKVQHIQLLQKNVR,0.847
+P02671,Fibrinogen alpha chain,Homo sapiens,coiled_coil,67,631,146,154,IEKVQHIQL,VLKRKVIEKVQHIQLLQKNVR,0.875
+P02671,Fibrinogen alpha chain,Homo sapiens,coiled_coil,67,631,163,171,LVDMKRLEV,KNVRAQLVDMKRLEVDIDIKI,0.806
+P02671,Fibrinogen alpha chain,Homo sapiens,coiled_coil,67,631,166,175,MKRLEVDIDI,RAQLVDMKRLEVDIDIKIRSCR,0.9
+P02671,Fibrinogen alpha chain,Homo sapiens,coiled_coil,67,631,251,259,LTDMPQMRM,PPEWKALTDMPQMRMELERPG,0.792
+P07332,Tyrosine-protein kinase Fes/Fps,Homo sapiens,coiled_coil,323,368,360,369,LQEALQGLQV,LGKRQVLQEALQGLQVALCSQA,0.819
+P12270,Nucleoprotein TPR,Homo sapiens,coiled_coil,28,370,275,285,FHNELNAHIKL,ASMEEKFHNELNAHIKLSNLYKS,0.983
+P12270,Nucleoprotein TPR,Homo sapiens,coiled_coil,422,602,493,502,VKDLSQQIRV,RRMEIQVKDLSQQIRVLLMELE,0.831
+P12270,Nucleoprotein TPR,Homo sapiens,coiled_coil,422,602,496,505,LSQQIRVLLM,EIQVKDLSQQIRVLLMELEEAR,0.997
+P12270,Nucleoprotein TPR,Homo sapiens,coiled_coil,660,1173,790,798,MLKLSEVRL,LKKEKEMLKLSEVRLSQQRES,0.983
+P12270,Nucleoprotein TPR,Homo sapiens,coiled_coil,660,1173,904,913,LKQHLSNMEV,QKEIATLKQHLSNMEVQVASQS,0.792
+P12270,Nucleoprotein TPR,Homo sapiens,coiled_coil,660,1173,982,992,VTEEVRKNIEV,LNKEKQVTEEVRKNIEVRLKESA,0.858
+P12270,Nucleoprotein TPR,Homo sapiens,coiled_coil,1214,1630,1293,1302,MQAKVRKLEL,EQDLQQMQAKVRKLELDILPLQ,0.875
+P35606,Coatomer subunit beta',Homo sapiens,coiled_coil,865,891,880,889,LEVDLDNLEL,EKSLLELEVDLDNLELEDIDTT,1.0
+P39880,Homeobox protein cut-like 1,Homo sapiens,coiled_coil,55,407,88,97,VPDPVPALDL,YKRLIDVPDPVPALDLGQQLQL,0.983
+P39880,Homeobox protein cut-like 1,Homo sapiens,coiled_coil,55,407,358,366,LNILKSMEF,EEVKKELNILKSMEFAPSEGA,0.928
+P49321,Nuclear autoantigenic sperm protein,Homo sapiens,coiled_coil,603,659,604,613,VAQFSKSIEV,SQYDEAVAQFSKSIEVIENRMA,0.789
+P49321,Nuclear autoantigenic sperm protein,Homo sapiens,coiled_coil,603,659,611,620,IEVIENRMAV,AQFSKSIEVIENRMAVLNEQVK,0.681
+P55268,Laminin subunit beta-2,Homo sapiens,coiled_coil,1252,1319,1311,1320,LRQLDQHLDL,LALNLTLRQLDQHLDLLKHSNF,0.958
+P55268,Laminin subunit beta-2,Homo sapiens,coiled_coil,1576,1790,1663,1672,LDALLEALKL,GERARQLDALLEALKLKRAGNS,0.958
+P55268,Laminin subunit beta-2,Homo sapiens,coiled_coil,1576,1790,1780,1789,MRSVLQAINL,DGLEARMRSVLQAINLQVQIYN,1.0
+P55268,Laminin subunit beta-2,Homo sapiens,coiled_coil,1576,1790,1783,1793,VLQAINLQVQI,EARMRSVLQAINLQVQIYNTCQ,0.694
+P55268,Laminin subunit beta-2,Homo sapiens,coiled_coil,1576,1790,1784,1793,LQAINLQVQI,ARMRSVLQAINLQVQIYNTCQ,0.847
+P56696,Potassium voltage-gated channel subfamily KQT member 4,Homo sapiens,coiled_coil,614,636,613,622,ISMMGRVVKV,AEVVDEISMMGRVVKVEKQVQS,0.817
+P56696,Potassium voltage-gated channel subfamily KQT member 4,Homo sapiens,coiled_coil,614,636,626,635,VQSIEHKLDL,VKVEKQVQSIEHKLDLLLGFYS,0.969
+P56696,Potassium voltage-gated channel subfamily KQT member 4,Homo sapiens,coiled_coil,614,636,629,639,IEHKLDLLLGF,EKQVQSIEHKLDLLLGFYSRCLR,0.681
+Q00722,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-2",Homo sapiens,coiled_coil,987,1147,1010,1020,VAEQISKMMEL,KRKEQHVAEQISKMMELAREKQA,0.942
+Q01850,Cerebellar degeneration-related protein 2,Homo sapiens,coiled_coil,43,142,63,72,IEYLTKQVEL,QEQLQEIEYLTKQVELLRQMNE,0.969
+Q01850,Cerebellar degeneration-related protein 2,Homo sapiens,coiled_coil,191,265,202,211,VTMLQAQLSL,EHLKKTVTMLQAQLSLERQKRV,0.806
+Q05D60,Deuterosome assembly protein 1,Homo sapiens,coiled_coil,13,59,18,27,LQELMEQIDI,SPCEAELQELMEQIDIMVSNKK,0.997
+Q05D60,Deuterosome assembly protein 1,Homo sapiens,coiled_coil,13,59,40,49,MRALETRLDL,MDWERKMRALETRLDLRDQELA,0.997
+Q05D60,Deuterosome assembly protein 1,Homo sapiens,coiled_coil,84,197,103,112,LTNNFEKLRL,KAQFSKLTNNFEKLRLHQMKQN,0.917
+Q05D60,Deuterosome assembly protein 1,Homo sapiens,coiled_coil,84,197,125,134,LPHLKEEIPF,KVPRKELPHLKEEIPFELSNLN,0.969
+Q05D60,Deuterosome assembly protein 1,Homo sapiens,coiled_coil,225,278,230,239,LKSAVNEIAL,EFIIEKLKSAVNEIALSRNKLQ,1.0
+Q0D2I5,Non-homologous end joining factor IFFO1,Homo sapiens,coiled_coil,236,301,294,303,VEQLKAELVV,EELALKVEQLKAELVVFKGLMS,0.667
+Q0D2I5,Non-homologous end joining factor IFFO1,Homo sapiens,coiled_coil,454,501,491,501,MNRHLHEYMEM,ATAKNDMNRHLHEYMEMCSMKRG,0.844
+Q12840,Kinesin heavy chain isoform 5A,Homo sapiens,coiled_coil,330,906,487,496,VLQALEELAV,KDEVKEVLQALEELAVNYDQKS,0.817
+Q12840,Kinesin heavy chain isoform 5A,Homo sapiens,coiled_coil,330,906,488,496,LQALEELAV,DEVKEVLQALEELAVNYDQKS,0.969
+Q12840,Kinesin heavy chain isoform 5A,Homo sapiens,coiled_coil,330,906,519,529,LSQKVATMLSL,QLLVDELSQKVATMLSLESELQR,1.0
+Q12840,Kinesin heavy chain isoform 5A,Homo sapiens,coiled_coil,330,906,554,563,LMKDLSEFSV,AEVLNGLMKDLSEFSVIVGNGE,0.778
+Q12840,Kinesin heavy chain isoform 5A,Homo sapiens,coiled_coil,330,906,555,563,MKDLSEFSV,EVLNGLMKDLSEFSVIVGNGE,0.667
+Q12840,Kinesin heavy chain isoform 5A,Homo sapiens,coiled_coil,330,906,576,586,ISGAIEEEFTV,IKLPVEISGAIEEEFTVARLYIS,0.817
+Q12840,Kinesin heavy chain isoform 5A,Homo sapiens,coiled_coil,330,906,643,652,LTEYMQSVEL,EAKIRSLTEYMQSVELKKRHLE,0.931
+Q12840,Kinesin heavy chain isoform 5A,Homo sapiens,coiled_coil,330,906,731,740,LKDLNQKLQL,QKTIDELKDLNQKLQLELEKLQ,1.0
+Q12840,Kinesin heavy chain isoform 5A,Homo sapiens,coiled_coil,330,906,794,802,LHNLRKLFV,ARELQTLHNLRKLFVQDVTTR,0.819
+Q13137,Calcium-binding and coiled-coil domain-containing protein 2,Homo sapiens,coiled_coil,136,349,187,196,LQSINKKLEL,QEELETLQSINKKLELKVKEQK,1.0
+Q13188,Serine/threonine-protein kinase 3,Homo sapiens,coiled_coil,286,328,287,297,LRDLITEAMEI,AKPVSILRDLITEAMEIKAKRHE,0.833
+Q13201,Multimerin-1,Homo sapiens,coiled_coil,332,365,338,347,LQKKIDNISL,AMKLTLLQKKIDNISLTVNDVR,0.986
+Q13201,Multimerin-1,Homo sapiens,coiled_coil,579,650,617,626,LNQTLAEVLF,EENLHVLNQTLAEVLFPMDNKM,0.792
+Q13201,Multimerin-1,Homo sapiens,coiled_coil,579,650,639,648,LNDLTYDMEI,DKMSEQLNDLTYDMEILQPLLE,0.969
+Q13201,Multimerin-1,Homo sapiens,coiled_coil,674,726,681,690,LTSAVNSLNF,RKKIENLTSAVNSLNFIIKELT,0.983
+Q13201,Multimerin-1,Homo sapiens,coiled_coil,818,869,841,850,MSHLEEKLLL,RKYQQNMSHLEEKLLLTTKISK,0.847

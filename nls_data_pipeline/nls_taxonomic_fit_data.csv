@@ -1,0 +1,828 @@
+seq,organism,taxonomic_group,provenance_source,true_label,oof_predicted_proba
+KKRIR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.8933333333333333
+KRKYR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.8366666666666667
+PKRRK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9633333333333334
+KRRP,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.8933333333333333
+RRKKRR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.99
+KKKKSKDKKRK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.8733333333333333
+RKDGFLHETLLDRRAKL,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.53
+RKRRRP,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9933333333333333
+KRQRRSRGRPSGGARRRRR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.8933333333333333
+KRRMLQLKSNKVRQK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.63
+KRPRP,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9033333333333333
+KPNKRK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9
+KRRAGDLLEDSPKRPK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.96
+KQEDKNAMDVIVKVIKR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.38666666666666666
+LRKKTKSKR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.8833333333333333
+KRQRKRR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,1.0
+RPEKQKRKPGLRRSPIKKVRK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.87
+PKPFSCGRSGKGHKRKSPFGSTERKTPVKK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9
+KRHAKLELDEKRRKR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.72
+RKQLHQLLPNHVLQKKKK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9433333333333334
+KRTSSPHKEESPKKTK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9266666666666666
+GNLDIQRPKRKRKNSRVTFSEDDEI,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.6933333333333334
+INPEDVDPSVGRFRNMVQTAVVPVKKKRVEG,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9433333333333334
+PWRRRRNR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9666666666666667
+KLKRR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.8633333333333333
+RKKISNFT,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.81
+RKKVHHPF,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.87
+TGKNEAKKRKIA,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.6566666666666666
+VSKKQRTGKKIH,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.6466666666666666
+RKRR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9566666666666667
+KRKL,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.85
+KKLPPLPVVEKPKLFFKKR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.6833333333333333
+LGYKASTNLQDQLEKTGENKGWSGPKPGFPEPTNNTPKGI,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.6433333333333333
+KRGITNTLEESSSLKRKR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.91
+FGKKRRKLRRARGRKRKT,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.7266666666666667
+QRRRRDDASCFGGKKAK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9133333333333333
+KKKGK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.5733333333333334
+KKRKR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9966666666666667
+EQLFKRRNVY,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.6066666666666667
+KRPR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9166666666666666
+DKAKRVSRNKSEKKRR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.7333333333333333
+KLVTKLQNSERKKRGARR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.3933333333333333
+QQLFKRRNVE,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.7333333333333333
+KRQR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9366666666666666
+KRER,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.79
+KKRKKK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9933333333333333
+KRPASDMGKKPKTPKKKKKK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9166666666666666
+PKLRRR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9933333333333333
+KKPK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.7033333333333334
+TNKVETYKEQPLKTPGKKKKGK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.57
+KKYGPK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.37666666666666665
+KVLGVNVMLRK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.5
+RKEKVKRE,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.7133333333333334
+KLVPGLFKNEMKRRR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.8433333333333334
+KKERNSSGMARKAKRTK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.8633333333333333
+KRHR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.94
+PVAQKRK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.8666666666666667
+AKKRKK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9766666666666667
+KKRK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.8966666666666666
+VRKKRKP,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9733333333333334
+KKRKK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.6033333333333334
+RKGAKSRLSSSKSKSRTSPY,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.8933333333333333
+KRRK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9866666666666667
+KKSFSTLFLETVKRK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.43333333333333335
+KKSSTRKDKEESKKKR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.89
+RKSTKKTNQSSKNIRKK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9266666666666666
+KRKAKENIGKVNKKSNKKR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.9733333333333334
+KRRAGDVLEDSPKRPK,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.9766666666666667
+SKPFSCGRSGKGHKRKTPFGNTERKTPVKK,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.8766666666666667
+KKENHEAMDIIVKIIKR,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.6366666666666667
+LKKRKKG,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.9466666666666667
+KRRVLPLKSSKVRQK,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.7033333333333334
+RKQLHQLLPSHVLQKRKK,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.98
+KRTSSPNKEESPKKTK,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.9733333333333334
+KRELPYKKETSVPKRRR,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.96
+FGKKKLKLKSMKRRKKKT,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.79
+LGYKASTSLQDPLDKTGENKGWSGPKPGFPEPTNNTPKGI,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.78
+INPEDVDPSVGRFRNMVQTAVVPVKKKRMEG,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.8666666666666667
+KRSVVSFDKVKESRKSRD,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.5633333333333334
+PRQQKKK,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.88
+DGHGVLQPVSVSS,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.0033333333333333335
+KRRRK,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.9966666666666667
+KTEEG,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.2
+WRDASPP,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.15333333333333332
+PKKKSRK,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.9866666666666667
+TVPQKRKRT,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.7933333333333333
+KLVPGLFKDEMKRRR,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.8266666666666667
+KKKTR,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.9933333333333333
+KKKRRSR,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.99
+KKR,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.8633333333333333
+KELGVGLALRK,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.5033333333333333
+RKRRR,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,1.0
+PRKRP,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.9366666666666666
+RRRFK,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.88
+KKGK,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.9066666666666666
+KRR,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.9266666666666666
+KKVRKVPP,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.9533333333333334
+IKLRTGKTRTRKQVSSH,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.32
+KKRKMTK,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.9266666666666666
+TRVEENDVTNEKKI,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.2733333333333333
+KKAKRKAREKQLEEARRLAALQKRRELRAAGIEIQKKRKKKRGVDYNAEIPFEKKPALGFYDTSEENYQALDADFRKLRQQDLDGELRSEKEGRDRKKDKQHLKRKK,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.30333333333333334
+RRLRI,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.67
+KKLRP,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.6666666666666666
+KLKNLKK,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.67
+AKKSRK,Mus musculus,Rodent,"nls_dataset.csv (real positive, direct accession)",1,0.9733333333333334
+GKRLDHEE,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.6666666666666666
+AKKRYAEK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.8933333333333333
+VLEDAKLTQTRKVKKPNSVVKKSHHVGKDDESRL,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.43333333333333335
+KRARNTEAARRSRARKLQR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.6566666666666666
+AHRAKKMSKTHA,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.5066666666666667
+GRKVAKDS,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.9266666666666666
+KRREKQRKQSLKRVEKKY,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.7
+KKGRGNRYHNKNRGKSK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.74
+RRNNKKRNREYYNYKRKA,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.6933333333333334
+KKFKEEEASAKIPKKKR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.91
+KRVK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.9666666666666667
+KKSKKKR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.9933333333333333
+GVIKKKR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.9266666666666666
+KLVPR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.33666666666666667
+KKRRKHKRR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.99
+KRLKRV,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.9366666666666666
+AKKTK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.8333333333333334
+KRIRVPKKRKKHH,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.82
+KKKRK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.8233333333333334
+PPKRIRTD,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.68
+AKLRKEK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.8766666666666667
+PLKRKKL,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.9733333333333334
+GLKRKR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.8566666666666667
+KPSLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.23666666666666666
+KLPIK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.2733333333333333
+RRDLEGSDTDTRRRAC,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.62
+KKERLVRDKKEKKQAQKQTKLRKEKEKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.5866666666666667
+KRTK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.95
+KRRVVDEGEEADKAVKKKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.88
+PKVKRR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.9233333333333333
+TKRPKV,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.8933333333333333
+SLKKIKAD,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.82
+KRTPLFNPTSTKGKIQK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.24666666666666667
+SSVRTNPLGIVIKRGKSLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.4033333333333333
+NKLSRKAIHKIVDIRLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.24666666666666667
+KKRQRR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.9966666666666667
+KEKYKR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.5766666666666667
+RLRREK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.85
+RKSKLASRIDRK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.6566666666666666
+KKRKHEEKEEEKKAKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.79
+KKRRRDFGAPANKRPRR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.7533333333333333
+KKPTSAVVSSNASRRKL,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.77
+KRYKTKRRTR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.72
+KTRKHRG,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.8866666666666667
+KHRKHPG,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.69
+GKKYENVVIKRSPRKRGRPRKDGTS,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.86
+RKDPNNLSNQLETLTGSIRHRLK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.11
+KRDVLDDLYRKLQR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.32666666666666666
+KKKNLPKFPKNKKKNGK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.9166666666666666
+RMPKRQRIP,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.7966666666666666
+ELVEQILAL,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.0033333333333333335
+KKDKL,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.8366666666666667
+KKRKTK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.98
+KPILKKR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.8933333333333333
+RPIIK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.25666666666666665
+KKKALPK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.99
+PNNRTKKR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.9333333333333333
+RKRKH,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.9433333333333334
+RHKKK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,"nls_dataset.csv (real positive, direct accession)",1,0.81
+PRRGKSPA,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.6433333333333333
+RRRSPLPR,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.83
+PRRYRSPP,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.55
+PRRLRSPP,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.8933333333333333
+IRRPGRSR,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.8433333333333334
+PRRIPRKI,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.9133333333333333
+VKKHEDGI,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.9566666666666667
+TKKSEQAP,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.79
+DKKFYEGV,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.5933333333333334
+MKKKDSVT,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.9333333333333333
+LKKLNGEP,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.9066666666666666
+RRRESLRI,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.8233333333333334
+TKKRERDE,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.7366666666666667
+SRKGGMTG,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.6533333333333333
+EKKFAYQA,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.68
+LKKGAKSQ,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.9666666666666667
+EKKNKEKL,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.9366666666666666
+DKKSKSEN,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.8833333333333333
+KRREWKNE,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.7366666666666667
+QRRILESH,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.8133333333333334
+TKKHGLVS,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.7566666666666667
+MKKATEEI,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.7
+LKKEGKTK,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.9633333333333334
+KRNKLLWEVISNKMRDK,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.5233333333333333
+PKKNIAKKRK,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.7566666666666667
+KKKRGRPRK,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.9033333333333333
+KPKKNKHD,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.79
+NRKGFVSS,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.83
+LKRLAYAL,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.7066666666666667
+VKKAHIET,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.7033333333333334
+MKKGAKRK,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.9533333333333334
+EKKPVARR,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.7666666666666667
+AKKANREA,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.7833333333333333
+ARKFAKKN,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.8833333333333333
+AKRNERHQ,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.7266666666666667
+LKKFHERS,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.44333333333333336
+TKKERKRK,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.99
+TRKESVES,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.8333333333333334
+EKKKKKKR,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.98
+FRKPAKSK,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.9766666666666667
+NRKQGADD,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.65
+TKRKATSE,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.9333333333333333
+KKRIVKVI,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.8666666666666667
+ERRDCQTG,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.5366666666666666
+ARRSSAIL,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.7466666666666667
+SRKLVSPE,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.8033333333333333
+IRKEESAL,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.9266666666666666
+KKKPAVCK,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.9566666666666667
+KRKGKRGG,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.9433333333333334
+KRKGEIDG,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.9566666666666667
+VKRPNIVR,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.7066666666666667
+NRRRDRKD,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.89
+HKKVREKD,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.6133333333333333
+LKKRKWKV,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.9133333333333333
+SKRMEIFM,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.4533333333333333
+SKKSKSKR,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.88
+LKKVKEHH,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.87
+VRRARALE,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.73
+TKKQKAEK,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.9466666666666667
+SRKENLSK,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.7533333333333333
+GKRDPLKT,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.67
+VKRMLSNR,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.81
+MRRVESLE,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.5966666666666667
+EKREAEWK,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.5066666666666667
+IRKDVDDL,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.6333333333333333
+RRRQLPSF,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.7733333333333333
+KRKNDDEI,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.87
+HRRGHNLP,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.7866666666666666
+IKKHYSRK,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.62
+NRKTTMLE,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.7066666666666667
+LKRLDAER,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.7233333333333334
+TRKLSSSS,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.7066666666666667
+NKKKDVVV,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.73
+VKRLVSMA,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.8533333333333334
+LKKLITLA,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.8833333333333333
+KKRAANSA,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.84
+EKRLREVE,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.59
+WRKAKVDN,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.6733333333333333
+VRKIDDLL,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.5666666666666667
+SRRFTSPP,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.5966666666666667
+DRRRDRPR,Arabidopsis thaliana,Plant,"nls_dataset.csv (real positive, direct accession)",1,0.8633333333333333
+RGGRGGGDRGGFGPGKMDSRGEHRQDRRERPY,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.2633333333333333
+PQKKVKLAADEDDDDDDEEDDDEDDDDDDFDDEEAEEKAPVKKSIR,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.4266666666666667
+KVTKRKHDNEGSGSKRPK,Homo sapiens,Human,"nls_dataset.csv (real positive, direct accession)",1,0.56
+KRKRDSSILTDSQTATKRIR,Influenza A virus (A/Puerto Rico/8/1934 H1N1),Viral,"nls_dataset.csv (real positive, direct accession)",1,0.41
+RKLKR,Influenza A virus (strain A/Puerto Rico/8/1934 H1N1),Viral,"nls_dataset.csv (real positive, direct accession)",1,0.6866666666666666
+KKPRQKRTA,Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),Viral,"nls_dataset.csv (real positive, direct accession)",1,0.61
+KRQK,Human cytomegalovirus (strain AD169),Viral,"nls_dataset.csv (real positive, direct accession)",1,0.84
+KRK,Bovine papillomavirus type 1,Viral,"nls_dataset.csv (real positive, direct accession)",1,0.75
+KRRR,"Human herpesvirus 1 (HSV-1, strain 17)",Viral,"nls_dataset.csv (real positive, direct accession)",1,0.9366666666666666
+MRHKRSAKRTKRA,Human papillomavirus type 16,Viral,"nls_dataset.csv (real positive, direct accession)",1,0.38666666666666666
+MLRKRRKRL,Human papillomavirus type 16,Viral,"nls_dataset.csv (real positive, direct accession)",1,0.5266666666666666
+MVRARRTKRD,Human papillomavirus type 49,Viral,"nls_dataset.csv (real positive, direct accession)",1,0.41333333333333333
+RRKRKRTY,Human papillomavirus type 49,Viral,"nls_dataset.csv (real positive, direct accession)",1,0.6266666666666667
+RYGKKIK,"Human herpesvirus 8 (KSHV, isolate GK18)",Viral,"nls_dataset.csv (real positive, direct accession)",1,0.7066666666666667
+KRPRRRPRDR,"Human herpesvirus 8 (KSHV, isolate GK18)",Viral,"nls_dataset.csv (real positive, direct accession)",1,0.72
+RAAPKRATRR,"Human herpesvirus 8 (KSHV, isolate GK18)",Viral,"nls_dataset.csv (real positive, direct accession)",1,0.5666666666666667
+RTGKRKR,"Human herpesvirus 8 (KSHV, isolate GK18)",Viral,"nls_dataset.csv (real positive, direct accession)",1,0.8666666666666667
+RLRTPRKRK,Varicella-zoster virus (strain Dumas),Viral,"nls_dataset.csv (real positive, direct accession)",1,0.8766666666666667
+EGAPPAKRAR,Hepatitis delta virus genotype I (isolate D380),Viral,"nls_dataset.csv (real positive, direct accession)",1,0.49
+KLGPRKATGRW,Human parvovirus B19 (strain HV),Viral,"nls_dataset.csv (real positive, direct accession)",1,0.24
+RYATKNWRPERR,Primate bocaparvovirus 1 (Human bocavirus 1),Viral,"nls_dataset.csv (real positive, direct accession)",1,0.19666666666666666
+RVVKLRIAP,Borna disease virus (strain V),Viral,"nls_dataset.csv (real positive, direct accession)",1,0.19
+KAKIARTKKK,Bacillus phage phi29 (bacteriophage),Invertebrate/Other,"nls_dataset.csv (real positive, direct accession)",1,0.44666666666666666
+RRRGRR,Hepatitis E virus genotype 1 (isolate Human/Pakistan/Sar-55),Viral,"nls_dataset.csv (real positive, direct accession)",1,0.91
+RLKRKL,Influenza B virus (strain B/Lee/1940),Viral,"nls_dataset.csv (real positive, direct accession)",1,0.8233333333333334
+GPNKKKRRK,JC polyomavirus,Viral,"nls_dataset.csv (real positive, direct accession)",1,0.8566666666666667
+PPKKKRKV,BK polyomavirus,Viral,"nls_dataset.csv (real positive, direct accession)",1,0.9266666666666666
+PKKKRKV,Simian virus 40,Viral,"curated seed (manually verified, see module docstring)",1,0.58
+KRPAATKKAGQAKKKK,Xenopus laevis (African clawed frog),Other vertebrate,"curated seed (manually verified, see module docstring)",1,0.13666666666666666
+PAAKRVKLD,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.10666666666666667
+KRKRRP,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.78
+PKKNRLRRKS,Homo sapiens (Human),Human,"curated seed (manually verified, see module docstring)",1,0.13333333333333333
+DSVDL,Homo sapiens,Human,inherited from same accession 'Q6NYC1' in nls_dataset.csv (protein_matched_random),0,0.006666666666666667
+EFVER,Homo sapiens,Human,inherited from same accession 'Q6NYC1' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+VKSTKLVLKGTKTK,Homo sapiens,Human,inherited from same accession 'Q14331' in nls_dataset.csv (protein_matched_random),0,0.36
+KKDDIPEEDKGNVK,Homo sapiens,Human,inherited from same accession 'Q14331' in nls_dataset.csv (protein_matched_random),0,0.31333333333333335
+NSQQGQWETGSP,Homo sapiens,Human,inherited from same accession 'Q8WXF8' in nls_dataset.csv (protein_matched_random),0,0.17666666666666667
+TEGSCRRRRQSS,Homo sapiens,Human,inherited from same accession 'Q8WXF8' in nls_dataset.csv (protein_matched_random),0,0.7066666666666667
+KLRRAESRTS,Homo sapiens,Human,inherited from same accession 'Q9BR39' in nls_dataset.csv (protein_matched_random),0,0.6166666666666667
+VRQSVPYGMA,Homo sapiens,Human,inherited from same accession 'Q9BR39' in nls_dataset.csv (protein_matched_random),0,0.03
+RPLPMEVEKNS,Homo sapiens,Human,inherited from same accession 'P51858' in nls_dataset.csv (protein_matched_random),0,0.1
+PARIDEMPEAA,Homo sapiens,Human,inherited from same accession 'P51858' in nls_dataset.csv (protein_matched_random),0,0.016666666666666666
+KLQSSRAFTNSKK,Homo sapiens,Human,inherited from same accession 'Q13609' in nls_dataset.csv (protein_matched_random),0,0.43333333333333335
+IGDQEDTTVKKST,Homo sapiens,Human,inherited from same accession 'Q13609' in nls_dataset.csv (protein_matched_random),0,0.08666666666666667
+KWTHEEDEQLRALV,Homo sapiens,Human,inherited from same accession 'P10244' in nls_dataset.csv (protein_matched_random),0,0.02
+KVKWTHEEDEQLRA,Homo sapiens,Human,inherited from same accession 'P10244' in nls_dataset.csv (protein_matched_random),0,0.08333333333333333
+WGGSVPLPCPPPATKQAGIGGE,Homo sapiens,Human,inherited from same accession 'Q68DK7' in nls_dataset.csv (protein_matched_random),0,0.03333333333333333
+QILLLQLDLIEQQQQQLQAKEK,Homo sapiens,Human,inherited from same accession 'Q68DK7' in nls_dataset.csv (protein_matched_random),0,0.07
+NILGFLGGVSWAMLVAR,Homo sapiens,Human,inherited from same accession 'P51003' in nls_dataset.csv (protein_matched_random),0,0.03333333333333333
+LNDSSLDLSMDSDNSMS,Homo sapiens,Human,inherited from same accession 'P51003' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+SAVNMNPAPNPAVYNPEAVNEPKKKKYA,Homo sapiens,Human,inherited from same accession 'Q12972' in nls_dataset.csv (protein_matched_random),0,0.5133333333333333
+FDCPTWAGKPPPGLHLDVVKGDKLIEKL,Homo sapiens,Human,inherited from same accession 'Q12972' in nls_dataset.csv (protein_matched_random),0,0.08
+TIMEYE,Homo sapiens,Human,inherited from same accession 'Q49MI3' in nls_dataset.csv (protein_matched_random),0,0.0033333333333333335
+IMAIPC,Homo sapiens,Human,inherited from same accession 'Q49MI3' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+KLHHDSRT,Homo sapiens,Human,inherited from same accession 'Q9H079' in nls_dataset.csv (protein_matched_random),0,0.16
+KFEEYVIV,Homo sapiens,Human,inherited from same accession 'Q9H079' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+VDSEAEKAENED,Homo sapiens,Human,inherited from same accession 'P52739' in nls_dataset.csv (protein_matched_random),0,0.02666666666666667
+TESFKCEICNKR,Homo sapiens,Human,inherited from same accession 'P52739' in nls_dataset.csv (protein_matched_random),0,0.13666666666666666
+RPRS,Homo sapiens,Human,inherited from same accession 'Q14493' in nls_dataset.csv (protein_matched_random),0,0.41
+DEMR,Homo sapiens,Human,inherited from same accession 'Q14493' in nls_dataset.csv (protein_matched_random),0,0.08333333333333333
+GTTLGYLSPKDMNQPSSSFFSISPTSNSS,Homo sapiens,Human,inherited from same accession 'Q9NUL3' in nls_dataset.csv (protein_matched_random),0,0.08666666666666667
+EGKTRQAARHNAAMKALQALQNEPIPERS,Homo sapiens,Human,inherited from same accession 'Q9NUL3' in nls_dataset.csv (protein_matched_random),0,0.18333333333333332
+PFTATLASSSVNSAEEHV,Homo sapiens,Human,inherited from same accession 'P28715' in nls_dataset.csv (protein_matched_random),0,0.1
+EGEAPAESESLLRDNSER,Homo sapiens,Human,inherited from same accession 'P28715' in nls_dataset.csv (protein_matched_random),0,0.15
+SHVSIVTSEDGTTRRTE,Homo sapiens,Human,inherited from same accession 'O00192' in nls_dataset.csv (protein_matched_random),0,0.13333333333333333
+TVEEDPGTPTSHVSIVT,Homo sapiens,Human,inherited from same accession 'O00192' in nls_dataset.csv (protein_matched_random),0,0.01
+VLVEK,Homo sapiens,Human,inherited from same accession 'O00757' in nls_dataset.csv (protein_matched_random),0,0.16666666666666666
+RKAGL,Homo sapiens,Human,inherited from same accession 'O00757' in nls_dataset.csv (protein_matched_random),0,0.2966666666666667
+MEEAK,Homo sapiens,Human,inherited from same accession 'O14776' in nls_dataset.csv (protein_matched_random),0,0.08333333333333333
+VFDQY,Homo sapiens,Human,inherited from same accession 'O14776' in nls_dataset.csv (protein_matched_random),0,0.006666666666666667
+VLADVCWALS,Homo sapiens,Human,inherited from same accession 'O15131' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+ALIEEAYGLD,Homo sapiens,Human,inherited from same accession 'O15131' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+VIEV,Homo sapiens,Human,inherited from same accession 'O15151' in nls_dataset.csv (protein_matched_random),0,0.01
+QLYD,Homo sapiens,Human,inherited from same accession 'O15151' in nls_dataset.csv (protein_matched_random),0,0.0
+ELGIEESLPETAADKS,Homo sapiens,Human,inherited from same accession 'O15516' in nls_dataset.csv (protein_matched_random),0,0.056666666666666664
+LRKHKEITAQSDASEI,Homo sapiens,Human,inherited from same accession 'O15516' in nls_dataset.csv (protein_matched_random),0,0.31
+GGGGRKGRTKREAAANTN,Homo sapiens,Human,inherited from same accession 'O60356' in nls_dataset.csv (protein_matched_random),0,0.4
+KREAAANTNRPSPGGHER,Homo sapiens,Human,inherited from same accession 'O60356' in nls_dataset.csv (protein_matched_random),0,0.3333333333333333
+DSSVCRDYVL,Homo sapiens,Human,inherited from same accession 'O60684' in nls_dataset.csv (protein_matched_random),0,0.05
+VSSTTGESVI,Homo sapiens,Human,inherited from same accession 'O60684' in nls_dataset.csv (protein_matched_random),0,0.0
+GGGS,Homo sapiens,Human,inherited from same accession 'O75937' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+FAEL,Homo sapiens,Human,inherited from same accession 'O75937' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+FRDTQA,Homo sapiens,Human,inherited from same accession 'O94842' in nls_dataset.csv (protein_matched_random),0,0.06
+QATVET,Homo sapiens,Human,inherited from same accession 'O94842' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+VDWNNDYCSSGGMQRDKALY,Homo sapiens,Human,inherited from same accession 'O94900' in nls_dataset.csv (protein_matched_random),0,0.03
+YMSMTEPSQDYVPASQSYPG,Homo sapiens,Human,inherited from same accession 'O94900' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+SDETVA,Homo sapiens,Human,inherited from same accession 'O95239' in nls_dataset.csv (protein_matched_random),0,0.0033333333333333335
+SQSSRS,Homo sapiens,Human,inherited from same accession 'O95239' in nls_dataset.csv (protein_matched_random),0,0.03
+CLFL,Homo sapiens,Human,inherited from same accession 'P05230' in nls_dataset.csv (protein_matched_random),0,0.0
+KSTE,Homo sapiens,Human,inherited from same accession 'P05230' in nls_dataset.csv (protein_matched_random),0,0.05333333333333334
+QLLHDKGKSIQDLRRRFFLHHL,Homo sapiens,Human,inherited from same accession 'P12272' in nls_dataset.csv (protein_matched_random),0,0.18333333333333332
+LRRRFFLHHLIAEIHTAEIRAT,Homo sapiens,Human,inherited from same accession 'P12272' in nls_dataset.csv (protein_matched_random),0,0.19
+AKNFGP,Homo sapiens,Human,inherited from same accession 'P21291' in nls_dataset.csv (protein_matched_random),0,0.04
+FGFGQG,Homo sapiens,Human,inherited from same accession 'P21291' in nls_dataset.csv (protein_matched_random),0,0.043333333333333335
+IKQEGDTFYIK,Homo sapiens,Human,inherited from same accession 'P29373' in nls_dataset.csv (protein_matched_random),0,0.03333333333333333
+EINFKVGEEFE,Homo sapiens,Human,inherited from same accession 'P29373' in nls_dataset.csv (protein_matched_random),0,0.02
+DRFLQWKW,Homo sapiens,Human,inherited from same accession 'P34947' in nls_dataset.csv (protein_matched_random),0,0.03333333333333333
+CKDVLDIE,Homo sapiens,Human,inherited from same accession 'P34947' in nls_dataset.csv (protein_matched_random),0,0.03
+YEEEPLKDYYTLMDI,Homo sapiens,Human,inherited from same accession 'P35226' in nls_dataset.csv (protein_matched_random),0,0.0033333333333333335
+DQNRLDRKVNKDKEK,Homo sapiens,Human,inherited from same accession 'P35226' in nls_dataset.csv (protein_matched_random),0,0.52
+TIKKLLASANLEEVTMK,Homo sapiens,Human,inherited from same accession 'P35659' in nls_dataset.csv (protein_matched_random),0,0.13666666666666666
+NYPTYDLTERKDFIKTT,Homo sapiens,Human,inherited from same accession 'P35659' in nls_dataset.csv (protein_matched_random),0,0.12
+FGVL,Homo sapiens,Human,inherited from same accession 'P40692' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+SREL,Homo sapiens,Human,inherited from same accession 'P40692' in nls_dataset.csv (protein_matched_random),0,0.03333333333333333
+VGSGKWH,Homo sapiens,Human,inherited from same accession 'P41218' in nls_dataset.csv (protein_matched_random),0,0.016666666666666666
+SAAVDHP,Homo sapiens,Human,inherited from same accession 'P41218' in nls_dataset.csv (protein_matched_random),0,0.01
+SFPRPK,Homo sapiens,Human,inherited from same accession 'P42568' in nls_dataset.csv (protein_matched_random),0,0.21666666666666667
+KPKENK,Homo sapiens,Human,inherited from same accession 'P42568' in nls_dataset.csv (protein_matched_random),0,0.51
+KKLA,Homo sapiens,Human,inherited from same accession 'P48595' in nls_dataset.csv (protein_matched_random),0,0.4866666666666667
+TEGK,Homo sapiens,Human,inherited from same accession 'P48595' in nls_dataset.csv (protein_matched_random),0,0.04666666666666667
+EEKVRAK,Homo sapiens,Human,inherited from same accession 'P49321' in nls_dataset.csv (protein_matched_random),0,0.4866666666666667
+KEVSEEQ,Homo sapiens,Human,inherited from same accession 'P49321' in nls_dataset.csv (protein_matched_random),0,0.2
+DMKVR,Homo sapiens,Human,inherited from same accession 'P60981' in nls_dataset.csv (protein_matched_random),0,0.24
+ILVGD,Homo sapiens,Human,inherited from same accession 'P60981' in nls_dataset.csv (protein_matched_random),0,0.0033333333333333335
+RLQLRKAPSDQLASINGAGK,Homo sapiens,Human,inherited from same accession 'P81133' in nls_dataset.csv (protein_matched_random),0,0.21
+GSHFDVTSHLRMQPDPAQGH,Homo sapiens,Human,inherited from same accession 'P81133' in nls_dataset.csv (protein_matched_random),0,0.07333333333333333
+GSYI,Homo sapiens,Human,inherited from same accession 'Q01658' in nls_dataset.csv (protein_matched_random),0,0.0
+NEIC,Homo sapiens,Human,inherited from same accession 'Q01658' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+DSGEHKTSVLEESGPS,Homo sapiens,Human,inherited from same accession 'Q03188' in nls_dataset.csv (protein_matched_random),0,0.11333333333333333
+EVTSTVTKSRRISRRP,Homo sapiens,Human,inherited from same accession 'Q03188' in nls_dataset.csv (protein_matched_random),0,0.6
+AAAA,Homo sapiens,Human,inherited from same accession 'Q04724' in nls_dataset.csv (protein_matched_random),0,0.01
+QIFS,Homo sapiens,Human,inherited from same accession 'Q04724' in nls_dataset.csv (protein_matched_random),0,0.01
+WFNVI,Mus musculus,Rodent,inherited from same accession 'Q9ERI5' in nls_dataset.csv (protein_matched_random),0,0.006666666666666667
+NAQEG,Mus musculus,Rodent,inherited from same accession 'Q9ERI5' in nls_dataset.csv (protein_matched_random),0,0.0033333333333333335
+AAVKSTANKYQ,Mus musculus,Rodent,inherited from same accession 'P51859' in nls_dataset.csv (protein_matched_random),0,0.04
+FPYEESKEKFG,Mus musculus,Rodent,inherited from same accession 'P51859' in nls_dataset.csv (protein_matched_random),0,0.1
+VAFGRPLPKLAPQNFELPWLDE,Mus musculus,Rodent,inherited from same accession 'Q6PDM1' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+EVTSFFPEPDDVESLLITPFLP,Mus musculus,Rodent,inherited from same accession 'Q6PDM1' in nls_dataset.csv (protein_matched_random),0,0.04666666666666667
+FSREPFVVWFHS,Mus musculus,Rodent,inherited from same accession 'O55070' in nls_dataset.csv (protein_matched_random),0,0.03333333333333333
+WLIGDQEDTTVK,Mus musculus,Rodent,inherited from same accession 'O55070' in nls_dataset.csv (protein_matched_random),0,0.01
+PVSATVPEEE,Mus musculus,Rodent,inherited from same accession 'Q9ET78' in nls_dataset.csv (protein_matched_random),0,0.04666666666666667
+ARTLAKELAP,Mus musculus,Rodent,inherited from same accession 'Q9ET78' in nls_dataset.csv (protein_matched_random),0,0.21666666666666667
+YKHYIVLLASAPTEKQR,Mus musculus,Rodent,inherited from same accession 'Q61183' in nls_dataset.csv (protein_matched_random),0,0.11666666666666667
+RAIKLWAKRHNIYSNIL,Mus musculus,Rodent,inherited from same accession 'Q61183' in nls_dataset.csv (protein_matched_random),0,0.2
+EDTSHYILIKGIQGKKV,Mus musculus,Rodent,inherited from same accession 'P35689' in nls_dataset.csv (protein_matched_random),0,0.14333333333333334
+SHRLNRAVTCILRKERE,Mus musculus,Rodent,inherited from same accession 'P35689' in nls_dataset.csv (protein_matched_random),0,0.29
+EGEL,Mus musculus,Rodent,inherited from same accession 'P97440' in nls_dataset.csv (protein_matched_random),0,0.016666666666666666
+ARWS,Mus musculus,Rodent,inherited from same accession 'P97440' in nls_dataset.csv (protein_matched_random),0,0.3233333333333333
+YRPLDPKPFPNYRANYNFRGMYNQRYHCP,Mus musculus,Rodent,inherited from same accession 'Q8CJ67' in nls_dataset.csv (protein_matched_random),0,0.2
+FFGEGKTRQAARHNAAMKALQALQNEPIP,Mus musculus,Rodent,inherited from same accession 'Q8CJ67' in nls_dataset.csv (protein_matched_random),0,0.06666666666666667
+YNPEAVNEPKKKKYAKEAWPGKKPTPSL,Mus musculus,Rodent,inherited from same accession 'Q8R3G1' in nls_dataset.csv (protein_matched_random),0,0.5266666666666666
+RVFLIDLNSTHGTFLGHIRLEPHKPQQI,Mus musculus,Rodent,inherited from same accession 'Q8R3G1' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+NELRRHLSDAHN,Mus musculus,Rodent,inherited from same accession 'Q8K3J5' in nls_dataset.csv (protein_matched_random),0,0.18666666666666668
+FTQEPLVEIEGV,Mus musculus,Rodent,inherited from same accession 'Q8K3J5' in nls_dataset.csv (protein_matched_random),0,0.02666666666666667
+SASEGADQKMSSVEEDSD,Mus musculus,Rodent,inherited from same accession 'D3YXK2' in nls_dataset.csv (protein_matched_random),0,0.07333333333333333
+PKESSASEGADQKMSSVE,Mus musculus,Rodent,inherited from same accession 'D3YXK2' in nls_dataset.csv (protein_matched_random),0,0.09333333333333334
+SEGFRNILLI,Mus musculus,Rodent,inherited from same accession 'E9PYK3' in nls_dataset.csv (protein_matched_random),0,0.02666666666666667
+PHCTQATLQA,Mus musculus,Rodent,inherited from same accession 'E9PYK3' in nls_dataset.csv (protein_matched_random),0,0.016666666666666666
+SEMLK,Mus musculus,Rodent,inherited from same accession 'E9Q557' in nls_dataset.csv (protein_matched_random),0,0.02666666666666667
+QGSSC,Mus musculus,Rodent,inherited from same accession 'E9Q557' in nls_dataset.csv (protein_matched_random),0,0.006666666666666667
+DDDEDE,Mus musculus,Rodent,inherited from same accession 'O35613' in nls_dataset.csv (protein_matched_random),0,0.13333333333333333
+LCSPSP,Mus musculus,Rodent,inherited from same accession 'O35613' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+GAFT,Mus musculus,Rodent,inherited from same accession 'O35730' in nls_dataset.csv (protein_matched_random),0,0.0
+MTTK,Mus musculus,Rodent,inherited from same accession 'O35730' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+ACSMKTH,Mus musculus,Rodent,inherited from same accession 'O35914' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+KGTFRAH,Mus musculus,Rodent,inherited from same accession 'O35914' in nls_dataset.csv (protein_matched_random),0,0.14666666666666667
+KKNLHSQIK,Mus musculus,Rodent,inherited from same accession 'P15533' in nls_dataset.csv (protein_matched_random),0,0.57
+QEYKEKLQG,Mus musculus,Rodent,inherited from same accession 'P15533' in nls_dataset.csv (protein_matched_random),0,0.21
+GLGRRLKRAVSEHQLLHDKGKS,Mus musculus,Rodent,inherited from same accession 'P22858' in nls_dataset.csv (protein_matched_random),0,0.26666666666666666
+SEVSPNSKPAPNTKNHPVRFGS,Mus musculus,Rodent,inherited from same accession 'P22858' in nls_dataset.csv (protein_matched_random),0,0.23333333333333334
+LPLKYRVQPACKRLT,Mus musculus,Rodent,inherited from same accession 'P23798' in nls_dataset.csv (protein_matched_random),0,0.32
+CKRLTLPTVPTPSEG,Mus musculus,Rodent,inherited from same accession 'P23798' in nls_dataset.csv (protein_matched_random),0,0.19
+FGVIS,Mus musculus,Rodent,inherited from same accession 'P35601' in nls_dataset.csv (protein_matched_random),0,0.02
+VKKEA,Mus musculus,Rodent,inherited from same accession 'P35601' in nls_dataset.csv (protein_matched_random),0,0.5033333333333333
+SGVPGHP,Mus musculus,Rodent,inherited from same accession 'Q00417' in nls_dataset.csv (protein_matched_random),0,0.03
+STTGGKR,Mus musculus,Rodent,inherited from same accession 'Q00417' in nls_dataset.csv (protein_matched_random),0,0.56
+EAAR,Mus musculus,Rodent,inherited from same accession 'Q00558' in nls_dataset.csv (protein_matched_random),0,0.03333333333333333
+GSVA,Mus musculus,Rodent,inherited from same accession 'Q00558' in nls_dataset.csv (protein_matched_random),0,0.016666666666666666
+IVECVMNNATC,Mus musculus,Rodent,inherited from same accession 'Q05816' in nls_dataset.csv (protein_matched_random),0,0.06666666666666667
+KDGKMIVECVM,Mus musculus,Rodent,inherited from same accession 'Q05816' in nls_dataset.csv (protein_matched_random),0,0.03
+DKRKT,Mus musculus,Rodent,inherited from same accession 'Q07139' in nls_dataset.csv (protein_matched_random),0,0.57
+ERCTH,Mus musculus,Rodent,inherited from same accession 'Q07139' in nls_dataset.csv (protein_matched_random),0,0.03
+VDKMA,Mus musculus,Rodent,inherited from same accession 'Q11011' in nls_dataset.csv (protein_matched_random),0,0.01
+DLSCN,Mus musculus,Rodent,inherited from same accession 'Q11011' in nls_dataset.csv (protein_matched_random),0,0.01
+STPL,Mus musculus,Rodent,inherited from same accession 'Q3UR85' in nls_dataset.csv (protein_matched_random),0,0.006666666666666667
+IGML,Mus musculus,Rodent,inherited from same accession 'Q3UR85' in nls_dataset.csv (protein_matched_random),0,0.0
+VPGY,Mus musculus,Rodent,inherited from same accession 'Q60591' in nls_dataset.csv (protein_matched_random),0,0.01
+PAIP,Mus musculus,Rodent,inherited from same accession 'Q60591' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+RRPLHDSV,Mus musculus,Rodent,inherited from same accession 'Q61286' in nls_dataset.csv (protein_matched_random),0,0.5666666666666667
+LHEPPSSD,Mus musculus,Rodent,inherited from same accession 'Q61286' in nls_dataset.csv (protein_matched_random),0,0.016666666666666666
+ETLLCIAYVFEVSASEH,Mus musculus,Rodent,inherited from same accession 'Q62296' in nls_dataset.csv (protein_matched_random),0,0.03666666666666667
+GGLKELFERGPSNAFFL,Mus musculus,Rodent,inherited from same accession 'Q62296' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+MLTRLFS,Mus musculus,Rodent,inherited from same accession 'Q62414' in nls_dataset.csv (protein_matched_random),0,0.18
+NGNFSLK,Mus musculus,Rodent,inherited from same accession 'Q62414' in nls_dataset.csv (protein_matched_random),0,0.05
+LSISIQTDKCNTNV,Mus musculus,Rodent,inherited from same accession 'Q66JQ7' in nls_dataset.csv (protein_matched_random),0,0.02
+HQVPQMLQELSLVV,Mus musculus,Rodent,inherited from same accession 'Q66JQ7' in nls_dataset.csv (protein_matched_random),0,0.056666666666666664
+AQPAAAPAAPCLGPSPCLDP,Mus musculus,Rodent,inherited from same accession 'Q66JW3' in nls_dataset.csv (protein_matched_random),0,0.07666666666666666
+YPGPSLESEDFNIPPITPPS,Mus musculus,Rodent,inherited from same accession 'Q66JW3' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+LTNVDTPLKGGLNTPLHESDFSGVTPQRQVVQTPNTVLSTPFRTPSNGAEGLTPRSGTTPKPVTNATPGRTPLRDKLNINPEDGMADYSDPSYVKQMERESREHLRL,Mus musculus,Rodent,inherited from same accession 'Q6A068' in nls_dataset.csv (protein_matched_random),0,0.19333333333333333
+QASEVARQTAEESGITNSASSTLLSEYNVTNNSIALRTPRTPASQDRILQEAQNLMALTNVDTPLKGGLNTPLHESDFSGVTPQRQVVQTPNTVLSTPFRTPSNGAE,Mus musculus,Rodent,inherited from same accession 'Q6A068' in nls_dataset.csv (protein_matched_random),0,0.11333333333333333
+AEAKF,Mus musculus,Rodent,inherited from same accession 'Q78PY7' in nls_dataset.csv (protein_matched_random),0,0.04
+ARRAA,Mus musculus,Rodent,inherited from same accession 'Q78PY7' in nls_dataset.csv (protein_matched_random),0,0.49
+ENGFYYD,Mus musculus,Rodent,inherited from same accession 'Q8BLY2' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+EAERQLQ,Mus musculus,Rodent,inherited from same accession 'Q8BLY2' in nls_dataset.csv (protein_matched_random),0,0.0
+KLLHHL,Mus musculus,Rodent,inherited from same accession 'Q8C3P7' in nls_dataset.csv (protein_matched_random),0,0.18333333333333332
+DLALTL,Mus musculus,Rodent,inherited from same accession 'Q8C3P7' in nls_dataset.csv (protein_matched_random),0,0.02
+ELGVTVFL,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P40078' in nls_dataset.csv (protein_matched_random),0,0.03333333333333333
+VRGISEEE,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P40078' in nls_dataset.csv (protein_matched_random),0,0.11
+AKPMVGQLIFDKFIKTEEDPIIKQDT,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P03069' in nls_dataset.csv (protein_matched_random),0,0.056666666666666664
+LDFDFALPQTATAPDAKTVLPIPELD,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P03069' in nls_dataset.csv (protein_matched_random),0,0.056666666666666664
+KNKEVKRPRLNP,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P21827' in nls_dataset.csv (protein_matched_random),0,0.7
+GEHHSLILSQDG,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P21827' in nls_dataset.csv (protein_matched_random),0,0.02
+SFILRKKE,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P25627' in nls_dataset.csv (protein_matched_random),0,0.8266666666666667
+TGLSRELE,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P25627' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+LDIETDYEDQAGNLEIET,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P36012' in nls_dataset.csv (protein_matched_random),0,0.03
+ELALYEIRKYQRSTDLLI,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P36012' in nls_dataset.csv (protein_matched_random),0,0.14333333333333334
+EKSTISKTKNSNVVIIE,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P48412' in nls_dataset.csv (protein_matched_random),0,0.18333333333333332
+SMKQLNENDEYSFQDFS,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P48412' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+KDSI,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P07834' in nls_dataset.csv (protein_matched_random),0,0.05
+IVWD,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P07834' in nls_dataset.csv (protein_matched_random),0,0.07
+KFHVIDL,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P15565' in nls_dataset.csv (protein_matched_random),0,0.04
+VMSSTMT,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P15565' in nls_dataset.csv (protein_matched_random),0,0.01
+VVHRDDP,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P18888' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+EQDSHLR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P18888' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+EVRSLS,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P23615' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+LREDPD,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P23615' in nls_dataset.csv (protein_matched_random),0,0.08666666666666667
+ANELT,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P32367' in nls_dataset.csv (protein_matched_random),0,0.06
+GTLSK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P32367' in nls_dataset.csv (protein_matched_random),0,0.08666666666666667
+EDFLKKKYNVASY,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P32494' in nls_dataset.csv (protein_matched_random),0,0.44
+SQTLPRAAAALGL,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P32494' in nls_dataset.csv (protein_matched_random),0,0.05333333333333334
+SIFLE,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P32908' in nls_dataset.csv (protein_matched_random),0,0.02
+LIQID,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P32908' in nls_dataset.csv (protein_matched_random),0,0.0033333333333333335
+FGKRSPNP,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'Q03957' in nls_dataset.csv (protein_matched_random),0,0.64
+SFDHPNVS,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'Q03957' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+SRRMQPL,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P06838' in nls_dataset.csv (protein_matched_random),0,0.21333333333333335
+VINAFNQ,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P06838' in nls_dataset.csv (protein_matched_random),0,0.016666666666666666
+IPITPTK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P09119' in nls_dataset.csv (protein_matched_random),0,0.10333333333333333
+DVTPESS,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P09119' in nls_dataset.csv (protein_matched_random),0,0.056666666666666664
+KVKQPI,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P22148' in nls_dataset.csv (protein_matched_random),0,0.11333333333333333
+RYSRRK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P22148' in nls_dataset.csv (protein_matched_random),0,0.7833333333333333
+KPKAV,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P25441' in nls_dataset.csv (protein_matched_random),0,0.5566666666666666
+GSGSS,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P25441' in nls_dataset.csv (protein_matched_random),0,0.02
+HSTTT,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P32259' in nls_dataset.csv (protein_matched_random),0,0.016666666666666666
+RCGSV,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P32259' in nls_dataset.csv (protein_matched_random),0,0.03333333333333333
+QDGFGLTLLHVIASTN,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P33307' in nls_dataset.csv (protein_matched_random),0,0.03666666666666667
+DLDNLEEISTFGSHFS,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P33307' in nls_dataset.csv (protein_matched_random),0,0.06666666666666667
+KLRVLTQDGRVYIGQLMAFDKHMNLVLN,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P40018' in nls_dataset.csv (protein_matched_random),0,0.05333333333333334
+LRPRKDSKDGTTLNIKVEKRVLGLTILR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P40018' in nls_dataset.csv (protein_matched_random),0,0.39
+INTP,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P52488' in nls_dataset.csv (protein_matched_random),0,0.006666666666666667
+TLSE,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P52488' in nls_dataset.csv (protein_matched_random),0,0.03333333333333333
+SLVEMMAKYASKAKRFSNK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'Q00416' in nls_dataset.csv (protein_matched_random),0,0.33666666666666667
+TRNSSRRNASSSPFIPKKR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'Q00416' in nls_dataset.csv (protein_matched_random),0,0.5633333333333334
+ERAHTP,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P10962' in nls_dataset.csv (protein_matched_random),0,0.06333333333333334
+EEHEVQ,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P10962' in nls_dataset.csv (protein_matched_random),0,0.02
+RYKCYNFQ,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P26370' in nls_dataset.csv (protein_matched_random),0,0.13666666666666666
+HVGKDVSR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P26370' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+EKAVTTDDLDNLVDQVFD,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P28320' in nls_dataset.csv (protein_matched_random),0,0.05
+RTDPGNSDYVMEVGGVRN,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P28320' in nls_dataset.csv (protein_matched_random),0,0.01
+QDAAKIQKQQKDSFIAQ,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P31539' in nls_dataset.csv (protein_matched_random),0,0.06666666666666667
+AKIQKQQKDSFIAQDHI,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P31539' in nls_dataset.csv (protein_matched_random),0,0.016666666666666666
+ENWKRK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P32380' in nls_dataset.csv (protein_matched_random),0,0.4766666666666667
+KVKQLE,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P32380' in nls_dataset.csv (protein_matched_random),0,0.3
+ASKLVVPSGDPS,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P32805' in nls_dataset.csv (protein_matched_random),0,0.04666666666666667
+FSTTGTSSSESV,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P32805' in nls_dataset.csv (protein_matched_random),0,0.08333333333333333
+EEEVRIEEVQEEDEED,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P38911' in nls_dataset.csv (protein_matched_random),0,0.07333333333333333
+EQKEEVKPEPKKSKKE,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P38911' in nls_dataset.csv (protein_matched_random),0,0.6533333333333333
+QVTIELKNGTTVWGTLQ,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'Q02260' in nls_dataset.csv (protein_matched_random),0,0.01
+WGTLQSVSPQMNAILTD,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'Q02260' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+SLQHQNESSAASIPPQQ,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'Q03465' in nls_dataset.csv (protein_matched_random),0,0.08666666666666667
+NSNSKPSTASPSAHTSS,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'Q03465' in nls_dataset.csv (protein_matched_random),0,0.14
+QEVSDAAAGY,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'Q08004' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+KESVQKLLNQ,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'Q08004' in nls_dataset.csv (protein_matched_random),0,0.07666666666666666
+FDRNM,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'Q12749' in nls_dataset.csv (protein_matched_random),0,0.03
+FEKEK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'Q12749' in nls_dataset.csv (protein_matched_random),0,0.30666666666666664
+HPGYFGK,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P02406' in nls_dataset.csv (protein_matched_random),0,0.043333333333333335
+IRAAGGV,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P02406' in nls_dataset.csv (protein_matched_random),0,0.043333333333333335
+LDPNVLTKNTDNEGDDNEENEPESR,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P08153' in nls_dataset.csv (protein_matched_random),0,0.15
+HDEKKISMADNLLSTINKSEINKGF,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P08153' in nls_dataset.csv (protein_matched_random),0,0.09333333333333334
+EDTKDLLSKSPSEWQDII,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P33308' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+TNQQPKNLSTPSTSSNGE,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P33308' in nls_dataset.csv (protein_matched_random),0,0.056666666666666664
+LQENLEAFFKKLGEINQ,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P33399' in nls_dataset.csv (protein_matched_random),0,0.08
+MNFPHEDVEASQIPELQ,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P33399' in nls_dataset.csv (protein_matched_random),0,0.03
+LLSTLNAVV,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P34160' in nls_dataset.csv (protein_matched_random),0,0.05333333333333334
+IAPVFGRAF,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P34160' in nls_dataset.csv (protein_matched_random),0,0.11333333333333333
+EFQTLSAAW,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P36068' in nls_dataset.csv (protein_matched_random),0,0.0
+GKLSALDEE,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P36068' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+YSDIG,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P38630' in nls_dataset.csv (protein_matched_random),0,0.006666666666666667
+ASNIT,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'P38630' in nls_dataset.csv (protein_matched_random),0,0.02
+SMAVQA,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'Q00816' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+MDLQTA,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'Q00816' in nls_dataset.csv (protein_matched_random),0,0.0
+NLLSNESV,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'Q01722' in nls_dataset.csv (protein_matched_random),0,0.02666666666666667
+GNSSSTSA,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'Q01722' in nls_dataset.csv (protein_matched_random),0,0.03333333333333333
+MGCSM,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'Q08214' in nls_dataset.csv (protein_matched_random),0,0.0033333333333333335
+KEEMI,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Yeast/Fungi,inherited from same accession 'Q08214' in nls_dataset.csv (protein_matched_random),0,0.03333333333333333
+DGGPRRPR,Arabidopsis thaliana,Plant,inherited from same accession 'Q9SEE9' in nls_dataset.csv (protein_matched_random),0,0.8
+PHRRRPGS,Arabidopsis thaliana,Plant,inherited from same accession 'Q9SEE9' in nls_dataset.csv (protein_matched_random),0,0.8966666666666666
+MMVKPSGK,Arabidopsis thaliana,Plant,inherited from same accession 'Q9S9P0' in nls_dataset.csv (protein_matched_random),0,0.37666666666666665
+VEKVLSSC,Arabidopsis thaliana,Plant,inherited from same accession 'Q9S9P0' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+IATNLKRR,Arabidopsis thaliana,Plant,inherited from same accession 'Q56YN8' in nls_dataset.csv (protein_matched_random),0,0.64
+VMNLLESA,Arabidopsis thaliana,Plant,inherited from same accession 'Q56YN8' in nls_dataset.csv (protein_matched_random),0,0.03333333333333333
+DAAAELED,Arabidopsis thaliana,Plant,inherited from same accession 'Q9FG73' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+ANEMKVPR,Arabidopsis thaliana,Plant,inherited from same accession 'Q9FG73' in nls_dataset.csv (protein_matched_random),0,0.15
+DDDEEEDF,Arabidopsis thaliana,Plant,inherited from same accession 'F4K3G5' in nls_dataset.csv (protein_matched_random),0,0.03333333333333333
+NPPFGVNA,Arabidopsis thaliana,Plant,inherited from same accession 'F4K3G5' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+AESEGGGGGTSGA,Arabidopsis thaliana,Plant,inherited from same accession 'O80450' in nls_dataset.csv (protein_matched_random),0,0.05
+EEEWRRKMEELEK,Arabidopsis thaliana,Plant,inherited from same accession 'O80450' in nls_dataset.csv (protein_matched_random),0,0.44
+NRTKYHHQ,Arabidopsis thaliana,Plant,inherited from same accession 'Q8VYJ2' in nls_dataset.csv (protein_matched_random),0,0.14666666666666667
+SSGGTLTY,Arabidopsis thaliana,Plant,inherited from same accession 'Q8VYJ2' in nls_dataset.csv (protein_matched_random),0,0.0
+QRWSAQKR,Arabidopsis thaliana,Plant,inherited from same accession 'Q8H0V5' in nls_dataset.csv (protein_matched_random),0,0.3933333333333333
+AEDGVPDK,Arabidopsis thaliana,Plant,inherited from same accession 'Q8H0V5' in nls_dataset.csv (protein_matched_random),0,0.05333333333333334
+MDWLPYIP,Arabidopsis thaliana,Plant,inherited from same accession 'A2RVJ8' in nls_dataset.csv (protein_matched_random),0,0.0
+NQEDEVKA,Arabidopsis thaliana,Plant,inherited from same accession 'A2RVJ8' in nls_dataset.csv (protein_matched_random),0,0.06333333333333334
+ILKLKNNP,Arabidopsis thaliana,Plant,inherited from same accession 'Q0WVH0' in nls_dataset.csv (protein_matched_random),0,0.26
+DCDIPKAN,Arabidopsis thaliana,Plant,inherited from same accession 'Q0WVH0' in nls_dataset.csv (protein_matched_random),0,0.02666666666666667
+DCAEEKKH,Arabidopsis thaliana,Plant,inherited from same accession 'Q9FNE4' in nls_dataset.csv (protein_matched_random),0,0.4033333333333333
+EGEMVNLL,Arabidopsis thaliana,Plant,inherited from same accession 'Q9FNE4' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+KKRFDEFK,Arabidopsis thaliana,Plant,inherited from same accession 'F4IDC2' in nls_dataset.csv (protein_matched_random),0,0.78
+EFKSLPKL,Arabidopsis thaliana,Plant,inherited from same accession 'F4IDC2' in nls_dataset.csv (protein_matched_random),0,0.23333333333333334
+LHPRISSV,Arabidopsis thaliana,Plant,inherited from same accession 'O23372' in nls_dataset.csv (protein_matched_random),0,0.04
+KGEFIPDR,Arabidopsis thaliana,Plant,inherited from same accession 'O23372' in nls_dataset.csv (protein_matched_random),0,0.26666666666666666
+NSSVIESK,Arabidopsis thaliana,Plant,inherited from same accession 'Q9LYD9' in nls_dataset.csv (protein_matched_random),0,0.016666666666666666
+PVFASSND,Arabidopsis thaliana,Plant,inherited from same accession 'Q9LYD9' in nls_dataset.csv (protein_matched_random),0,0.006666666666666667
+LKHFQHHW,Arabidopsis thaliana,Plant,inherited from same accession 'Q9SSE9' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+IVNAIDKG,Arabidopsis thaliana,Plant,inherited from same accession 'Q9SSE9' in nls_dataset.csv (protein_matched_random),0,0.05333333333333334
+GVTFMGKK,Arabidopsis thaliana,Plant,inherited from same accession 'F4HW04' in nls_dataset.csv (protein_matched_random),0,0.56
+TDLLQRAE,Arabidopsis thaliana,Plant,inherited from same accession 'F4HW04' in nls_dataset.csv (protein_matched_random),0,0.016666666666666666
+EARKERAK,Arabidopsis thaliana,Plant,inherited from same accession 'Q9M8Z5' in nls_dataset.csv (protein_matched_random),0,0.87
+YLREEFPA,Arabidopsis thaliana,Plant,inherited from same accession 'Q9M8Z5' in nls_dataset.csv (protein_matched_random),0,0.0033333333333333335
+SHPDSDVR,Arabidopsis thaliana,Plant,inherited from same accession 'A8MRD9' in nls_dataset.csv (protein_matched_random),0,0.0033333333333333335
+LEDDTSAD,Arabidopsis thaliana,Plant,inherited from same accession 'A8MRD9' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+RFIQESSA,Arabidopsis thaliana,Plant,inherited from same accession 'B9DGI8' in nls_dataset.csv (protein_matched_random),0,0.05333333333333334
+TPMMSSAI,Arabidopsis thaliana,Plant,inherited from same accession 'B9DGI8' in nls_dataset.csv (protein_matched_random),0,0.01
+ANVGGPST,Arabidopsis thaliana,Plant,inherited from same accession 'F4HRT5' in nls_dataset.csv (protein_matched_random),0,0.03333333333333333
+VAKSQMIV,Arabidopsis thaliana,Plant,inherited from same accession 'F4HRT5' in nls_dataset.csv (protein_matched_random),0,0.04666666666666667
+RAECLVTG,Arabidopsis thaliana,Plant,inherited from same accession 'O82312' in nls_dataset.csv (protein_matched_random),0,0.06
+WALLVARL,Arabidopsis thaliana,Plant,inherited from same accession 'O82312' in nls_dataset.csv (protein_matched_random),0,0.08333333333333333
+LFPSSSSS,Arabidopsis thaliana,Plant,inherited from same accession 'Q700D2' in nls_dataset.csv (protein_matched_random),0,0.02
+LPDFSGHH,Arabidopsis thaliana,Plant,inherited from same accession 'Q700D2' in nls_dataset.csv (protein_matched_random),0,0.006666666666666667
+WKRLKDAG,Arabidopsis thaliana,Plant,inherited from same accession 'Q9FLH0' in nls_dataset.csv (protein_matched_random),0,0.8533333333333334
+KREELENS,Arabidopsis thaliana,Plant,inherited from same accession 'Q9FLH0' in nls_dataset.csv (protein_matched_random),0,0.6933333333333334
+SFLQDFHH,Arabidopsis thaliana,Plant,inherited from same accession 'Q9S7L2' in nls_dataset.csv (protein_matched_random),0,0.0
+LVKGQWTA,Arabidopsis thaliana,Plant,inherited from same accession 'Q9S7L2' in nls_dataset.csv (protein_matched_random),0,0.016666666666666666
+DLSLDIPN,Arabidopsis thaliana,Plant,inherited from same accession 'Q9STL9' in nls_dataset.csv (protein_matched_random),0,0.0033333333333333335
+IITTNQMT,Arabidopsis thaliana,Plant,inherited from same accession 'Q9STL9' in nls_dataset.csv (protein_matched_random),0,0.0033333333333333335
+IDELSDEK,Arabidopsis thaliana,Plant,inherited from same accession 'F4HZD1' in nls_dataset.csv (protein_matched_random),0,0.02666666666666667
+GLCDCKSC,Arabidopsis thaliana,Plant,inherited from same accession 'F4HZD1' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+EASERLRD,Arabidopsis thaliana,Plant,inherited from same accession 'F4I735' in nls_dataset.csv (protein_matched_random),0,0.2633333333333333
+MMSAKSKK,Arabidopsis thaliana,Plant,inherited from same accession 'F4I735' in nls_dataset.csv (protein_matched_random),0,0.6833333333333333
+RISFPEES,Arabidopsis thaliana,Plant,inherited from same accession 'F4JP52' in nls_dataset.csv (protein_matched_random),0,0.38333333333333336
+SMCVCGAT,Arabidopsis thaliana,Plant,inherited from same accession 'F4JP52' in nls_dataset.csv (protein_matched_random),0,0.02
+RRKPRVLFSQAQVLALERRFKQQRYLSAPEREHLASALQLTSTQVKIWFQNRRYKCKRQR,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.01
+CKPPYSFSCLIFMAIEDSPTKRLPVKDIYNWILEHFPYFANAPTGWKNSVRHNLSLNKCFKKVDKERSQSIGKGSLWCIDPEYRQNLIQALK,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.006666666666666667
+MMYSPICLTQDEFHPFIEALLPHVRAIAYTWFNLQARKRKYFKKHEKRMSKDEERAVKDELLSEKPEIKQKWASRLLAKLRKDIRQEYREDFVLTVTGKKHPCCVLSNPDQKGKIRRIDCLRQADKVWRLDLVMVILFKGIPLESTDGERLMKSPHCTNPALCVQPHHITVSVKELDLFLAYYVQEQDSGQSGSP,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.05333333333333334
+QRRIRTTFTSAQLKELERVFAETHYPDIYTREELALKIDLTEARVQVWFQNRRAKFRKQE,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.02
+LEAKELWDQFHKRGTEMVITKSGRRMFPPFKVRCSGLDKKAKYILLMDIIAADDCRYKFHNSRWMVAGKADPEMPKRMYIHPDSPATGEQWMSKVVTFHKLKLTNNISDKHGFT,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.04666666666666667
+ILNSMHKYQPRFHIVRANDILKLPYSTFRTYLFPETEFIAVTAYQNDKITQLKIDNNPFAKGFRD,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.02
+IKRPMNAFMVWSQHERRKIMDQWPDMHNAEISKRLGRRWQLLQDSEKIPFVREAERLRLKHMADYPDYK,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.07333333333333333
+GMTSPINPYKDHMSVLKAYYAMNMEPNSDELLKISIAVGLPQEFVKEWFEQRKVYQYSNS,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.04666666666666667
+CKRPMNAFMLFAKKYRVEYTQMYPGKDNRAISVILGDRWKKMKNEERRMYTLEAKALAEEQKRLNPDCW,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.03333333333333333
+RKKTRTLYRSDQLEELEKIFQEDHYPDSDKRREIAQTVGVTPQRIMVKGAGSLVAGWSGGGPTIETLELQSERSAVAWVWFQNRRAKWRKME,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.13666666666666666
+VKPPYSYIALITMAILQSPKKRLTLSEICEFISGRFPYYREKFPAWQNSIRHNLSLNDCFVKIPREPGNPGKGNYWTLDPESADMFDNGSFL,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.03666666666666667
+RKALMQEYNVGMSTLYDIRAH,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.056666666666666664
+PMLIEKAKDFYEQMQLTEPCVFSGGWLWRFKAR,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.01
+VKRPMNAFMVWARIHRPALAKANPAANNAEISVQLGLEWNKLSEEQKKPYYDEAQKIKEKHREEFPGWV,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.12
+GEQKTHCFKERTRSLLREWYLQDPYPNPSKKRELAQATGLTPTQVGNWFKNRRQRDRAAA,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.11
+KKK,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.97
+PKRSRTAYTRQQVLELEKEFHYNRYLTRRRRIEIAHSLCLSERQIKIWFQNRRMKWKKDH,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.016666666666666666
+RRKKRTSIETNVRFALEKSFLANQKPTSEEILLIAEQLHMEKEVIRVWFCNRRQKEKRIN,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.03
+CFVCQDKSSGYHYGVSACEGCKGFFRRSIQKNMVYTCHRDKNCIINKVTRNRCQYCRLQKCFEVGM,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.023333333333333334
+IQLWQFLLELLSDSSNSSCITWEGTNGEFKMTDPDEVARRWGERKSKPNMNYDKLSRALRYYYDKNIMTKVHGKRYAYKFD,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.016666666666666666
+RCDRNLAMGVNLTSMSKILK,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.08
+RRRGRQTYSRFQTLELEKEFLFNPYLTRKRRIEVSHALALTERQVKIWFQNRRMKWKKEN,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.01
+ARRLRTAYTNTQLLELEKEFHFNKYLCRPRRVEIAALLDLTERQVKVWFQNRRMKHKRQT,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.0033333333333333335
+TEKRGRGRPRK,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.07666666666666666
+TPKRPRGRPKG,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.07333333333333333
+TPGRKPRGRPKK,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.27
+GRRGRQTYTRYQTLELEKEFHYNRYLTRRRRIEIAHALCLTERQIKIWFQNRRMKWKKES,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.0033333333333333335
+IRLYQFLLDLLRSGDMKDSIWWVDKDKGTFQFSSKHKEALAHRWGIQKGNRKKMTYQKMARALRNYGKTGEVKKVKKKLTYQFS,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.0033333333333333335
+VRIRTTKDEEFIRKFALFDEQHREEMRKERRRIQEQLRRLKRNQEKEKLKGPPEKKPKKMKERPDLKLKCGACGAIGHM,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.33666666666666667
+WTICARVTNKSQIRTWSNSRGEGKLFSLELVDESGEIRATAFNEQVDKFFPLIEVNKVYYFSKGTLKIANKQFTAVKNDYEMTFN,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.013333333333333334
+KRKRRTTISIAAKDALERHFGEQNKPSSQEIMRMAEELNLEKEVVRVWFCNRRQREKRVK,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.06333333333333334
+DNDAEGVWSPDIEQSFQEALAIYPPCGRRKIILSDEGKMYGRNELIARYIKLRTGKTRTRKQVSSHIQVLARRKSRD,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.043333333333333335
+NRKPRTPFTTAQLLALERKFRQKQYLSIAERAEFSSSLSLTETQVKIWFQNRRAKAKRLQ,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.016666666666666666
+ALSGSSGYKFGVLAKIVNYMKTRHQRGDTHPLTLDEILDETQHLDIGLKQKQWLMTEALVNNPKIEVIDGKYAFKPKYNVR,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.013333333333333334
+TRKKRCPYTKHQTLELEKEFLFNMYLTRDRRYEVARLLNLTERQVKIWFQNRRMKMKKIN,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.006666666666666667
+GRKKRVPYTKVQLKELEREYATNKFITKDKRRRISATTNLSERQVTIWFQNRRVKEKKVI,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.016666666666666666
+GRKKRVPYTKVQLKELEKEYAASKFITKEKRRRISATTNLSERQVTIWFQNRRVKEKKVV,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.006666666666666667
+ARKKRKPYTKQQIAELENEFLVNEFINRQKRKELSNRLNLSDQQVKIWFQNRRMKKKRVV,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.1
+IKRPMNAFMVWAKDERRKILQAFPDMHNSNISKILGSRWKSMSNQEKQPYYEEQARLSKIHLEKYPNYK,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.02666666666666667
+ARRKRRNFSKQATEVLNEYFYSHLSNPYPSEEAKEELAKKCGITVSQVSNWFGNKRIRYKKNI,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.1
+VKRPMNAFMVWSRGQRRKMALENPKMHNSEISKRLGADWKLLTDAEKRPFIDEAKRLRAVHMKEYPDYK,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.016666666666666666
+LQLWQFLVALLDDPTNAHFIAWTGRGMEFKLIEPEEVARLWGIQKNRPAMNYDKLSRSLRYYYEKGIMQKVAGERYVYKFV,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.016666666666666666
+RRGPRTTIKAKQLETLKAAFAATPKPTRHIREQLAQETGLNMRVIQVWFQNRRSKERRMK,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.03666666666666667
+PNAVRTNFTTKQLTELEKEFHFNKYLTRARRVEIAASLQLNETQVKIWFQNRRMKQKKRE,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.0033333333333333335
+YRVRRERNNIAVRKSR,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.0
+PQKRGRGRPRK,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.013333333333333334
+SPKRPRGRPKG,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.08666666666666667
+TGEKRPRGRPRK,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.07666666666666666
+RRKPRVLFSQAQVYELERRFKQQRYLSAPERDQLASVLKLTSTQVKIWFQNRRYKCKRQR,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.01
+QRRNRTTFNSSQLQALERVFERTHYPDAFVREDLARRVNLTEARVQVWFQNRRAKFRRNE,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.016666666666666666
+KKKCVNGFIMFCRMNRKQYIRACPGTASTAATKDLAQLWRGMTLEEKKPYCTKARRFSRQNNRIVKQEN,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.03333333333333333
+GNGAERVR,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.18
+EEESSDGE,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.02
+QEQKLEEEE,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.09
+KRLCLVCGDVASGYHYGVASCEACKAFFKRTIQGSIEYSCPASNECEITKRRRKACQACRFTKCLRVGMLKEGVRL,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.023333333333333334
+QRRYRTTFTSYQLEELERAFQKTHYPDVFTREELAMRLDLTEARVQVWFQNRRAKWRKRE,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.023333333333333334
+WAAISKSYPFVNRTAVMIKDRWRTMK,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.03333333333333333
+HRRNRTTFTTYQLHELERAFEKSHYPDVYSREELAGKVNLPEVRVQVWFQNRRAKWRRQE,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.03333333333333333
+QRRIRTTFTSAQLKELERVFAETHYPDIYTREELALKIDLTEARVQVWFQNRRAKFRKQE,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.02
+KPPYSYIALIVMAIQSSPSKRLTLSEIYQFLQARFPFFRGAYQGWKNSVRHNLSLNECFIKLPKGLGRPGKGHYWTIDPASEFMFEEGSFRRRPR,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.013333333333333334
+RKKTRTVFSRSQVFQLESTFDLKRYLSSAERAGLAASLQLTETQVKIWFQNRRNKWKRQL,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.006666666666666667
+LWKRFHDIGTEMIITKAGRRMFPAMRVKITGLDPHQQYYIAMDIVPVDNKRYRYVYHSSKWMVAGNADSPVPPRVYIHPDSLASGDTWMRQVVSFDKLKLTNNELDDQGHIILHSMHKYQPRVHVIRKDFSSDLSPTKPVPVGDGVKTFNFPETVFTTVTAYQNQQITRLKIDRNPFAKGFRD,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.043333333333333335
+RAHYETEG,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.09666666666666666
+RKRGRQTYTRYQTLELEKEFHFNRYLTRRRRIEIAHALCLTERQIKIWFQNRRMKWKKEH,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.02
+GKRARTAYTRYQTLELEKEFHFNRYLTRRRRIEIAHALCLSERQIKIWFQNRRMKWKKDN,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.01
+RKRGRQTYTRYQTLELEKEFHYNRYLTRRRRIEIAHTLCLTERQIKIWFQNRRMKWKKEN,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.016666666666666666
+RRSGRQTYSRYQTLELEKEFLFNPYLTRKRRIEVSHALGLTERQVKIWFQNRRMKWKKEN,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.0033333333333333335
+SRRLRTAYTNTQLLELEKEFHFNKYLCRPRRVEIAALLDLTERQVKVWFQNRRMKHKRQT,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.0033333333333333335
+PKRSRTAYTRQQVLELEKEFHYNRYLTRRRRVEIAHALCLSERQIKIWFQNRRMKWKKDH,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.0033333333333333335
+NRKPRTPFTTAQLLALERKFRQKQYLSIAERAEFSSSLSLTETQVKIWFQNRRAKAKRLQ,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.016666666666666666
+IQLWQFLLELLSDKSCQSFISWTGDGWEFKLADPDEVARRWGKRKNKPKMNYEKLSRGLRYYYDKNIIHKTSGKRYVYRFV,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.01
+GGRPRQHLLSLTRRAQKHRLRELKIQVKEFADKEEGGDVKAVCLTLFLLALRARNEHRQADELEAIMQ,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.09666666666666666
+TCLICGDEASGCHYGALTCGSCKVFFKRAAEGKQKYLCASRNDCTIDKFRRKNCPSCRLRKCYEAGMTLGARKL,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.03
+SRKKRCPYTKYQTLELEKEFLFNMYLTRDRRHEVARLLNLSERQVKIWFQNRRMKMKKMN,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.006666666666666667
+GRRLRQWLIEQIDSSMYPGLIWENDEKTMFRIPWKHAGKQDYNQEVDASIFKAWAVFKGKFKEGDKAEPATWKTRLRCALNKSPDFEEVTDRSQLDISEPYKVYRIVP,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.006666666666666667
+SRKKRCPYTKYQIRELEREFFFNVYINKEKRLQLSRMLNLTDRQVKIWFQNRRMKEKKLN,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.01
+PKKPLTPYFRFFMEKRAKYAKLHPEMSNLDLTKILSKKYKELPEKKKMKYIQDFQREKQEFERNLARFR,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.05333333333333334
+PEKPKTPQQLWYTHEKKVYLKVRPDATTKEVKDSLGKQWSQLSDKKTLKWIHKALEQRKEYEEIMRDYI,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.05
+TKPPPNSYSLYCAELMANMKDVPSTERMVLCSQQWKLLSQKEKDAYHKKCDQKKKDYEVELLRFL,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.023333333333333334
+PKRPVSAMFIFSEEKRRQLQEERPELSESELTRLLARMWNDLTEKKKAKYKAREAALKAQSERKPGGER,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.18
+PESPKRAEEIWQQSVIGDYLARFKNDRVKALKAMEMTWNNMEKKEKLMWIKKAAEDQKRYERELSEMR,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.043333333333333335
+KKPPMNGYQKFSQELLSNGELNHLPLKERMVEIGSRWQRISQSQKEHYKKLAEEQQRQYKVHLDLWV,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.10666666666666667
+IQLWQFLLELLSDSANASCITWEGTNGEFKMTDPDEVARRWGERKSKPNMNYDKLSRALRYYYDKNIMTKVHGKRYAYKFD,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.0
+IQLWQFLLELLTDKSCQSFISWTGDGWEFKLSDPDEVARRWGKRKNKPKMNYEKLSRGLRYYYDKNIIHKTAGKRYVYRFV,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.0033333333333333335
+CAICGDRSSGKHYGVYSCEGCKGFFKRTVRKDLTYTCRDNKDCLIDKRQRNRCQYCRYQKCLAMGM,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.0033333333333333335
+CAICGDRSSGKHYGVYSCEGCKGFFKRTIRKDLIYTCRDNKDCLIDKRQRNRCQYCRYQKCLVMGM,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.0033333333333333335
+SRRLRTAYTNTQLLELEKEFHFNKYLCRPRRVEIAALLDLTERQVKVWFQNRRMKHKRQT,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.0033333333333333335
+PKKPMSSYLRFSTEQLPKFKAKHPDAKLSELVRKIAALWRELPEAEKKVYEADFKAEWKAYKEAVSKYK,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.03666666666666667
+PKRPRSAYNIYVSESFQEAKDDSAQGKLKLVNEAWKNLSPEEKQAYIQLAKDDRIRYDNEMKSWE,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.06
+VTLWQFLLQLLREQGNGHIISWTSRDGGEFKLVDAEEVARLWGLRKNKTNMNYDKLSRALRYYYDKNIIRKVSGQKFVYKFV,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.006666666666666667
+ITLWQFLLHLLLDQKHEHLICWTSNDGEFKLLKAEEVAKLWGLRKNKTNMNYDKLSRALRYYYDKNIIKKVIGQKFVYKFV,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.05333333333333334
+PRRARTAFTYEQLVALENKFRATRYLSVCERLNLALSLSLTETQVKIWFQNRRTKWKKQN,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.013333333333333334
+KRKRRVLFSKAQTYELERRFRQQRYLSAPEREHLASLIRLTPTQVKIWFQNHRYKMKRAR,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.07333333333333333
+RKGGQVRFSNDQTVELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLK,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.10333333333333333
+VKRPMNAFMVWSSVQRRQMAQQNPKMHNSEISKRLGAQWKLLGDEEKRPFVEEAKRLRARHLRDYPDYK,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.06
+KKKTRTVFSRSQVYQLESTFDMKRYLSSSERACLASSLQLTETQVKTWFQNRRNKWKRQL,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.023333333333333334
+HLQWLLDNYETAEGVSLPRSTLYNHYLRHCQEHKLDPVNAASFGKLIRSIFMGLRTRRLGTRGNSKYHYYGIRVKP,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.01
+PQKRGRGRPRK,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.01
+SPKRPRGRPKG,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.08333333333333333
+IGEKRPRGRPRK,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.12666666666666668
+YRVRRERNNIAVRKSR,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.0
+VKRPMNAFMVWSRGQRRKMALENPKMHNSEISKRLGADWKLLTDAEKRPFIDEAKRLRAVHMKEYPDYK,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.016666666666666666
+EAYTKRRDDR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.09666666666666666
+KLREKEYFR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.04
+KRSKATKRRCEKDKRYKFYY,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.05333333333333334
+RGRKKERLKI,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.32
+YRQPDWRRKL,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.02666666666666667
+RDNRHPRRKKKSRKYENW,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.09
+WRMRRRNRWDVKRKGDKR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.0
+ERKFKKTSKWTRTKKNKYW,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.056666666666666664
+KDISKRKHQF,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.04666666666666667
+RRQFGVRKTQRRKARYNR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.03333333333333333
+VFDIARKARCKKHKIFRR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.043333333333333335
+KKKPEKKRARSKRRKSRV,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.07
+RVANNKQR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.013333333333333334
+KVKTDKKAVRR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.08
+RHVLKWKKHKRRRRMRKR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.12666666666666668
+RKRDRMEFKLFCQDVVRKR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.24666666666666667
+IGRKKKYK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.14
+LEKSRHRYIRI,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.09666666666666666
+RVRDRWRLKGIRRCAAKNL,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.043333333333333335
+AWTVSWRKRPYKRRHRRKC,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.043333333333333335
+KKVRMFLW,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.18666666666666668
+RRKRMRKNYKVYTRVFPY,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.043333333333333335
+YKRRKRRKKNQKNQRKRDK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.22333333333333333
+FRKRIPS,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.09333333333333334
+KLTRKRTI,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.05
+HMTRRRRQ,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.06333333333333334
+IVMIPKHRRKL,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.14333333333333334
+RWYKKRPK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.15333333333333332
+PDKRQYKK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.15
+ECKMERFRKCRRRVKKKR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.04
+KNRRCTREHALKKHDRQ,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.06
+PNAIKKKKK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.49333333333333335
+SFKDRRVKTEKNDRRQKKR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.09
+RFRKSRNPRL,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.17333333333333334
+RRRMMCPRK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.02666666666666667
+DKFRDWRRKRAARKRPQFGK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.03666666666666667
+HRPWRRREESR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.16666666666666666
+RRKSRFKKQRG,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.37666666666666665
+QRRNRKAR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.32666666666666666
+NRMGRINK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.03
+FKKRKTGDV,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.10666666666666667
+KYMKRCDDTRRRRKKQPRW,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.03333333333333333
+RRFELRRKRDRKNFQYM,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.03666666666666667
+KWRRRCKKKYFDEWRMKF,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.01
+WWRHKLRSQRFRGRRPCKV,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.03333333333333333
+RQDPIKR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.02666666666666667
+AARTDKR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.03333333333333333
+EKDVKAYRRW,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.043333333333333335
+KVPRCQKKR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.07
+CRNCKMKKHRRRDTHCM,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.016666666666666666
+RGRKDKRYRMRRRNRERK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.05
+KRCFKTFR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.056666666666666664
+WNRQRPRKK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.23333333333333334
+PDTGYKRMRDNKDRRKYTMK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.02
+RNRRDFSD,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.043333333333333335
+GRIKKKNGP,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.12
+CKKKDCAKR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.013333333333333334
+KRRKVSTHRTG,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.23666666666666666
+RSRMRGKEKNIKKKQRC,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.03
+QQKYHRRRCKCFLRRPP,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.04666666666666667
+RNKKVFWTK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.04
+RRGVKRRLWRARKVCRI,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.06
+YKRIRPKHRVKNLYRRTK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.04
+KKYLLRKYFRREKRKIRR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.03666666666666667
+KREGMQVKRKKKRRACMKK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.32666666666666666
+KWSKNRR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.04666666666666667
+KTRGRREKKMRRRRIRC,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.17
+RKKYFKRNHKKEKRGWKT,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.02
+YDKRCRK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.11666666666666667
+FRRDRRYRQ,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.03333333333333333
+RRIITRR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.09
+CEKKRDK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.20333333333333334
+KKFKRKYSILRRGWRKCM,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.043333333333333335
+YFKWRRRQRK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.20666666666666667
+VKHRKKRHREKKHRQAKRIK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.09666666666666666
+KIRYKRKKNQVRVIKNL,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.07666666666666666
+WKTAHKK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.016666666666666666
+YKMKWLR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.07
+QRMRRDDYTVIQIRCQRKKR,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.14333333333333334
+RRFHAQKK,,Synthetic (fabricated),nls_negatives.csv synthetic_polybasic_decoy row (fabricated sequence),0,0.03333333333333333
+MVRYRVRSLSERSHEVYRQQLHGQEQGHHGQEEQGLSPEHVEVYERTHGQSHYRRRHCSRRRLHRIHRRQHRSCRRRKRRSCRHRRRHRRGCRTRKRTCRRH,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.13333333333333333
+MVRYRMRSPSEGPHQGPGQDHEREEQGQGQGLSPERVEDYGRTHRGHHHHRHRRCSRKRLHRIHKRRRSCRRRRRHSCRHRRRHRRGCRRSRRRRRCRCRKCRRHHH,Mus musculus,Rodent,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.17333333333333334
+KKKKKFSFKKPFKLSGLSFKRNRK,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.6433333333333333
+KIQASFRGHMARKKIKS,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.41
+KPKAAKARVTKPKTAKPKKAAPKKK,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.06666666666666667
+KPKAAKPKSGKPKVTKAKKAAPKKK,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.07333333333333333
+KPKAAKPKAAKPKAAKAKKAAAKKK,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.04666666666666667
+VKARASKSKLTQHHEVNVRKATSKK,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.3333333333333333
+NGQKACLNPASPMVKKIIEKMLKNGKSN,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.08333333333333333
+KEICADPKQKWVQDSMDHLDKQTQTPKT,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.04
+FQTKRSKQVCADPSESWVQEYVYDLELN,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.14333333333333334
+EKRCLNPESKAIKNLLKAVSKERSKRSP,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.16666666666666666
+GRKICLDPDAPRIKKIVQKKLAGDESAD,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.10333333333333333
+ELPPSPPSAPRKKGGGCPCVLL,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.11333333333333333
+CPPSPEPTRKEKDKKGCHCVIF,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.22333333333333333
+EKNGKKKRKSLAKRIRERCCIL,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.14333333333333334
+KDKNGKKSSKNKKSFKERCCLL,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.12333333333333334
+RQINRKTPVPGKARKKSSCQLL,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.21333333333333335
+KKKTKWRGDRATGTHKLQCVIL,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.10666666666666667
+KPKNSVWKRLKSPFRKKKDSVT,Homo sapiens,Human,"nls_negatives.csv (direct organism, dna_binding_hard)",0,0.13333333333333333
+QMVTT,Influenza A virus (strain A/Puerto Rico/8/1934 H1N1),Viral,inherited from same accession 'P03485' in nls_dataset.csv (protein_matched_random),0,0.0033333333333333335
+EDVFA,Influenza A virus (strain A/Puerto Rico/8/1934 H1N1),Viral,inherited from same accession 'P03485' in nls_dataset.csv (protein_matched_random),0,0.016666666666666666
+PRITFGGPS,Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),Viral,inherited from same accession 'P0DTC9' in nls_dataset.csv (protein_matched_random),0,0.0033333333333333335
+QALPQRQKK,Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),Viral,inherited from same accession 'P0DTC9' in nls_dataset.csv (protein_matched_random),0,0.22333333333333333
+QQSG,Human cytomegalovirus (strain AD169),Viral,inherited from same accession 'P17151' in nls_dataset.csv (protein_matched_random),0,0.01
+NDGS,Human cytomegalovirus (strain AD169),Viral,inherited from same accession 'P17151' in nls_dataset.csv (protein_matched_random),0,0.05
+TCAV,Bovine papillomavirus type 1,Viral,inherited from same accession 'P03116' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+EQAI,Bovine papillomavirus type 1,Viral,inherited from same accession 'P03116' in nls_dataset.csv (protein_matched_random),0,0.0
+ERRG,"Human herpesvirus 1 (HSV-1, strain 17)",Viral,inherited from same accession 'P10210' in nls_dataset.csv (protein_matched_random),0,0.34
+YAPA,"Human herpesvirus 1 (HSV-1, strain 17)",Viral,inherited from same accession 'P10210' in nls_dataset.csv (protein_matched_random),0,0.0
+ILQYGSMGVFF,Human papillomavirus type 16,Viral,inherited from same accession 'P03107' in nls_dataset.csv (protein_matched_random),0,0.02
+YSRIGNKQTLR,Human papillomavirus type 16,Viral,inherited from same accession 'P03107' in nls_dataset.csv (protein_matched_random),0,0.13666666666666666
+DFSGSQLVY,Human papillomavirus type 49,Viral,inherited from same accession 'P36762' in nls_dataset.csv (protein_matched_random),0,0.0033333333333333335
+VEQTTIADQ,Human papillomavirus type 49,Viral,inherited from same accession 'P36762' in nls_dataset.csv (protein_matched_random),0,0.006666666666666667
+EDSVSSSEF,"Human herpesvirus 8 (KSHV, isolate GK18)",Viral,inherited from same accession 'Q2HR75' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+PPADERIRG,"Human herpesvirus 8 (KSHV, isolate GK18)",Viral,inherited from same accession 'Q2HR75' in nls_dataset.csv (protein_matched_random),0,0.11
+SPAYLKA,"Human herpesvirus 8 (KSHV, isolate GK18)",Viral,inherited from same accession 'Q2HRB6' in nls_dataset.csv (protein_matched_random),0,0.01
+AVTPPRP,"Human herpesvirus 8 (KSHV, isolate GK18)",Viral,inherited from same accession 'Q2HRB6' in nls_dataset.csv (protein_matched_random),0,0.006666666666666667
+AYTVCTRAG,Varicella-zoster virus (strain Dumas),Viral,inherited from same accession 'P09310' in nls_dataset.csv (protein_matched_random),0,0.07
+VGCEDAWDS,Varicella-zoster virus (strain Dumas),Viral,inherited from same accession 'P09310' in nls_dataset.csv (protein_matched_random),0,0.006666666666666667
+RKNRGGREEV,Hepatitis delta virus genotype I (isolate D380),Viral,inherited from same accession 'P29996' in nls_dataset.csv (protein_matched_random),0,0.6266666666666667
+IAGPQVGGVN,Hepatitis delta virus genotype I (isolate D380),Viral,inherited from same accession 'P29996' in nls_dataset.csv (protein_matched_random),0,0.01
+APVAHFQGSLP,Human parvovirus B19 (strain HV),Viral,inherited from same accession 'Q9PZT0' in nls_dataset.csv (protein_matched_random),0,0.016666666666666666
+PGVYPPHAAGH,Human parvovirus B19 (strain HV),Viral,inherited from same accession 'Q9PZT0' in nls_dataset.csv (protein_matched_random),0,0.016666666666666666
+TIMDPFDGSIAM,Primate bocaparvovirus 1 (Human bocavirus 1),Viral,inherited from same accession 'Q3YPH4' in nls_dataset.csv (protein_matched_random),0,0.06
+PGLLSAQRVGPQ,Primate bocaparvovirus 1 (Human bocavirus 1),Viral,inherited from same accession 'Q3YPH4' in nls_dataset.csv (protein_matched_random),0,0.016666666666666666
+LDNIPALLE,Borna disease virus (strain V),Viral,inherited from same accession 'P52639' in nls_dataset.csv (protein_matched_random),0,0.016666666666666666
+LRPRDMSAL,Borna disease virus (strain V),Viral,inherited from same accession 'P52639' in nls_dataset.csv (protein_matched_random),0,0.06
+NRPHDFDFSK,Bacillus phage phi29 (bacteriophage),Invertebrate/Other,inherited from same accession 'P03681' in nls_dataset.csv (protein_matched_random),0,0.016666666666666666
+SPRIRIKDND,Bacillus phage phi29 (bacteriophage),Invertebrate/Other,inherited from same accession 'P03681' in nls_dataset.csv (protein_matched_random),0,0.07666666666666666
+LPLQDG,Hepatitis E virus genotype 1 (isolate Human/Pakistan/Sar-55),Viral,inherited from same accession 'P33426' in nls_dataset.csv (protein_matched_random),0,0.0
+LGESRV,Hepatitis E virus genotype 1 (isolate Human/Pakistan/Sar-55),Viral,inherited from same accession 'P33426' in nls_dataset.csv (protein_matched_random),0,0.03333333333333333
+FMKDLY,Hepatitis E virus genotype 1 (isolate Human/China/HeBei/1987),Viral,inherited from same accession 'Q81871' in nls_dataset.csv (protein_matched_random),0,0.02666666666666667
+VNSYTN,Hepatitis E virus genotype 1 (isolate Human/China/HeBei/1987),Viral,inherited from same accession 'Q81871' in nls_dataset.csv (protein_matched_random),0,0.01
+IGVKMM,Influenza B virus (strain B/Lee/1940),Viral,inherited from same accession 'P03502' in nls_dataset.csv (protein_matched_random),0,0.013333333333333334
+SKCPNY,Influenza B virus (strain B/Lee/1940),Viral,inherited from same accession 'P03502' in nls_dataset.csv (protein_matched_random),0,0.006666666666666667
+LPALTSQEI,JC polyomavirus,Viral,inherited from same accession 'P03095' in nls_dataset.csv (protein_matched_random),0,0.023333333333333334
+STSEAIAAI,JC polyomavirus,Viral,inherited from same accession 'P03095' in nls_dataset.csv (protein_matched_random),0,0.02
+SSFNEKWD,BK polyomavirus,Viral,inherited from same accession 'P03071' in nls_dataset.csv (protein_matched_random),0,0.02
+MAGVAWLH,BK polyomavirus,Viral,inherited from same accession 'P03071' in nls_dataset.csv (protein_matched_random),0,0.0033333333333333335

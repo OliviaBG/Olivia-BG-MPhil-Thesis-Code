@@ -1,0 +1,3 @@
+# One pod per line: HOST  PORT  USER
+# Fill in from your GPU provider's console (Connect -> SSH over exposed TCP).
+# <pod-host>  <port>  root

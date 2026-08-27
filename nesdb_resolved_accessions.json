@@ -1,0 +1,2652 @@
+[
+  {
+    "index": 4,
+    "source_id": "NES-0005",
+    "protein_name": "p120 catenin isoform 3AB",
+    "organism": "Homo sapiens (Human)",
+    "nes_start": 835,
+    "nes_end": 851,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 43,
+    "source_id": "NES-0037",
+    "protein_name": "RPF1/Nedd4, Ubiquitin-protein ligase (E3)",
+    "organism": "Homo sapiens (Human)",
+    "nes_start": 305,
+    "nes_end": 305,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 44,
+    "source_id": "NES-0037",
+    "protein_name": "RPF1/Nedd4, Ubiquitin-protein ligase (E3)",
+    "organism": "Homo sapiens (Human)",
+    "nes_start": 307,
+    "nes_end": 307,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 48,
+    "source_id": "241",
+    "protein_name": "\u03b2-Arrestin-2",
+    "organism": "Rattus norvegicus (Rat) \u00a0\u00a0\u00a0",
+    "nes_start": 385,
+    "nes_end": 410,
+    "accession": "P29067",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 49,
+    "source_id": "311",
+    "protein_name": "\u03b2-DG",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 763,
+    "nes_end": 772,
+    "accession": "Q62165",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 53,
+    "source_id": "227",
+    "protein_name": "Actinin-4",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 141,
+    "nes_end": 151,
+    "accession": "O43707",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 56,
+    "source_id": "313",
+    "protein_name": "AGO1",
+    "organism": "Arabidopsis thaliana \u00a0\u00a0\u00a0",
+    "nes_start": 149,
+    "nes_end": 158,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 57,
+    "source_id": "55",
+    "protein_name": "AhR",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 55,
+    "nes_end": 75,
+    "accession": "P35869",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 58,
+    "source_id": "75",
+    "protein_name": "AID",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 188,
+    "nes_end": 198,
+    "accession": "Q9GZX7",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 61,
+    "source_id": "156",
+    "protein_name": "AMPK\u03b12",
+    "organism": "Rattus norvegicus (Rat) \u00a0\u00a0\u00a0",
+    "nes_start": 531,
+    "nes_end": 552,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 63,
+    "source_id": "216",
+    "protein_name": "ANCO-1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 2410,
+    "nes_end": 2427,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 66,
+    "source_id": "355",
+    "protein_name": "AP1-gamma",
+    "organism": "Xenopus laevis (African clawed frog) \u00a0\u00a0\u00a0",
+    "nes_start": 652,
+    "nes_end": 666,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 67,
+    "source_id": "382",
+    "protein_name": "AP2B1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 256,
+    "nes_end": 274,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 68,
+    "source_id": "47",
+    "protein_name": "APC Protein",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 68,
+    "nes_end": 77,
+    "accession": "Q7Z2Q8",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 69,
+    "source_id": "47",
+    "protein_name": "APC Protein",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 165,
+    "nes_end": 174,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 70,
+    "source_id": "47",
+    "protein_name": "APC Protein",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1494,
+    "nes_end": 1514,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 71,
+    "source_id": "47",
+    "protein_name": "APC Protein",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1645,
+    "nes_end": 1665,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 72,
+    "source_id": "47",
+    "protein_name": "APC Protein",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 2015,
+    "nes_end": 2035,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 73,
+    "source_id": "76",
+    "protein_name": "APOBEC1",
+    "organism": "Rattus norvegicus (Rat) \u00a0\u00a0\u00a0",
+    "nes_start": 173,
+    "nes_end": 187,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 74,
+    "source_id": "353",
+    "protein_name": "Arp2/3-1b",
+    "organism": "Xenopus laevis (African clawed frog) \u00a0\u00a0\u00a0",
+    "nes_start": 355,
+    "nes_end": 369,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 76,
+    "source_id": "208",
+    "protein_name": "ATF-2",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 400,
+    "nes_end": 415,
+    "accession": "P15336",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 80,
+    "source_id": "293",
+    "protein_name": "BDV X",
+    "organism": "Borna disease virus (BDV) \u00a0\u00a0\u00a0",
+    "nes_start": 5,
+    "nes_end": 16,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 82,
+    "source_id": "176",
+    "protein_name": "BICP27",
+    "organism": "Bovine herpesvirus 1 \u00a0\u00a0\u00a0",
+    "nes_start": 299,
+    "nes_end": 310,
+    "accession": "Q01354",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 85,
+    "source_id": "139",
+    "protein_name": "BPV-E1",
+    "organism": "Bovine papillomavirus type 1 \u00a0\u00a0\u00a0",
+    "nes_start": 408,
+    "nes_end": 418,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 86,
+    "source_id": "10",
+    "protein_name": "BRCA1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 81,
+    "nes_end": 99,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 87,
+    "source_id": "169",
+    "protein_name": "BRCA2",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1383,
+    "nes_end": 1393,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 89,
+    "source_id": "195",
+    "protein_name": "C",
+    "organism": "Measles virus (strain Edmonston-AIK-C vaccine) (MeV) (Subacute sclerose panencephalitis virus) \u00a0\u00a0\u00a0",
+    "nes_start": 74,
+    "nes_end": 88,
+    "accession": "P03424",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 90,
+    "source_id": "340",
+    "protein_name": "CA IX",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 412,
+    "nes_end": 429,
+    "accession": "Q16790",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 91,
+    "source_id": "272",
+    "protein_name": "CALM",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 540,
+    "nes_end": 557,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 93,
+    "source_id": "379",
+    "protein_name": "CASC3",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 457,
+    "nes_end": 475,
+    "accession": "O15234",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 95,
+    "source_id": "238",
+    "protein_name": "CCT\u03b1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 290,
+    "nes_end": 299,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 100,
+    "source_id": "260",
+    "protein_name": "Cdc6",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 310,
+    "nes_end": 315,
+    "accession": "Q99741",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 101,
+    "source_id": "197",
+    "protein_name": "Cdc7",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 458,
+    "nes_end": 467,
+    "accession": "O00311",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 102,
+    "source_id": "197",
+    "protein_name": "Cdc7",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 545,
+    "nes_end": 554,
+    "accession": "O00311",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 103,
+    "source_id": "400",
+    "protein_name": "cGAS",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 169,
+    "nes_end": 174,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 106,
+    "source_id": "96",
+    "protein_name": "CHP1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 138,
+    "nes_end": 147,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 107,
+    "source_id": "96",
+    "protein_name": "CHP1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 176,
+    "nes_end": 185,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 109,
+    "source_id": "103",
+    "protein_name": "cIAP1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 245,
+    "nes_end": 267,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 110,
+    "source_id": "300",
+    "protein_name": "CIITA",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 717,
+    "nes_end": 724,
+    "accession": "P33076",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 111,
+    "source_id": "117",
+    "protein_name": "COMMD1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 138,
+    "nes_end": 151,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 112,
+    "source_id": "117",
+    "protein_name": "COMMD1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 165,
+    "nes_end": 181,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 113,
+    "source_id": "82",
+    "protein_name": "COP1",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 226,
+    "nes_end": 270,
+    "accession": "Q9R1A8",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 116,
+    "source_id": "251",
+    "protein_name": "CPEB3",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 350,
+    "nes_end": 354,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 117,
+    "source_id": "198",
+    "protein_name": "CPEB4",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1,
+    "nes_end": 4,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 119,
+    "source_id": "73",
+    "protein_name": "Cuf1",
+    "organism": "Schizosaccharomyces pombe (Fission yeast) \u00a0\u00a0\u00a0",
+    "nes_start": 349,
+    "nes_end": 358,
+    "accession": "Q09728",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 120,
+    "source_id": "9",
+    "protein_name": "Cyclin B1",
+    "organism": "Xenopus laevis (African clawed frog) \u00a0\u00a0\u00a0",
+    "nes_start": 76,
+    "nes_end": 125,
+    "accession": "P13350",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 121,
+    "source_id": "12",
+    "protein_name": "Cyclin B1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 141,
+    "nes_end": 152,
+    "accession": "P14635",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 126,
+    "source_id": "303",
+    "protein_name": "DDX3X",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1,
+    "nes_end": 22,
+    "accession": "O00571",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 128,
+    "source_id": "314",
+    "protein_name": "DeSI1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 139,
+    "nes_end": 153,
+    "accession": "Q6ICB0",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 130,
+    "source_id": "161",
+    "protein_name": "DGK\u03b6",
+    "organism": "Rattus norvegicus (Rat) \u00a0\u00a0\u00a0",
+    "nes_start": 362,
+    "nes_end": 370,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 133,
+    "source_id": "70",
+    "protein_name": "Dsk1",
+    "organism": "Schizosaccharomyces pombe (Fission yeast) \u00a0\u00a0\u00a0",
+    "nes_start": 308,
+    "nes_end": 320,
+    "accession": "P36616",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 135,
+    "source_id": "34",
+    "protein_name": "E1B-55K",
+    "organism": "Human adenovirus C serotype 5 (HAdV-5) (Human adenovirus 5) \u00a0\u00a0\u00a0",
+    "nes_start": 83,
+    "nes_end": 93,
+    "accession": "P03243",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 139,
+    "source_id": "17",
+    "protein_name": "E4-34kD",
+    "organism": "Human Adenovirus C \u00a0\u00a0\u00a0",
+    "nes_start": 83,
+    "nes_end": 92,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 140,
+    "source_id": "99",
+    "protein_name": "Early E1A 32 kDa protein",
+    "organism": "Human adenovirus C serotype 5 (HAdV-5) (Human adenovirus 5) \u00a0\u00a0\u00a0",
+    "nes_start": 62,
+    "nes_end": 81,
+    "accession": "P03255",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 142,
+    "source_id": "383",
+    "protein_name": "eIF2S2",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 89,
+    "nes_end": 107,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 146,
+    "source_id": "325",
+    "protein_name": "EPS8",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 265,
+    "nes_end": 288,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 147,
+    "source_id": "232",
+    "protein_name": "ESE-1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 102,
+    "nes_end": 112,
+    "accession": "P78545",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 148,
+    "source_id": "232",
+    "protein_name": "ESE-1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 275,
+    "nes_end": 284,
+    "accession": "P78545",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 149,
+    "source_id": "66",
+    "protein_name": "Exd",
+    "organism": "Drosophila melanogaster (Fruit fly) \u00a0\u00a0\u00a0",
+    "nes_start": 209,
+    "nes_end": 218,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 150,
+    "source_id": "83",
+    "protein_name": "FAK",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 86,
+    "nes_end": 104,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 151,
+    "source_id": "83",
+    "protein_name": "FAK",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 510,
+    "nes_end": 530,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 153,
+    "source_id": "112",
+    "protein_name": "FANCA",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 56,
+    "nes_end": 82,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 154,
+    "source_id": "112",
+    "protein_name": "FANCA",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 263,
+    "nes_end": 284,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 155,
+    "source_id": "112",
+    "protein_name": "FANCA",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 518,
+    "nes_end": 534,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 156,
+    "source_id": "112",
+    "protein_name": "FANCA",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 860,
+    "nes_end": 880,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 157,
+    "source_id": "112",
+    "protein_name": "FANCA",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1013,
+    "nes_end": 1043,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 158,
+    "source_id": "230",
+    "protein_name": "Fbxo7",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 332,
+    "nes_end": 341,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 160,
+    "source_id": "22",
+    "protein_name": "FMRP",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 426,
+    "nes_end": 442,
+    "accession": "Q06787",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 172,
+    "source_id": "89",
+    "protein_name": "HBx",
+    "organism": "Hepatitis B virus genotype D subtype ayw (isolate France/Tiollais/1979) (HBV-D)  \u00a0\u00a0\u00a0",
+    "nes_start": 87,
+    "nes_end": 103,
+    "accession": "P03165",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 173,
+    "source_id": "267",
+    "protein_name": "HBZ",
+    "organism": "Human T-cell leukemia virus type 1 (HTLV-1) \u00a0\u00a0\u00a0",
+    "nes_start": 1,
+    "nes_end": 33,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 175,
+    "source_id": "62",
+    "protein_name": "HDAC4",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1044,
+    "nes_end": 1069,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 176,
+    "source_id": "61",
+    "protein_name": "HDAC5",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1081,
+    "nes_end": 1122,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 177,
+    "source_id": "16",
+    "protein_name": "HDM2",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 191,
+    "nes_end": 205,
+    "accession": "Q00987",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 182,
+    "source_id": "2",
+    "protein_name": "HIV-REV",
+    "organism": "Human immunodeficiency virus type 1 (isolate HXB3 group M subtype B) (HIV-1) \u00a0\u00a0\u00a0",
+    "nes_start": 73,
+    "nes_end": 84,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 184,
+    "source_id": "177",
+    "protein_name": "hMSH5",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 802,
+    "nes_end": 811,
+    "accession": "O43196",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 186,
+    "source_id": "388",
+    "protein_name": "hPER1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 483,
+    "nes_end": 501,
+    "accession": "O15534",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 187,
+    "source_id": "140",
+    "protein_name": "HPV11 E1",
+    "organism": "Human papillomavirus type 11 \u00a0\u00a0\u00a0",
+    "nes_start": 106,
+    "nes_end": 115,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 191,
+    "source_id": "153",
+    "protein_name": "hRio2",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 388,
+    "nes_end": 410,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 194,
+    "source_id": "225",
+    "protein_name": "HSCARG",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 271,
+    "nes_end": 279,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 195,
+    "source_id": "26",
+    "protein_name": "HsfA2/HSF30",
+    "organism": "Solanum peruvianum (Peruvian tomato) \u00a0\u00a0\u00a0",
+    "nes_start": 339,
+    "nes_end": 351,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 197,
+    "source_id": "29",
+    "protein_name": "Hsp70-Ssb1p",
+    "organism": "Saccharomyces cerevisiae (Baker's yeast) \u00a0\u00a0\u00a0",
+    "nes_start": 574,
+    "nes_end": 587,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 200,
+    "source_id": "204",
+    "protein_name": "Huntingtin",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1,
+    "nes_end": 17,
+    "accession": "P42858",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 201,
+    "source_id": "204",
+    "protein_name": "Huntingtin",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 2364,
+    "nes_end": 2414,
+    "accession": "P42858",
+    "match_type": "substring_only -- NOT auto-used, position unverified"
+  },
+  {
+    "index": 203,
+    "source_id": "37",
+    "protein_name": "I\u03baB\u03b1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1,
+    "nes_end": 55,
+    "accession": "P25963",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 205,
+    "source_id": "105",
+    "protein_name": "Id1",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 91,
+    "nes_end": 104,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 206,
+    "source_id": "106",
+    "protein_name": "Id2",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 103,
+    "nes_end": 119,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 207,
+    "source_id": "253",
+    "protein_name": "IPMK",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 165,
+    "nes_end": 190,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 208,
+    "source_id": "38",
+    "protein_name": "IRF-3",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 136,
+    "nes_end": 150,
+    "accession": "Q14653",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 209,
+    "source_id": "87",
+    "protein_name": "IRF-5",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 150,
+    "nes_end": 160,
+    "accession": "Q13568",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 210,
+    "source_id": "35",
+    "protein_name": "Jab1/CSN5",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 233,
+    "nes_end": 242,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 213,
+    "source_id": "187",
+    "protein_name": "Keap1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 272,
+    "nes_end": 315,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 214,
+    "source_id": "115",
+    "protein_name": "KLF5",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 119,
+    "nes_end": 149,
+    "accession": "Q923C0",
+    "match_type": "substring_only -- NOT auto-used, position unverified"
+  },
+  {
+    "index": 215,
+    "source_id": "162",
+    "protein_name": "KLF6",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1,
+    "nes_end": 16,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 218,
+    "source_id": "218",
+    "protein_name": "LANA2",
+    "organism": "Kaposi''s sarcoma-associated herpesvirus 8 (KSHV) \u00a0\u00a0\u00a0",
+    "nes_start": 551,
+    "nes_end": 560,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 225,
+    "source_id": "74",
+    "protein_name": "Ltv1",
+    "organism": "Saccharomyces cerevisiae (Baker's yeast) \u00a0\u00a0\u00a0",
+    "nes_start": 161,
+    "nes_end": 186,
+    "accession": "P34078",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 226,
+    "source_id": "74",
+    "protein_name": "Ltv1",
+    "organism": "Saccharomyces cerevisiae (Baker's yeast) \u00a0\u00a0\u00a0",
+    "nes_start": 168,
+    "nes_end": 179,
+    "accession": "P34078",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 227,
+    "source_id": "74",
+    "protein_name": "Ltv1",
+    "organism": "Saccharomyces cerevisiae (Baker's yeast) \u00a0\u00a0\u00a0",
+    "nes_start": 451,
+    "nes_end": 463,
+    "accession": "P34078",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 228,
+    "source_id": "181",
+    "protein_name": "LZTS2",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 631,
+    "nes_end": 642,
+    "accession": "Q9BRY6",
+    "match_type": "substring_only -- NOT auto-used, position unverified"
+  },
+  {
+    "index": 229,
+    "source_id": "181",
+    "protein_name": "LZTS2",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1,
+    "nes_end": 2,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 230,
+    "source_id": "255",
+    "protein_name": "M1",
+    "organism": "Influenza B virus (strain B/Lee/1940) \u00a0\u00a0\u00a0",
+    "nes_start": 3,
+    "nes_end": 14,
+    "accession": "P03489",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 231,
+    "source_id": "255",
+    "protein_name": "M1",
+    "organism": "Influenza B virus (strain B/Lee/1940) \u00a0\u00a0\u00a0",
+    "nes_start": 124,
+    "nes_end": 133,
+    "accession": "P03489",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 232,
+    "source_id": "104",
+    "protein_name": "Mad1p",
+    "organism": "Saccharomyces cerevisiae (Baker's yeast) \u00a0\u00a0\u00a0",
+    "nes_start": 563,
+    "nes_end": 576,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 234,
+    "source_id": "20",
+    "protein_name": "MAPKAP kinase 2 (MK2)",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 331,
+    "nes_end": 354,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 235,
+    "source_id": "11",
+    "protein_name": "MAPKK1/MEK1",
+    "organism": "Xenopus laevis (African clawed frog) \u00a0\u00a0\u00a0",
+    "nes_start": 32,
+    "nes_end": 44,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 238,
+    "source_id": "77",
+    "protein_name": "mDia2",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 1158,
+    "nes_end": 1171,
+    "accession": "Q9Z207",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 240,
+    "source_id": "119",
+    "protein_name": "Menin",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 33,
+    "nes_end": 41,
+    "accession": "O00255",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 241,
+    "source_id": "119",
+    "protein_name": "Menin",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 258,
+    "nes_end": 267,
+    "accession": "O00255",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 242,
+    "source_id": "279",
+    "protein_name": "MEX3C",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 48,
+    "nes_end": 59,
+    "accession": "Q5U5Q3",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 243,
+    "source_id": "159",
+    "protein_name": "Mia1p/Alp7p",
+    "organism": "Schizosaccharomyces pombe (Fission yeast) \u00a0\u00a0\u00a0",
+    "nes_start": 461,
+    "nes_end": 470,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 246,
+    "source_id": "163",
+    "protein_name": "MKP-3",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 161,
+    "nes_end": 176,
+    "accession": "Q16828",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 248,
+    "source_id": "186",
+    "protein_name": "MLH1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 582,
+    "nes_end": 591,
+    "accession": "P40692",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 249,
+    "source_id": "202",
+    "protein_name": "MoKA",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 194,
+    "nes_end": 201,
+    "accession": "Q8BMI0",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 250,
+    "source_id": "130",
+    "protein_name": "MondoA",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 124,
+    "nes_end": 143,
+    "accession": "Q9HAP2",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 251,
+    "source_id": "30",
+    "protein_name": "mPER1",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 485,
+    "nes_end": 498,
+    "accession": "O35973",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 253,
+    "source_id": "263",
+    "protein_name": "Mps1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 180,
+    "nes_end": 189,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 255,
+    "source_id": "68",
+    "protein_name": "Mst1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 323,
+    "nes_end": 381,
+    "accession": "Q13043",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 256,
+    "source_id": "68",
+    "protein_name": "Mst1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 430,
+    "nes_end": 460,
+    "accession": "Q13043",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 257,
+    "source_id": "71",
+    "protein_name": "Mta",
+    "organism": "Epstein-Barr virus (strain B95-8) (HHV-4) (Human herpesvirus 4) \u00a0\u00a0\u00a0",
+    "nes_start": 218,
+    "nes_end": 227,
+    "accession": "Q04360",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 258,
+    "source_id": "71",
+    "protein_name": "Mta",
+    "organism": "Epstein-Barr virus (strain B95-8) (HHV-4) (Human herpesvirus 4) \u00a0\u00a0\u00a0",
+    "nes_start": 227,
+    "nes_end": 236,
+    "accession": "Q04360",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 259,
+    "source_id": "28",
+    "protein_name": "MTF-1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 336,
+    "nes_end": 344,
+    "accession": "Q14872",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 260,
+    "source_id": "384",
+    "protein_name": "mTOR",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 535,
+    "nes_end": 547,
+    "accession": "P42345",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 261,
+    "source_id": "384",
+    "protein_name": "mTOR",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 975,
+    "nes_end": 984,
+    "accession": "P42345",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 262,
+    "source_id": "384",
+    "protein_name": "mTOR",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1281,
+    "nes_end": 1289,
+    "accession": "P42345",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 263,
+    "source_id": "384",
+    "protein_name": "mTOR",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 649,
+    "nes_end": 668,
+    "accession": "P42345",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 265,
+    "source_id": "271",
+    "protein_name": "N",
+    "organism": "Porcine epidemic diarrhea virus\r\n \u00a0\u00a0\u00a0",
+    "nes_start": 325,
+    "nes_end": 364,
+    "accession": "Q07499",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 266,
+    "source_id": "118",
+    "protein_name": "N protein",
+    "organism": "Porcine reproductive and respiratory syndrome virus (PRRSV) \u00a0\u00a0\u00a0",
+    "nes_start": 90,
+    "nes_end": 123,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 272,
+    "source_id": "126",
+    "protein_name": "NC2\u03b2",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 63,
+    "nes_end": 88,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 273,
+    "source_id": "256",
+    "protein_name": "NEP",
+    "organism": "Influenza A virus (strain swl A/California/04/2009 H1N1) \u00a0\u00a0\u00a0",
+    "nes_start": 12,
+    "nes_end": 21,
+    "accession": "P03506",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 274,
+    "source_id": "256",
+    "protein_name": "NEP",
+    "organism": "Influenza A virus (strain swl A/California/04/2009 H1N1) \u00a0\u00a0\u00a0",
+    "nes_start": 31,
+    "nes_end": 40,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 275,
+    "source_id": "243",
+    "protein_name": "Neurogenin 3",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 131,
+    "nes_end": 142,
+    "accession": "P70661",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 276,
+    "source_id": "90",
+    "protein_name": "NF-ATc1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 310,
+    "nes_end": 321,
+    "accession": "O95644",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 278,
+    "source_id": "301",
+    "protein_name": "NirA",
+    "organism": "Aspergillus nidulans \u00a0\u00a0\u00a0",
+    "nes_start": 159,
+    "nes_end": 176,
+    "accession": "P28348",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 280,
+    "source_id": "4",
+    "protein_name": "Nmd3p",
+    "organism": "Saccharomyces cerevisiae (Baker's yeast) \u00a0\u00a0\u00a0",
+    "nes_start": 491,
+    "nes_end": 500,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 281,
+    "source_id": "265",
+    "protein_name": "NOA1",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 225,
+    "nes_end": 238,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 283,
+    "source_id": "319",
+    "protein_name": "NPAS4",
+    "organism": "Rattus norvegicus (Rat) \u00a0\u00a0\u00a0",
+    "nes_start": 26,
+    "nes_end": 50,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 285,
+    "source_id": "94",
+    "protein_name": "NPM mutants",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 286,
+    "nes_end": 296,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 287,
+    "source_id": "69",
+    "protein_name": "Nrf2",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 545,
+    "nes_end": 554,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 289,
+    "source_id": "398",
+    "protein_name": "NS2 (IDV)",
+    "organism": "Influenza D virus (D/bovine/Shandong/Y217/2014) \u00a0\u00a0\u00a0",
+    "nes_start": 66,
+    "nes_end": 75,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 290,
+    "source_id": "398",
+    "protein_name": "NS2 (IDV)",
+    "organism": "Influenza D virus (D/bovine/Shandong/Y217/2014) \u00a0\u00a0\u00a0",
+    "nes_start": 97,
+    "nes_end": 107,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 291,
+    "source_id": "398",
+    "protein_name": "NS2 (IDV)",
+    "organism": "Influenza D virus (D/bovine/Shandong/Y217/2014) \u00a0\u00a0\u00a0",
+    "nes_start": 136,
+    "nes_end": 146,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 292,
+    "source_id": "85",
+    "protein_name": "NS2-P (MVM)",
+    "organism": "Murine minute virus (Murine parvovirus) \u00a0\u00a0\u00a0",
+    "nes_start": 80,
+    "nes_end": 106,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 294,
+    "source_id": "160",
+    "protein_name": "NT-PGC-1\u03b1",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 27,
+    "nes_end": 36,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 295,
+    "source_id": "401",
+    "protein_name": "Nup214",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 878,
+    "nes_end": 887,
+    "accession": "P35658",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 296,
+    "source_id": "246",
+    "protein_name": "NURR1",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 444,
+    "nes_end": 452,
+    "accession": "Q06219",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 297,
+    "source_id": "246",
+    "protein_name": "NURR1",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 570,
+    "nes_end": 578,
+    "accession": "Q06219",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 299,
+    "source_id": "282",
+    "protein_name": "OGFr",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 217,
+    "nes_end": 225,
+    "accession": "Q9NZT2",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 300,
+    "source_id": "266",
+    "protein_name": "Olig1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 148,
+    "nes_end": 156,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 301,
+    "source_id": "266",
+    "protein_name": "Olig1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 186,
+    "nes_end": 194,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 303,
+    "source_id": "80",
+    "protein_name": "ORF45 of KSHV",
+    "organism": "Kaposi''s sarcoma-associated herpesvirus 8 (KSHV) \u00a0\u00a0\u00a0",
+    "nes_start": 284,
+    "nes_end": 294,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 304,
+    "source_id": "189",
+    "protein_name": "ORF9",
+    "organism": "Varicella-zoster virus \u00a0\u00a0\u00a0",
+    "nes_start": 103,
+    "nes_end": 117,
+    "accession": "P09272",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 307,
+    "source_id": "19",
+    "protein_name": "p120ctn",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 943,
+    "nes_end": 958,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 311,
+    "source_id": "97",
+    "protein_name": "p37 protein of ASFV",
+    "organism": "African swine fever virus \u00a0\u00a0\u00a0",
+    "nes_start": 1,
+    "nes_end": 46,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 312,
+    "source_id": "56",
+    "protein_name": "p38 (p40)",
+    "organism": "Borna disease virus (BDV) \u00a0\u00a0\u00a0",
+    "nes_start": 128,
+    "nes_end": 145,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 313,
+    "source_id": "6",
+    "protein_name": "P53",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 339,
+    "nes_end": 352,
+    "accession": "P04637",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 314,
+    "source_id": "39",
+    "protein_name": "p73",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 364,
+    "nes_end": 382,
+    "accession": "O15350",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 315,
+    "source_id": "234",
+    "protein_name": "PAK4",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 82,
+    "nes_end": 94,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 316,
+    "source_id": "234",
+    "protein_name": "PAK4",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 393,
+    "nes_end": 407,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 317,
+    "source_id": "234",
+    "protein_name": "PAK4",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 545,
+    "nes_end": 554,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 319,
+    "source_id": "276",
+    "protein_name": "PALB2",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 928,
+    "nes_end": 945,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 320,
+    "source_id": "8",
+    "protein_name": "Pap1",
+    "organism": "Schizosaccharomyces pombe (Fission yeast) \u00a0\u00a0\u00a0",
+    "nes_start": 515,
+    "nes_end": 533,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 324,
+    "source_id": "172",
+    "protein_name": "PBX1",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 73,
+    "nes_end": 90,
+    "accession": "P41778",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 325,
+    "source_id": "250",
+    "protein_name": "PCNA",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 11,
+    "nes_end": 23,
+    "accession": "P12004",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 326,
+    "source_id": "349",
+    "protein_name": "Pdcd4",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 243,
+    "nes_end": 253,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 327,
+    "source_id": "349",
+    "protein_name": "Pdcd4",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 184,
+    "nes_end": 194,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 329,
+    "source_id": "158",
+    "protein_name": "Pericentrin",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 245,
+    "nes_end": 254,
+    "accession": "O95613",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 330,
+    "source_id": "158",
+    "protein_name": "Pericentrin",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1158,
+    "nes_end": 1168,
+    "accession": "O95613",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 331,
+    "source_id": "158",
+    "protein_name": "Pericentrin",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1169,
+    "nes_end": 1179,
+    "accession": "O95613",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 332,
+    "source_id": "158",
+    "protein_name": "Pericentrin",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1540,
+    "nes_end": 1548,
+    "accession": "O95613",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 333,
+    "source_id": "158",
+    "protein_name": "Pericentrin",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1745,
+    "nes_end": 1755,
+    "accession": "O95613",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 339,
+    "source_id": "148",
+    "protein_name": "Php4",
+    "organism": "Schizosaccharomyces pombe (Fission yeast) \u00a0\u00a0\u00a0",
+    "nes_start": 73,
+    "nes_end": 122,
+    "accession": "O14318",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 340,
+    "source_id": "316",
+    "protein_name": "PINK1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 510,
+    "nes_end": 527,
+    "accession": "Q9BXM7",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 341,
+    "source_id": "5",
+    "protein_name": "PKI\u03b1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 36,
+    "nes_end": 50,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 342,
+    "source_id": "33",
+    "protein_name": "PLC-\u03b41",
+    "organism": "Rattus norvegicus (Rat) \u00a0\u00a0\u00a0",
+    "nes_start": 164,
+    "nes_end": 177,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 345,
+    "source_id": "157",
+    "protein_name": "PP2A B56\u03b1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 451,
+    "nes_end": 469,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 347,
+    "source_id": "356",
+    "protein_name": "pRKAr2a",
+    "organism": "Xenopus laevis (African clawed frog) \u00a0\u00a0\u00a0",
+    "nes_start": 385,
+    "nes_end": 400,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 349,
+    "source_id": "324",
+    "protein_name": "Protein P",
+    "organism": "Human parainfluenza 2 virus (HPIV-2) \u00a0\u00a0\u00a0",
+    "nes_start": 225,
+    "nes_end": 234,
+    "accession": "P23055",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 350,
+    "source_id": "209",
+    "protein_name": "Protein UL84",
+    "organism": "Human cytomegalovirus \u00a0\u00a0\u00a0",
+    "nes_start": 228,
+    "nes_end": 237,
+    "accession": "P16727",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 351,
+    "source_id": "209",
+    "protein_name": "Protein UL84",
+    "organism": "Human cytomegalovirus \u00a0\u00a0\u00a0",
+    "nes_start": 359,
+    "nes_end": 366,
+    "accession": "P16727",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 356,
+    "source_id": "231",
+    "protein_name": "pUL4",
+    "organism": "Human herpesvirus 1 (strain F) (HHV-1) (Human herpes simplex virus 1) \u00a0\u00a0\u00a0",
+    "nes_start": 178,
+    "nes_end": 186,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 357,
+    "source_id": "91",
+    "protein_name": "pUL47",
+    "organism": "Human herpesvirus 1 (strain 17) (HHV-1) (Human herpes simplex virus 1) \u00a0\u00a0\u00a0",
+    "nes_start": 658,
+    "nes_end": 667,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 358,
+    "source_id": "63",
+    "protein_name": "Rabies virus P protein",
+    "organism": "Rabies virus (strain CVS-11) (RABV) \u00a0\u00a0\u00a0",
+    "nes_start": 45,
+    "nes_end": 60,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 359,
+    "source_id": "7",
+    "protein_name": "RanBP1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 179,
+    "nes_end": 196,
+    "accession": "P43487",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 361,
+    "source_id": "277",
+    "protein_name": "RapGEF1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 776,
+    "nes_end": 791,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 364,
+    "source_id": "25",
+    "protein_name": "RelA/Transcription factor p65",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 436,
+    "nes_end": 445,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 365,
+    "source_id": "235",
+    "protein_name": "Rev",
+    "organism": "Bovine immunodeficiency virus (strain R29) (BIV) (Bovine immunodeficiency-like virus) \u00a0\u00a0\u00a0",
+    "nes_start": 112,
+    "nes_end": 121,
+    "accession": "P24097",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 366,
+    "source_id": "13",
+    "protein_name": "Rex Protein",
+    "organism": "Human T-cell leukemia virus type 1 (HTLV-1) \u00a0\u00a0\u00a0",
+    "nes_start": 81,
+    "nes_end": 94,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 368,
+    "source_id": "32",
+    "protein_name": "RIP3",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 333,
+    "nes_end": 358,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 370,
+    "source_id": "337",
+    "protein_name": "Rna1p",
+    "organism": "Saccharomyces cerevisiae (Baker's yeast) \u00a0\u00a0\u00a0",
+    "nes_start": 316,
+    "nes_end": 357,
+    "accession": "H0GLD8",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 372,
+    "source_id": "135",
+    "protein_name": "RoXan",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 274,
+    "nes_end": 310,
+    "accession": "Q9UGR2",
+    "match_type": "substring_only -- NOT auto-used, position unverified"
+  },
+  {
+    "index": 373,
+    "source_id": "229",
+    "protein_name": "Rsp5",
+    "organism": "Saccharomyces cerevisiae (Baker's yeast) \u00a0\u00a0\u00a0",
+    "nes_start": 665,
+    "nes_end": 706,
+    "accession": "P39940",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 375,
+    "source_id": "221",
+    "protein_name": "SBP2",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 635,
+    "nes_end": 657,
+    "accession": "Q9H948",
+    "match_type": "substring_only -- NOT auto-used, position unverified"
+  },
+  {
+    "index": 376,
+    "source_id": "221",
+    "protein_name": "SBP2",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 756,
+    "nes_end": 770,
+    "accession": "Q9H948",
+    "match_type": "substring_only -- NOT auto-used, position unverified"
+  },
+  {
+    "index": 377,
+    "source_id": "247",
+    "protein_name": "SD",
+    "organism": "Drosophila melanogaster (Fruit fly) \u00a0\u00a0\u00a0",
+    "nes_start": 325,
+    "nes_end": 352,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 378,
+    "source_id": "220",
+    "protein_name": "SENP2",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 317,
+    "nes_end": 332,
+    "accession": "Q9HC62",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 379,
+    "source_id": "354",
+    "protein_name": "Septin-2",
+    "organism": "Xenopus laevis (African clawed frog) \u00a0\u00a0\u00a0",
+    "nes_start": 331,
+    "nes_end": 346,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 382,
+    "source_id": "377",
+    "protein_name": "SHIP2",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 256,
+    "nes_end": 274,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 383,
+    "source_id": "377",
+    "protein_name": "SHIP2",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 261,
+    "nes_end": 279,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 385,
+    "source_id": "152",
+    "protein_name": "Sima",
+    "organism": "Drosophila melanogaster (Fruit fly) \u00a0\u00a0\u00a0",
+    "nes_start": 77,
+    "nes_end": 130,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 387,
+    "source_id": "199",
+    "protein_name": "SIRT2",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 37,
+    "nes_end": 55,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 388,
+    "source_id": "40",
+    "protein_name": "Smad1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 406,
+    "nes_end": 414,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 389,
+    "source_id": "18",
+    "protein_name": "Smad4",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 140,
+    "nes_end": 149,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 390,
+    "source_id": "58",
+    "protein_name": "Smurf1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 603,
+    "nes_end": 614,
+    "accession": "Q9HCE7",
+    "match_type": "substring_only -- NOT auto-used, position unverified"
+  },
+  {
+    "index": 392,
+    "source_id": "1",
+    "protein_name": "SNUPN",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1,
+    "nes_end": 15,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 393,
+    "source_id": "308",
+    "protein_name": "SOD1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 24,
+    "nes_end": 55,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 394,
+    "source_id": "60",
+    "protein_name": "Sox10",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 134,
+    "nes_end": 145,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 395,
+    "source_id": "306",
+    "protein_name": "SOX14A",
+    "organism": "Eriocheir sinensis (Chinese mitten crab) \u00a0\u00a0\u00a0",
+    "nes_start": 77,
+    "nes_end": 91,
+    "accession": "A0A1W5HKL7",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 396,
+    "source_id": "307",
+    "protein_name": "SOX14B",
+    "organism": "Eriocheir sinensis (Chinese mitten crab) \u00a0\u00a0\u00a0",
+    "nes_start": 76,
+    "nes_end": 90,
+    "accession": "A0A1W5HLB9",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 397,
+    "source_id": "129",
+    "protein_name": "SOX9",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 134,
+    "nes_end": 147,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 399,
+    "source_id": "72",
+    "protein_name": "Spc27",
+    "organism": "Saccharomyces cerevisiae (Baker's yeast) \u00a0\u00a0\u00a0",
+    "nes_start": 418,
+    "nes_end": 429,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 400,
+    "source_id": "375",
+    "protein_name": "SPN90",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 282,
+    "nes_end": 300,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 401,
+    "source_id": "396",
+    "protein_name": "Src",
+    "organism": "Drosophila melanogaster (Fruit fly) \u00a0\u00a0\u00a0",
+    "nes_start": 304,
+    "nes_end": 313,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 403,
+    "source_id": "27",
+    "protein_name": "STAT1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 197,
+    "nes_end": 205,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 404,
+    "source_id": "27",
+    "protein_name": "STAT1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 302,
+    "nes_end": 314,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 405,
+    "source_id": "27",
+    "protein_name": "STAT1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 392,
+    "nes_end": 413,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 406,
+    "source_id": "50",
+    "protein_name": "STAT3",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 306,
+    "nes_end": 318,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 407,
+    "source_id": "50",
+    "protein_name": "STAT3",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 404,
+    "nes_end": 414,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 408,
+    "source_id": "50",
+    "protein_name": "STAT3",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 524,
+    "nes_end": 537,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 409,
+    "source_id": "122",
+    "protein_name": "Stau2",
+    "organism": "Rattus norvegicus (Rat) \u00a0\u00a0\u00a0",
+    "nes_start": 4,
+    "nes_end": 14,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 411,
+    "source_id": "352",
+    "protein_name": "Sup35",
+    "organism": "Xenopus laevis (African clawed frog) \u00a0\u00a0\u00a0",
+    "nes_start": 58,
+    "nes_end": 74,
+    "accession": "Q91855",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 412,
+    "source_id": "123",
+    "protein_name": "survivin",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 89,
+    "nes_end": 104,
+    "accession": "O15392",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 415,
+    "source_id": "84",
+    "protein_name": "Tax",
+    "organism": "Human T-cell leukemia virus type 1 (HTLV-1) \u00a0\u00a0\u00a0",
+    "nes_start": 188,
+    "nes_end": 202,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 416,
+    "source_id": "321",
+    "protein_name": "TAZ",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 2,
+    "nes_end": 40,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 421,
+    "source_id": "287",
+    "protein_name": "TFEB",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 129,
+    "nes_end": 152,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 422,
+    "source_id": "323",
+    "protein_name": "TFIIA",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1,
+    "nes_end": 40,
+    "accession": "P52655",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 423,
+    "source_id": "15",
+    "protein_name": "TFIIIA",
+    "organism": "Bufo americanus (American toad) \u00a0\u00a0\u00a0",
+    "nes_start": 321,
+    "nes_end": 339,
+    "accession": "P34694",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 427,
+    "source_id": "121",
+    "protein_name": "Topoisomerase II-alpha",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1018,
+    "nes_end": 1028,
+    "accession": "P11388",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 428,
+    "source_id": "121",
+    "protein_name": "Topoisomerase II-alpha",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1054,
+    "nes_end": 1066,
+    "accession": "P11388",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 429,
+    "source_id": "95",
+    "protein_name": "Topoisomerase II-beta",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 1034,
+    "nes_end": 1044,
+    "accession": "Q02880",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 431,
+    "source_id": "244",
+    "protein_name": "TRIM5\u03b1",
+    "organism": "Macaca mulatta (Rhesus macaque) \u00a0\u00a0\u00a0",
+    "nes_start": 60,
+    "nes_end": 93,
+    "accession": "Q0PF16",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 433,
+    "source_id": "137",
+    "protein_name": "Trip6",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 76,
+    "nes_end": 115,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 435,
+    "source_id": "394",
+    "protein_name": "Ubx",
+    "organism": "Drosophila melanogaster (Fruit fly) \u00a0\u00a0\u00a0",
+    "nes_start": 242,
+    "nes_end": 253,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 437,
+    "source_id": "226",
+    "protein_name": "UL94",
+    "organism": "Human cytomegalovirus \u00a0\u00a0\u00a0",
+    "nes_start": 55,
+    "nes_end": 64,
+    "accession": "Q6RXE5",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 438,
+    "source_id": "357",
+    "protein_name": "UPF2",
+    "organism": "Xenopus laevis (African clawed frog) \u00a0\u00a0\u00a0",
+    "nes_start": 506,
+    "nes_end": 520,
+    "accession": "A0A8J0Q4J1",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 440,
+    "source_id": "144",
+    "protein_name": "VEEV Capsid protein",
+    "organism": "Venezuelan equine encephalitis virus (strain P676) (VEEV) \u00a0\u00a0\u00a0",
+    "nes_start": 30,
+    "nes_end": 68,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 442,
+    "source_id": "285",
+    "protein_name": "VP1",
+    "organism": "Chicken anemia virus \u00a0\u00a0\u00a0",
+    "nes_start": 375,
+    "nes_end": 388,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 443,
+    "source_id": "249",
+    "protein_name": "VP19C",
+    "organism": "Human herpesvirus 1 (strain F) (HHV-1) (Human herpes simplex virus 1) \u00a0\u00a0\u00a0",
+    "nes_start": 342,
+    "nes_end": 351,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 446,
+    "source_id": "404",
+    "protein_name": "WDR20",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 450,
+    "nes_end": 468,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 447,
+    "source_id": "239",
+    "protein_name": "WDR42A",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 39,
+    "nes_end": 50,
+    "accession": "B7Z8C9",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 450,
+    "source_id": "141",
+    "protein_name": "X11L2",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 55,
+    "nes_end": 73,
+    "accession": "O96018",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 451,
+    "source_id": "240",
+    "protein_name": "XAB1/Gpn1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 290,
+    "nes_end": 304,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 458,
+    "source_id": "203",
+    "protein_name": "ZO-2",
+    "organism": "Canis familiaris (Dog) \u00a0\u00a0\u00a0",
+    "nes_start": 305,
+    "nes_end": 313,
+    "accession": "Q95168",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 459,
+    "source_id": "203",
+    "protein_name": "ZO-2",
+    "organism": "Canis familiaris (Dog) \u00a0\u00a0\u00a0",
+    "nes_start": 361,
+    "nes_end": 370,
+    "accession": "Q95168",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 460,
+    "source_id": "203",
+    "protein_name": "ZO-2",
+    "organism": "Canis familiaris (Dog) \u00a0\u00a0\u00a0",
+    "nes_start": 719,
+    "nes_end": 728,
+    "accession": "Q95168",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 461,
+    "source_id": "203",
+    "protein_name": "ZO-2",
+    "organism": "Canis familiaris (Dog) \u00a0\u00a0\u00a0",
+    "nes_start": 728,
+    "nes_end": 738,
+    "accession": "Q95168",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 462,
+    "source_id": "23",
+    "protein_name": "Zyxin",
+    "organism": "Gallus gallus (Chicken) \u00a0\u00a0\u00a0",
+    "nes_start": 319,
+    "nes_end": 335,
+    "accession": "Q04584",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 463,
+    "source_id": "14",
+    "protein_name": "Actin",
+    "organism": "Saccharomyces cerevisiae (Baker's yeast) \u00a0\u00a0\u00a0",
+    "nes_start": 170,
+    "nes_end": 181,
+    "accession": "P60010",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 464,
+    "source_id": "14",
+    "protein_name": "Actin",
+    "organism": "Saccharomyces cerevisiae (Baker's yeast) \u00a0\u00a0\u00a0",
+    "nes_start": 211,
+    "nes_end": 222,
+    "accession": "P60010",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 466,
+    "source_id": "402",
+    "protein_name": "BToN",
+    "organism": "Bovine torovirus \u00a0\u00a0\u00a0",
+    "nes_start": 129,
+    "nes_end": 163,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 467,
+    "source_id": "21",
+    "protein_name": "c-Abl",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 1078,
+    "nes_end": 1096,
+    "accession": "P00520",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 468,
+    "source_id": "386",
+    "protein_name": "CDC27",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 545,
+    "nes_end": 563,
+    "accession": "P30260",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 469,
+    "source_id": "194",
+    "protein_name": "Cdk5-p27",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 65,
+    "nes_end": 82,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 470,
+    "source_id": "194",
+    "protein_name": "Cdk5-p27",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 128,
+    "nes_end": 146,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 472,
+    "source_id": "385",
+    "protein_name": "CRTC1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 329,
+    "nes_end": 347,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 476,
+    "source_id": "166",
+    "protein_name": "ER\u03b1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 444,
+    "nes_end": 456,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 478,
+    "source_id": "170",
+    "protein_name": "FGF-1",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 138,
+    "nes_end": 155,
+    "accession": "P05230",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 480,
+    "source_id": "128",
+    "protein_name": "Gal3",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 241,
+    "nes_end": 256,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  },
+  {
+    "index": 482,
+    "source_id": "133",
+    "protein_name": "L5",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 101,
+    "nes_end": 111,
+    "accession": "P46777",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 484,
+    "source_id": "254",
+    "protein_name": "Nap1p",
+    "organism": "Saccharomyces cerevisiae (Baker's yeast) \u00a0\u00a0\u00a0",
+    "nes_start": 87,
+    "nes_end": 114,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 485,
+    "source_id": "98",
+    "protein_name": "Net",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 6,
+    "nes_end": 17,
+    "accession": "P41970",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 486,
+    "source_id": "182",
+    "protein_name": "Oct-6",
+    "organism": "Mus musculus (Mouse) \u00a0\u00a0\u00a0",
+    "nes_start": 367,
+    "nes_end": 376,
+    "accession": "P21952",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 487,
+    "source_id": "278",
+    "protein_name": "ORF3",
+    "organism": "Porcine circovirus 2 \u00a0\u00a0\u00a0",
+    "nes_start": 1,
+    "nes_end": 35,
+    "accession": "O56124",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 490,
+    "source_id": "378",
+    "protein_name": "Septin-6",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 155,
+    "nes_end": 174,
+    "accession": "Q14141",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 493,
+    "source_id": "376",
+    "protein_name": "TFE3",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 418,
+    "nes_end": 436,
+    "accession": null,
+    "match_type": "unresolved -- no UniProt search results"
+  },
+  {
+    "index": 496,
+    "source_id": "275",
+    "protein_name": "UL54",
+    "organism": "Anatid alphaherpesvirus 1 \u00a0\u00a0\u00a0",
+    "nes_start": 339,
+    "nes_end": 348,
+    "accession": "A9QXU8",
+    "match_type": "position_verified_substring"
+  },
+  {
+    "index": 498,
+    "source_id": "387",
+    "protein_name": "ZO-2",
+    "organism": "Homo sapiens (Human) \u00a0\u00a0\u00a0",
+    "nes_start": 715,
+    "nes_end": 733,
+    "accession": null,
+    "match_type": "unresolved -- candidates found but none matched sequence"
+  }
+]

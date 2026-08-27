@@ -1,0 +1,1308 @@
+[
+  {
+    "accession": "NES-0001",
+    "date": "14 Aug 2002",
+    "protein": "cAMP-dependent Protein Kinase Inhibitor, alpha form (PKI-alpha).",
+    "organism": "Homo sapiens (Human) / Oryctolagus cuniculus (Rabbit).",
+    "db_reference": "SWISS-PROT P04541, IPKA_HUMAN.",
+    "necessity": "Export abrogated by the following mutations: L37A/L39A/L41A, L37A/L41A, L41A/L44A, L44A/I46A, L44A and I46A.",
+    "sufficiency": "Aa 37-46 mediates export of GST.",
+    "pathway": "LMB-sensitive.",
+    "location": "-",
+    "regulation": "-",
+    "comments": "-",
+    "references": "Wen W, Meinkoth JL, Tsien RY and Taylor SS, 1995, Cell 82: 463-73. Medline: 7634336 Henderson and Eleftheriou, 2000, Exp. Cell Res. 256: 213-224. Medline: 10739668",
+    "full_sequence": "TDVETTYADFIASGRTGRRNAIHDILVSSASGNSNELALKLAGLDINKTEGEEDAQRSSTEQSGEAQGEAAKSES",
+    "nes_segments": [
+      {
+        "start": 37,
+        "end": 46,
+        "sequence": "LALKLAGLDI",
+        "critical_positions": [
+          37,
+          39,
+          41,
+          44,
+          46
+        ],
+        "critical_residues": [
+          "L",
+          "L",
+          "L",
+          "L",
+          "I"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive."
+  },
+  {
+    "accession": "NES-0002",
+    "date": "14 Aug 2002",
+    "protein": "Cellular tumor antigen p53 (Tumor suppressor p53) (Phosphoprotein p53) (Antigen NY-CO-13)",
+    "organism": "Homo sapiens (Human).",
+    "db_reference": "SWISS-PROT P04637, P53_HUMAN. NLSdb NLS:76, NLS:127",
+    "necessity": "L348A/L350A does not shuttle in heterokaryon assay (Stommel et al. 1999)",
+    "sufficiency": "Aa 339-352 mediates export of BSA (stommel et al. 1999). Zhang and Xiong 2001 further shows aa 11-27 to mediate export of GFP, which is abrogated by the L14Q/F19S or L22Q/W23S mutations. This is argued though, by Inoue et al. 2002, who shows that p53 aa 7-27 cannot function as an autonomous NES.",
+    "pathway": "LMB-sensitive",
+    "location": "Nucleus",
+    "regulation": "Regulation by masking the NES upon tetramerization (Stommel et al. 1999). Phosphorylation of Ser15, abrogates export (Zhang and Xiong 2001)",
+    "comments": "There is controversy regarding the N-terminal NES (Zhang and Xiong 2001, Inoue et al. 2002), why it has not been included in the assignment field.",
+    "references": "Stommel JM, Marchenko ND, Jimenez GS, Moll UM, Hope TJ and Wahl GM, 1999 EMBO J 18: 1660-72. Medline: 10075936 Zhang Y and Xiong Y, 2001, Science 292: 1910-5. Medline: 11397945 Inoue T, Stuart J, Leno R, Maki CG, 2002, J. Biol. Chem. 277: 15053-60. Medline: 11847229",
+    "full_sequence": "MEEPQSDPSVEPPLSQETFSDLWKLLPENNVLSPLPSQAMDDLMLSPDDIEQWFTEDPGPDEAPRMPEAAPPVAPAPAAPTPAAPAPAPSWPLSSSVPSQKTYQGSYGFRLGFLHSGTAKSVTCTYSPALNKMFCQLAKTCPVQLWVDSTPPPGTRVRAMAIYKQSQHMTEVVRRCPHHERCSDSDGLAPPQHLIRVEGNLRVEYLDDRNTFRHSVVVPYEPPEVGSDCTTIHYNYMCNSSCMGGMNRRPILTIITLEDSSGNLLGRNSFEVRVCACPGRDRRTEEENLRKKGEPHHELPPGSTKRALPNNTSSSPQPKKKPLDGEYFTLQIRGRERFEMFRELNEALELKDAQAGKEPGGSRAHSSHLKSKKGQSTSRHKKLMFKTEGPDSD",
+    "nes_segments": [
+      {
+        "start": 339,
+        "end": 352,
+        "sequence": "EMFRELNEALELKD",
+        "critical_positions": [
+          348,
+          350
+        ],
+        "critical_residues": [
+          "L",
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive"
+  },
+  {
+    "accession": "NES-0003",
+    "date": "14 Aug 2002",
+    "protein": "Ubiquitin-protein ligase E3 Mdm2 (p53-binding protein Mdm2) (Oncoprotein Mdm2) (Double minute 2 protein) (Hdm2)",
+    "organism": "Homo sapiens (Human)",
+    "db_reference": "SWISS-PROT Q00987, MDM2_HUMAN",
+    "necessity": "Mutation of L199A/I202A greatly impaires nuclear shuttling in a heterokaryon-assay",
+    "sufficiency": "Aa 188-202 mediates export of GFP Aa 191-205 mediates export of GST",
+    "pathway": "Rev-like pathway",
+    "location": "Nucleus",
+    "regulation": "-",
+    "comments": "Discrepancy on Aa numbering: There is a difference of 6 in the numbering of amino acids between this sequence and these articles",
+    "references": "Roth J, Dobbelstein M, Freedman DA, Shenk T, Levine AJ, 1998 EMBO J 17: 554-64. Medline: 9430646 Zhang Y and Xiong Y, 2001 Science 292: 1910-5. Medline: 11397945",
+    "full_sequence": "MCNTNMSVPTDGAVTTSQIPASEQETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYCSNDLLGDLFGVPSFSVKEHRKIYTMIYRNLVVVNQQESSDSGTSVSENRCHLEGGSDQKDLVQELQEEKPSSSHLVSRPSTSSRRRAISETEENSDELSGERQRKRHKSDSISLSFDESLALCVIREICCERSSSSESTGTPSNPDLDAGVSEHSGDWLDQDSVSDQFSVEFEVESLDSEDYSLSEEGQELSDEDDEVYQVTVYQAGESDTDSFEEDPEISLADYWKCTSCNEMNPPLPSHCNRCWALRENWLPEDKGKDKGEISEKAKLENSTQAEEGFDVPDCKKTIVNDSRESCVEENDDKITQASQSQESEDYSQPSTSSSIIYSSQEDVKEFEREETQDKEESVESSLPLNAIEPCVICQGRPKNGCIVHGKTGHLMACFTCAKKLKKRNKPCPVCRQPIQMIVLTYFP",
+    "nes_segments": [
+      {
+        "start": 188,
+        "end": 202,
+        "sequence": "SISLSFDESLALCVI",
+        "critical_positions": [
+          199,
+          202
+        ],
+        "critical_residues": [
+          "L",
+          "I"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "Rev-like pathway"
+  },
+  {
+    "accession": "NES-0004",
+    "date": "14 Aug 2002",
+    "protein": "Xsmad4a",
+    "organism": "Xenopus laevis (African clawed frog).",
+    "db_reference": "TrEMBL Q9W639",
+    "necessity": "Necessary signal within the region of aa 134-320 (Deletional mutant context)",
+    "sufficiency": "Aa 137-46 mediates export of ovalbumin",
+    "pathway": "LMB-sensitive",
+    "location": "Cytoplasmic",
+    "regulation": "-",
+    "comments": "-",
+    "references": "Watanabe M, Masuyama N, Fukuda M and Nishida E, 2000 EMBO Rep 1: 176-82. Medline: 11265759",
+    "full_sequence": "MSITNTPTSNDACLSIVHSLMCHRQGGESETFAKRAIESLVKKLKEKKDELDSLITAITTNGAHPSKCVTIQRTLDGRLQVAGRKGFPHVIYARLWRWPDLHKNELKHVKYCQYAFDLKCDSVCVNPYHYERVVSPGIDLSGLTLQSSAPSGLLVKDEYGHDYAEGQQSISAGDGLSIQTIQHPPSSRSSTETYSNPALLVPSEPSTPNPTSFSSIPVPSTSQPASLLAATHNDGLLSIAPVPPQGTQNGFSAQPATYHHNSTTTWTGSRTAAYTPNMSHHPNGHLQHHPPMPHPGHYWPVHNELAFQPPISNHPAPDYWCSIAYFEMDVQVGETFKVPSSCPIVTVDGYVDPSGGDRFCLGQLSNVHRTEAIERARLHIGKGVQLECKGEGDVWVRCLSDHAVFVQSYYLDREAGRAPGDAVHKIYPSAYIKVFDLRQCHRQMQQQAATAQAAAAAQAAAVAGNIPGPGSVGGIAPAISLSAAAGIGVDDLRRLCILRMSFVKGWGPDYPRQSIKETPCWIEIHLHRALQLLDEVLHTMPIADPQPLD",
+    "nes_segments": [
+      {
+        "start": 137,
+        "end": 146,
+        "sequence": "GIDLSGLTLQ",
+        "critical_positions": [],
+        "critical_residues": []
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive"
+  },
+  {
+    "accession": "NES-0005",
+    "date": "14 Aug 2002",
+    "protein": "p120 catenin isoform 3AB",
+    "organism": "Homo sapiens (Human)",
+    "db_reference": "GenBank AF062338.1",
+    "necessity": "Exon B necessary for export",
+    "sufficiency": "Aa 755-71 mediates export of ovalbumin.",
+    "pathway": "LMB-sensitive",
+    "location": "Isoforms containing exon B are exclusively cytoplasmic. Isoforms lacking exon B are equally distributed between nucleus and cytoplam",
+    "regulation": "Regulation by alternative splicing. NES located in exon B.",
+    "comments": "32 different human isoforms",
+    "references": "van Hengel J, Vanhoenacker P, Staes K and van Roy F, 1999 Proc Natl Acad Sci U S A 96: 7980-5. Medline: 10393933",
+    "full_sequence": "MQEPGQIVETYTEEDPEGAMSVVSVETSDDGTTRRTETTVKKVVKTVTTRTVQPVAMGPDGLPVDASSVSNNYIQTLGRDFRKNGNGGPGPYVGQAGTATLPRNFHYPPDGYSRHYEDGYPGGSDNYGSLSRVTRIEERYRPSMEGYRAPSRQDVYGPQPQVRVGGSSVDLHRFHPEPYGLEDDQRSMGYDDLDYGMMSDYGTARRTGTPSDPRRRLRSYEDMIGEEVPSDQYYWAPLAQHERGSLASLDSLRKGGPPPPNWRQPELPEVIAMLGFRLDAVKSNAAAYLQHLCYRNDKVKTDVRKLKGIPVLVGLLDHPKKEVHLGACGALKNISFGRDQDNKIAIKNCDGVPALVRLLRKARDMDLTEVITGTLWNLSSHDSIKMEIVDHALHALTDEVIIPHSGWEREPNEDCKPRHIEWESVLTNTAGCLRNVSSERSEARRKLRECDGLVDALIFIVQAEIGQKDSDSKLVENCVCLLRNLSYQVHREIPQAERYQEAAPNVANNTGPHAASCFGAKKGKGKKPIEDPANDTVDFPKRTSPARGYELLFQPEVVRIYISLLKESKTPAILEASAGAIQNLCAGRWTYGRYIRSALRQEKALSAIADLLTNEHERVVKAASGALRNLAVDARNKELIGKHAIPNLVKNLPGGQQNSSWNFSEDTVISILNTINEVIAENLEAAKKLRETQGIEKLVLINKSGNRSEKEVRAAALVLQTIWGYKELRKPLEKEGWKKSDFQVNLNNASRSQSSHSYDDSTLPLIDRNQKSDKKPDREEIQMSNMGSNTKSLDNNYSTPNERGDHNRTLDRSGDLGDMEPLKGTTPLMQDEGQESLEEELDVLVLDDEGGQVSYPSMQKI",
+    "nes_segments": [
+      {
+        "start": 835,
+        "end": 851,
+        "sequence": "ESLEEELDVLVLDDEGG",
+        "critical_positions": [
+          844,
+          846
+        ],
+        "critical_residues": [
+          "L",
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive"
+  },
+  {
+    "accession": "NES-0006",
+    "date": "14 Aug 2002",
+    "protein": "MAP KINASE-ACTIVATED PROTEIN KINASE 2 (MAPK-ACTIVATED PROTEIN KINASE 2) (MAPKAP KINASE 2) (MAPKAPK-2)",
+    "organism": "Mus musculus (Mouse)",
+    "db_reference": "SWISS-PROT P49138, MKK2_MOUSE",
+    "necessity": "A L345A mutation of the otherwise exclusively cytoplasmic T319E mutant, results in nuclear localization",
+    "sufficiency": "Aa 330-353 is sufficient to mediate export of GFP, whereas neither aa 341-351 nor aa 337-353 are",
+    "pathway": "LMB-sensitive",
+    "location": "Predominantly nuclear",
+    "regulation": "Phosphorylation of  T319, but not T207, unmasks NES and allows export",
+    "comments": "Atypical NES with weak similarity to EAIV and FIV Rev NESs. Discrepancy of 2 in amino acid numbering between article and retrieved sequence",
+    "references": "Engel K, Kotlyarov A and Gaestel M, 1998 EMBO J 17: 3363-71. Medline: 9628873",
+    "full_sequence": "IRGSPGQTPPAPFPSPPPPAPAQPPPPFPQFHVKSGLQIRKNAITDDYKVTSQVLGLGINGKVLRIFDKRTQQKFALKMLQDCPKARREVELTWRASQCPHIVHIVDVYENLYAGRKCLLIVMECLDGGELFSRIQDRGDQAFTEREASEIMKSIGEAIQYLHSINIAHRDVKPENLLYTSKRPNAILKLTDFGFAKETTSHNSLTTPCYTPYYVAPEVLGPEKYDKSCDMWSLGVIMYILLCGYPPFYSNHGLAISPGMKTRIRMGQYEFPNPEWSEVSEEVKMLIRNLLKTEPTQRMTITEFMNHPWIMQSTKVPQTPLHTSRVLKEDKERWEDVKEEMTSALATMRVDYEQIKIKKIEDASNPLLLKRRKKARAVEDAALAH",
+    "nes_segments": [
+      {
+        "start": 330,
+        "end": 353,
+        "sequence": "DKERWEDVKEEMTSALATMRVDYE",
+        "critical_positions": [
+          345
+        ],
+        "critical_residues": [
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive"
+  },
+  {
+    "accession": "NES-0007",
+    "date": "14 Aug 2002",
+    "protein": "PROTO-ONCOGENE TYROSINE-PROTEIN KINASE ABL1 (P150) (C-ABL)",
+    "organism": "Mus musculus (Mouse)",
+    "db_reference": "SWISS-PROT P00520, ABL1_MOUSE",
+    "necessity": "L1090A mutation results in exclusively nuclear localization of both full-length protein and aa 998-1079.",
+    "sufficiency": "Aa 1078-96 mediates export of GST",
+    "pathway": "LMB-sensitive",
+    "location": "Predominantly nuclear",
+    "regulation": "-",
+    "comments": "Discrepancy of 26 in amino acid numbering between article and retrieved sequence.There is no sequence in the databases with the same aa numbering as the in the article",
+    "references": "Taagepera S, McDonald D, Loeb JE, Whitaker LL, McElroy AK, Wang JY and Hope TJ, 1998 Proc Natl Acad Sci U S A 95: 7457-62. Medline 9636171",
+    "full_sequence": "MLEICLKLVGCKSKKGLSSSSSCYLEEALQRPVASDFEPQGLSEAARWNSKENLLAGPSENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVNSLEKHSWYHGPVSRNAAEYLLSSGINGSFLVRESESSPGQRSISLRYEGRVYHYRINTASDGKLYVSSESRFNTLAELVHHHSTVADGLITTLHYPAPKRNKPTIYGVSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKKYSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTREPPFYIITEFMTYGNLLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADFGLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPGIDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSISDEVEKELGKRGTRGGAGSMLQAPELPTKTRTCRRAAEQKDAPDTPELLHTKGLGESDALDSEPAVSPLLPRKERGPPDGSLNEDERLLPRDRKTNLFSALIKKKKKMAPTPPKRSSSFREMDGQPDRRGASEDDSRELCNGPPALTSDAAEPTKSPKASNGAGVPNGAFREPGNSGFRSPHMWKKSSTLTGSRLAAAEEESGMSSSKRFLRSCSASCMPHGARDTEWRSVTLPRDLPSAGKQFDSSTFGGHKSEKPALPRKRTSESRSEQVAKSTAMPLPGWLKKNEEAAEEGFKDTESSPGSSPPSLTPKLLRRQVTASPSSGLSHKEEATKGSASGMGTPATAEPAPPSNKVGLSKASSEEMRVRRHKHSSESPGRDKGRLAKLKPAPPPPPACTGKAGKPAQSPSQEAGEAGGPTKTKCTSLAMDAVNTDPTKAGPPGEGLRKPVPPSVPKPQSTAKPPGTPTSPVSTPSTAPAPSPLAGDQQPSSAAFIPLISTRVSLRKTRQPPERIASGTITKGVVLDSTEALCLAISRNSEQMASHSAVLEAGKNLYTFCVSYVDSIQQMRNKFAFREAINKLESNLRELQICPATASSGPAATQDFSKLLSSVKEISDIVRR",
+    "nes_segments": [
+      {
+        "start": 1078,
+        "end": 1096,
+        "sequence": "EAINKLESNLRELQICPAT",
+        "critical_positions": [
+          1090
+        ],
+        "critical_residues": [
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive"
+  },
+  {
+    "accession": "NES-0008",
+    "date": "14 Aug 2002",
+    "protein": "G2/MITOTIC-SPECIFIC CYCLIN B1",
+    "organism": "Homo sapiens (Human)",
+    "db_reference": "SWISS-PROT P14635, CGB1_HUMAN",
+    "necessity": "V149A/L151A/V153A mutation abrogates export of full-length protein",
+    "sufficiency": "Aa 141-52 mediates export of ovalbumin",
+    "pathway": "LMB-sensitive",
+    "location": "Cytoplasmic during S and G(2)-phases, but nuclear during prophase",
+    "regulation": "-",
+    "comments": "-",
+    "references": "Toyoshima F, Moriguchi T, Wada A, Fukuda M and Nishida E, 1998 EMBO J 17: 2728-35. Medline: 9582266",
+    "full_sequence": "MALRVTRNSKINAENKAKINMAGAKRVPTAPAATSKPGLRPRTALGDIGNKVSEQLQAKMPMKKEAKPSATGKVIDKKLPKPLEKVPMLVPVPVSEPVPEPEPEPEPEPVKEEKLSPEPILVDTASPSPMETSGCAPAEEDLCQAFSDVILAVNDVDAEDGADPNLCSEYVKDIYAYLRQLEEEQAVRPKYLLGREVTGNMRAILIDWLVQVQMKFRLLQETMYMTVSIIDRFMQNNCVPKKMLQLVGVTAMFIASKYEEMYPPEIGDFAFVTDNTYTKHQIRQMEMKILRALNFGLGRPLPLHFLRRASKIGEVDVEQHTLAKYLMELTMLDYDMVHFPPSQIAAGAFCLALKILDNGEWTPTLQHYLSYTEESLLPVMQHLAKNVVMVNQGLTKHMTVKNKYATSKHAKISTLPQLNSALVQDLAKAVAKV",
+    "nes_segments": [
+      {
+        "start": 141,
+        "end": 153,
+        "sequence": "DLCQAFSDVILAV",
+        "critical_positions": [
+          149,
+          151,
+          153
+        ],
+        "critical_residues": [
+          "V",
+          "L",
+          "V"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive"
+  },
+  {
+    "accession": "NES-0009",
+    "date": "14 Aug 2002",
+    "protein": "Actin",
+    "organism": "Saccharomyces cerevisiae (Baker's yeast)",
+    "db_reference": "SWISS-PROT P02579, ACT_YEAST",
+    "necessity": "Mutation of both NESs (I178A/L180A/V219A/L221A), reults in exclusively nuclear localization. Mutation of one NES at the time results in inhibition of export",
+    "sufficiency": "Both NESs individually sufficient to mediate export of ovalbumin. Shown with peptides of mammalian actin alfa corresponding to Sc actin aa 170-81 and aa 211-22 respectively",
+    "pathway": "LMB-sensitive",
+    "location": "Cytoplasmic",
+    "regulation": "-",
+    "comments": "2 NESs in this sequence.",
+    "references": "Wada A, Fukuda M, Mishima M and Nishida E, 1998 EMBO J 17: 1635-41. Medline: 9501085",
+    "full_sequence": "MDSEVAALVIDNGSGMCKAGFAGDDAPRAVFPSIVGRPRHQGIMVGMGQKDSYVGDEAQSKRGILTLRYPIEHGIVTNWDDMEKIWHHTFYNELRVAPEEHPVLLTEAPMNPKSNREKMTQIMFETFNVPAFYVSIQAVLSLYSSGRTTGIVLDSGDGVTHVVPIYAGFSLPHAILRIDLAGRDLTDYLMKILSERGYSFSTTAEREIVRDIKEKLCYVALDFEQEMQTAAQSSSIEKSYELPDGQVITIGNERFRAPEALFHPSVLGLESAGIDQTTYNSIMKCDVDVRKELYGNIVMSGGTTMFPGIAERMQKEITALAPSSMKVKIIAPPERKYSVWIGGSILASLTTFQQMWISKQEYDESGPSIVHHKCF",
+    "nes_segments": [
+      {
+        "start": 170,
+        "end": 181,
+        "sequence": "SLPHAILRIDLA",
+        "critical_positions": [
+          178,
+          180
+        ],
+        "critical_residues": [
+          "I",
+          "L"
+        ]
+      },
+      {
+        "start": 211,
+        "end": 222,
+        "sequence": "DIKEKLCYVALD",
+        "critical_positions": [
+          219,
+          221
+        ],
+        "critical_residues": [
+          "V",
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive"
+  },
+  {
+    "accession": "NES-0010",
+    "date": "14 Aug 2002",
+    "protein": "HIV-1 Rev protein",
+    "organism": "Human immunodeficiency virus type 1 (CDC-451 isolate) (HIV-1)",
+    "db_reference": "SWISS-PROT P05865, REV_HV1C4. NLSdb NLS:166",
+    "necessity": "-",
+    "sufficiency": "Aa 75-83 mediates export of GST and BSA. Export abrogated by the L78D/E79L and L83A mutations.",
+    "pathway": "LMB-sensitive (Henderson and Eleftheriou 2000).",
+    "location": "-",
+    "regulation": "-",
+    "comments": "-",
+    "references": "Fischer U, Huber J, Boelens WC, Mattaj IW and Luhrmann R, 1995 Cell 82: 475-83. Medline: 7543368 Henderson BR and Eleftheriou A, 2000 Exp Cell Res 2000 256: 213-24, Medline: 10739668",
+    "full_sequence": "MAGRSGDSDEELIKTVRIIKHLYQSNPPPKPEGTRQARRNRRRRWRERQRRIHSISAWLLSTCLGRSAEPVPLQLPPLERLTLDCSEDCGTSGTQGVGSPQILVESPAVLESGTKE",
+    "nes_segments": [
+      {
+        "start": 75,
+        "end": 83,
+        "sequence": "LPPLERLTL",
+        "critical_positions": [
+          78,
+          79,
+          83
+        ],
+        "critical_residues": [
+          "L",
+          "E",
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive (Henderson and Eleftheriou 2000)."
+  },
+  {
+    "accession": "NES-0011",
+    "date": "14 Aug 2002",
+    "protein": "Rex protein",
+    "organism": "Human T-lymphotropic virus 1",
+    "db_reference": "TrEMBL Q82233",
+    "necessity": "-",
+    "sufficiency": "Aa 81-94 mediates export of GST. Export abrogated by L90A/L92A.",
+    "pathway": "-",
+    "location": "-",
+    "regulation": "-",
+    "comments": "-",
+    "references": "Bogerd HP, Fridell RA, Benson RE, Hua J and Cullen BR, 1996 Mol Cell Biol 16: 4207-14. Medline: 8754820",
+    "full_sequence": "MPKTRRRPRRSQRKRPPTPWPTSQGLDRVFFSDTQSTCLETVYKATGAPSLGDYVRPAYIVTPYWPPVQSIRSPGTPSMDALSAQLYSSLSLDSPPSPPREPLRPSRSLPRQSLIQPPTFHPPSSRPCANTPPSEMDTWNPPLGSTSQPCLFQTPDSGPKTCTPSGEAPLSACTSTSFPPPSPGPSCPT",
+    "nes_segments": [
+      {
+        "start": 80,
+        "end": 94,
+        "sequence": "DALSAQLYSSLSLDS",
+        "critical_positions": [
+          82,
+          86,
+          90,
+          92
+        ],
+        "critical_residues": [
+          "L",
+          "L",
+          "L",
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": null,
+    "crm1_evidence_text": "-"
+  },
+  {
+    "accession": "NES-0012",
+    "date": "14 Aug 2002",
+    "protein": "Dual specificity mitogen-activated protein kinase kinase 1 (MAP kinase kinase 1) (MAPKK 1) (ERK activator kinase 1) (MAPK/ERK kinase 1) (MEK1)",
+    "organism": "Xenopus laevis (African clawed frog)",
+    "db_reference": "SWISS-PROT Q05116, MPK1_XENLA",
+    "necessity": "Delta 31-50, L32A/L36A and L39A/L41A all lead to whole cell distribution",
+    "sufficiency": "Aa 32-44 mediates export of ovalbumin, which is abrogated by L32A/L36A/L39A/L41A",
+    "pathway": "LMB-sensitive",
+    "location": "Cytoplasmic",
+    "regulation": "-",
+    "comments": "Discrepancy of 1 in amino acid numbering between article and retrieved sequence",
+    "references": "Fukuda M, Gotoh I, Gotoh Y and Nishida E, 1996 J Biol Chem 271: 20024-8. Medline: 8702720 Fukuda M, Asano S, Nakamura T, Adachi M, Yoshida M, Yanagida M and Nishida E, 1997 Nature 390: 308-11. Medline: 9384386",
+    "full_sequence": "PKKKPTPIQLNPNPEGTAVNGTPTAETNLEALQKKLEELELDEQQRKRLEAFLTQKQKVGELKDDDFEKVSELGAGNGGVVFKVSHKPTSLIMARKLIHLEIKPAIRNQIIRELQVLHECNSPYIVGFYGAFYSDGEISICMEHMDGGSLDQVLKKAGKIPEKILGKVSIAVIKGLTYLREKHKIMHRDVKPSNILVNSRGEIKLCDFGVSGQLIDSMANSFVGTRSYMSPERLQGTHYSVQSDIWSMGLSLVEMAIGRYPIPPPDAKELELIFGCSVERDPASSELAPRPRPPGRPISSYGPDSRPPMAIFELLDYIVNEPPPKLPSGVFGAEFQDFVNKCLVKNPAERADLKQLMVHSFIKQSELEEVDFAGWLCSTMGLKQPSTPTHAAGV",
+    "nes_segments": [
+      {
+        "start": 32,
+        "end": 44,
+        "sequence": "LQKKLEELELDEQ",
+        "critical_positions": [
+          32,
+          36,
+          39,
+          41
+        ],
+        "critical_residues": [
+          "L",
+          "L",
+          "L",
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive"
+  },
+  {
+    "accession": "NES-0013",
+    "date": "14 Aug 2002",
+    "protein": "EPIDERMAL GROWTH FACTOR RECEPTOR SUBSTRATE 15 (PROTEIN EPS15) (AF-1P PROTEIN)",
+    "organism": "Homo sapiens (Human)",
+    "db_reference": "SWISS-PROT P42566, EP15_HUMAN",
+    "necessity": "Aa 766-896 necessary in full-length context. Aa 849-896 necessary in a deletional mutant context. I893A, L882A/L884A and I886A/L888A leads to nucelar accumulation. Aa 890-96 indirectly necessary, since aa 766-896 is sufficient to mediate export of GFP, whereas aa 766-890 is not",
+    "sufficiency": "Aa 766-896 is mediates export of GFP, whereas aa 766-890 does not.",
+    "pathway": "LMB-sensitive",
+    "location": "Cytoplasmic",
+    "regulation": "-",
+    "comments": "-",
+    "references": "Poupon V, Polo S, Vecchi M, Martin G, Dautry-Varsat A, Cerf-Bensussan N, Di Fiore PP and Benmerah A, 2002 J Biol Chem 277: 8941-8. Medline: 11777906",
+    "full_sequence": "MAAAAQLSLTQLSSGNPVYEKYYRQVDTGNTGRVLASDAAAFLKKSGLPDLILGKIWDLADTDGKGILNKQEFFVALRLVACAQNGLEVSLSSLNLAVPPPRFHDTSSPLLISGTSAAELPWAVKPEDKAKYDAIFDSLSPVNGFLSGDKVKPVLLNSKLPVDILGRVWELSDIDHDGMLDRDEFAVAMFLVYCALEKEPVPMSLPPALVPPSKRKTWVVSPAEKAKYDEIFLKTDKDMDGFVSGLEVREIFLKTGLPSTLLAHIWSLCDTKDCGKLSKDQFALAFHLISQKLIKGIDPPHVLTPEMIPPSDRASLQKNIIGSSPVADFSAIKELDTLNNEIVDLQREKNNVEQDLKEKEDTIKQRTSEVQDLQDEVQRENTNLQKLQAQKQQVQELLDELDEQKAQLEEQLKEVRKKCAEEAQLISSLKAELTSQESQISTYEEELAKAREELSRLQQETAELEESVESGKAQLEPLQQHLQDSQQEISSMQMKLMEMKDLENHNSQLNWCSSPHSILVNGATDYCSLSTSSSETANLNEHVEGQSNLESEPIHQESPARSSPELLPSGVTDENEVTTAVTEKVCSELDNNRHSKEEDPFNVDSSSLTGPVADTNLDFFQSDPFVGSDPFKDDPFGKIDPFGGDPFKGSDPFASDCFFRQSTDPFATSSTDPFSAANNSSITSVETLKHNDPFAPGGTVVAASDSATDPFASVFGNESFGGGFADFSTLSKVNNEDPFRSATSSSVSNVVITKNVFEETSVKSEDEPPALPPKIGTPTRPCPLPPGKRSINKLDSPDPFKLNDPFQPFPGNDSPKEKDPEMFCDPFTSATTTTNKEADPSNFANFSAYPSEEDMIEWAKRESEREEEQRLARLNQQEQEDLELAIALSKSEISEAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaMaMaMaMaaaaMaaa",
+    "nes_segments": [
+      {
+        "start": 766,
+        "end": 800,
+        "sequence": "DEPPALPPKIGTPTRPCPLPPGKRSINKLDSPDPF",
+        "critical_positions": [],
+        "critical_residues": []
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive"
+  },
+  {
+    "accession": "NES-0014",
+    "date": "14 Aug 2002",
+    "protein": "Breast cancer type 1 susceptibility protein (BRCA1)",
+    "organism": "Homo sapiens (Human)",
+    "db_reference": "SWISS-PROT P38398, BRC1_HUMAN. NLSdb NLS:49",
+    "necessity": "L86A/I90A abrogates export of full-length protein",
+    "sufficiency": "Aa 81-99 mediates export of GFP",
+    "pathway": "LMB-sensitive and Crm-dependent",
+    "location": "Whole cell distribution in most cells, but also exclusively either nuclear or cytoplasmic in some cells",
+    "regulation": "-",
+    "comments": "-",
+    "references": "Rodriguez JA, Henderson BR, 2000 J Biol Chem 275: 38589-96. Medline: 10991937",
+    "full_sequence": "MDLSALRVEEVQNVINAMQKILECPICLELIKEPVSTKCDHIFCKFCMLKLLNQKKGPSQCPLCKNDITKRSLQESTRFSQLVEELLKIICAFQLDTGLEYANSYNFAKKENNSPEHLKDEVSIIQSMGYRNRAKRLLQSEPENPSLQETSLSVQLSNLGTVRTLRTKQRIQPQKTSVYIELGSDSSEDTVNKATYCSVGDQELLQITPQGTRDEISLDSAKKAACEFSETDVTNTEHHQPSNNDLNTTEKRAAERHPEKYQGSSVSNLHVEPCGTNTHASSLQHENSSLLLTKDRMNVEKAEFCNKSKQPGLARSQHNRWAGSKETCNDRRTPSTEKKVDLNADPLCERKEWNKQKLPCSENPRDTEDVPWITLNSSIQKVNEWFSRSDELLGSDDSHDGESESNAKVADVLDVLNEVDEYSGSSEKIDLLASDPHEALICKSERVHSKSVESNIEDKIFGKTYRKKASLPNLSHVTENLIIGAFVTEPQIIQERPLTNKLKRKRRPTSGLHPEDFIKKADLAVQKTPEMINQGTNQTEQNGQVMNITNSGHENKTKGDSIQNEKNPNPIESLEKESAFKTKAEPISSSISNMELELNIHNSKAPKKNRLRRKSSTRHIHALELVVSRNLSPPNCTELQIDSCSSSEEIKKKKYNQMPVRHSRNLQLMEGKEPATGAKKSNKPNEQTSKRHDSDTFPELKLTNAPGSFTKCSNTSELKEFVNPSLPREEKEEKLETVKVSNNAEDPKDLMLSGERVLQTERSVESSSISLVPGTDYGTQESISLLEVSTLGKAKTEPNKCVSQCAAFENPKGLIHGCSKDNRNDTEGFKYPLGHEVNHSRETSIEMEESELDAQYLQNTFKVSKRQSFAPFSNPGNAEEECATFSAHSGSLKKQSPKVTFECEQKEENQGKNESNIKPVQTVNITAGFPVVGQKDKPVDNAKCSIKGGSRFCLSSQFRGNETGLITPNKHGLLQNPYRIPPLFPIKSFVKTKCKKNLLEENFEEHSMSPEREMGNENIPSTVSTISRNNIRENVFKEASSSNINEVGSSTNEVGSSINEIGSSDENIQAELGRNRGPKLNAMLRLGVLQPEVYKQSLPGSNCKHPEIKKQEYEEVVQTVNTDFSPYLISDNLEQPMGSSHASQVCSETPDDLLDDGEIKEDTSFAENDIKESSAVFSKSVQKGELSRSPSPFTHTHLAQGYRRGAKKLESSEENLSSEDEELPCFQHLLFGKVNNIPSQSTRHSTVATECLSKNTEENLLSLKNSLNDCSNQVILAKASQEHHLSEETKCSASLFSSQCSELEDLTANTNTQDPFLIGSSKQMRHQSESQGVGLSDKELVSDDEERGTGLEENNQEEQSMDSNLGEAASGCESETSVSEDCSGLSSQSDILTTQQRDTMQHNLIKLQQEMAELEAVLEQHGSQPSNSYPSIISDSSALEDLRNPEQSTSEKAVLTSQKSSEYPISQNPEGLSADKFEVSADSSTSKNKEPGVERSSPSKCPSLDDRWYMHSCSGSLQNRNYPSQEELIKVVDVEEQQLEESGPHDLTETSYLPRQDLEGTPYLESGISLFSDDPESDPSEDRAPESARVGNIPSSTSALKVPQLKVAESAQSPAAAHTTDTAGYNAMEESVSREKPELTASTERVNKRMSMVVSGLTPEEFMLVYKFARKHHITLTNLITEETTHVVMKTDAEFVCERTLKYFLGIAGGKWVVSYFWVTQSIKERKMLNEHDFEVRGDVVNGRNHQGPKRARESQDRKIFRGLEICCYGPFTNMPTDQLEWMVQLCGASVVKELSSFTLGTGVHPIVVVQPDAWTEDNGFHAIGQMCEAPVVTREWVLDSVALYQCQELDTYLIPQIPHSHY",
+    "nes_segments": [
+      {
+        "start": 81,
+        "end": 99,
+        "sequence": "QLVEELLKIICAFQLDTGL",
+        "critical_positions": [
+          86,
+          90
+        ],
+        "critical_residues": [
+          "L",
+          "I"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive and Crm-dependent"
+  },
+  {
+    "accession": "NES-0015",
+    "date": "14 Aug 2002",
+    "protein": "Transcription factor p65 (Nuclear factor NF-kappa-B p65 subunit) (RelA)",
+    "organism": "Homo sapiens (Human)",
+    "db_reference": "SWISS-PROT Q04206, TF65_HUMAN. NLSdb NLS:17",
+    "necessity": "Delta 440-43 abrogates export of full-length protein",
+    "sufficiency": "Aa 436-45 is mediates export of a p50-GFP fusion construct",
+    "pathway": "LMB-sensitive",
+    "location": "Cytoplasmic when not complexed with p50 subunit of NF-kappa-B",
+    "regulation": "-",
+    "comments": "-",
+    "references": "Harhaj EW and Sun SC, 1999 Mol Cell Biol 19: 7088-95. Medline: 10490645",
+    "full_sequence": "MDELFPLIFPAEPAQASGPYVEIIEQPKQRGMRFRYKCEGRSAGSIPGERSTDTTKTHPTIKINGYTGPGTVRISLVTKDPPHRPHPHELVGKDCRDGFYEAELCPDRCIHSFQNLGIQCVKKRDLEQAISQRIQTNNNPFQVPIEEQRGDYDLNAVRLCFQVTVRDPSGRPLRLPPVLPHPIFDNRAPNTAELKICRVNRNSGSCLGGDEIFLLCDKVQKEDIEVYFTGPGWEARGSFSQADVHRQVAIVFRTPPYADPSLQAPVRVSMQLRRPSDRELSEPMEFQYLPDTDDRHRIEEKRKRTYETFKSIMKKSPFSGPTDPRPPPRRIAVPSRSSASVPKPAPQPYPFTSSLSTINYDEFPTMVFPSGQISQASALAPAPPQVLPQAPAPAPAPAMVSALAQAPAPVPVLAPGPPQAVAPPAPKPTQAGEGTLSEALLQLQFDDEDLGALLGNSTDPAVFTDLASVDNSEFQQLLNQGIPVAPHTTEPMLMEYPEAITRLVTGAQRPPDPAPAPLGAPGLPNGLLSGDEDFSSIADMDFSALLSQISS",
+    "nes_segments": [
+      {
+        "start": 436,
+        "end": 445,
+        "sequence": "LSEALLQLQF",
+        "critical_positions": [
+          440,
+          441,
+          442,
+          443
+        ],
+        "critical_residues": [
+          "L",
+          "L",
+          "Q",
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive"
+  },
+  {
+    "accession": "NES-0016",
+    "date": "14 Aug 2002",
+    "protein": "Heat shock factor protein HSF30 (Heat shock transcription factor 30) (HSTF 30) (Heat stress transcription factor) (HsfA2)",
+    "organism": "Lycopersicon peruvianum (Peruvian tomato)",
+    "db_reference": "SWISS-PROT P41152, HSF3_LYCPE",
+    "necessity": "Deletion of the most C-terminal 8 residues or mutation of L344A/L348A/L351A abrogates export",
+    "sufficiency": "C-terminal 23 aa mediates export of the otherwise completely nuclear HsfB1.",
+    "pathway": "LMB-sensitive",
+    "location": "Cytosolic",
+    "regulation": "Becomes nuclear upon coexpression of HsfA1",
+    "comments": "-",
+    "references": "Heerklotz D, Doring P, Bonzelius F, Winkelhaus S and Nover L, 2001 Mol Cell Biol 21: 1759-68. Medline: 11238913",
+    "full_sequence": "MEDVMKVKVEEDGIPTAVLPMEGLHDVGPPPFLSKTYEMVEDSSTDQVISWSTTRNSFIVWDSHKFSTTLLPRFFKHSNFSSFIRQLNTYGFRKVDPDRWEFANEGFLGGQKHLLKTIKRRRNVGQSMNQQGSGACIEIGYYGMEEELERLKRDKNVLMTEIVKLRQQQQSTRNQIIAMGEKIETQERKQVQMMSFLAKIFSNPTFLQQYLDKQVHRKDKQRIEVGQKRRLTMTPSVTGSDQPMNYSSSLQESEAELASIEMLFSAAMDNESSSNVRPDSVVTANGTDMEPVADDIWEELLSEDLISGDRAAEEVVVVEQPEFDVEVEDLVVKTPEWGEELQDLVDQLGFL",
+    "nes_segments": [
+      {
+        "start": 328,
+        "end": 351,
+        "sequence": "EDLVVKTPEWGEELQDLVDQLGFL",
+        "critical_positions": [
+          344,
+          348,
+          351
+        ],
+        "critical_residues": [
+          "L",
+          "L",
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive"
+  },
+  {
+    "accession": "NES-0017",
+    "date": "14 Aug 2002",
+    "protein": "AP-1-like transcription factor (Pap1)",
+    "organism": "Schizosaccharomyces pombe (Fission yeast)",
+    "db_reference": "SWISS-PROT Q01663, AP1_SCHPO",
+    "necessity": "Delta 488-544 abrogates export",
+    "sufficiency": "Aa 515-533 mediates export of GST-GFP fusion. Export abrogated by L522A, L526A, F517A/I519A and C523S/C532S and greatly impaired by I519A and C532S",
+    "pathway": "Crm-dependent, LMB-sensitive",
+    "location": "Cytoplasmic",
+    "regulation": "Regulated by oxidation of cysteine in the NES region",
+    "comments": "-",
+    "references": "Kudo N, Taoka H, Toda T, Yoshida M and Horinouchi S, 1999 J Biol Chem 274: 15151-8. Medline: 10329722",
+    "full_sequence": "MSGQTETLSSTSNIPIAKAEPEQSADFSASHKKRGPVSDRSSRRTSSEEVDLMPNVDDEVDGDVKPKKIGRKNSDQEPSSKRKAQNRAAQRAFRKRKEDHLKALETQVVTLKELHSSTTLENDQLRQKVRQLEEELRILKDGSFTFEMSLPHRNPSLSSLPTTGFSSNFAHMKDGISPQSNLHLSPNSIEKPNMHQNVLHNDRSADNLNHRYQVPPTLVDSNSAQGTLSPETPSSSDSPSNLYLNYPKRKSITHLHHDCSALSNGENGEDVADGKQFCQKLSTACGSIACSMLTKTTPHRASVDILSNLHESTVSPPMADESVQRSSEVSKSIPNVELSLNVNQQFVSPFGGTDSFPLPTDTGLDSLFEPDSAIENSHLKNVVMEPELFQAWREPAESLDKEFFNDEGEIDDVFHNYFHNSNENGDLITNSLHGLDFLENANESFPEQMYPFIKHNKDYISNHPDEVPPDGLPQKGKHDTSSQMPSENEIVPAKERAYLSCPKVWSKIINHPRFESFDIDDLCSKLKNKAKCSSSGVLLDERDVEAALNQFN",
+    "nes_segments": [
+      {
+        "start": 515,
+        "end": 533,
+        "sequence": "ESFDIDDLCSKLKNKAKCS",
+        "critical_positions": [
+          517,
+          519,
+          522,
+          523,
+          526,
+          532
+        ],
+        "critical_residues": [
+          "F",
+          "I",
+          "L",
+          "C",
+          "L",
+          "C"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "Crm-dependent, LMB-sensitive"
+  },
+  {
+    "accession": "NES-0018",
+    "date": "14 Aug 2002",
+    "protein": "Signal transducer and activator of transcription 1-alpha/beta (Transcription factor ISGF-3 components p91/p84)",
+    "organism": "Homo sapiens (Human)",
+    "db_reference": "SWISS-PROT P42224, STA1_HUMAN",
+    "necessity": "L199A greatly impairs export",
+    "sufficiency": "Aa 197-205 sufficient to mediate export of GFP",
+    "pathway": "LMB-sensitivity, Crm-interaction",
+    "location": "-",
+    "regulation": "-",
+    "comments": "-",
+    "references": "Mowen K and David M, 2000 Mol Cell Biol 20: 7273-81. Medline: 10982844",
+    "full_sequence": "MSQWYELQQLDSKFLEQVHQLYDDSFPMEIRQYLAQWLEKQDWEHAANDVSFATIRFHDLLSQLDDQYSRFSLENNFLLQHNIRKSKRNLQDNFQEDPIQMSMIIYSCLKEERKILENAQRFNQAQSGNIQSTVMLDKQKELDSKVRNVKDKVMCIEHEIKSLEDLQDEYDFKCKTLQNREHETNGVAKSDQKQEQLLLKKMYLMLDNKRKEVVHKIIELLNVTELTQNALINDELVEWKRRQQSACIGGPPNACLDQLQNWFTIVAESLQQVRQQLKKLEELEQKYTYEHDPITKNKQVLWDRTFSLFQQLIQSSFVVERQPCMPTHPQRPLVLKTGVQFTVKLRLLVKLQELNYNLKVKVLFDKDVNERNTVKGFRKFNILGTHTKVMNMEESTNGSLAAEFRHLQLKEQKNAGTRTNEGPLIVTEELHSLSFETQLCQPGLVIDLETTSLPVVVISNVSQLPSGWASILWYNMLVAEPRNLSFFLTPPCARWAQLSEVLSWQFSSVTKRGLNVDQLNMLGEKLLGPNASPDGLIPWTRFCKENINDKNFPFWLWIESILELIKKHLLPLWNDGCIMGFISKERERALLKDQQPGTFLLRFSESSREGAITFTWVERSQNGGEPDFHAVEPYTKKELSAVTFPDIIRNYKVMAAENIPENPLKYLYPNIDKDHAFGKYYSRPKEAPEPMELDGPKGTGYIKTELISVSEVHPSRLQTTDNLLPMSPEEFDEVSRIVGSVEFDSMMNTV",
+    "nes_segments": [
+      {
+        "start": 197,
+        "end": 205,
+        "sequence": "LLLKKMYLM",
+        "critical_positions": [
+          199
+        ],
+        "critical_residues": [
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitivity, Crm-interaction"
+  },
+  {
+    "accession": "NES-0019",
+    "date": "14 Aug 2002",
+    "protein": "Metal-regulatory transcription factor (MTF1)",
+    "organism": "Homo sapiens (Human)",
+    "db_reference": "TrEMBL Q14872",
+    "necessity": "L338A/L341A/L343A/L344A abrogates export of full-length MTF1",
+    "sufficiency": "Aa 336-44 mediates nuclear exclusion of tandem eGFP",
+    "pathway": "LMB-sensitive",
+    "location": "-",
+    "regulation": "-",
+    "comments": "-",
+    "references": "Saydam N, Georgiev O, Nakano MY, Greber UF and Schaffner W, 2001 J Biol Chem 276: 25487-95. Medline: 11306562",
+    "full_sequence": "MGEHSPDNNIIYFEAEEDELTPDDKMLRFVDKNGLVPSSSGTVYDRTTVLIEQDPGTLEDEDDDGQCGEHLPFLVGGEEGFHLIDHEAMSQGYVQHIISPDQIHLTINPGSTPMPRNIEGATLTLQSECPETKRKEVKRYQCTFEGCPRTYSTAGNLRTHQKTHRGEYTFVCNQEGCGKAFLTSHSLRIHVRVHTKEKPFECDVQGCEKAFNTLYRLKAHQRLHTGKTFNCESEGCSKYFTTLSDLRKHIRTHTGEKPFRCDHDGCGKAFAASHHLKTHVRTHTGERPFFCPSNGCEKTFSTQYSLKSHMKGHDNKGHSYNALPQHNGSEDTNHSLCLSDLSLLSTDSELRENSSTTQGQDLSTISPAIIFESMFQNSDDTAIQEDPQQTASLTESFNGDAESVSDVPPSTGNSASLSLPLVLQPGLSEPPQPLLPASAPSAPPPAPSLGPGSQQAAFGNPPALLQPPEVPVPHSTQFAANHQEFLPHPQAPQPIVPGLSVVAGASASAAAVASAVAAPAPPQSTTEPLPAMVQTLPLGANSVLTNNPTITITPTPNTAILQSSLVMGEQNLQWILNGATSSPQNQEQIQQASKVEKVFFTTAVPVASSPGSSVQQIGLSVPVIIIKQEEACQCQCACRDSAKERASSRRKGCSSPPPPEPSPQAPDGPSLQLPAQTFSSAPVPGSSSSTLPSSCEQSRQAETPSDPQTETLSAMDVSEFLSLQSLDTPSNLIPIEALLQGEEEMGLTSSFSK",
+    "nes_segments": [
+      {
+        "start": 336,
+        "end": 344,
+        "sequence": "LCLSDLSLL",
+        "critical_positions": [
+          338,
+          341,
+          343,
+          344
+        ],
+        "critical_residues": [
+          "L",
+          "L",
+          "L",
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive"
+  },
+  {
+    "accession": "NES-0020",
+    "date": "14 Aug 2002",
+    "protein": "Heat shock protein SSB1 (Cold-inducible protein YG101) (Ssb1)",
+    "organism": "Saccharomyces cerevisiae (Baker's yeast)",
+    "db_reference": "SWISS-PROT P11484, HS75_YEAST",
+    "necessity": "Delta 546-613 in full-length context leads to whole cell distribution",
+    "sufficiency": "Aa 546-99 mediates complete export of GFP-protein A fusion. Export mediated by aa 546-86 is less efficient. Delta 574-87 in a 545-612 context abrogates export",
+    "pathway": "Crm-dependent",
+    "location": "Cytoplasmic",
+    "regulation": "-",
+    "comments": "-",
+    "references": "Shulga N, James P, Craig EA and Goldfarb DS, 1999 J Biol Chem 274: 16501-7. Medline: 10347213",
+    "full_sequence": "AEGVFQGAIGIDLGTTYSCVATYESSVEIIANEQGNRVTPSFVAFTPEERLIGDAAKNQAALNPRNTVFDAKRLIGRRFDDESVQKDMKTWPFKVIDVDGNPVIEVQYLEETKTFSPQEISAMVLTKMKEIAEAKIGKKVEKAVITVPAYFNDAQRQATKDAGAISGLNVLRIINEPTAAAIAYGLGAGKSEKERHVLIFDLGGGTFDVSLLHIAGGVYTVKSTSGNTHLGGQDFDTNLLEHFKAEFKKKTGLDISDDARALRRLRTAAERAKRTLSSVTQTTVEVDSLFDGEDFESSLTRARFEDLNAALFKSTLEPVEQVLKDAKISKSQIDEVVLVGGSTRIPKVQKLLSDFFDGKQLEKSINPDEAVAYGAAVQGAILTGQSTSDETKDLLLLDVAPLSLGVGMQGDMFGIVVPRNTTVPTIKRRTFTTCADNQTTVQFPVYQGERVNCKENTLLGEFDLKNIPMMPAGEPVLEAIFEVDANGILKVTAVEKSTGKSSNITISNAVGRLSSEEIEKMVNQAEEFKAADEAFAKKHEARQRLESYVASIEQTVTDPVLSSKLKRGSKSKIEAALSDALAALQIEDPSADELRKAEVGLKRVVTKAMSSR",
+    "nes_segments": [
+      {
+        "start": 574,
+        "end": 587,
+        "sequence": "EAALSDALAALQIE",
+        "critical_positions": [],
+        "critical_residues": []
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "Crm-dependent"
+  },
+  {
+    "accession": "NES-0021",
+    "date": "14 Aug 2002",
+    "protein": "RNA export factor GLE1",
+    "organism": "Saccharomyces cerevisiae (Baker's yeast)",
+    "db_reference": "SWISS-PROT Q12315, GLE1_YEAST. NLSdb NLS:270",
+    "necessity": "Delta 351-58 is inviable. Each of the mutantions L351A, L353A, L356A, and L358A lead to inhibition of poly(a)+ RNA export",
+    "sufficiency": "Aa 350-58 mediates export of HSA (human serum albumin). Each of the above-mentioned mutants abrogates export",
+    "pathway": "-",
+    "location": "Predominantly at nuclear pore complexes",
+    "regulation": "-",
+    "comments": "-",
+    "references": "Murphy R and Wente SR, 1996 Nature 383: 357-60. Medline: 8848052",
+    "full_sequence": "MRFVFDEVFNSDTDSPEFEETCSTTSSTSSQCPTPEPSPAIKLPSFTKVGTKKLVNESVVILDPALENALRDLNLQSKLIPINEPIVAASSIIVPHSTNMPLPRASHSSLLDNAKNSNATAPLLEAIEESFQRKMQNLVLANQKEIQSIRENKRRVEEQRKRKEEEERKRKEAEEKAKREQELLRQKKDEEERKRKEAEAKLAQQKQEEERKKIEEQNEKERQLKKEHEAKLLQQKDKLGKAVTNFDKISKMFWHYKDKIAQIKQDIVLPIKKADVNVRNLLSRHKRKINPKFGQLTNSNQQLFKIQNELTQLINDTKGDSLAYHWILNFIAKAVVHQAETEVRVKPESALPLGKLTLYLLVQFPELQELFMARLVKKCPFVIGFTCEIDTEKGRQNMGWKRNNENKWEDNTSYDERMGGILSLFAIITRLQLPQEFITTTSHPFPIALSWHILARICNTPLNLITNTHFVILGSWWDAAAVQFLQAYGNQASKLLILIGEELTSRMAEKKYVGAARLRILLEAWQNNNMESFPEMSP",
+    "nes_segments": [
+      {
+        "start": 350,
+        "end": 358,
+        "sequence": "ALPLGKLTL",
+        "critical_positions": [
+          351,
+          353,
+          356,
+          358
+        ],
+        "critical_residues": [
+          "L",
+          "L",
+          "L",
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": null,
+    "crm1_evidence_text": "-"
+  },
+  {
+    "accession": "NES-0022",
+    "date": "14 Aug 2002",
+    "protein": "G2/mitotic-specific cyclin B1",
+    "organism": "Xenopus laevis (African clawed frog)",
+    "db_reference": "SWISS-PROT P13350, CGB1_XENLA",
+    "necessity": "F112A in full-length context severely impaires export.",
+    "sufficiency": "Aa 76-125 mediates export of GST.",
+    "pathway": "Competition by PKI-NES, Crm-interaction, LMB-sensitivity.",
+    "location": "Cytoplasmic during interphase.",
+    "regulation": "Possibly by phosphorylation.",
+    "comments": "-",
+    "references": "Yang J, Bardes ES, Moore JD, Brennan J, Powers MA and Kornbluth S, 1998 Genes Dev 12: 2131-43. Medline: 9679058",
+    "full_sequence": "MSLRVTRNMLANAENNVKTTLAGKRVVATKPGLRPRTALGDIGNKAEVKVPTKKELKPAVKAAKKAKPVDKLLEPLKVIEENVCPKPAQVEPSSPSPMETSGCLPDELCQAFSDVLIHVKDVDADDDGNPMLCSEYVKDIYAYLRSLEDAQAVRQNYLHGQEVTGNMRAILIDWLVQVQMKFRLLQETMFMTVGIIDRFLQEHPVPKNQLQLVGVTAMFLAAKYEEMYPPEIGDFTFVTDHTYTKAQIRDMEMKILRVLKFAIGRPLPLHFLRRASKIGEVTAEQHSLAKYLMELVMVDYDMVHFTPSQIAAASSCLSLKILNAGDWTPTLHHYMAYSEEDLVPVMQHMAKNIIKVNKGLTKHLTVKNKYASSKQMKISTIPQLRSDVVVEMARPLM",
+    "nes_segments": [
+      {
+        "start": 76,
+        "end": 125,
+        "sequence": "LKVIEENVCPKPAQVEPSSPSPMETSGCLPDELCQAFSDVLIHVKDVDAD",
+        "critical_positions": [
+          112
+        ],
+        "critical_residues": [
+          "F"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "Competition by PKI-NES, Crm-interaction, LMB-sensitivity."
+  },
+  {
+    "accession": "NES-0023",
+    "date": "14 Aug 2002",
+    "protein": "Period circadian protein 1 (Circadian pacemaker protein Rigui) (mPER) (M-Rigui)",
+    "organism": "Mus musculus (Mouse)",
+    "db_reference": "SWISS-PROT O35973, PER1_MOUSE",
+    "necessity": "I493A/L496A abrogates export of full-length PER1.",
+    "sufficiency": "Delta 1-484 is excluded from the nucleus, whereas delta 1-495 has a hole cell distribution. Aa 485-98 mediates export of YFP(2)-NLS, but export is abrogated by I493A/L496A/L498K.",
+    "pathway": "LMB-sensitive",
+    "location": "-",
+    "regulation": "Phosphorylation by casein kinase I epsilon masks NLS and results in cytoplasmic accumulation.<",
+    "comments": "-",
+    "references": "Vielhaber EL, Duricka D, Ullman KS and Virshup DM, 2001 J Biol Chem 276: 45921-7. Medline: 11591712",
+    "full_sequence": "MSGPLEGADGGGDPRPGEPFCPGGVPSPGAPQHRPCPGPSLADDTDANSNGSSGNESNGPESRGASQRSSHSSSSGNGKDSALLETTESSKSTNSQSPSPPSSSIAYSLLSASSEQDNPSTSGCSSEQSARARTQKELMTALRELKLRLPPERRGKGRSGTLATLQYALACVKQVQANQEYYQQWSLEEGEPCAMDMSTYTLEELEHITSEYTLRNQDTFSVAVSFLTGRIVYISEQAGVLLRCKRDVFRGARFSELLAPQDVGVFYGSTTPSRLPTWGTGTSAGSGLKDFTQEKSVFCRIRGGPDRDPGPRYQPFRLTPYVTKIRVSDGAPAQPCCLLIAERIHSGYEAPRIPPDKRIFTTRHTPSCLFQDVDERAAPLLGYLPQDLLGAPVLLFLHPEDRPLMLAIHKKILQLAGQPFDHSPIRFCARNGEYVTMDTSWAGFVHPWSRKVAFVLGRHKVRTAPLNEDVFTPPAPSPAPSLDSDIQELSEQIHRLLLQPVHSSSPTGLCGVGPLMSPGPLHSPGSSSDSNGGDAEGPGPPAPVTFQQICKDVHLVKHQGQQLFIESRAKPPPRPRLLATGTFKAKVLPCQSPNPELEVAPVPDQASLALAPEEPERKETSGCSYQQINCLDSILRYLESCNIPSTTKRKCASSSSYTASSASDDDKQRAGPVPVGAKKDPSSAMLSGEGATPRKEPVVGGTLSPLALANKAESVVSVTSQCSFSSTIVHVGDKKPPESDIIMMEDLPGLAPGPAPSPAPSPTVAPDPTPDAYRPVGLTKAVLSLHTQKEEQAFLNRFRDLGRLRGLDTSSVAPSAPGCHHGPIPPGRRHHCRSKAKRSRHHHHQTPRPETPCYVSHPSPVPSSGPWPPPPATTPFPAMVQPYPLPVFSPRGGPQPLPPAPTSVSPATFPSPLVTPMVALVLPNYLFPTPPSYPYGVSQAPVEGPPTPASHSPSPSLPPPPLSPPHRPDSPLFNSRCSSPLQLNLLQLEESPRTEGGAAAGGPGSSAGPLPPSEETAEPEARLVEVTESSNQDALSGSSDLLELLLQEDSRSGTGSAASGSLGSGLGSGSGSGSHEGGSTSASITRSSQSSHTSKYFGSIDSSEAEAGAARARTEPGDQVIKCVLQDPIWLLMANADQRVMMTYQVPSRDAASVLKQDRERLRAMQKQQPRFSEDQRRELGAVHSWVRKGQLPRALDVMACVDCGSSVQDPGHSDDPLFSELDGLGLEPMEEGGGEGGGCGVGGGGGDGGEEAQTQIGAKGSSSQDSAMEEEEQGGGSSSPALPAEENSTS",
+    "nes_segments": [
+      {
+        "start": 485,
+        "end": 498,
+        "sequence": "DIQELSEQIHRLLL",
+        "critical_positions": [
+          493,
+          496,
+          498
+        ],
+        "critical_residues": [
+          "I",
+          "L",
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive"
+  },
+  {
+    "accession": "NES-0024",
+    "date": "14 Aug 2002",
+    "protein": "1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase delta 1 (PLC-delta-1) (Phospholipase C-delta-1) (PLC-III)",
+    "organism": "Rattus norvegicus (Rat)",
+    "db_reference": "SWISS-PROT P10688, PID1_RAT",
+    "necessity": "L172A/I174A greatly impairs export of full-length protein.",
+    "sufficiency": "Aa 164-77 mediates export of ovalbumin, whereas the mutant peptide L165A/L169A/L172A/LI174A does not.",
+    "pathway": "LMB-sensitive.",
+    "location": "Predominantly at the plasma membrane.",
+    "regulation": "Proposal of calciumregulated mechanism based on structural comparison with EF-hand structure.",
+    "comments": "NES located in EF-hand.",
+    "references": "Yamaga M, Fujii M, Kamata H, Hirata H and Yagisawa H, 1999 J Biol Chem 274: 28537-41. Medline: 10497218",
+    "full_sequence": "MDSGRDFLTLHGLQDDPDLQALLKGSQLLKVKSSSWRRERFYKLQEDCKTIWQESRKVMRSPESQLFSIEDIQEVRMGHRTEGLEKFARDIPEDRCFSIVFKDQRNTLDLIAPSPADAQHWVQGLRKIIHHSGSMDQRQKLQHWIHSCLRKADKNKDNKMNFKELKDFLKELNIQVDDGYARKIFRECDHSQTDSLEDEEIETFYKMLTQRAEIDRAFEEAAGSAETLSVERLVTFLQHQQREEEAGPALALSLIERYEPSETAKAQRQMTKDGFLMYLLSADGNAFSLAHRRVYQDMDQPLSHYLVSSSHNTYLLEDQLTGPSSTEAYIRALCKGCRCLELDCWDGPNQEPIIYHGYTFTSKILFCDVLRAIRDYAFKASPYPVILSLENHCSLEQQRVMARHLRAILGPILLDQPLDGVTTSLPSPEQLKGKILLKGKKLGGLLPAGGENGSEATDVSDEVEAAEMEDEAVRSQVQHKPKEDKLKLVPELSDMIIYCKSVHFGGFSSPGTSGQAFYEMASFSESRALRLLQESGNGFVRHNVSCLSRIYPAGWRTDSSNYSPVEMWNGGCQIVALNFQTPGPEMDVYLGCFQDNGGCGYVLKPAFLRDPNTTFNSRALTQGPWWRPERLRVRIISGQQLPKVNKNKNSIVDPKVIVEIHGVGRDTGSRQTAVITNNGFNPRWDMEFEFEVTVPDLALVRFMVEDYDSSSKNDFIGQSTIPWNSLKQGYRHVHLLSKNGDQHPSATLFVKISIQD",
+    "nes_segments": [
+      {
+        "start": 164,
+        "end": 177,
+        "sequence": "ELKDFLKELNIQVD",
+        "critical_positions": [
+          165,
+          169,
+          172,
+          174
+        ],
+        "critical_residues": [
+          "L",
+          "L",
+          "L",
+          "I"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive."
+  },
+  {
+    "accession": "NES-0025",
+    "date": "14 Aug 2002",
+    "protein": "E1B protein, large T-antigen (E1B-55K)",
+    "organism": "Human adenovirus type 5",
+    "db_reference": "SWISS-PROT P03243, E1BL_ADE05",
+    "necessity": "L83A, L87A and L91A abrogates export of full-length protein.",
+    "sufficiency": "Aa 83-93 mediates export of GST-GFP fusion.",
+    "pathway": "LMB-sensitive.",
+    "location": "Cytoplasmic.",
+    "regulation": "-",
+    "comments": "-",
+    "references": "Kratzer F, Rosorius O, Heger P, Hirschmann N, Dobner T, Hauber J and Stauber RH, 2000, Oncogene 19: 850-7. Medline: 10702793",
+    "full_sequence": "MERRNPSERGVPAGFSGHASVESGCETQESPATVVFRPPGDNTDGGAAAAAGGSQAAAAGAEPMEPESRPGPSGMNVVQVAELYPELRRILTITEDGQGLKGVKRERGACEATEEARNLAFSLMTRHRPECITFQQIKDNCANELDLLAQKYSIEQLTTYWLQPGDDFEEAIRVYAKVALRPDCKYKISKLVNIRNCCYISGNGAEVEIDTEDRVAFRCSMINMWPGVLGMDGVVIMNVRFTGPNFSGTVFLANTNLILHGVSFYGFNNTCVEAWTDVRVRGCAFYCCWKGVVCRPKSRASIKKCLFERCTLGILSEGNSRVRHNVASDCGCFMLVKSVAVIKHNMVCGNCEDRASQMLTCSDGNCHLLKTIHVASHSRKAWPVFEHNILTRCSLHLGNRRGVFLPYQCNLSHTKILLEPESMSKVNLNGVFDMTMKIWKVLRYDETRTRCRPCECGGKHIRNQPVMLDVTEELRPDHLVLACTRAEFGSSDEDTD",
+    "nes_segments": [
+      {
+        "start": 83,
+        "end": 93,
+        "sequence": "LYPELRRILTI",
+        "critical_positions": [
+          83,
+          87,
+          91
+        ],
+        "critical_residues": [
+          "L",
+          "L",
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive."
+  },
+  {
+    "accession": "NES-0026",
+    "date": "14 Aug 2002",
+    "protein": "38 kDa MOV34 ISOLOGUE (Kip1 C-terminus interacting protein-2) (Jab1/CSN5)",
+    "organism": "Mus musculus (Mouse)",
+    "db_reference": "TrEMBL O35864",
+    "necessity": "L237A/L240A/L241A abrogates export.",
+    "sufficiency": "Aa 233-242 is suficient to interact with Crm in vitro, the interaction being disrupted by L237A/L240A/L241A.",
+    "pathway": "LMB-sensitive, Crm-interaction.",
+    "location": "Whole cell distribution.",
+    "regulation": "-",
+    "comments": "-",
+    "references": "Tomoda K, Kubota Y, Arata Y, Mori S, Maeda M, Tanaka T, Yoshida M, Yoneda-Kato N and Kato JY, 2002 J Biol Chem 277: 2302-10. Medline: 11704659",
+    "full_sequence": "MAASGSGMAQKTWELANNMQEAQSIDEIYKYDKKQQQEILAAKPWTKDHHYFKYCKISALALLKMVMHARSGGNLEVMGLMLGKVDGETMIIMDSFALPVEGTETRVNAQAAAYEYMAAYIENAKQVGRLENAIGWYHSHPGYGCWLSGIDVSTQMLNQQFQEPFVAVVIDPTRTISAGKVNLGAFRTYPKGYKPPDEGPSEYQTIPLNKIEDFGVHCKQYYALEVSYFKSSLDRKLLELLWNKYWVNTLSSSSLLTNADYTTGQVFDLSEKLEQSEAQLGRGSFMLGLETHDRKSEDKLAKATRDSCKTTIEAIHGLMSQVIKDKLFNQINVA",
+    "nes_segments": [
+      {
+        "start": 233,
+        "end": 242,
+        "sequence": "LDRKLLELLW",
+        "critical_positions": [
+          237,
+          240,
+          241
+        ],
+        "critical_residues": [
+          "L",
+          "L",
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive, Crm-interaction."
+  },
+  {
+    "accession": "NES-0027",
+    "date": "14 Aug 2002",
+    "protein": "Tristetraproline (TTP) (TIS11A protein) (TIS11) (ZFP-36)",
+    "organism": "Rattus norvegicus (Rat)",
+    "db_reference": "SWISS-PROT P47973, TTP_RAT",
+    "necessity": "Delta 1-15 and L3A/I6A/L10A both abrogate export of aa 1-161.",
+    "sufficiency": "Aa 1-101 mediates export of GFP.",
+    "pathway": "LMB sensitive.",
+    "location": "Whole cell distribution.",
+    "regulation": "-",
+    "comments": "-",
+    "references": "Murata T, Yoshino Y, Morita N and Kaneda N, 2002 Biochem Biophys Res Commun 293: 1242-7. Medline: 12054509",
+    "full_sequence": "MDLSAIYESLMSMSHDLSPDHGGTESSGGLWNINSSDSIPSGVTSRLTGRSTSLVEGRSCSWVPPPPGFAPLAPRPGPELSPSPTSPTATPTTSSRYKTELCRTYSESGRCRYGAKCQFAHGPGELRQANRHPKYKTELCHKFYLQGRCPYGSRCHFIHNPTEDLALPGQPHVLRQSISFSGLPSGRRTSPPPPGFSGPSLSSCSFSPSSSPPPPGDLPLSPSAFSAAPGTPVSRRDPTPACCPSCRRSTTPSTIWGPLGGLARSPSAHSLGSDPDDYASSGSSLGGSDSPVFEAGVFGPPQPPAPPRRLPIFNRISVSEaaMaaMaaaMaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "nes_segments": [
+      {
+        "start": 1,
+        "end": 21,
+        "sequence": "MDLSAIYESLMSMSHDLSPDH",
+        "critical_positions": [],
+        "critical_residues": []
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB sensitive."
+  },
+  {
+    "accession": "NES-0028",
+    "date": "14 Aug 2002",
+    "protein": "NF-kappaB inhibitor alpha (Major histocompatibility complex enhancer- binding protein MAD3) (I-kappa-B-alpha) (IkappaBalpha) (IKB-alpha)",
+    "organism": "Homo sapiens (Human)",
+    "db_reference": "SWISS-PROT P25963, IKBA_HUMAN",
+    "necessity": "I52A/L54A abrogates export of full-length I-kappa-B-alpha fused to GST.",
+    "sufficiency": "Aa 22-72 restores rev-delta-NES acitivity (export).",
+    "pathway": "LMB-sensitive.",
+    "location": "Cytoplasmic.",
+    "regulation": "-",
+    "comments": "-",
+    "references": "Johnson C, Van Antwerp D and Hope TJ, 1999 EMBO J 18: 6682-93. Medline: 10581242",
+    "full_sequence": "MFQAAERPQEWAMEGPRDGLKKERLLDDRHDSGLDSMKDEEYEQMVKELQEIRLEPQEVPRGSEPWKQQLTEDGDSFLHLAIIHEEKALTMEVIRQVKGDLAFLNFQNNLQQTPLHLAVITNQPEIAEALLGAGCDPELRDFRGNTPLHLACEQGCLASVGVLTQSCTTPHLHSILKATNYNGHTCLHLASIHGYLGIVELLVSLGADVNAQEPCNGRTALHLAVDLQNPDLVSLLLKCGADVNRVTYQGYSPYQLTWGRPSTRIQQQLGQLTLENLQMLPESEDEESYDTESEFTEFTEDELPYDDCVFGGQRLTL",
+    "nes_segments": [
+      {
+        "start": 22,
+        "end": 72,
+        "sequence": "KERLLDDRHDSGLDSMKDEEYEQMVKELQEIRLEPQEVPRGSEPWKQQLTE",
+        "critical_positions": [
+          52,
+          54
+        ],
+        "critical_residues": [
+          "I",
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive."
+  },
+  {
+    "accession": "NES-0029",
+    "date": "14 Aug 2002",
+    "protein": "Ran-specific GTPase-activating protein (Ran binding protein 1) (RanBP1)",
+    "organism": "Homo sapiens (Human)",
+    "db_reference": "SWISS-PROT P43487, RANG_HUMAN",
+    "necessity": "L184A/L187A/V189A abrogates export of full-length RanBP1-GFP",
+    "sufficiency": "Aa 178-95 can substitute Rev-NES",
+    "pathway": "Rev competition (same pathway). Plafker et al. 2000 has furthermore shown LMB-sensitivity.",
+    "location": "Cytoplasmic.",
+    "regulation": "-",
+    "comments": "Discrepancy of 1 in amino acid numbering between article and retrieved sequence.",
+    "references": "Zolotukhin AS and Felber BK, 1997 J Biol Chem 1997 272: 11356-60. Medline: 9111043 Plafker K, Macara IG, 2000 Mol Cell Biol 20: 3510-21. Medline: 10779340",
+    "full_sequence": "MAAAKDTHEDHDTSTENTDESNHDPQFEPIVSLPEQEIKTLEEDEEELFKMRAKLFRFASENDLPEWKERGTGDVKLLKHKEKGAIRLLMRRDKTLKICANHYITPMMELKPNAGSDRAWVWNTHADFADECPKPELLAIRFLNAENAQKFKTKFEECRKEIEEREKKAGSGKNDHAEKVAEKLEALSVKEETKEDAEEKQ",
+    "nes_segments": [
+      {
+        "start": 178,
+        "end": 195,
+        "sequence": "EKVAEKLEALSVKEETKE",
+        "critical_positions": [
+          184,
+          187,
+          189
+        ],
+        "critical_residues": [
+          "L",
+          "L",
+          "V"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "Rev competition (same pathway). Plafker et al. 2000 has furthermore shown LMB-sensitivity."
+  },
+  {
+    "accession": "NES-0030",
+    "date": "14 Aug 2002",
+    "protein": "Interferon regulatory factor 3 (IRF-3)",
+    "organism": "Homo sapiens (Human)",
+    "db_reference": "SWISS-PROT Q14653, IRF3_HUMAN",
+    "necessity": "I139A/L140A/L143A/L144A abrogates export of full-length IRF-3.",
+    "sufficiency": "Aa 136-150 mediates export of ovalbumin. Export abrogated by I139A/L140A/L143A/L144A/M147A/V148A/L149A.",
+    "pathway": "LMB-sensitive (data not shown).",
+    "location": "Cytoplasmic.",
+    "regulation": "Nuclear upon infection with nexcastle disease virus (NDV).",
+    "comments": "-",
+    "references": "Yoneyama M, Suhara W, Fukuhara Y, Fukuda M, Nishida E and Fujita T, 1998 EMBO J 17: 1087-95. Medline: 9463386",
+    "full_sequence": "MGTPKPRILPWLVSQLDLGQLEGVAWVNKSRTRFRIPWKHGLRQDAQQEDFGIFQAWAEATGAYVPGRDKPDLPTWKRNFRSALNRKEGLRLAEDRSKDPHDPHKIYEFVNSGVGDFSQPDTSPDTNGGGSTSDTQEDILDELLGNMVLAPLPDPGPPSLAVAPEPCPQPLRSPSLDNPTPFPNLGPSENPLKRLLVPGEEWEFEVTAFYRGRQVFQQTISCPEGLRLVGSEVGDRTLPGWPVTLPDPGMSLTDRGVMSYVRHVLSCLGGGLALWRAGQWLWAQRLGHCHTYWAVSEELLPNSGHGPDGEVPKDKEGGVFDLGPFIVDLITFTEGSGRSPRYALWFCVGESWPQDQPWTKRLVMVKVVPTCLRALVEMARVGGASSLENTVDLHISNSHPLSLTSDQYKAYLQDLVEGMDFQGPGES",
+    "nes_segments": [
+      {
+        "start": 136,
+        "end": 150,
+        "sequence": "QEDILDELLGNMVLA",
+        "critical_positions": [
+          139,
+          140,
+          143,
+          144
+        ],
+        "critical_residues": [
+          "I",
+          "L",
+          "L",
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive (data not shown)."
+  },
+  {
+    "accession": "NES-0031",
+    "date": "14 Aug 2002",
+    "protein": "Tumor protein p73 (p53-like transcription factor) (p53-related protein)",
+    "organism": "Homo sapiens (Human)",
+    "db_reference": "SWISS-PROT O15350, P73_HUMAN. NLSdb NLS:270",
+    "necessity": "L375A/L377A abrogates export of full-length p73.",
+    "sufficiency": "Aa 364-82 mediates export of YFP(2). Export abrogated by abovementioned mutations.",
+    "pathway": "LMB-sensitive.",
+    "location": "Nuclear.",
+    "regulation": "-",
+    "comments": "-",
+    "references": "Inoue T, Stuart J, Leno R and Maki CG, 2002 J Biol Chem 277: 15053-60. Medline: 11847229",
+    "full_sequence": "MAQSTATSPDGGTTFEHLWSSLEPDSTYFDLPQSSRGNNEVVGGTDSSMDVFHLEGMTTSVMAQFNLLSSTMDQMSSRAASASPYTPEHAASVPTHSPYAQPSSTFDTMSPAPVIPSNTDYPGPHHFEVTFQQSSTAKSATWTYSPLLKKLYCQIAKTCPIQIKVSTPPPPGTAIRAMPVYKKAEHVTDVVKRCPNHELGRDFNEGQSAPASHLIRVEGNNLSQYVDDPVTGRQSVVVPYEPPQVGTEFTTILYNFMCNSSCVGGMNRRPILIIITLEMRDGQVLGRRSFEGRICACPGRDRKADEDHYREQQALNESSAKNGAASKRAFKQSPPAVPALGAGVKKRRHGDEDTYYLQVRGRENFEILMKLKESLELMELVPQPLVDSYRQQQQLLQRPSHLQPPSYGPVLSPMNKVHGGMNKLPSVNQLVGQPPPHSSAATPNLGPVGPGMLNNHGHAVPANGEMSSSHSAQSMVSGSHCTPPPPYHADPSLVSFLTGLGCPNCIEYFTSQGLQSIYHLQNLTIEDLGALKIPEQYRMTIWRGLQDLKQGHDYSTAQQLLRSSNAATISIGGSGELQRQRVMEAVHFRVRHTITIPNRGGPGGGPDEWADFGFDLPDCKARKQPIKEEFTEAEIH",
+    "nes_segments": [
+      {
+        "start": 364,
+        "end": 382,
+        "sequence": "NFEILMKLKESLELMELVP",
+        "critical_positions": [
+          375,
+          377
+        ],
+        "critical_residues": [
+          "L",
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive."
+  },
+  {
+    "accession": "NES-0032",
+    "date": "14 Aug 2002",
+    "protein": "MOTHERS AGAINST DECAPENTAPLEGIC HOMOLOG 1 (SMAD 1) (MOTHERS AGAINST DPP HOMOLOG 1) (MAD-RELATED PROTEIN 1) (TRANSFORMING GROWTH FACTOR- BETA SIGNALING PROTEIN-1) (BSP-1) (HSMAD1) (JV4-1)",
+    "organism": "Homo sapiens (Human)",
+    "db_reference": "SWISS-PROT Q15797, SMA1_HUMAN",
+    "necessity": "L406A/M409A abrogates export.",
+    "sufficiency": "Aa 406-14 mediates export of GST. Export is abrogated by L406A/M409A.",
+    "pathway": "LMB-sensitivity, Crm-dependency.",
+    "location": "Whole cell distribution.",
+    "regulation": "-",
+    "comments": "-",
+    "references": "Xiao Z, Watson N, Rodriguez C and Lodish HF, 2001 J Biol Chem 276: 39404-10. Medline: 11509558",
+    "full_sequence": "MNVTSLFSFTSPAVKRLLGWKQGDEEEKWAEKAVDALVKKLKKKKGAMEELEKALSCPGQPSNCVTIPRSLDGRLQVSHRKGLPHVIYCRVWRWPDLQSHHELKPLECCEFPFGSKQKEVCINPYHYKRVESPVLPPVLVPRHSEYNPQHSLLAQFRNLGQNEPHMPLNATFPDSFQQPNSHPFPHSPNSSYPNSPGSSSSTYPHSPTSSDPGSPFQMPADTPPPAYLPPEDPMTQDGSQPMDTNMMAPPLPSEINRGDVQAVAYEEPKHWCSIVYYELNNRVGEAFHASSTSVLVDGFTDPSNNKNRFCLGLLSNVNRNSTIENTRRHIGKGVHLYYVGGEVYAECLSDSSIFVQSRNCNYHHGFHPTTVCKIPSGCSLKIFNNQEFAQLLAQSVNHGFETVYELTKMCTIRMSFVKGWGAEYHRQDVTSTPCWIEIHLHGPLQWLDKVLTQMGSPHNPISSVS",
+    "nes_segments": [
+      {
+        "start": 406,
+        "end": 414,
+        "sequence": "LTKMCTIRM",
+        "critical_positions": [
+          406,
+          409
+        ],
+        "critical_residues": [
+          "L",
+          "M"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitivity, Crm-dependency."
+  },
+  {
+    "accession": "NES-0033",
+    "date": "14 Aug 2002",
+    "protein": "DUAL SPECIFICITY PROTEIN PHOSPHATASE 1 (MITOGEN-ACTIVATED PROTEIN KINASE PHOSPHATASE 7) (MAP KINASE PHOSPHATASE 7) (MKP-7)",
+    "organism": "Homo sapiens (Human)",
+    "db_reference": "SWISS-PROT Q9BY84, DUSX_HUMAN",
+    "necessity": "L380A/L383A/L385A abrogates export.",
+    "sufficiency": "-",
+    "pathway": "LMB-sensitive.",
+    "location": "Cytoplasmic.",
+    "regulation": "-",
+    "comments": "-",
+    "references": "Masuda K, Shima H, Watanabe M and Kikuchi K, 2001, J Biol Chem 276: 39002-11. Medline: 11489891",
+    "full_sequence": "MAHEMIGTQIVTERLVALLESGTEKVLLIDSRPFVEYNTSHILEAININCSKLMKRRLQQDKVLITELIQHSAKHKVDIDCSQKVVVYDQSSQDVASLSSDCFLTVLLGKLEKSFNSVHLLAGGFAEFSRCFPGLCEGKSTLVPTCISQPCLPVANIGPTRILPNLYLGCQRDVLNKELMQQNGIGYVLNASNTCPKPDFIPESHFLRVPVNDSFCEKILPWLDKSVDFIEKAKASNGCVLVHCLAGISRSATIAIAYIMKRMDMSLDEAYRFVKEKRPTISPNFNFLGQLLDYEKKIKNQTGASGPKSKLKLLHLEKPNEPVPAVSEGGQKSETPLSPPCADSATSEAAGQRPVHPASVPSVPSVQPSLLEDSPLVQALSGLHLSADRLEDSNKLKRSFSLDIKSVSYSASMAASLHGFSSSEDALEYYKPSTTLDGTNKLCQFSPVQELSEQTPETSPDKEEASIPKKLQTARPSDSQSKRLHSVRTSSSGTAQRSLLSPLHRSGSVEDNYHTSFLFGLSTSQQHLTKSAGLGLKGWHSDILAPQTSTPSLTSSWYFATESSHFYSASAIYGGSASYSAYSCSQLPTCGDQVYSVRRRQKPSDRADSRRSWHEESPFEKQFKRRSCQMEFGESIMSENRSREELGKVGSQSSFSGSMEIIEVS",
+    "nes_segments": [
+      {
+        "start": 380,
+        "end": 380,
+        "sequence": "L",
+        "critical_positions": [
+          380
+        ],
+        "critical_residues": [
+          "L"
+        ]
+      },
+      {
+        "start": 383,
+        "end": 383,
+        "sequence": "L",
+        "critical_positions": [
+          383
+        ],
+        "critical_residues": [
+          "L"
+        ]
+      },
+      {
+        "start": 385,
+        "end": 385,
+        "sequence": "L",
+        "critical_positions": [
+          385
+        ],
+        "critical_residues": [
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive."
+  },
+  {
+    "accession": "NES-0034",
+    "date": "14 Aug 2002",
+    "protein": "PROTEIN KINASE C, IOTA TYPE (EC 2.7.1.-) (NPKC-IOTA) (PROTEIN KINASE C LAMBDA)",
+    "organism": "Mus musculus (Mouse)",
+    "db_reference": "SWISS-PROT Q62074, KPCI_MOUSE",
+    "necessity": "F244A/L246A mutant accumulates in the nucleus.",
+    "sufficiency": "-",
+    "pathway": "LMB-sensitive.",
+    "location": "Predominantly cytoplasmic.",
+    "regulation": "-",
+    "comments": "Discrepancy of 9 in amino acid numbering between article and retrieved sequence.",
+    "references": "Perander M, Bjorkoy G and Johansen T, 2001, J Biol Chem 276: 13015-24. Medline: 11115515",
+    "full_sequence": "MSHTVACGGGGDHSHQVRVKAYYRGDIMITHFEPSISFEGLCSEVRDMCSFDNEQPFTMKWIDEEGDPCTVSSQLELEEAFRLYELNKDSELLIHVFPCVPERPGMPCPGEDKSIYRRGARRWRKLYCANGHTFQAKRFNRRAHCAICTDRIWGLGRQGYKCINCKLLVHKKCHKLVTIECGRHSLPPEPMMPMDQTMHPDHTQTVIPYNPSSHESLDQVGEEKEAMNTRESGKASSSLGLQDFDLLRVIGRGSYAKVLLVRLKKTDRIYAMKVVKKELVNDDEDIDWVQTEKHVFEQASNHPFLVGLHSCFQTESRLFFVIEYVNGGDLMFHMQRQRKLPEEHARFYSAEISLALNYLHERGIIYRDLKLDNVLLDSEGHIKLTDYGMCKEGLRPGDTTSTFCGTPNYIAPEILRGEDYGFSVDWWALGVLMFEMMAGRSPFDIVGSSDNPDQNTEDYLFQVILEKQIRIPRSLSVKAASVLKSFLNKDPKERLGCHPQTGFADIQGHPFFRNVDWDMMEQKQVVPPFKPNISGEFGLDNFDSQFTNEPVQLTPDDDDIVRKIDQSEFEGFEYINPLLMSAEECV",
+    "nes_segments": [
+      {
+        "start": 244,
+        "end": 244,
+        "sequence": "F",
+        "critical_positions": [
+          244
+        ],
+        "critical_residues": [
+          "F"
+        ]
+      },
+      {
+        "start": 246,
+        "end": 246,
+        "sequence": "L",
+        "critical_positions": [
+          246
+        ],
+        "critical_residues": [
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive."
+  },
+  {
+    "accession": "NES-0035",
+    "date": "14 Aug 2002",
+    "protein": "MOTHERS AGAINST DECAPENTAPLEGIC HOMOLOG 4 (SMAD 4) (MOTHERS AGAINST DPP HOMOLOG 4) (DELETION TARGET IN PANCREATIC CARCINOMA 4) (HSMAD4)",
+    "organism": "Homo sapiens (Human)",
+    "db_reference": "SWISS-PROT Q13485, SMA4_HUMAN",
+    "necessity": "L146A/L148A abrogates export.",
+    "sufficiency": "-",
+    "pathway": "LMB-sensitive.",
+    "location": "Cytoplasmic.",
+    "regulation": "Export inhibited by protein-protein interactions.",
+    "comments": "-",
+    "references": "Watanabe M, Masuyama N, Fukuda M and Nishida E, 2000 EMBO Rep 1: 176-82. Medline: 11265759",
+    "full_sequence": "MDNMSITNTPTSNDACLSIVHSLMCHRQGGESETFAKRAIESLVKKLKEKKDELDSLITAITTNGAHPSKCVTIQRTLDGRLQVAGRKGFPHVIYARLWRWPDLHKNELKHVKYCQYAFDLKCDSVCVNPYHYERVVSPGIDLSGLTLQSNAPSSMMVKDEYVHDFEGQPSLSTEGHSIQTIQHPPSNRASTETYSTPALLAPSESNATSTANFPNIPVASTSQPASILGGSHSEGLLQIASGPQPGQQQNGFTGQPATYHHNSTTTWTGSRTAPYTPNLPHHQNGHLQHHPPMPPHPGHYWPVHNELAFQPPISNHPAPEYWCSIAYFEMDVQVGETFKVPSSCPIVTVDGYVDPSGGDRFCLGQLSNVHRTEAIERARLHIGKGVQLECKGEGDVWVRCLSDHAVFVQSYYLDREAGRAPGDAVHKIYPSAYIKVFDLRQCHRQMQQQAATAQAAAAAQAAAVAGNIPGPGSVGGIAPAISLSAAAGIGVDDLRRLCILRMSFVKGWGPDYPRQSIKETPCWIEIHLHRALQLLDEVLHTMPIADPQPLD",
+    "nes_segments": [
+      {
+        "start": 146,
+        "end": 146,
+        "sequence": "L",
+        "critical_positions": [
+          146
+        ],
+        "critical_residues": [
+          "L"
+        ]
+      },
+      {
+        "start": 148,
+        "end": 148,
+        "sequence": "L",
+        "critical_positions": [
+          148
+        ],
+        "critical_residues": [
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive."
+  },
+  {
+    "accession": "NES-0036",
+    "date": "14 Aug 2002",
+    "protein": "ZINC-FINGER PROTEIN RFP (RET FINGER PROTEIN) (TRIPARTITE MOTIF PROTEIN 27)",
+    "organism": "Homo sapiens (Human)",
+    "db_reference": "SWISS-PROT P14373, RFP_HUMAN",
+    "necessity": "Aa 132-255 necessary in a deletional mutant context. L204A/L207A/L209A abrogates export.",
+    "sufficiency": "-",
+    "pathway": "LMB-sensitive.",
+    "location": "-",
+    "regulation": "NES activated upon PKC alfa activation, but RFP is not a direct substrate of the kinase.",
+    "comments": "-",
+    "references": "Harbers M, Nomura T, Ohno S, Ishii S, 2001, J Biol Chem 276: 48596-607. Medline: 11591718",
+    "full_sequence": "MASGSVAECLQQETTCPVCLQYFAEPMMLDCGHNICCACLARCWGTAETNVSCPQCRETFPQRHMRPNRHLANVTQLVKQLRTERPSGPGGEMGVCEKHREPLKLYCEEDQMPICVVCDRSREHRGHSVLPLEEAVEGFKEQIQNQLDHLKRVKDLKKRRRAQGEQARAELLSLTQMEREKIVWEFEQLYHSLKEHEYRLLARLEELDLAIYNSINGAITQFSCNISHLSSLIAQLEEKQQQPTRELLQDIGDTLSRAERIRIPEPWITPPDLQEKIHIFAQKCLFLTESLKQFTEKMQSDMEKIQELREAQLYSVDVTLDPDTAYPSLILSDNLRQVRYSYLQQDLPDNPERFNLFPCVLGSPCFIAGRHYWEVEVGDKAKWTIGVCEDSVCRKGGVTSAPQNGFWAVSLWYGKEYWALTSPMTALPLRTPLQRVGIFLDYDAGEVSFYNVTERCHTFTFSHATFCGPVRPYFSLSYSGGKSAAPLIICPMSGIDGFSGHVGNHGHSMETSP",
+    "nes_segments": [
+      {
+        "start": 204,
+        "end": 204,
+        "sequence": "L",
+        "critical_positions": [
+          204
+        ],
+        "critical_residues": [
+          "L"
+        ]
+      },
+      {
+        "start": 207,
+        "end": 207,
+        "sequence": "L",
+        "critical_positions": [
+          207
+        ],
+        "critical_residues": [
+          "L"
+        ]
+      },
+      {
+        "start": 209,
+        "end": 209,
+        "sequence": "L",
+        "critical_positions": [
+          209
+        ],
+        "critical_residues": [
+          "L"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive."
+  },
+  {
+    "accession": "NES-0037",
+    "date": "14 Aug 2002",
+    "protein": "RPF1/Nedd4, Ubiquitin-protein ligase (E3)",
+    "organism": "Homo sapiens (Human)",
+    "db_reference": "REFSEQ XP_046129.4",
+    "necessity": "Aa 293-309 necessary in a deletional mutant context. L305A/I307A leads to whole cell distribution.",
+    "sufficiency": "-",
+    "pathway": "LMB-sensitive.",
+    "location": "Cytoplasmic.",
+    "regulation": "Constitutive export.",
+    "comments": "There is no SWISS-PROT entry  matching this sequence: The swissprot entry P46934 is stated to be only a fragment, but is longer than the sequence used in the article. The XP_046129 protein though, match the length and residue numbering of the sequence in the article.",
+    "references": "Hamilton MH, Tcherepanova I, Huibregtse JM and McDonnell DP, 2001, J Biol Chem 276: 26324-31. Medline: 11342538",
+    "full_sequence": "MATCAVEVFGLLEDEENSRIVRVRVIAGIGLAKKDILGASDPYVRVTLYDPMNGVLTSVQTKTIKKSLNPKWNEEILFRVHPQQHRLLFEVFDENRLTRDDFLGQVDVPLYPLPTENPRLERPYTFKDFVLHPRSHKSRVKGYLRLKMTYLPKTSGSEDDNAEQAEELEPGWVVLDQPDAACHLQQQQEPSPLPPGWEERQDILGRTYYVNHESRRTQWKRPTPQDNLTDAENGNIQLQAQRAFTTRRQISEETESVDNRESSENWEIIREDEATMYSNQAFPSPPPSSNLDVPTHLAEELNARLTIFGNSAVSQPASSSNHSSRRGSLQAYTFEEQPTLPVLLPTSSGLPPGWEEKQDERGRSYYVDHNSRTTTWTKPTVQATVETSQLTSSQSSAGPQSQASTSDSGQQVTQPSEIEQGFLPKGWEVRHAPNGRPFFIDHNTKTTTWEDPRLKIPAHLRGKTSLDTSNDLGPLPPGWEERTHTDGRIFYINHNIKRTQWEDPRLENVAITGPAVPYSRDYKRKYEFFRRKLKKQNDIPNKFEMKLRRATVLEDSYRRIMGVKRADFLKARLWIEFDGEKGLDYGGVAREWFFLISKEMFNPYYGLFEYSATDNYTLQINPNSGLCNEDHLSYFKFIGRVAGMAVYHGKLLDGFFIRPFYKMMLHKPITLHDMESVDSEYYNSLRWILENDPTELDLRFIIDEELFGQTHQHELKNGGSEIVVTNKNKKEYIYLVIQWRFVNRIQKQMAAFKEGFFELIPQDLIKIFDENELELLMCGLGDVDVNDWREHTKYKNGYSANHQVIQWFWKAVLMMDSEKRIRLLQFVTGTSRVPMNGFAELYGSNGPQSFTVEQWGTPEKLPRAHTCFNRLDLPPYESFEELWDKLQMAIENTQGFDGVD",
+    "nes_segments": [
+      {
+        "start": 305,
+        "end": 305,
+        "sequence": "L",
+        "critical_positions": [
+          305
+        ],
+        "critical_residues": [
+          "L"
+        ]
+      },
+      {
+        "start": 307,
+        "end": 307,
+        "sequence": "I",
+        "critical_positions": [
+          307
+        ],
+        "critical_residues": [
+          "I"
+        ]
+      }
+    ],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "LMB-sensitive."
+  },
+  {
+    "accession": "NES-0038",
+    "date": "14 Aug 2002",
+    "protein": "TRANSCRIPTIONAL ACTIVATOR PDR4 (YAP-1 PROTEIN) (Yap1p)",
+    "organism": "Saccharomyces cerevisiae (Baker's yeast)",
+    "db_reference": "SWISS-PROT P19880, PDR4_YEAST",
+    "necessity": "V616A, L619A and C620T abrogates export, whereas C620A does not.",
+    "sufficiency": "-",
+    "pathway": "Crm-dependence and interaction with Crm both in vitro and in vivo.",
+    "location": "Cytoplasm.",
+    "regulation": "Yap1p responds to oxidative stress. NES masked upon oxidation of cysteines in the NES region.",
+    "comments": "-",
+    "references": "Yan C, Lee LH and Davis LI, 1998, EMBO J 17: 7416-29. Medline: 9857197",
+    "full_sequence": "MSVSTAKRSLDVVSPGSLAEFEGSKSRHDEIENEHRRTGTRDGEDSEQPKKKGSKTSKKQDLDPETKQKRTAQNRAAQRAFRERKERKMKELEKKVQSLESIQQQNEVEATFLRDQLITLVNELKKYRPETRNDSKVLEYLARRDPNLHFSKNNVNHSNSEPIDTPNDDIQENVKQKMNFTFQYPLDNDNDNDNSKNVGKQLPSPNDPSHSAPMPINQTQKKLSDATDSSSATLDSLSNSNDVLNNTPNSSTSMDWLDNVIYTNRFVSGDDGSNSKTKNLDSNMFSNDFNFENQFDEQVSEFCSKMNQVCGTRQCPIPKKPISALDKEVFASSSILSSNSPALTNTWESHSNITDNTPANVIATDATKYENSFSGFGRLGFDMSANHYVVNDNSTGSTDSTGSTGNKNKKNNNNSDDVLPFISESPFDMNQVTNFFSPGSTGIGNNAASNTNPSLLQSSKEDIPFINANLAFPDDNSTNIQLQPFSESQSQNKFDYDMFFRDSSKEGNNLFGEFLEDDDDDKKAANMSDDESSLIKNQLINEEPELPKQYLQSVPGNESEISQKNG",
+    "nes_segments": [],
+    "crm1_dependent": true,
+    "crm1_evidence_text": "Crm-dependence and interaction with Crm both in vitro and in vivo."
+  }
+]

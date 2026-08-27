@@ -1,0 +1,79 @@
+{
+  "volume_A3": {
+    "n": 333,
+    "n_pos": 111,
+    "n_neg": 222,
+    "auc": 0.6064,
+    "ci_lo": 0.4986,
+    "ci_hi": 0.7142,
+    "p": 0.0532,
+    "mean_pos": 725.0581,
+    "mean_neg": 554.2922
+  },
+  "hydrophobicity": {
+    "n": 333,
+    "n_pos": 111,
+    "n_neg": 222,
+    "auc": 0.522,
+    "ci_lo": 0.4453,
+    "ci_hi": 0.5988,
+    "p": 0.5736,
+    "mean_pos": 0.5021,
+    "mean_neg": 0.481
+  },
+  "shape_similarity": {
+    "n": 333,
+    "n_pos": 111,
+    "n_neg": 222,
+    "auc": 0.6371,
+    "ci_lo": 0.5203,
+    "ci_hi": 0.7539,
+    "p": 0.0214,
+    "mean_pos": 0.7098,
+    "mean_neg": 0.6265
+  },
+  "druggability": {
+    "n": 333,
+    "n_pos": 111,
+    "n_neg": 222,
+    "auc": 0.5002,
+    "ci_lo": 0.4342,
+    "ci_hi": 0.5662,
+    "p": 0.9942,
+    "mean_pos": 0.1292,
+    "mean_neg": 0.0958
+  },
+  "charge_score": {
+    "n": 333,
+    "n_pos": 111,
+    "n_neg": 222,
+    "auc": 0.5875,
+    "ci_lo": 0.4857,
+    "ci_hi": 0.6893,
+    "p": 0.0922,
+    "mean_pos": 0.3517,
+    "mean_neg": 0.2566
+  },
+  "composition_similarity": {
+    "n": 333,
+    "n_pos": 111,
+    "n_neg": 222,
+    "auc": 0.4897,
+    "ci_lo": 0.4184,
+    "ci_hi": 0.5609,
+    "p": 0.7758,
+    "mean_pos": 0.5073,
+    "mean_neg": 0.5215
+  },
+  "residue_residue_score": {
+    "n": 333,
+    "n_pos": 111,
+    "n_neg": 222,
+    "auc": 0.4073,
+    "ci_lo": 0.3038,
+    "ci_hi": 0.5108,
+    "p": 0.0792,
+    "mean_pos": 0.6653,
+    "mean_neg": 0.6891
+  }
+}

@@ -1,0 +1,1578 @@
+{
+  "A0JP26": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "A1L190": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "A5D8V7": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "A6H8Y1": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "B3KU38": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O15078": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O15232": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O15259": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O43166": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O43196": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O43264": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O43827": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O60281": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O60519": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O75762": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O75781": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O94876": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O94964": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P07942": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P08670": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P0CAP2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P11055": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "A2IDD5": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O00258": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O14795": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O15066": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O15234": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O15357": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O43283": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O43295": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O43815": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O43896": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O60239": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O60499": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O60826": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O60861": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O75031": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O75052": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O75665": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O75899": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O95149": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O95202": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O95347": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O96018": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P02671": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P05230": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P07332": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O15360": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O15534": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O95810": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O00311": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O00571": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O43293": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O43707": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "A7MCY6": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O60879": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O60941": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O75475": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O94901": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P09493": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O14578": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O15013": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O95239": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O95644": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P11388": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P03372": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O75334": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O60271": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O96013": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O75030": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O15350": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P04637": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P10242": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O60716": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "O08560": {
+    "organism": "Rattus norvegicus (Rat)",
+    "group": "Rodent"
+  },
+  "O35973": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P10688": {
+    "organism": "Rattus norvegicus (Rat)",
+    "group": "Rodent"
+  },
+  "O35864": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "O04379": {
+    "organism": "Arabidopsis thaliana (Mouse-ear cress)",
+    "group": "Plant"
+  },
+  "P00520": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "F5HDE4": {
+    "organism": "Human herpesvirus 8 type P (isolate GK18) (HHV-8) (Kaposi's sarcoma-associated herpesvirus)",
+    "group": "Viral"
+  },
+  "O14318": {
+    "organism": "Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P04014": {
+    "organism": "Human papillomavirus 11",
+    "group": "Viral"
+  },
+  "P0C797": {
+    "organism": "Borna disease virus (strain V) (BDV)",
+    "group": "Viral"
+  },
+  "A0A0B4J1S3": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "E7ENS2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "A0A1W5HKL7": {
+    "organism": "Eriocheir sinensis (Chinese mitten crab)",
+    "group": "Invertebrate/Other"
+  },
+  "A0A1W5HLB9": {
+    "organism": "Eriocheir sinensis (Chinese mitten crab)",
+    "group": "Invertebrate/Other"
+  },
+  "B4XS02": {
+    "organism": "anatid alphaherpesvirus 1",
+    "group": "Viral"
+  },
+  "H0GLD8": {
+    "organism": "Saccharomyces cerevisiae x Saccharomyces kudriavzevii (strain VIN7) (Yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P12004": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P16383": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P19484": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P19532": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P21757": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P33981": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P35712": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P36406": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P37198": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P40222": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P42566": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P43487": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P52732": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P53567": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P56962": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P67936": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P12270": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P18846": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P20042": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P25963": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P35606": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P55197": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P55268": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P56696": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P78545": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q01850": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q04206": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q05397": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q05D60": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P13010": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P14635": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P35869": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P42345": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P46777": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P48436": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P49585": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P56524": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P80192": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q02880": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P41970": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q02779": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P30260": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P42224": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P82094": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P39880": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P40692": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P49321": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P56693": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q00722": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P14373": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P63010": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P15336": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P16220": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P29692": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P52655": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P38398": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P15923": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q00987": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P35658": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P55327": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q03060": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P15884": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "P29067": {
+    "organism": "Rattus norvegicus (Rat)",
+    "group": "Rodent"
+  },
+  "P40427": {
+    "organism": "Drosophila melanogaster (Fruit fly)",
+    "group": "Invertebrate/Other"
+  },
+  "P70661": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P38861": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P49138": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P30052": {
+    "organism": "Drosophila melanogaster (Fruit fly)",
+    "group": "Invertebrate/Other"
+  },
+  "P34078": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P40957": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P41136": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P47973": {
+    "organism": "Rattus norvegicus (Rat)",
+    "group": "Rodent"
+  },
+  "P60010": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P11484": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P38483": {
+    "organism": "Rattus norvegicus (Rat)",
+    "group": "Rodent"
+  },
+  "P20067": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P21952": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "P39940": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P41778": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q06219": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q01663": {
+    "organism": "Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "P36616": {
+    "organism": "Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "Q04360": {
+    "organism": "Epstein-Barr virus (strain B95-8) (HHV-4) (Human herpesvirus 4)",
+    "group": "Viral"
+  },
+  "Q05116": {
+    "organism": "Xenopus laevis (African clawed frog)",
+    "group": "Other vertebrate"
+  },
+  "P28348": {
+    "organism": "Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) (Aspergillus nidulans)",
+    "group": "Yeast/Fungi"
+  },
+  "P13350": {
+    "organism": "Xenopus laevis (African clawed frog)",
+    "group": "Other vertebrate"
+  },
+  "Q04584": {
+    "organism": "Gallus gallus (Chicken)",
+    "group": "Other vertebrate"
+  },
+  "P24097": {
+    "organism": "Bovine immunodeficiency virus (strain R29) (BIV) (Bovine immunodeficiency-like virus)",
+    "group": "Viral"
+  },
+  "P41152": {
+    "organism": "Solanum peruvianum (Peruvian tomato) (Lycopersicon peruvianum)",
+    "group": "Plant"
+  },
+  "P34694": {
+    "organism": "Anaxyrus americanus (American toad) (Bufo americanus)",
+    "group": "Other vertebrate"
+  },
+  "Q07065": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q0VAK6": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q13043": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q13263": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q13485": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q13751": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q13769": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q13976": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q14152": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q15276": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q155Q3": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q15643": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q16584": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q2M1P5": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q2TAC2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q2TAC6": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q5JRA6": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q5M9N0": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q5T0F9": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q5VU43": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q66GS9": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q68CZ6": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q6ICB0": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q6ZMJ2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q6ZMU5": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q6ZNE9": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q71F56": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q86UP2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q86VH2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q86VP1": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q86W92": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q86Y82": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q86YP4": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8IUM7": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q12840": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q12929": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q13137": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q13188": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q13201": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q14145": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q15797": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q5TAQ9": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q13568": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q14653": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q15631": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q16790": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q16828": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q5TCX8": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q5U5Q3": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q12852": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q13323": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q14872": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q17RY0": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q53EL6": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q86YC2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q13490": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q14164": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q6UUV9": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q13586": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q14667": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q15020": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q16181": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q16363": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q49A88": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q5T5P2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q6NZI2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q6ZMS7": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q76FK4": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q13492": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q13905": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q14141": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q13439": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q6GYQ0": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q70YC5": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q0D2I5": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q06787": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q60795": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q62074": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q12315": {
+    "organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "Q24167": {
+    "organism": "Drosophila melanogaster (Fruit fly)",
+    "group": "Invertebrate/Other"
+  },
+  "Q8CJH6": {
+    "organism": "Rattus norvegicus (Rat)",
+    "group": "Rodent"
+  },
+  "Q62165": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q8BMI0": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q7TN99": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q09728": {
+    "organism": "Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "Q0PF16": {
+    "organism": "Macaca mulatta (Rhesus macaque)",
+    "group": "Other vertebrate"
+  },
+  "Q07499": {
+    "organism": "Porcine epidemic diarrhea virus (strain CV777) (PEDV)",
+    "group": "Viral"
+  },
+  "Q6GNU1": {
+    "organism": "Xenopus laevis (African clawed frog)",
+    "group": "Other vertebrate"
+  },
+  "Q6GU23": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q498G1": {
+    "organism": "Xenopus laevis (African clawed frog)",
+    "group": "Other vertebrate"
+  },
+  "Q8IWA4": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8IY63": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8IY82": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8IYJ2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8IZC4": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8N668": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8N6L0": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8N6Y0": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8N9B5": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8NB16": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8TC44": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8TDR0": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8TDR4": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8TF30": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8WUQ7": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8WW24": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q92805": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q96BD8": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q96CN5": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q96CS2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q96CV9": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q96D96": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q96EK4": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q96GA3": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q96K21": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q96L93": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q96LX7": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q96NL6": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q96QF0": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q96R06": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q96SB3": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q99459": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q99689": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9BTA0": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9BTV5": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9BVS4": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9BW66": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9BWF2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9BXX0": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9BZF9": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9C0H9": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9H0H5": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9H2K8": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9HAW4": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9HC35": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9NQY0": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9NS87": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9NX55": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9NZ56": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9P0K7": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8NFU5": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q969G5": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q99653": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9HC62": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9GZV5": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9HBL8": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8IXJ6": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8NHW3": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8TBZ3": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q96IZ0": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q96T21": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9BRK4": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9GZX7": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8TAK6": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q99741": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9NYL2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8NDV3": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8WXA3": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q92752": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9BXL6": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9GZY8": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9H6R4": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9NVA2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9BXM7": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9BY84": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9HAP2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q99612": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9NZQ3": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8IWZ3": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9BZZ5": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9HCN4": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q96KN7": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9BWP8": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q8IVL1": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9JJG9": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q9DE33": {
+    "organism": "Xenopus laevis (African clawed frog)",
+    "group": "Other vertebrate"
+  },
+  "Q95168": {
+    "organism": "Canis lupus familiaris (Dog) (Canis familiaris)",
+    "group": "Other vertebrate"
+  },
+  "Q9NZT2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q91855": {
+    "organism": "Xenopus laevis (African clawed frog)",
+    "group": "Other vertebrate"
+  },
+  "Q99AM3": {
+    "organism": "Human herpesvirus 8 (HHV-8) (Kaposi's sarcoma-associated herpesvirus)",
+    "group": "Viral"
+  },
+  "Q9UBW8": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9UDT6": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9UFD9": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9UIF8": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9UKU9": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9ULL8": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9UPR3": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9UPS8": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9Y216": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9Y2M0": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9Y2W2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9Y496": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9Y592": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9Y5C1": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9Y692": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9Y6C2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9Y6D9": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9UDY2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9Y3M2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9UQL6": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9P2M7": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9UKX2": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9UM21": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9Y4I1": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9Y572": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9Y3I1": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9ULJ8": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9Y4J8": {
+    "organism": "Homo sapiens (Human)",
+    "group": "Human"
+  },
+  "Q9Z0Z7": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q9R1A8": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q9Z207": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q9Z1Y4": {
+    "organism": "Mus musculus (Mouse)",
+    "group": "Rodent"
+  },
+  "Q9URY2": {
+    "organism": "Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast)",
+    "group": "Yeast/Fungi"
+  },
+  "Q9W639": {
+    "organism": "Xenopus laevis (African clawed frog)",
+    "group": "Other vertebrate"
+  }
+}

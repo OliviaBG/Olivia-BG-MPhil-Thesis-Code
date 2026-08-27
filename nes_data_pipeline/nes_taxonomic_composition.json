@@ -1,0 +1,40 @@
+{
+  "target": "nes",
+  "n_total": 1194,
+  "chosen_classifier": "extra_trees",
+  "cv_folds": 5,
+  "composition": {
+    "Human": {
+      "n": 709,
+      "fraction": 0.5938023450586265
+    },
+    "Other vertebrate": {
+      "n": 58,
+      "fraction": 0.048576214405360134
+    },
+    "Rodent": {
+      "n": 98,
+      "fraction": 0.08207705192629816
+    },
+    "Yeast/Fungi": {
+      "n": 67,
+      "fraction": 0.05611390284757119
+    },
+    "Viral": {
+      "n": 144,
+      "fraction": 0.12060301507537688
+    },
+    "Plant": {
+      "n": 20,
+      "fraction": 0.01675041876046901
+    },
+    "Invertebrate/Other": {
+      "n": 50,
+      "fraction": 0.04187604690117253
+    },
+    "Synthetic (fabricated)": {
+      "n": 48,
+      "fraction": 0.04020100502512563
+    }
+  }
+}
